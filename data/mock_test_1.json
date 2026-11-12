@@ -1,0 +1,2228 @@
+{
+  "testId": "tsplrb-si-mock-01",
+  "title": "TSPLRB SI Prelims Daily Mock Test - Day 1",
+  "exam": "Telangana State Police Sub-Inspector (SI) Preliminary Written Test",
+  "paper": "Paper I: Arithmetic and Test of Reasoning / Mental Ability",
+  "totalQuestions": 100,
+  "durationMinutes": 180,
+  "marksPerQuestion": 1.0,
+  "negativeMarking": 0.2,
+  "sections": [
+    {
+      "id": "arithmetic",
+      "name": "Arithmetic",
+      "start": 1,
+      "end": 50,
+      "count": 50
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning & Mental Ability",
+      "start": 51,
+      "end": 100,
+      "count": 50
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "section": "Arithmetic",
+      "topic": "Number System - Divisibility",
+      "question_en": "What least number must be added to 3,540 to make it exactly divisible by 23?",
+      "question_te": "3,540 సంఖ్యకి ఏ కనిష్ట సంఖ్యను కలిపినచో వచ్చు సంఖ్య 23 చేత నిశ్శేషముగా భాగించబడును?",
+      "options_en": [
+        "2",
+        "5",
+        "19",
+        "21"
+      ],
+      "options_te": [
+        "2",
+        "5",
+        "19",
+        "21"
+      ],
+      "correct_option": 0,
+      "explanation_en": "When 3540 is divided by 23: 3540 = 23 * 153 + 21. Remainder is 21. To make it divisible, we must add (23 - 21) = 2.",
+      "explanation_te": "3540 ని 23 చే భాగిస్తే: 3540 = 23 * 153 + 21. శేషం 21 వస్తుంది. నిశ్శేషంగా భాగించబడటానికి కలపవలసిన సంఖ్య = 23 - 21 = 2."
+    },
+    {
+      "id": 2,
+      "section": "Arithmetic",
+      "topic": "Number System - Unit Digit",
+      "question_en": "Find the unit digit in the expression (7^95 - 3^58).",
+      "question_te": "(7^95 - 3^58) యొక్క సమాసంలో ఒకట్ల స్థానంలోని అంకె ఎంత?",
+      "options_en": [
+        "0",
+        "4",
+        "6",
+        "7"
+      ],
+      "options_te": [
+        "0",
+        "4",
+        "6",
+        "7"
+      ],
+      "correct_option": 1,
+      "explanation_en": "7 cyclicity is 4. 95 mod 4 = 3, so unit digit of 7^95 is 7^3 = 343 -> 3. 3 cyclicity is 4. 58 mod 4 = 2, so unit digit of 3^58 is 3^2 = 9. Since 3 < 9, borrow 10: 13 - 9 = 4.",
+      "explanation_te": "7 యొక్క ఘాతాల చక్రీయత 4. 95 mod 4 = 3, కాబట్టి 7^95 ఒకట్ల అంకె 3. 3 యొక్క ఘాతాల చక్రీయత 4. 58 mod 4 = 2, కాబట్టి 3^58 ఒకట్ల అంకె 9. 13 - 9 = 4."
+    },
+    {
+      "id": 3,
+      "section": "Arithmetic",
+      "topic": "LCM & HCF - Bells Problem",
+      "question_en": "Five bells begin to toll together and toll at intervals of 4, 6, 8, 10 and 12 seconds respectively. In one hour, how many times will they toll together excluding the one at the start?",
+      "question_te": "5 గంటలు ఒకేసారి మ్రోగడం మొదలుపెట్టాయి. ఈ గంటలు వరుసగా 4, 6, 8, 10 మరియు 12 సెకన్ల కొకసారి మ్రోగును. మొదటిసారి మ్రోగినది లెక్కపెట్టకుండా ఉంటే, 1 గంట సమయంలో అవి అన్నీ ఎన్నిసార్లు కలిసి మ్రోగును?",
+      "options_en": [
+        "24",
+        "30",
+        "31",
+        "60"
+      ],
+      "options_te": [
+        "24",
+        "30",
+        "31",
+        "60"
+      ],
+      "correct_option": 1,
+      "explanation_en": "LCM(4, 6, 8, 10, 12) = 120 seconds = 2 minutes. In 1 hour (60 minutes), excluding the start toll, they toll together 60 / 2 = 30 times.",
+      "explanation_te": "4, 6, 8, 10, 12 ల క.సా.గు = 120 సెకన్లు = 2 నిమిషాలు. 1 గంట (60 నిమిషాలు) లో మొదటిసారి తప్ప కలిసి మ్రోగే సార్లు = 60 / 2 = 30 సార్లు."
+    },
+    {
+      "id": 4,
+      "section": "Arithmetic",
+      "topic": "LCM & HCF - Remainder",
+      "question_en": "Find the least number which when divided by 12, 16, 18, 21 and 28 leaves a remainder of 7 in each case.",
+      "question_te": "12, 16, 18, 21 మరియు 28 లచే భాగించినపుడు ప్రతి సందర్భంలోనూ 7 శేషం ఇచ్చే అతి చిన్న సంఖ్య ఏది?",
+      "options_en": [
+        "1008",
+        "1015",
+        "1022",
+        "1035"
+      ],
+      "options_te": [
+        "1008",
+        "1015",
+        "1022",
+        "1035"
+      ],
+      "correct_option": 1,
+      "explanation_en": "LCM(12, 16, 18, 21, 28) = 1008. Required number = LCM + Remainder = 1008 + 7 = 1015.",
+      "explanation_te": "12, 16, 18, 21, 28 ల క.సా.గు = 1008. కావలసిన సంఖ్య = 1008 + 7 = 1015."
+    },
+    {
+      "id": 5,
+      "section": "Arithmetic",
+      "topic": "Decimals - Recurring Decimals",
+      "question_en": "The value of 0.333... + 0.666... + 0.777... + 0.888... is:",
+      "question_te": "0.333... + 0.666... + 0.777... + 0.888... యొక్క విలువ ఎంత?",
+      "options_en": [
+        "2 1/3",
+        "2 2/3",
+        "2 4/9",
+        "3 1/9"
+      ],
+      "options_te": [
+        "2 1/3",
+        "2 2/3",
+        "2 4/9",
+        "3 1/9"
+      ],
+      "correct_option": 1,
+      "explanation_en": "0.333... = 3/9, 0.666... = 6/9, 0.777... = 7/9, 0.888... = 8/9. Sum = (3+6+7+8)/9 = 24/9 = 8/3 = 2 2/3.",
+      "explanation_te": "3/9 + 6/9 + 7/9 + 8/9 = 24/9 = 8/3 = 2 2/3."
+    },
+    {
+      "id": 6,
+      "section": "Arithmetic",
+      "topic": "Surds & Indices",
+      "question_en": "If 2^(x-1) + 2^(x+1) = 1280, then the value of x is:",
+      "question_te": "2^(x-1) + 2^(x+1) = 1280 అయితే, x విలువ ఎంత?",
+      "options_en": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "options_te": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct_option": 2,
+      "explanation_en": "2^(x-1) * (1 + 2^2) = 1280 => 2^(x-1) * 5 = 1280 => 2^(x-1) = 256 = 2^8 => x - 1 = 8 => x = 9.",
+      "explanation_te": "2^(x-1) * (1 + 4) = 1280 => 2^(x-1) * 5 = 1280 => 2^(x-1) = 256 = 2^8 => x - 1 = 8 => x = 9."
+    },
+    {
+      "id": 7,
+      "section": "Arithmetic",
+      "topic": "Percentages - Population Growth",
+      "question_en": "The population of a town is 1,76,400. If it increases annually at the rate of 5% per annum, what will be its population after 2 years?",
+      "question_te": "ఒక పట్టణ జనాభా 1,76,400. అది ఏటా 5% చొప్పున పెరిగితే, 2 సంవత్సరాల తర్వాత ఆ పట్టణ జనాభా ఎంత అవుతుంది?",
+      "options_en": [
+        "1,94,481",
+        "1,92,400",
+        "1,95,620",
+        "1,89,200"
+      ],
+      "options_te": [
+        "1,94,481",
+        "1,92,400",
+        "1,95,620",
+        "1,89,200"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Population after 2 years = 176400 * (1 + 5/100)^2 = 176400 * (21/20) * (21/20) = 441 * 441 = 1,94,481.",
+      "explanation_te": "2 సంవత్సరాల తర్వాత జనాభా = 176400 * (21/20) * (21/20) = 441 * 441 = 1,94,481."
+    },
+    {
+      "id": 8,
+      "section": "Arithmetic",
+      "topic": "Percentages - Exam Marks",
+      "question_en": "A candidate who gets 20% marks in an examination fails by 30 marks, but another candidate who gets 32% gets 42 marks more than the passing marks. The pass percentage is:",
+      "question_te": "ఒక పరీక్షలో 20% మార్కులు పొందిన అభ్యర్థి 30 మార్కులతో ఫెయిల్ అయ్యాడు. మరొక అభ్యర్థి 32% మార్కులు పొంది ఉత్తీర్ణత మార్కుల కంటే 42 మార్కులు ఎక్కువ పొందాడు. ఆ పరీక్ష ఉత్తీర్ణత శాతం ఎంత?",
+      "options_en": [
+        "25%",
+        "28%",
+        "30%",
+        "33%"
+      ],
+      "options_te": [
+        "25%",
+        "28%",
+        "30%",
+        "33%"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Difference in % = 32% - 20% = 12%. Difference in marks = 42 - (-30) = 72 marks. Total marks = 72 / 0.12 = 600. Passing marks = 20% of 600 + 30 = 120 + 30 = 150. Pass % = (150/600)*100 = 25%.",
+      "explanation_te": "శాతాల భేదం = 12% = 72 మార్కులు. మొత్తం మార్కులు = 600. ఉత్తీర్ణత మార్కులు = 120 + 30 = 150. ఉత్తీర్ణత శాతం = (150/600)*100 = 25%."
+    },
+    {
+      "id": 9,
+      "section": "Arithmetic",
+      "topic": "Profit & Loss - Basic",
+      "question_en": "A man buys a bicycle for ₹1,400 and sells it at a loss of 15%. What is the selling price of the bicycle?",
+      "question_te": "ఒక వ్యక్తి సైకిల్‌ను ₹1,400కి కొని, 15% నష్టానికి అమ్మాడు. ఆ సైకిల్ అమ్మకపు ధర ఎంత?",
+      "options_en": [
+        "₹1,160",
+        "₹1,190",
+        "₹1,200",
+        "₹1,220"
+      ],
+      "options_te": [
+        "₹1,160",
+        "₹1,190",
+        "₹1,200",
+        "₹1,220"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Selling Price = Cost Price * (100 - Loss%) / 100 = 1400 * 85 / 100 = ₹1,190.",
+      "explanation_te": "అమ్మకపు ధర = 1400 * 85 / 100 = ₹1,190."
+    },
+    {
+      "id": 10,
+      "section": "Arithmetic",
+      "topic": "Profit & Loss - Dishonest Dealer",
+      "question_en": "A dishonest shopkeeper sells his goods at cost price but uses a false weight of 900 grams for a kg weight. His gain percentage is:",
+      "question_te": "ఒక మోసపూరిత వ్యాపారి తన వస్తువులను కొన్న ధరకే విక్రయిస్తున్నట్లు నటిస్తూ, 1 కిలోగ్రాముకు బదులుగా 900 గ్రాముల తూకాన్ని ఉపయోగిస్తున్నాడు. అతనికి లభించే లాభ శాతం ఎంత?",
+      "options_en": [
+        "10%",
+        "11 1/9%",
+        "12 1/2%",
+        "9%"
+      ],
+      "options_te": [
+        "10%",
+        "11 1/9%",
+        "12 1/2%",
+        "9%"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Gain % = [Error / (True Value - Error)] * 100 = [100 / 900] * 100 = 100/9% = 11 1/9%.",
+      "explanation_te": "లాభ శాతం = [100 / 900] * 100 = 11 1/9%."
+    },
+    {
+      "id": 11,
+      "section": "Arithmetic",
+      "topic": "Profit & Loss - Equal SP",
+      "question_en": "A merchant sells two articles for ₹990 each. On one he gains 10% and on the other he loses 10%. In the total transaction, the result is:",
+      "question_te": "ఒక వ్యాపారి రెండు వస్తువులను ఒక్కొక్కటి ₹990 చొప్పున అమ్మాడు. ఒకదానిపై 10% లాభం, మరొకదానిపై 10% నష్టం వచ్చింది. ఈ మొత్తం లావాదేవీలో అతనికి వచ్చే ఫలితం:",
+      "options_en": [
+        "1% profit",
+        "1% loss",
+        "No profit no loss",
+        "2% loss"
+      ],
+      "options_te": [
+        "1% లాభం",
+        "1% నష్టం",
+        "లాభమూ లేదు నష్టమూ లేదు",
+        "2% నష్టం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "When two items are sold at the same price, one at x% gain and other at x% loss, overall is always a loss of (x/10)^2% = (10/10)^2% = 1% loss.",
+      "explanation_te": "ఒకే అమ్మకపు ధర వద్ద x% లాభం మరియు x% నష్టం వచ్చినప్పుడు ఎల్లప్పుడూ (x/10)^2% నష్టం వస్తుంది = (10/10)^2% = 1% నష్టం."
+    },
+    {
+      "id": 12,
+      "section": "Arithmetic",
+      "topic": "Profit & Loss - Successive Discounts",
+      "question_en": "A shopkeeper offers two successive discounts of 20% and 10% on an article marked at ₹5,000. The selling price is:",
+      "question_te": "ఒక దుకాణదారుడు ₹5,000 ప్రకటిత వెల గల వస్తువుపై వరుసగా 20% మరియు 10% రాయితీలు ఇచ్చాడు. ఆ వస్తువు అమ్మకపు ధర ఎంత?",
+      "options_en": [
+        "₹3,500",
+        "₹3,600",
+        "₹3,750",
+        "₹3,800"
+      ],
+      "options_te": [
+        "₹3,500",
+        "₹3,600",
+        "₹3,750",
+        "₹3,800"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Selling Price = 5000 * (1 - 0.20) * (1 - 0.10) = 5000 * 0.80 * 0.90 = ₹3,600.",
+      "explanation_te": "అమ్మకపు ధర = 5000 * 0.80 * 0.90 = ₹3,600."
+    },
+    {
+      "id": 13,
+      "section": "Arithmetic",
+      "topic": "Simple Interest - Doubling Sum",
+      "question_en": "A sum of money at simple interest doubles itself in 8 years. In how many years will it become 4 times itself at the same rate?",
+      "question_te": "కొంత సొమ్ము సాధారణ వడ్డీతో 8 సంవత్సరాలలో రెట్టింపు అవుతుంది. అదే వడ్డీ రేటుతో అది 4 రెట్లు అవ్వడానికి ఎన్ని సంవత్సరాలు పడుతుంది?",
+      "options_en": [
+        "16 years",
+        "20 years",
+        "24 years",
+        "32 years"
+      ],
+      "options_te": [
+        "16 సంవత్సరాలు",
+        "20 సంవత్సరాలు",
+        "24 సంవత్సరాలు",
+        "32 సంవత్సరాలు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "T2 / T1 = (N2 - 1) / (N1 - 1) => T2 / 8 = (4 - 1) / (2 - 1) = 3 => T2 = 8 * 3 = 24 years.",
+      "explanation_te": "T2 / T1 = (N2 - 1) / (N1 - 1) => T2 / 8 = (4 - 1) / (2 - 1) = 3 => T2 = 24 సంవత్సరాలు."
+    },
+    {
+      "id": 14,
+      "section": "Arithmetic",
+      "topic": "Simple Interest - Change in Rate",
+      "question_en": "A sum was put at simple interest at a certain rate for 3 years. Had it been put at 2% higher rate, it would have fetched ₹360 more. The sum is:",
+      "question_te": "కొంత సొమ్ము 3 సంవత్సరాలకు నిర్దిష్ట సాధారణ వడ్డీ రేటుతో పెట్టుబడి పెట్టబడింది. వడ్డీ రేటు 2% ఎక్కువగా ఉంటే, ₹360 అధికంగా వడ్డీ వచ్చేది. ఆ అసలు ఎంత?",
+      "options_en": [
+        "₹5,000",
+        "₹6,000",
+        "₹7,200",
+        "₹8,000"
+      ],
+      "options_te": [
+        "₹5,000",
+        "₹6,000",
+        "₹7,200",
+        "₹8,000"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Extra interest = P * R_diff * T / 100 => 360 = P * 2 * 3 / 100 => 360 = P * 6 / 100 => P = ₹6,000.",
+      "explanation_te": "అదనపు వడ్డీ = P * 2 * 3 / 100 => 360 = P * 6 / 100 => P = ₹6,000."
+    },
+    {
+      "id": 15,
+      "section": "Arithmetic",
+      "topic": "Compound Interest - Difference CI & SI",
+      "question_en": "The difference between compound interest and simple interest on a certain sum of money for 2 years at 8% per annum is ₹128. Find the sum.",
+      "question_te": "కొంత సొమ్ముపై సాలుకు 8% చొప్పున 2 సంవత్సరాలకు చక్రవడ్డీ మరియు సాధారణ వడ్డీల మధ్య భేదం ₹128. ఆ అసలు ఎంత?",
+      "options_en": [
+        "₹16,000",
+        "₹18,000",
+        "₹20,000",
+        "₹25,000"
+      ],
+      "options_te": [
+        "₹16,000",
+        "₹18,000",
+        "₹20,000",
+        "₹25,000"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Difference for 2 years = P * (R/100)^2 => 128 = P * (8/100)^2 = P * (64/10000) => P = 128 * 10000 / 64 = ₹20,000.",
+      "explanation_te": "2 సంవత్సరాలకు భేదం = P * (R/100)^2 => 128 = P * 64 / 10000 => P = ₹20,000."
+    },
+    {
+      "id": 16,
+      "section": "Arithmetic",
+      "topic": "Compound Interest - Calculation",
+      "question_en": "What will be the compound interest on a sum of ₹25,000 after 3 years at the rate of 12% per annum?",
+      "question_te": "₹25,000 అసలుపై సాలుకు 12% చక్రవడ్డీ రేటుతో 3 సంవత్సరాల తర్వాత వచ్చే చక్రవడ్డీ ఎంత?",
+      "options_en": [
+        "₹10,123.20",
+        "₹9,850.00",
+        "₹10,500.50",
+        "₹11,200.00"
+      ],
+      "options_te": [
+        "₹10,123.20",
+        "₹9,850.00",
+        "₹10,500.50",
+        "₹11,200.00"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Amount = 25000 * (1 + 12/100)^3 = 25000 * (1.12)^3 = 25000 * 1.404928 = ₹35,123.20. CI = 35123.20 - 25000 = ₹10,123.20.",
+      "explanation_te": "మొత్తం = 25000 * (1.12)^3 = ₹35,123.20. చక్రవడ్డీ = 35123.20 - 25000 = ₹10,123.20."
+    },
+    {
+      "id": 17,
+      "section": "Arithmetic",
+      "topic": "Ratio & Proportion - Distribution",
+      "question_en": "An amount of ₹7,800 is divided among A, B, and C in the ratio 1/2 : 1/3 : 1/4. What is the share of B?",
+      "question_te": "₹7,800 మొత్తాన్ని A, B మరియు C లకు 1/2 : 1/3 : 1/4 నిష్పత్తిలో పంచారు. B యొక్క వాటా ఎంత?",
+      "options_en": [
+        "₹3,600",
+        "₹2,400",
+        "₹1,800",
+        "₹2,000"
+      ],
+      "options_te": [
+        "₹3,600",
+        "₹2,400",
+        "₹1,800",
+        "₹2,000"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Multiplying by LCM(2,3,4) = 12 gives ratio 6 : 4 : 3. Total parts = 13. B's share = (4/13) * 7800 = ₹2,400.",
+      "explanation_te": "క.సా.గు 12 చే గుణించగా నిష్పత్తి 6 : 4 : 3 అవుతుంది. మొత్తం భాగాలు = 13. B వాటా = (4/13) * 7800 = ₹2,400."
+    },
+    {
+      "id": 18,
+      "section": "Arithmetic",
+      "topic": "Ratio & Proportion - Coins",
+      "question_en": "A bag contains ₹1, 50 paise and 25 paise coins in the ratio 5 : 6 : 8. If the total value of all coins is ₹240, find the number of 50 paise coins.",
+      "question_te": "ఒక సంచిలో ₹1, 50 పైసలు మరియు 25 పైసల నాణేలు 5 : 6 : 8 నిష్పత్తిలో ఉన్నాయి. సంచిలోని మొత్తం విలువ ₹240 అయితే, 50 పైసల నాణేల సంఖ్య ఎంత?",
+      "options_en": [
+        "120",
+        "144",
+        "160",
+        "192"
+      ],
+      "options_te": [
+        "120",
+        "144",
+        "160",
+        "192"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Value = 5x*1 + 6x*0.50 + 8x*0.25 = 5x + 3x + 2x = 10x = 240 => x = 24. Number of 50p coins = 6 * 24 = 144.",
+      "explanation_te": "విలువ = 5x(1) + 6x(0.5) + 8x(0.25) = 10x = 240 => x = 24. 50 పైసల నాణేల సంఖ్య = 6 * 24 = 144."
+    },
+    {
+      "id": 19,
+      "section": "Arithmetic",
+      "topic": "Partnership - Ratio of Profits",
+      "question_en": "A, B and C started a business. A invested ₹20,000 for 12 months, B invested ₹30,000 for 8 months, and C invested ₹40,000 for 6 months. Out of a total profit of ₹72,000, A's share is:",
+      "question_te": "A, B మరియు C లు ఒక వ్యాపారాన్ని ప్రారంభించారు. A ₹20,000లను 12 నెలలు, B ₹30,000లను 8 నెలలు, C ₹40,000లను 6 నెలలు పెట్టుబడిగా పెట్టారు. మొత్తం లాభం ₹72,000లలో A వాటా ఎంత?",
+      "options_en": [
+        "₹24,000",
+        "₹20,000",
+        "₹28,000",
+        "₹18,000"
+      ],
+      "options_te": [
+        "₹24,000",
+        "₹20,000",
+        "₹28,000",
+        "₹18,000"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ratio of profit = (20000*12) : (30000*8) : (40000*6) = 240000 : 240000 : 240000 = 1 : 1 : 1. A's share = 72000 / 3 = ₹24,000.",
+      "explanation_te": "లాభాల నిష్పత్తి = 240000 : 240000 : 240000 = 1 : 1 : 1. A వాటా = 72000 / 3 = ₹24,000."
+    },
+    {
+      "id": 20,
+      "section": "Arithmetic",
+      "topic": "Partnership - Active Partner",
+      "question_en": "A and B invest ₹50,000 and ₹40,000 respectively in a business. A receives 10% of the total profit for managing the business and the balance is divided in the ratio of their investments. If the total profit is ₹30,000, how much does A receive in total?",
+      "question_te": "A మరియు B లు ఒక వ్యాపారంలో వరుసగా ₹50,000 మరియు ₹40,000 పెట్టుబడి పెట్టారు. వ్యాపార నిర్వహణకు గానూ A మొత్తం లాభంలో 10% తీసుకుంటాడు, మిగిలిన లాభాన్ని వారి పెట్టుబడుల నిష్పత్తిలో పంచుకుంటారు. మొత్తం లాభం ₹30,000 అయితే, A పొందే మొత్తం ఎంత?",
+      "options_en": [
+        "₹15,000",
+        "₹17,000",
+        "₹18,000",
+        "₹20,000"
+      ],
+      "options_te": [
+        "₹15,000",
+        "₹17,000",
+        "₹18,000",
+        "₹20,000"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Management fee for A = 10% of 30,000 = ₹3,000. Balance profit = ₹27,000. Ratio = 5 : 4. A's profit share = (5/9) * 27000 = ₹15,000. Total for A = 3000 + 15000 = ₹18,000.",
+      "explanation_te": "A నిర్వహణ రుసుము = ₹3,000. మిగిలిన లాభం = ₹27,000. నిష్పత్తి 5 : 4. A లాభం వాటా = (5/9)*27000 = ₹15,000. A పొందే మొత్తం = ₹18,000."
+    },
+    {
+      "id": 21,
+      "section": "Arithmetic",
+      "topic": "Averages - Replacement",
+      "question_en": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What is the weight of the new person?",
+      "question_te": "65 కి.గ్రా. బరువు గల ఒక వ్యక్తి స్థానంలో కొత్త వ్యక్తి చేరడం వల్ల 8 మంది వ్యక్తుల సగటు బరువు 2.5 కి.గ్రా. పెరిగింది. ఆ కొత్త వ్యక్తి బరువు ఎంత?",
+      "options_en": [
+        "75 kg",
+        "80 kg",
+        "85 kg",
+        "90 kg"
+      ],
+      "options_te": [
+        "75 కి.గ్రా.",
+        "80 కి.గ్రా.",
+        "85 కి.గ్రా.",
+        "90 కి.గ్రా."
+      ],
+      "correct_option": 2,
+      "explanation_en": "Total increase in weight = 8 * 2.5 = 20 kg. Weight of the new person = 65 + 20 = 85 kg.",
+      "explanation_te": "మొత్తం బరువు పెరుగుదల = 8 * 2.5 = 20 కి.గ్రా. కొత్త వ్యక్తి బరువు = 65 + 20 = 85 కి.గ్రా."
+    },
+    {
+      "id": 22,
+      "section": "Arithmetic",
+      "topic": "Averages - Batsman Average",
+      "question_en": "A batsman in his 17th innings makes a score of 85 runs, and thereby increases his average by 3 runs. What is his average after 17 innings?",
+      "question_te": "ఒక బ్యాట్స్‌మ్యాన్ తన 17వ ఇన్నింగ్స్‌లో 85 పరుగులు చేయడం ద్వారా తన సరాసరిని 3 పరుగులు పెంచుకున్నాడు. 17 ఇన్నింగ్స్‌ల తర్వాత అతని సరాసరి ఎంత?",
+      "options_en": [
+        "34",
+        "37",
+        "38",
+        "40"
+      ],
+      "options_te": [
+        "34",
+        "37",
+        "38",
+        "40"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Let old average be A. 16A + 85 = 17(A + 3) => 16A + 85 = 17A + 51 => A = 34. New average = 34 + 3 = 37.",
+      "explanation_te": "పాత సరాసరి A అనుకుంటే: 16A + 85 = 17(A + 3) => A = 34. కొత్త సరాసరి = 34 + 3 = 37."
+    },
+    {
+      "id": 23,
+      "section": "Arithmetic",
+      "topic": "Time & Work - Leaving Early",
+      "question_en": "A can complete a work in 12 days and B in 15 days. They worked together for 3 days and then A left. In how many days can B finish the remaining work?",
+      "question_te": "A ఒక పనిని 12 రోజుల్లో, B అదే పనిని 15 రోజుల్లో చేయగలరు. వారిద్దరూ కలిసి 3 రోజులు పని చేసిన తర్వాత A వెళ్లిపోయాడు. మిగిలిన పనిని B ఎన్ని రోజుల్లో పూర్తి చేయగలడు?",
+      "options_en": [
+        "8 days",
+        "8 1/4 days",
+        "9 days",
+        "7 1/2 days"
+      ],
+      "options_te": [
+        "8 రోజులు",
+        "8 1/4 రోజులు",
+        "9 రోజులు",
+        "7 1/2 రోజులు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total work = LCM(12, 15) = 60 units. A's rate = 5 units/day, B's rate = 4 units/day. In 3 days together = 3 * (5 + 4) = 27 units. Remaining work = 60 - 27 = 33 units. B finishes in 33 / 4 = 8 1/4 days.",
+      "explanation_te": "మొత్తం పని = 60 యూనిట్లు. A = 5, B = 4. 3 రోజుల్లో ఇద్దరూ చేసిన పని = 27 యూనిట్లు. మిగిలిన పని = 33 యూనిట్లు. B పూర్తి చేయడానికి పట్టే సమయం = 33 / 4 = 8 1/4 రోజులు."
+    },
+    {
+      "id": 24,
+      "section": "Arithmetic",
+      "topic": "Time & Work - Efficiency Ratio",
+      "question_en": "A is twice as efficient as B and together they can finish a work in 18 days. In how many days can A alone finish the work?",
+      "question_te": "B కన్నా A రెట్టింపు సామర్థ్యంతో పని చేయగలడు మరియు వీరిద్దరూ కలిసి ఒక పనిని 18 రోజులలో పూర్తి చేయగలరు. A ఒక్కడే ఈ పనిని పూర్తి చేయగల సమయం ఎంత?",
+      "options_en": [
+        "27 days",
+        "36 days",
+        "45 days",
+        "54 days"
+      ],
+      "options_te": [
+        "27 రోజులు",
+        "36 రోజులు",
+        "45 రోజులు",
+        "54 రోజులు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ratio of efficiencies A : B = 2 : 1. Combined rate = 3 units/day. Total work = 18 * 3 = 54 units. Time taken by A alone = 54 / 2 = 27 days.",
+      "explanation_te": "A మరియు B ల సామర్థ్య నిష్పత్తి = 2 : 1. మొత్తం పని = 18 * 3 = 54 యూనిట్లు. A ఒక్కడే పూర్తి చేయడానికి పట్టే సమయం = 54 / 2 = 27 రోజులు."
+    },
+    {
+      "id": 25,
+      "section": "Arithmetic",
+      "topic": "Work & Wages",
+      "question_en": "A and B undertake to do a piece of work for ₹4,800. A alone can do it in 6 days and B alone in 8 days. With the help of C, they finish it in 3 days. What is the share of C?",
+      "question_te": "A మరియు B లు ఒక పనిని ₹4,800 లకు చేయడానికి ఒప్పందం కుదుర్చుకున్నారు. A ఒక్కడే 6 రోజుల్లో, B ఒక్కడే 8 రోజుల్లో చేయగలరు. C సహాయంతో వారు ఆ పనిని 3 రోజుల్లో పూర్తి చేశారు. ఆ సొమ్ములో C వాటా ఎంత?",
+      "options_en": [
+        "₹500",
+        "₹600",
+        "₹750",
+        "₹800"
+      ],
+      "options_te": [
+        "₹500",
+        "₹600",
+        "₹750",
+        "₹800"
+      ],
+      "correct_option": 1,
+      "explanation_en": "In 3 days: A does 3/6 = 1/2 of work. B does 3/8 of work. C does 1 - (1/2 + 3/8) = 1/8 of work. C's share = 1/8 * 4800 = ₹600.",
+      "explanation_te": "3 రోజుల్లో A చేసిన పని = 1/2, B చేసిన పని = 3/8. C చేసిన పని = 1/8. C వాటా = 1/8 * 4800 = ₹600."
+    },
+    {
+      "id": 26,
+      "section": "Arithmetic",
+      "topic": "Pipes & Cisterns - Alternate Hours",
+      "question_en": "Pipe A can fill a tank in 6 hours and Pipe B can fill it in 8 hours. If they are opened alternately for 1 hour each, starting with Pipe A, how long will it take to fill the tank?",
+      "question_te": "A అనే పైపు తొట్టిని 6 గంటల్లో, B అనే పైపు 8 గంటల్లో నింపగలవు. A పైపుతో ప్రారంభించి, ఒక్కొక్క గంట విడివిడిగా మార్చి తెరిస్తే, ఆ తొట్టి నిండటానికి ఎంత సమయం పడుతుంది?",
+      "options_en": [
+        "6 hrs 30 min",
+        "6 hrs 45 min",
+        "7 hrs",
+        "7 hrs 15 min"
+      ],
+      "options_te": [
+        "6 గం|| 30 ని||",
+        "6 గం|| 45 ని||",
+        "7 గంటలు",
+        "7 గం|| 15 ని||"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Capacity = 24 units. In 2 hours (A+B) = 4 + 3 = 7 units. In 6 hours = 21 units. Remaining = 3 units. Pipe A takes 3/4 hr (45 min) to fill remaining 3 units. Total time = 6 hours 45 minutes.",
+      "explanation_te": "మొత్తం సామర్థ్యం = 24 యూనిట్లు. 2 గంటల్లో 7 యూనిట్లు, 6 గంటల్లో 21 యూనిట్లు. మిగిలిన 3 యూనిట్లను A నింపడానికి 3/4 గంట (45 నిమిషాలు) పడుతుంది. మొత్తం సమయం = 6 గంటల 45 నిమిషాలు."
+    },
+    {
+      "id": 27,
+      "section": "Arithmetic",
+      "topic": "Pipes & Cisterns - Leak in Bottom",
+      "question_en": "A pump can fill a tank with water in 2 hours. Because of a leak, it took 2 1/3 hours to fill the tank. The leak can drain all the water of the full tank in:",
+      "question_te": "ఒక పంపు తొట్టిని 2 గంటల్లో నీటితో నింపగలదు. తొట్టి అడుగున రంధ్రం ఉండటం వల్ల, అది నిండటానికి 2 1/3 గంటలు పట్టింది. నిండిన తొట్టిలోని నీరంతటినీ ఆ రంధ్రం ఎంత సమయంలో ఖాళీ చేయగలదు?",
+      "options_en": [
+        "12 hours",
+        "14 hours",
+        "16 hours",
+        "18 hours"
+      ],
+      "options_te": [
+        "12 గంటలు",
+        "14 గంటలు",
+        "16 గంటలు",
+        "18 గంటలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Pump rate = 1/2. Net rate = 1 / (7/3) = 3/7. Leak rate = 1/2 - 3/7 = (7 - 6)/14 = 1/14. Leak will empty tank in 14 hours.",
+      "explanation_te": "పంపు రేటు = 1/2. నికర రేటు = 3/7. లీకేజీ రేటు = 1/2 - 3/7 = 1/14. ఖాళీ చేయడానికి పట్టే కాలం = 14 గంటలు."
+    },
+    {
+      "id": 28,
+      "section": "Arithmetic",
+      "topic": "Time, Speed & Distance - Late/Early",
+      "question_en": "If a student walks from his house to school at 5 km/hr, he is late by 10 minutes. However, if he walks at 6 km/hr, he is late by only 2 minutes. The distance from his house to school is:",
+      "question_te": "ఒక విద్యార్థి తన ఇంటి నుండి పాఠశాలకు గంటకు 5 కి.మీ. వేగంతో నడిస్తే 10 నిమిషాలు ఆలస్యంగా చేరుకుంటాడు. అదే గంటకు 6 కి.మీ. వేగంతో నడిస్తే 2 నిమిషాలు మాత్రమే ఆలస్యమవుతుంది. అతని ఇంటి నుండి పాఠశాలకు దూరం ఎంత?",
+      "options_en": [
+        "3 km",
+        "4 km",
+        "5 km",
+        "6 km"
+      ],
+      "options_te": [
+        "3 కి.మీ.",
+        "4 కి.మీ.",
+        "5 కి.మీ.",
+        "6 కి.మీ."
+      ],
+      "correct_option": 1,
+      "explanation_en": "Time diff = 10 - 2 = 8 minutes = 8/60 hours. Distance = (S1 * S2 / |S1 - S2|) * Delta_t = (5 * 6 / 1) * (8 / 60) = 30 * (2/15) = 4 km.",
+      "explanation_te": "సమయాల భేదం = 8 నిమిషాలు = 8/60 గంట. దూరం = (5 * 6 / 1) * (8 / 60) = 4 కి.మీ."
+    },
+    {
+      "id": 29,
+      "section": "Arithmetic",
+      "topic": "Time, Speed & Distance - Average Speed",
+      "question_en": "A man travels from town A to town B at 60 kmph and returns from B to A at 40 kmph. His average speed for the whole journey is:",
+      "question_te": "ఒక వ్యక్తి A పట్టణం నుండి B పట్టణానికి గంటకు 60 కి.మీ. వేగంతో ప్రయాణించి, తిరిగి B నుండి A కి గంటకు 40 కి.మీ. వేగంతో వచ్చాడు. అతని మొత్తం ప్రయాణ సగటు వేగం ఎంత?",
+      "options_en": [
+        "48 kmph",
+        "50 kmph",
+        "52 kmph",
+        "45 kmph"
+      ],
+      "options_te": [
+        "48 కిమీ/గం",
+        "50 కిమీ/గం",
+        "52 కిమీ/గం",
+        "45 కిమీ/గం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Average speed = 2 * S1 * S2 / (S1 + S2) = 2 * 60 * 40 / (60 + 40) = 4800 / 100 = 48 kmph.",
+      "explanation_te": "సగటు వేగం = 2 * 60 * 40 / (60 + 40) = 48 కిమీ/గం."
+    },
+    {
+      "id": 30,
+      "section": "Arithmetic",
+      "topic": "Problems on Trains - Opposite Crossing",
+      "question_en": "Two trains 140 m and 160 m long run at speeds of 60 km/hr and 48 km/hr respectively in opposite directions on parallel tracks. The time taken to cross each other is:",
+      "question_te": "140 మీటర్లు మరియు 160 మీటర్ల పొడవు గల రెండు రైళ్లు సమాంతర పట్టాలపై ఎదురెదురు దిశల్లో వరుసగా 60 కిమీ/గం మరియు 48 కిమీ/గం వేగంతో ప్రయాణిస్తున్నాయి. అవి ఒకదానినొకటి దాటడానికి పట్టే సమయం ఎంత?",
+      "options_en": [
+        "8 seconds",
+        "10 seconds",
+        "12 seconds",
+        "15 seconds"
+      ],
+      "options_te": [
+        "8 సెకన్లు",
+        "10 సెకన్లు",
+        "12 సెకన్లు",
+        "15 సెకన్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total distance = 140 + 160 = 300 m. Relative speed = 60 + 48 = 108 km/hr = 108 * (5/18) = 30 m/s. Time = 300 / 30 = 10 seconds.",
+      "explanation_te": "మొత్తం దూరం = 300 మీటర్లు. సాపేక్ష వేగం = 108 కిమీ/గం = 30 మీ/సె. పట్టే సమయం = 300 / 30 = 10 సెకన్లు."
+    },
+    {
+      "id": 31,
+      "section": "Arithmetic",
+      "topic": "Problems on Trains - Platform Crossing",
+      "question_en": "A train 300 meters long is travelling at 54 km/hr. How much time will it take to pass a platform 150 meters long?",
+      "question_te": "300 మీటర్ల పొడవు గల ఒక రైలు గంటకు 54 కి.మీ. వేగంతో ప్రయాణిస్తోంది. 150 మీటర్ల పొడవు గల ప్లాట్‌ఫారమ్‌ను దాటడానికి దానికి ఎంత సమయం పడుతుంది?",
+      "options_en": [
+        "25 seconds",
+        "28 seconds",
+        "30 seconds",
+        "35 seconds"
+      ],
+      "options_te": [
+        "25 సెకన్లు",
+        "28 సెకన్లు",
+        "30 సెకన్లు",
+        "35 సెకన్లు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Total distance = 300 + 150 = 450 m. Speed = 54 * (5/18) = 15 m/s. Time = 450 / 15 = 30 seconds.",
+      "explanation_te": "మొత్తం దూరం = 450 మీటర్లు. వేగం = 15 మీ/సె. పట్టే సమయం = 450 / 15 = 30 సెకన్లు."
+    },
+    {
+      "id": 32,
+      "section": "Arithmetic",
+      "topic": "Boats and Streams - Stream Speed",
+      "question_en": "A boat takes 4 hours to travel 36 km downstream and 6 hours to travel the same distance upstream. The speed of the stream is:",
+      "question_te": "ఒక పడవ ప్రవాహ దిశలో 36 కి.మీ. దూరాన్ని ప్రయాణించడానికి 4 గంటలు మరియు ప్రవాహానికి ఎదురుగా అదే దూరాన్ని ప్రయాణించడానికి 6 గంటలు తీసుకుంటుంది. ప్రవాహ వేగం ఎంత?",
+      "options_en": [
+        "1.5 kmph",
+        "2.0 kmph",
+        "2.5 kmph",
+        "3.0 kmph"
+      ],
+      "options_te": [
+        "1.5 కిమీ/గం",
+        "2.0 కిమీ/గం",
+        "2.5 కిమీ/గం",
+        "3.0 కిమీ/గం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Downstream speed u = 36/4 = 9 kmph. Upstream speed v = 36/6 = 6 kmph. Speed of stream = (u - v)/2 = (9 - 6)/2 = 1.5 kmph.",
+      "explanation_te": "ప్రవాహ దిశలో వేగం = 9 కిమీ/గం, ఎదురు దిశలో వేగం = 6 కిమీ/గం. ప్రవాహ వేగం = (9 - 6)/2 = 1.5 కిమీ/గం."
+    },
+    {
+      "id": 33,
+      "section": "Arithmetic",
+      "topic": "Races and Games of Skill",
+      "question_en": "In a 1000 m race, A can beat B by 100 m and B can beat C by 100 m. In the same race, by how many meters can A beat C?",
+      "question_te": "1000 మీటర్ల పరుగు పందెంలో, B ని A 100 మీటర్ల తేడాతో ఓడించగలడు, మరియు C ని B 100 మీటర్ల తేడాతో ఓడించగలడు. అదే పందెంలో C ని A ఎన్ని మీటర్ల తేడాతో ఓడించగలడు?",
+      "options_en": [
+        "180 m",
+        "190 m",
+        "200 m",
+        "210 m"
+      ],
+      "options_te": [
+        "180 మీ.",
+        "190 మీ.",
+        "200 మీ.",
+        "210 మీ."
+      ],
+      "correct_option": 1,
+      "explanation_en": "When A runs 1000m, B runs 900m. When B runs 1000m, C runs 900m. When B runs 900m, C runs 900 * 0.9 = 810m. A beats C by 1000 - 810 = 190 m.",
+      "explanation_te": "A 1000 మీటర్లు పరిగెత్తినపుడు B 900 మీటర్లు పరిగెత్తుతాడు. B 900 మీటర్లు పరిగెత్తినపుడు C 810 మీటర్లు పరిగెత్తుతాడు. A, C ని ఓడించే దూరం = 1000 - 810 = 190 మీటర్లు."
+    },
+    {
+      "id": 34,
+      "section": "Arithmetic",
+      "topic": "Alligation & Mixture - Repeated Dilution",
+      "question_en": "A container contains 80 litres of milk. From this container, 8 litres of milk was taken out and replaced by water. This process was repeated further two times. How much milk is now left in the container?",
+      "question_te": "ఒక పాత్రలో 80 లీటర్ల పాలు ఉన్నాయి. ఈ పాత్ర నుండి 8 లీటర్ల పాలను తీసివేసి, అంతే పరిమాణంలో నీటిని పోశారు. ఈ ప్రక్రియను మరో రెండు సార్లు పునరావృతం చేశారు. ప్రస్తుతం ఆ పాత్రలో మిగిలి ఉన్న పాల పరిమాణం ఎంత?",
+      "options_en": [
+        "56.40 litres",
+        "58.32 litres",
+        "60.25 litres",
+        "62.18 litres"
+      ],
+      "options_te": [
+        "56.40 లీటర్లు",
+        "58.32 లీటర్లు",
+        "60.25 లీటర్లు",
+        "62.18 లీటర్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Milk left = 80 * (1 - 8/80)^3 = 80 * (0.9)^3 = 80 * 0.729 = 58.32 litres.",
+      "explanation_te": "మిగిలిన పాల పరిమాణం = 80 * (1 - 8/80)^3 = 80 * 0.729 = 58.32 లీటర్లు."
+    },
+    {
+      "id": 35,
+      "section": "Arithmetic",
+      "topic": "Alligation & Mixture - Ratio",
+      "question_en": "In what ratio must tea worth ₹60 per kg be mixed with tea worth ₹65 per kg so that the mixture is worth ₹68.20 per kg when sold at 10% profit?",
+      "question_te": "కిలో ₹60 విలువ చేసే టీ పొడిని, కిలో ₹65 విలువ చేసే టీ పొడితో ఏ నిష్పత్తిలో కలిపితే, ఆ మిశ్రమాన్ని 10% లాభంతో కిలో ₹68.20 కి అమ్మవచ్చు?",
+      "options_en": [
+        "3 : 2",
+        "2 : 3",
+        "4 : 3",
+        "3 : 5"
+      ],
+      "options_te": [
+        "3 : 2",
+        "2 : 3",
+        "4 : 3",
+        "3 : 5"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mean Cost Price = 68.20 / 1.10 = ₹62. By rule of alligation: (65 - 62) : (62 - 60) = 3 : 2.",
+      "explanation_te": "మిశ్రమం అసలు ధర = 68.20 / 1.10 = ₹62. అలిగేషన్ సూత్రం ప్రకారం: (65 - 62) : (62 - 60) = 3 : 2."
+    },
+    {
+      "id": 36,
+      "section": "Arithmetic",
+      "topic": "Problems on Ages",
+      "question_en": "The ratio of the present ages of father and son is 7 : 3. Ten years ago, the ratio of their ages was 3 : 1. What will be the father's age after 5 years?",
+      "question_te": "తండ్రి మరియు కొడుకుల ప్రస్తుత వయస్సుల నిష్పత్తి 7 : 3. పది సంవత్సరాల క్రితం వారి వయస్సుల నిష్పత్తి 3 : 1. ఐదు సంవత్సరాల తర్వాత తండ్రి వయస్సు ఎంత అవుతుంది?",
+      "options_en": [
+        "65 years",
+        "70 years",
+        "75 years",
+        "80 years"
+      ],
+      "options_te": [
+        "65 సంవత్సరాలు",
+        "70 సంవత్సరాలు",
+        "75 సంవత్సరాలు",
+        "80 సంవత్సరాలు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "(7x - 10) / (3x - 10) = 3/1 => 7x - 10 = 9x - 30 => 2x = 20 => x = 10. Father's present age = 70 years. After 5 years = 75 years.",
+      "explanation_te": "(7x - 10) / (3x - 10) = 3/1 => 2x = 20 => x = 10. తండ్రి ప్రస్తుత వయస్సు = 70 సం||. 5 సంవత్సరాల తర్వాత = 75 సం||."
+    },
+    {
+      "id": 37,
+      "section": "Arithmetic",
+      "topic": "Mensuration 2D - Rectangular Plot",
+      "question_en": "The length of a rectangular plot is 20 meters more than its breadth. If the cost of fencing the plot at ₹26.50 per meter is ₹5,300, what is the length of the plot (in meters)?",
+      "question_te": "ఒక దీర్ఘచతురస్రాకార స్థలం యొక్క పొడవు దాని వెడల్పు కంటే 20 మీటర్లు ఎక్కువ. మీటరుకు ₹26.50 చొప్పున ఆ స్థలానికి కంచె వేయడానికి ₹5,300 ఖర్చు అయితే, ఆ స్థలం యొక్క పొడవు (మీటర్లలో) ఎంత?",
+      "options_en": [
+        "40 m",
+        "50 m",
+        "60 m",
+        "70 m"
+      ],
+      "options_te": [
+        "40 మీ.",
+        "50 మీ.",
+        "60 మీ.",
+        "70 మీ."
+      ],
+      "correct_option": 2,
+      "explanation_en": "Perimeter = 5300 / 26.50 = 200 m => 2(L + B) = 200 => L + B = 100. Since L - B = 20, adding gives 2L = 120 => L = 60 m.",
+      "explanation_te": "చుట్టుకొలత = 5300 / 26.50 = 200 మీ. 2(L + B) = 200 => L + B = 100. L - B = 20 కావున 2L = 120 => L = 60 మీటర్లు."
+    },
+    {
+      "id": 38,
+      "section": "Arithmetic",
+      "topic": "Mensuration 2D - Wire Bending",
+      "question_en": "A wire can be bent in the form of a circle of radius 56 cm. If it is bent in the form of a square, what will be the length of each side of the square? (Take pi = 22/7)",
+      "question_te": "ఒక తీగను 56 సెం.మీ. వ్యాసార్థం గల వృత్తాకారంలోకి వంచగలరు. అదే తీగను ఒక చతురస్రంగా మలిస్తే, ఆ చతురస్రం యొక్క భుజం పొడవు ఎంత అవుతుంది? (తీసుకోండి pi = 22/7)",
+      "options_en": [
+        "77 cm",
+        "84 cm",
+        "88 cm",
+        "96 cm"
+      ],
+      "options_te": [
+        "77 సెం.మీ.",
+        "84 సెం.మీ.",
+        "88 సెం.మీ.",
+        "96 సెం.మీ."
+      ],
+      "correct_option": 2,
+      "explanation_en": "Circumference = 2 * (22/7) * 56 = 352 cm. Side of square = Perimeter / 4 = 352 / 4 = 88 cm.",
+      "explanation_te": "వృత్త పరిధి = 2 * (22/7) * 56 = 352 సెం.మీ. చతురస్ర భుజం = 352 / 4 = 88 సెం.మీ."
+    },
+    {
+      "id": 39,
+      "section": "Arithmetic",
+      "topic": "Mensuration 2D - Equilateral Triangle",
+      "question_en": "The height of an equilateral triangle is 6*sqrt(3) cm. Its area is:",
+      "question_te": "ఒక సమబాహు త్రిభుజం ఎత్తు 6*sqrt(3) సెం.మీ. అయితే, దాని వైశాల్యం ఎంత?",
+      "options_en": [
+        "24*sqrt(3) sq.cm",
+        "36*sqrt(3) sq.cm",
+        "48*sqrt(3) sq.cm",
+        "72*sqrt(3) sq.cm"
+      ],
+      "options_te": [
+        "24*sqrt(3) చ.సెం.మీ.",
+        "36*sqrt(3) చ.సెం.మీ.",
+        "48*sqrt(3) చ.సెం.మీ.",
+        "72*sqrt(3) చ.సెం.మీ."
+      ],
+      "correct_option": 1,
+      "explanation_en": "Height h = (sqrt(3)/2)*a = 6*sqrt(3) => a = 12 cm. Area = (sqrt(3)/4)*a^2 = (sqrt(3)/4)*144 = 36*sqrt(3) sq.cm.",
+      "explanation_te": "ఎత్తు h = (sqrt(3)/2)*a = 6*sqrt(3) => a = 12 సెం.మీ. వైశాల్యం = (sqrt(3)/4)*144 = 36*sqrt(3) చ.సెం.మీ."
+    },
+    {
+      "id": 40,
+      "section": "Arithmetic",
+      "topic": "Mensuration 3D - Melting Sphere",
+      "question_en": "A solid metallic sphere of radius 6 cm is melted and recast into small spheres of radius 2 cm each. How many such small spheres can be made?",
+      "question_te": "6 సెం.మీ. వ్యాసార్థం గల ఒక ఘన లోహ గోళాన్ని కరిగించి, ఒక్కొక్కటి 2 సెం.మీ. వ్యాసార్థం గల చిన్న గోళాలుగా మలిచారు. అటువంటి చిన్న గోళాలు ఎన్ని తయారు చేయవచ్చు?",
+      "options_en": [
+        "18",
+        "24",
+        "27",
+        "36"
+      ],
+      "options_te": [
+        "18",
+        "24",
+        "27",
+        "36"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Number of spheres = (Volume of big sphere) / (Volume of small sphere) = (R / r)^3 = (6 / 2)^3 = 3^3 = 27.",
+      "explanation_te": "గోళాల సంఖ్య = (R / r)^3 = (6 / 2)^3 = 27."
+    },
+    {
+      "id": 41,
+      "section": "Arithmetic",
+      "topic": "Mensuration 3D - Cylinder to Cone",
+      "question_en": "A cylindrical bucket of height 32 cm and base radius 18 cm is filled with sand. This bucket is emptied on the ground and a conical heap of sand is formed. If the height of the conical heap is 24 cm, find the radius of the heap.",
+      "question_te": "32 సెం.మీ. ఎత్తు మరియు 18 సెం.మీ. భూ వ్యాసార్థం గల స్థూపాకార బకెట్ ఇసుకతో నిండి ఉంది. ఈ బకెట్‌ను నేలపై బోర్లించగా ఒక శంకువు ఆకారపు ఇసుక కుప్ప ఏర్పడింది. ఆ శంకువు ఎత్తు 24 సెం.మీ. అయితే, దాని వ్యాసార్థం ఎంత?",
+      "options_en": [
+        "24 cm",
+        "30 cm",
+        "36 cm",
+        "42 cm"
+      ],
+      "options_te": [
+        "24 సెం.మీ.",
+        "30 సెం.మీ.",
+        "36 సెం.మీ.",
+        "42 సెం.మీ."
+      ],
+      "correct_option": 2,
+      "explanation_en": "Volume of cylinder = Volume of cone => pi * 18^2 * 32 = (1/3) * pi * r^2 * 24 => 324 * 32 = 8 * r^2 => r^2 = 1296 => r = 36 cm.",
+      "explanation_te": "స్థూపం ఘనపరిమాణం = శంకువు ఘనపరిమాణం => pi * 18^2 * 32 = (1/3) * pi * r^2 * 24 => r^2 = 1296 => r = 36 సెం.మీ."
+    },
+    {
+      "id": 42,
+      "section": "Arithmetic",
+      "topic": "Clocks - Angle Between Hands",
+      "question_en": "What is the angle between the hands of a clock at 3:40?",
+      "question_te": "గడియారంలో సమయం 3:40 అయినప్పుడు రెండు ముళ్ళ మధ్య కోణం ఎంత?",
+      "options_en": [
+        "120°",
+        "125°",
+        "130°",
+        "135°"
+      ],
+      "options_te": [
+        "120°",
+        "125°",
+        "130°",
+        "135°"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Angle = |30*H - (11/2)*M| = |30*3 - (11/2)*40| = |90 - 220| = 130°.",
+      "explanation_te": "కోణం = |30*H - (11/2)*M| = |90 - 220| = 130°."
+    },
+    {
+      "id": 43,
+      "section": "Arithmetic",
+      "topic": "Clocks - Hands Opposite",
+      "question_en": "At what time between 4 and 5 o'clock will the hands of a clock be pointing in opposite directions?",
+      "question_te": "4 మరియు 5 గంటల మధ్య ఏ సమయంలో గడియారంలోని రెండు ముళ్ళు ఒకదానికొకటి వ్యతిరేక దిశలో ఉంటాయి?",
+      "options_en": [
+        "52 4/11 min past 4",
+        "54 6/11 min past 4",
+        "50 min past 4",
+        "56 2/11 min past 4"
+      ],
+      "options_te": [
+        "4 గంటల 52 4/11 ని||",
+        "4 గంటల 54 6/11 ని||",
+        "4 గంటల 50 ని||",
+        "4 గంటల 56 2/11 ని||"
+      ],
+      "correct_option": 1,
+      "explanation_en": "At 4 o'clock, hour hand is at 20 min. To be opposite (30 min apart), minute hand must gain 20 + 30 = 50 min spaces. Time = 50 * (12/11) = 600/11 = 54 6/11 min past 4.",
+      "explanation_te": "4 గంటలకు ముళ్ళ మధ్య దూరం 20 ని||. వ్యతిరేక దిశకు 50 ని|| దూరం అధిగమించాలి. సమయం = 50 * (12/11) = 54 6/11 ని||."
+    },
+    {
+      "id": 44,
+      "section": "Arithmetic",
+      "topic": "Calendars - Day of Date",
+      "question_en": "What day of the week was 15th August 1947?",
+      "question_te": "15 ఆగస్టు 1947 ఏ వారం అవుతుంది?",
+      "options_en": [
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ],
+      "options_te": [
+        "గురువారం",
+        "శుక్రవారం",
+        "శనివారం",
+        "ఆదివారం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Odd days: 1600 yrs = 0; 300 yrs = 1; 46 yrs (11 leap + 35 ord) = 22 + 35 = 57 = 1 odd day. Jan(3)+Feb(0)+Mar(3)+Apr(2)+May(3)+Jun(2)+Jul(3)+Aug 15(1) = 17 = 3 odd days. Total odd days = 0 + 1 + 1 + 3 = 5, which corresponds to Friday.",
+      "explanation_te": "మొత్తం బేసి రోజులు = 5. కాబట్టి 15 ఆగస్టు 1947 శుక్రవారం."
+    },
+    {
+      "id": 45,
+      "section": "Arithmetic",
+      "topic": "Calendars - Last Day of Century",
+      "question_en": "Which of the following can never be the last day of a century?",
+      "question_te": "శతాబ్దపు చివరి రోజుగా ఉండటానికి వీలులేని వారం ఏది?",
+      "options_en": [
+        "Friday",
+        "Wednesday",
+        "Tuesday",
+        "Monday"
+      ],
+      "options_te": [
+        "శుక్రవారం",
+        "బుధవారం",
+        "మంగళవారం",
+        "సోమవారం"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Odd days for 100, 200, 300, 400 years are 5 (Friday), 3 (Wednesday), 1 (Monday), 0 (Sunday). Hence Tuesday, Thursday, and Saturday can NEVER be the last day of a century.",
+      "explanation_te": "శతాబ్దపు చివరి రోజులు శుక్ర, బుధ, సోమ, ఆదివారాలు మాత్రమే కాగలవు. మంగళ, గురు, శనివారాలు చివరి రోజు కాలేవు."
+    },
+    {
+      "id": 46,
+      "section": "Arithmetic",
+      "topic": "Progression - Arithmetic Progression",
+      "question_en": "The sum of the first 20 terms of an arithmetic progression whose first term is 7 and common difference is 4 is:",
+      "question_te": "మొదటి పదం 7 మరియు పదాంతరం 4 గా గల అంకశ్రేణిలోని మొదటి 20 పదాల మొత్తం ఎంత?",
+      "options_en": [
+        "850",
+        "900",
+        "920",
+        "950"
+      ],
+      "options_te": [
+        "850",
+        "900",
+        "920",
+        "950"
+      ],
+      "correct_option": 1,
+      "explanation_en": "S_n = (n/2) * [2a + (n-1)d] => S_20 = (20/2) * [2*7 + 19*4] = 10 * [14 + 76] = 10 * 90 = 900.",
+      "explanation_te": "S_20 = (20/2) * [2(7) + 19(4)] = 10 * [14 + 76] = 10 * 90 = 900."
+    },
+    {
+      "id": 47,
+      "section": "Arithmetic",
+      "topic": "Number System - Number of Factors",
+      "question_en": "Find the total number of positive divisors (factors) of 360.",
+      "question_te": "360 సంఖ్య యొక్క మొత్తం ధన కారణాంకాల (భాజకాల) సంఖ్య ఎంత?",
+      "options_en": [
+        "18",
+        "20",
+        "24",
+        "30"
+      ],
+      "options_te": [
+        "18",
+        "20",
+        "24",
+        "30"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Prime factorisation: 360 = 2^3 * 3^2 * 5^1. Total factors = (3+1) * (2+1) * (1+1) = 4 * 3 * 2 = 24.",
+      "explanation_te": "ప్రధాన కారణాంకాలు: 360 = 2^3 * 3^2 * 5^1. మొత్తం భాజకాలు = (3+1)(2+1)(1+1) = 24."
+    },
+    {
+      "id": 48,
+      "section": "Arithmetic",
+      "topic": "Number System - Remainder Theorem",
+      "question_en": "When (67^67 + 67) is divided by 68, the remainder obtained is:",
+      "question_te": "(67^67 + 67) ను 68 చే భాగించినపుడు వచ్చే శేషం ఎంత?",
+      "options_en": [
+        "1",
+        "66",
+        "67",
+        "0"
+      ],
+      "options_te": [
+        "1",
+        "66",
+        "67",
+        "0"
+      ],
+      "correct_option": 1,
+      "explanation_en": "67 = 68 - 1 => 67 mod 68 = -1. (-1)^67 + 67 = -1 + 67 = 66 mod 68. The remainder is 66.",
+      "explanation_te": "67 mod 68 = -1. (-1)^67 + 67 = -1 + 67 = 66. శేషం = 66."
+    },
+    {
+      "id": 49,
+      "section": "Arithmetic",
+      "topic": "Percentages - Consumption Adjustment",
+      "question_en": "If the price of sugar increases by 25%, by what percentage should a family reduce its consumption so that the total expenditure remains the same?",
+      "question_te": "చక్కెర ధర 25% పెరిగితే, చక్కెరపై అయ్యే ఖర్చు మారకుండా ఉండాలంటే ఒక కుటుంబం తన వినియోగాన్ని ఎంత శాతం తగ్గించుకోవాలి?",
+      "options_en": [
+        "20%",
+        "25%",
+        "16 2/3%",
+        "15%"
+      ],
+      "options_te": [
+        "20%",
+        "25%",
+        "16 2/3%",
+        "15%"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Reduction % = [r / (100 + r)] * 100 = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = 20%.",
+      "explanation_te": "తగ్గింపు శాతం = [25 / 125] * 100 = 20%."
+    },
+    {
+      "id": 50,
+      "section": "Arithmetic",
+      "topic": "Mensuration 3D - Cuboid Cutting",
+      "question_en": "A wooden cuboid of dimensions 36 cm x 24 cm x 18 cm is cut into identical cubes of the largest possible size. How many such cubes can be formed?",
+      "question_te": "36 సెం.మీ. x 24 సెం.మీ. x 18 సెం.మీ. కొలతలు గల చెక్క దీర్ఘఘనాన్ని సాధ్యమైనంత పెద్ద పరిమాణం గల ఒకే రకమైన ఘనాలుగా కోశారు. అటువంటి ఘనాలు ఎన్ని ఏర్పడతాయి?",
+      "options_en": [
+        "48",
+        "64",
+        "72",
+        "96"
+      ],
+      "options_te": [
+        "48",
+        "64",
+        "72",
+        "96"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Edge of largest cube = HCF(36, 24, 18) = 6 cm. Number of cubes = (36 * 24 * 18) / (6 * 6 * 6) = 6 * 4 * 3 = 72.",
+      "explanation_te": "పెద్ద ఘనం భుజం = గ.సా.భా(36, 24, 18) = 6 సెం.మీ. ఏర్పడే ఘనాల సంఖ్య = (36 * 24 * 18) / (6 * 6 * 6) = 72."
+    },
+    {
+      "id": 51,
+      "section": "Reasoning",
+      "topic": "Number Analogy",
+      "question_en": "Select the related number from the given alternatives: 8 : 81 : : 64 : ____",
+      "question_te": "ఇచ్చిన ప్రత్యామ్నాయాల నుండి సంబంధిత సంఖ్యను ఎన్నుకోండి: 8 : 81 : : 64 : ____",
+      "options_en": [
+        "125",
+        "512",
+        "625",
+        "729"
+      ],
+      "options_te": [
+        "125",
+        "512",
+        "625",
+        "729"
+      ],
+      "correct_option": 2,
+      "explanation_en": "8 = 2^3, and 81 = 3^4 = (2+1)^(3+1). Similarly, 64 = 4^3, so the missing number is (4+1)^(3+1) = 5^4 = 625.",
+      "explanation_te": "8 = 2^3 మరియు 81 = 3^4. అలాగే, 64 = 4^3 కాబట్టి తర్వాతి సంఖ్య (4+1)^4 = 5^4 = 625."
+    },
+    {
+      "id": 52,
+      "section": "Reasoning",
+      "topic": "Letter Analogy",
+      "question_en": "Fill in the blank with the appropriate letters: CG : HL : : KO : ____",
+      "question_te": "సరియైన అక్షరాలతో ఖాళీని పూరించండి: CG : HL : : KO : ____",
+      "options_en": [
+        "QV",
+        "PT",
+        "RV",
+        "VT"
+      ],
+      "options_te": [
+        "QV",
+        "PT",
+        "RV",
+        "VT"
+      ],
+      "correct_option": 1,
+      "explanation_en": "C(+5)=H, G(+5)=L. Similarly, K(+5)=P, O(+5)=T. Thus, the missing letters are PT.",
+      "explanation_te": "C(+5)=H, G(+5)=L. అదే విధంగా K(+5)=P, O(+5)=T. కాబట్టి సమాధానం PT."
+    },
+    {
+      "id": 53,
+      "section": "Reasoning",
+      "topic": "Word Analogy",
+      "question_en": "Choose the related word: Stag : Hind : : Bull : ____",
+      "question_te": "సంబంధిత పదాన్ని ఎన్నుకోండి: Stag : Hind : : Bull : ____ (పురుష జంతువు : స్త్రీ జంతువు)",
+      "options_en": [
+        "Mare",
+        "Cow",
+        "Vixen",
+        "Ewe"
+      ],
+      "options_te": [
+        "గుర్రం (Mare)",
+        "ఆవు (Cow)",
+        "ఆడ నక్క (Vixen)",
+        "ఆడ గొర్రె (Ewe)"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Stag is male and Hind is female deer. Bull is male and Cow is female bovine.",
+      "explanation_te": "Stag కి ఆడ జంతువు Hind. అదే విధంగా Bull కి ఆడ జంతువు Cow (ఆవు)."
+    },
+    {
+      "id": 54,
+      "section": "Reasoning",
+      "topic": "Classification - Odd Number",
+      "question_en": "Among the given numbers 131, 151, 161, 181, 191, one is different from the others. Find it:",
+      "question_te": "ఇచ్చిన సంఖ్యలు 131, 151, 161, 181, 191 లలో ఒకటి మిగిలిన వాటికి విభిన్నంగా ఉంటుంది. దానిని గుర్తించండి:",
+      "options_en": [
+        "131",
+        "151",
+        "161",
+        "181"
+      ],
+      "options_te": [
+        "131",
+        "151",
+        "161",
+        "181"
+      ],
+      "correct_option": 2,
+      "explanation_en": "131, 151, 181, 191 are all prime numbers. 161 is a composite number divisible by 7 and 23 (7 * 23 = 161).",
+      "explanation_te": "131, 151, 181, 191 లు ప్రధాన సంఖ్యలు. 161 సంయుక్త సంఖ్య (7 * 23 = 161)."
+    },
+    {
+      "id": 55,
+      "section": "Reasoning",
+      "topic": "Classification - Odd Letter Cluster",
+      "question_en": "Choose the odd letter-group from the following options:",
+      "question_te": "క్రింది వాటిలో సరిపోలని అక్షరాల సముదాయాన్ని ఎన్నుకోండి:",
+      "options_en": [
+        "BDG",
+        "HJN",
+        "KMP",
+        "PRU"
+      ],
+      "options_te": [
+        "BDG",
+        "HJN",
+        "KMP",
+        "PRU"
+      ],
+      "correct_option": 1,
+      "explanation_en": "B(+2)D(+3)G; K(+2)M(+3)P; P(+2)R(+3)U. But H(+2)J(+4)N has an addition of +4 instead of +3. Hence HJN is the odd one.",
+      "explanation_te": "BDG, KMP, PRU లలో అక్షరాల మధ్య వ్యత్యాసం (+2, +3). కానీ HJN లో (+2, +4) ఉంది. కావున HJN భిన్నమైనది."
+    },
+    {
+      "id": 56,
+      "section": "Reasoning",
+      "topic": "Number Series",
+      "question_en": "Find the missing term in the sequence: 3, 10, 29, 66, 127, ____",
+      "question_te": "శ్రేణిలోని లోపించిన పదాన్ని కనుగొనండి: 3, 10, 29, 66, 127, ____",
+      "options_en": [
+        "214",
+        "216",
+        "218",
+        "220"
+      ],
+      "options_te": [
+        "214",
+        "216",
+        "218",
+        "220"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Pattern is n^3 + 2: 1^3+2=3, 2^3+2=10, 3^3+2=29, 4^3+2=66, 5^3+2=127. The next term is 6^3 + 2 = 216 + 2 = 218.",
+      "explanation_te": "సూత్రం n^3 + 2: 1^3+2=3, 2^3+2=10, ..., 6^3+2 = 216 + 2 = 218."
+    },
+    {
+      "id": 57,
+      "section": "Reasoning",
+      "topic": "Alphanumeric Series",
+      "question_en": "What comes in place of question mark (?) in: B3E, C5G, E7K, G11M, ?",
+      "question_te": "క్రింది అక్షర సంఖ్యా శ్రేణిలో ప్రశ్న గుర్తు (?) స్థానంలో ఏది రావాలి? B3E, C5G, E7K, G11M, ?",
+      "options_en": [
+        "M15Q",
+        "K13O",
+        "K13Q",
+        "K15S"
+      ],
+      "options_te": [
+        "M15Q",
+        "K13O",
+        "K13Q",
+        "K15S"
+      ],
+      "correct_option": 2,
+      "explanation_en": "First letters: Prime positions 2(B), 3(C), 5(E), 7(G) -> next prime 11(K). Numbers: Primes 3, 5, 7, 11 -> next prime 13. Third letters: Prime positions 5(E), 7(G), 11(K), 13(M) -> next prime 17(Q). Hence K13Q.",
+      "explanation_te": "మొదటి అక్షరం ప్రధాన స్థానాలు: 2(B), 3(C), 5(E), 7(G) -> 11(K). సంఖ్య: 3, 5, 7, 11 -> 13. మూడవ అక్షరం: 5(E), 7(G), 11(K), 13(M) -> 17(Q). కాబట్టి K13Q."
+    },
+    {
+      "id": 58,
+      "section": "Reasoning",
+      "topic": "Continuous Pattern Series",
+      "question_en": "Choose the group of letters that completes the series: a _ b a _ b _ a a b _ a",
+      "question_te": "శ్రేణిని సంపూర్ణం చేయడానికి ఖాళీలలో ఉంచదగిన అక్షరాలను ఎన్నుకోండి: a _ b a _ b _ a a b _ a",
+      "options_en": [
+        "a a a b",
+        "a b a b",
+        "b a a b",
+        "a a b a"
+      ],
+      "options_te": [
+        "a a a b",
+        "a b a b",
+        "b a a b",
+        "a a b a"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The repeating block is 'a a b'. Putting 'a, a, a, b' gives: a(a)b / a(a)b / (a)ab / aab(b) -> aab aab aab aab. Fits perfectly.",
+      "explanation_te": "'a a b' అనే పదం పునరావృతం అవుతుంది: aab aab aab aab. ఖాళీలలో వచ్చే అక్షరాలు: a, a, a, b."
+    },
+    {
+      "id": 59,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding - Letter Shift",
+      "question_en": "In a certain code, 'TEACHER' is written as 'VGCEJGT'. How will 'STUDENT' be written in that code?",
+      "question_te": "ఒక నిర్దిష్ట కోడ్‌లో 'TEACHER' ను 'VGCEJGT' గా రాస్తే, అదే కోడ్‌లో 'STUDENT' ను ఎలా రాస్తారు?",
+      "options_en": [
+        "UVWFGPV",
+        "UVWFGPU",
+        "UTVFGPV",
+        "VWWFHPW"
+      ],
+      "options_te": [
+        "UVWFGPV",
+        "UVWFGPU",
+        "UTVFGPV",
+        "VWWFHPW"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Each letter is shifted by +2: S->U, T->V, U->W, D->F, E->G, N->P, T->V. So STUDENT becomes UVWFGPV.",
+      "explanation_te": "ప్రతి అక్షరం +2 స్థానాలు ముందుకు మారింది: S(+2)=U, T(+2)=V, U(+2)=W, D(+2)=F, E(+2)=G, N(+2)=P, T(+2)=V. కాబట్టి UVWFGPV."
+    },
+    {
+      "id": 60,
+      "section": "Reasoning",
+      "topic": "Coding-Decoding - Word Substitution",
+      "question_en": "If 'orange' is called 'butter', 'butter' is called 'soap', 'soap' is called 'ink', 'ink' is called 'honey' and 'honey' is called 'orange', which of the following is used for washing clothes?",
+      "question_te": "ఒకవేళ 'నారింజ'ను 'వెన్న' అని, 'వెన్న'ను 'సబ్బు' అని, 'సబ్బు'ను 'సిరా' అని, 'సిరా'ను 'తేనె' అని మరియు 'తేనె'ను 'నారింజ' అని పిలిస్తే, బట్టలు ఉతకడానికి దేనిని ఉపయోగిస్తారు?",
+      "options_en": [
+        "Honey",
+        "Butter",
+        "Ink",
+        "Orange"
+      ],
+      "options_te": [
+        "తేనె",
+        "వెన్న",
+        "సిరా (Ink)",
+        "నారింజ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Soap is used for washing clothes, and here 'soap' is called 'ink'.",
+      "explanation_te": "బట్టలు ఉతకడానికి 'సబ్బు' వాడతారు. ఇక్కడ 'సబ్బు'ను 'సిరా' (Ink) అని పిలుస్తున్నారు."
+    },
+    {
+      "id": 61,
+      "section": "Reasoning",
+      "topic": "Direction Sense Test",
+      "question_en": "A man walks 30 meters towards North, then turns right and walks 40 meters, then turns right and walks 30 meters, then turns left and walks 20 meters. How far and in what direction is he from the starting point?",
+      "question_te": "ఒక వ్యక్తి ఉత్తరం వైపు 30 మీటర్లు నడిచి, కుడివైపుకు తిరిగి 40 మీటర్లు నడిచాడు. తర్వాత మళ్లీ కుడివైపుకు తిరిగి 30 మీటర్లు నడిచి, చివరగా ఎడమవైపుకు తిరిగి 20 మీటర్లు నడిచాడు. ప్రారంభ స్థానం నుండి అతను ఎంత దూరంలో మరియు ఏ దిశలో ఉన్నాడు?",
+      "options_en": [
+        "50 m East",
+        "60 m East",
+        "60 m West",
+        "70 m East"
+      ],
+      "options_te": [
+        "50 మీ. తూర్పు",
+        "60 మీ. తూర్పు",
+        "60 మీ. పడమర",
+        "70 మీ. తూర్పు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "North 30m (+30y), Right -> East 40m (+40x), Right -> South 30m (-30y, reaches y=0), Left -> East 20m (+20x). Total position = (40 + 20, 0) = 60 meters East.",
+      "explanation_te": "ఉత్తరం 30 మీ, కుడివైపు తూర్పు 40 మీ, కుడివైపు దక్షిణం 30 మీ (తిరిగి భూమధ్య రేఖకు), ఎడమవైపు తూర్పు 20 మీ. మొత్తం = 40 + 20 = 60 మీటర్ల తూర్పు."
+    },
+    {
+      "id": 62,
+      "section": "Reasoning",
+      "topic": "Direction Sense - Pythagoras",
+      "question_en": "Starting from point P, Sachin walked 20 meters towards South. He turned left and walked 30 meters. He then turned left and walked 20 meters. He again turned left and walked 40 meters and reached point Q. How far is he from point P?",
+      "question_te": "P బిందువు వద్ద ప్రారంభించి సచిన్ దక్షిణం వైపు 20 మీటర్లు నడిచాడు. ఎడమవైపుకు తిరిగి 30 మీటర్లు నడిచి, మరలా ఎడమవైపుకు తిరిగి 20 మీటర్లు నడిచాడు. మళ్లీ ఎడమవైపుకు తిరిగి 40 మీటర్లు నడిచి Q బిందువుకు చేరుకున్నాడు. P నుండి Q ఎంత దూరంలో ఉంది?",
+      "options_en": [
+        "10 meters",
+        "20 meters",
+        "30 meters",
+        "40 meters"
+      ],
+      "options_te": [
+        "10 మీటర్లు",
+        "20 మీటర్లు",
+        "30 మీటర్లు",
+        "40 మీటర్లు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "South 20m, Left (East) 30m, Left (North) 20m (cancels South 20m), Left (West) 40m. Net displacement = 40m West - 30m East = 10m West of P. Distance is 10 meters.",
+      "explanation_te": "దక్షిణం 20, తూర్పు 30, ఉత్తరం 20, పడమర 40. నికర దూరం = 40 - 30 = 10 మీటర్లు."
+    },
+    {
+      "id": 63,
+      "section": "Reasoning",
+      "topic": "Blood Relations - Pointing",
+      "question_en": "Pointing to a photograph, a woman says: 'He is the only son of my mother\\'s only daughter.' How is the boy in the photograph related to the woman?",
+      "question_te": "ఒక ఫోటోలోని అబ్బాయిని చూపిస్తూ ఒక మహిళ ఇలా చెప్పింది: 'ఇతను నా తల్లి యొక్క ఏకైక కుమార్తె యొక్క ఏకైక కుమారుడు.' ఫోటోలోని అబ్బాయి ఆ మహిళకు ఏమవుతాడు?",
+      "options_en": [
+        "Brother",
+        "Son",
+        "Nephew",
+        "Father"
+      ],
+      "options_te": [
+        "సోదరుడు",
+        "కుమారుడు (Son)",
+        "మేనల్లుడు",
+        "తండ్రి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Woman's mother's only daughter is the woman herself. The boy is her only son.",
+      "explanation_te": "మహిళ తల్లికి ఏకైక కుమార్తె అంటే ఆ మహిళే. ఆమె ఏకైక కుమారుడు అంటే ఆమె కొడుకు."
+    },
+    {
+      "id": 64,
+      "section": "Reasoning",
+      "topic": "Blood Relations - Family Tree",
+      "question_en": "A is B's sister. C is B's mother. D is C's father. E is D's mother. How is A related to D?",
+      "question_te": "B కి A సోదరి. B యొక్క తల్లి C. C యొక్క తండ్రి D. D యొక్క తల్లి E. అయితే A కి D తో గల సంబంధం ఏమిటి?",
+      "options_en": [
+        "Grandfather",
+        "Grandmother",
+        "Granddaughter",
+        "Daughter"
+      ],
+      "options_te": [
+        "తాతగారు",
+        "బామ్మగారు",
+        "మనవరాలు (Granddaughter)",
+        "కుమార్తె"
+      ],
+      "correct_option": 2,
+      "explanation_en": "A is female. C is A's mother, and D is C's father. Therefore, A is the granddaughter of D.",
+      "explanation_te": "A ఒక స్త్రీ. C ఆమె తల్లి. C కి తండ్రి D. కాబట్టి D కి A మనవరాలు అవుతుంది."
+    },
+    {
+      "id": 65,
+      "section": "Reasoning",
+      "topic": "Order & Ranking - Overlapping",
+      "question_en": "In a row of 40 students, Raju is 18th from the left end and Shyam is 15th from the right end. How many students are there between Raju and Shyam?",
+      "question_te": "40 మంది విద్యార్థులు ఉన్న ఒక వరుసలో, ఎడమ చివర నుండి రాజు 18వ స్థానంలో, కుడి చివర నుండి శ్యామ్ 15వ స్థానంలో ఉన్నారు. రాజు మరియు శ్యామ్‌ల మధ్య ఎంతమంది విద్యార్థులు ఉన్నారు?",
+      "options_en": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "options_te": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Sum of positions = 18 + 15 = 33. Since 33 < 40, students between them = Total - (Left + Right) = 40 - 33 = 7.",
+      "explanation_te": "స్థానాల మొత్తం = 18 + 15 = 33. 33 < 40 కాబట్టి, వారి మధ్య ఉన్న విద్యార్థులు = 40 - 33 = 7."
+    },
+    {
+      "id": 66,
+      "section": "Reasoning",
+      "topic": "Order & Ranking - Total Strength",
+      "question_en": "In a class, Suresh ranks 11th from the top and 28th from the bottom among those who passed the examination. If 6 students failed and 5 did not appear, how many students were there in the class?",
+      "question_te": "ఒక తరగతిలో ఉత్తీర్ణులైన వారిలో సురేష్ పైనుండి 11వ స్థానంలో, కింద నుండి 28వ స్థానంలో ఉన్నాడు. 6 మంది విద్యార్థులు ఫెయిల్ అయ్యి, 5 మంది పరీక్షకు హాజరు కాకపోతే, ఆ తరగతిలో మొత్తం ఎంతమంది విద్యార్థులు ఉన్నారు?",
+      "options_en": [
+        "48",
+        "49",
+        "50",
+        "52"
+      ],
+      "options_te": [
+        "48",
+        "49",
+        "50",
+        "52"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Passed students = 11 + 28 - 1 = 38. Total students in class = 38 (passed) + 6 (failed) + 5 (absent) = 49.",
+      "explanation_te": "ఉత్తీర్ణులైన విద్యార్థులు = 11 + 28 - 1 = 38. తరగతిలోని మొత్తం విద్యార్థులు = 38 + 6 + 5 = 49."
+    },
+    {
+      "id": 67,
+      "section": "Reasoning",
+      "topic": "Seating Arrangement - Linear",
+      "question_en": "Five girls are sitting on a bench facing North. Seema is to the left of Rani and to the right of Bindu. Mary is to the right of Rani. Reeta is between Rani and Mary. Who is sitting in the middle?",
+      "question_te": "ఐదుగురు అమ్మాయిలు ఉత్తరం వైపు చూస్తూ ఒక బెంచీపై కూర్చున్నారు. రాణికి ఎడమవైపున, బిందుకు కుడివైపున సీమ ఉంది. రాణికి కుడివైపున మేరీ ఉంది. రాణికి, మేరీకి మధ్యలో రీటా ఉంది. వీరిలో మధ్యలో కూర్చున్నది ఎవరు?",
+      "options_en": [
+        "Seema",
+        "Rani",
+        "Reeta",
+        "Mary"
+      ],
+      "options_te": [
+        "సీమ",
+        "రాణి",
+        "రీటా",
+        "మేరీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Order from left to right: Bindu - Seema - Rani - Reeta - Mary. Rani is exactly in the middle.",
+      "explanation_te": "ఎడమ నుండి కుడికి అమరిక: బిందు - సీమ - రాణి - రీటా - మేరీ. మధ్యలో రాణి ఉంది."
+    },
+    {
+      "id": 68,
+      "section": "Reasoning",
+      "topic": "Seating Arrangement - Circular",
+      "question_en": "Six friends A, B, C, D, E and F are sitting in a circle facing the centre. E is to the left of D. C is between A and B. F is between E and A. Who is to the immediate right of C?",
+      "question_te": "ఆరుగురు మిత్రులు A, B, C, D, E మరియు F లు కేంద్రం వైపు చూస్తూ వృత్తాకారంలో కూర్చున్నారు. D కి ఎడమవైపున E ఉన్నాడు. A మరియు B ల మధ్య C ఉన్నాడు. E మరియు A ల మధ్య F ఉన్నాడు. C కి తక్షణ కుడివైపున ఉన్నది ఎవరు?",
+      "options_en": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "options_te": [
+        "A",
+        "B",
+        "D",
+        "E"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Arranging around the circle facing centre: D -> E (left of D) -> F (left of E) -> A -> C -> B. Immediate right of C is A.",
+      "explanation_te": "కేంద్రం వైపు చూస్తున్నప్పుడు C కి తక్షణ కుడివైపున A కూర్చుంటాడు."
+    },
+    {
+      "id": 69,
+      "section": "Reasoning",
+      "topic": "Syllogism",
+      "question_en": "Statements: (I) All cups are plates. (II) Some plates are bowls. Conclusions: (1) Some bowls are cups. (2) Some plates are cups.",
+      "question_te": "ప్రవచనాలు: (I) కప్పులన్నీ ప్లేట్లు. (II) కొన్ని ప్లేట్లు బౌల్స్. తీర్మానాలు: (1) కొన్ని బౌల్స్ కప్పులు. (2) కొన్ని ప్లేట్లు కప్పులు.",
+      "options_en": [
+        "Only conclusion 1 follows",
+        "Only conclusion 2 follows",
+        "Either 1 or 2 follows",
+        "Both 1 and 2 follow"
+      ],
+      "options_te": [
+        "తీర్మానం 1 మాత్రమే సరైనది",
+        "తీర్మానం 2 మాత్రమే సరైనది",
+        "1 లేదా 2 సరైనది",
+        "1 మరియు 2 రెండూ సరైనవి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "From statement (I) 'All cups are plates', by immediate conversion, 'Some plates are cups' is definitely true. There is no definite relationship between bowls and cups.",
+      "explanation_te": "ప్రవచనం 1 ప్రకారం కప్పులన్నీ ప్లేట్లు కాబట్టి కొన్ని ప్లేట్లు తప్పక కప్పులు అవుతాయి. తీర్మానం 2 మాత్రమే సరైనది."
+    },
+    {
+      "id": 70,
+      "section": "Reasoning",
+      "topic": "Statement & Assumptions",
+      "question_en": "Statement: 'The municipal corporation advised all citizens to boil water before drinking during the monsoon season.' Assumptions: (I) Water supplied during monsoon may be contaminated with disease-causing germs. (II) Boiling water kills germs and makes it safe for consumption.",
+      "question_te": "ప్రవచనం: 'వర్షాకాలంలో ప్రజలందరూ నీటిని మరిగించి తాగాలని మున్సిపల్ కార్పొరేషన్ సూచించింది.' భావనలు: (I) వర్షాకాలంలో సరఫరా అయ్యే నీటిలో వ్యాధికారక క్రిములు ఉండవచ్చు. (II) నీటిని మరిగించడం వల్ల క్రిములు నశించి తాగడానికి సురక్షితమవుతుంది.",
+      "options_en": [
+        "Only assumption I is implicit",
+        "Only assumption II is implicit",
+        "Both I and II are implicit",
+        "Neither I nor II is implicit"
+      ],
+      "options_te": [
+        "భావన I మాత్రమే దాగి ఉంది",
+        "భావన II మాత్రమే దాగి ఉంది",
+        "భావనలు I, II రెండూ దాగి ఉన్నాయి",
+        "ఏ భావనా దాగి లేదు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Both assumptions directly explain the reason for the municipal advisory: monsoon contamination risk and the efficacy of boiling.",
+      "explanation_te": "మున్సిపల్ సలహాకు నీరు కలుషితమయ్యే అవకాశం మరియు మరిగించడం వల్ల రక్షణ రెండూ మూలకారణాలు కావున I, II రెండూ దాగి ఉన్నాయి."
+    },
+    {
+      "id": 71,
+      "section": "Reasoning",
+      "topic": "Statement & Arguments",
+      "question_en": "Statement: Should single-use plastic bags be completely banned in India? Argument I: Yes, they cause severe environmental pollution, block sewage lines, and harm wildlife. Argument II: No, they are cheap and convenient for ordinary shoppers and shopkeepers.",
+      "question_te": "ప్రవచనం: భారతదేశంలో సింగిల్-యూజ్ ప్లాస్టిక్ సంచులను పూర్తిగా నిషేధించాలా? వాదన I: అవును, అవి తీవ్ర పర్యావరణ కాలుష్యానికి కారణమవుతున్నాయి, డ్రైనేజీలను మూసివేస్తాయి మరియు మూగజీవాలకు హాని చేస్తాయి. వాదన II: కాదు, అవి చౌకైనవి మరియు వినియోగదారులకు, వ్యాపారులకు సౌకర్యవంతమైనవి.",
+      "options_en": [
+        "Only Argument I is strong",
+        "Only Argument II is strong",
+        "Both I and II are strong",
+        "Neither I nor II is strong"
+      ],
+      "options_te": [
+        "వాదన I మాత్రమే బలమైనది",
+        "వాదన II మాత్రమే బలమైనది",
+        "వాదనలు I మరియు II రెండూ బలమైనవి",
+        "ఏ వాదనా బలమైనది కాదు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Argument I addresses severe ecological and civic catastrophe, making it a strong argument. Argument II merely points to temporary minor convenience, making it weak.",
+      "explanation_te": "పర్యావరణం మరియు ప్రజారోగ్యం తాత్కాలిక సౌకర్యం కంటే అత్యంత ప్రాధాన్యమైనవి కాబట్టి వాదన I మాత్రమే బలమైనది."
+    },
+    {
+      "id": 72,
+      "section": "Reasoning",
+      "topic": "Cause & Effect",
+      "question_en": "Statement I: The government increased the minimum support price (MSP) for paddy by 12% this year. Statement II: A large number of farmers in the state have expanded the area under paddy cultivation this season.",
+      "question_te": "ప్రవచనం I: ప్రభుత్వం ఈ సంవత్సరం వరి కనీస మద్దతు ధర (MSP)ని 12% పెంచింది. ప్రవచనం II: రాష్ట్రంలోని పెద్ద సంఖ్యలో రైతులు ఈ సీజన్‌లో వరి సాగు విస్తీర్ణాన్ని గణనీయంగా పెంచారు.",
+      "options_en": [
+        "Statement I is cause and II is effect",
+        "Statement II is cause and I is effect",
+        "Both are independent causes",
+        "Both are effects of independent causes"
+      ],
+      "options_te": [
+        "ప్రవచనం I కారణం, II దాని ప్రభావం",
+        "ప్రవచనం II కారణం, I దాని ప్రభావం",
+        "రెండూ స్వతంత్ర కారణాలు",
+        "రెండూ స్వతంత్ర కారణాల ప్రభావాలు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The increase in MSP provides a financial incentive that causes farmers to increase paddy sowing area.",
+      "explanation_te": "ప్రభుత్వం మద్దతు ధరను పెంచడం కారణం కాగా, దాని ప్రభావం వల్ల రైతులు సాగు విస్తీర్ణాన్ని పెంచారు."
+    },
+    {
+      "id": 73,
+      "section": "Reasoning",
+      "topic": "Data Sufficiency - Quadratic Equations",
+      "question_en": "What is the value of the positive integer x? Statement I: x^2 - 7x + 12 = 0. Statement II: x is an even number.",
+      "question_te": "ధన పూర్ణాంకం x యొక్క విలువ ఎంత? ప్రవచనం I: x^2 - 7x + 12 = 0. ప్రవచనం II: x ఒక సరి సంఖ్య.",
+      "options_en": [
+        "Statement I alone is sufficient",
+        "Statement II alone is sufficient",
+        "Both I and II together are sufficient",
+        "Both I and II together are not sufficient"
+      ],
+      "options_te": [
+        "ప్రవచనం I మాత్రమే సరిపోతుంది",
+        "ప్రవచనం II మాత్రమే సరిపోతుంది",
+        "I మరియు II రెండూ కలిసి సరిపోతాయి",
+        "I మరియు II రెండూ కలిసినా సరిపోవు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "From I: (x-3)(x-4) = 0 => x = 3 or 4 (two values, not unique). From II: x is even (infinitely many). Combining both, x must be 4. Hence both together are sufficient.",
+      "explanation_te": "I నుండి x = 3 లేదా 4. II నుండి x సరి సంఖ్య. రెండింటినీ కలిపితే x = 4 అని స్పష్టమవుతుంది. కాబట్టి రెండూ కలిపి సమాధానం ఇవ్వడానికి సరిపోతాయి."
+    },
+    {
+      "id": 74,
+      "section": "Reasoning",
+      "topic": "Data Sufficiency - Age Comparison",
+      "question_en": "Is A older than B? Statement I: A is 5 years older than C. Statement II: B is 2 years younger than C.",
+      "question_te": "B కంటే A పెద్దవాడా? ప్రవచనం I: C కంటే A 5 సంవత్సరాలు పెద్ద. ప్రవచనం II: C కంటే B 2 సంవత్సరాలు చిన్న.",
+      "options_en": [
+        "Statement I alone is sufficient",
+        "Statement II alone is sufficient",
+        "Both I and II together are sufficient",
+        "Both I and II together are not sufficient"
+      ],
+      "options_te": [
+        "ప్రవచనం I మాత్రమే సరిపోతుంది",
+        "ప్రవచనం II మాత్రమే సరిపోతుంది",
+        "I మరియు II రెండూ కలిసి సరిపోతాయి",
+        "I మరియు II రెండూ కలిసినా సరిపోవు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "From I: A = C + 5. From II: B = C - 2. Thus A - B = (C + 5) - (C - 2) = 7 years. So A is definitely older than B. Both together are required.",
+      "explanation_te": "I నుండి A = C + 5, II నుండి B = C - 2. రెండింటినీ కలిపితే A - B = 7 సంవత్సరాలు. కాబట్టి A, B కంటే పెద్దవాడని చెప్పడానికి రెండూ అవసరం."
+    },
+    {
+      "id": 75,
+      "section": "Reasoning",
+      "topic": "Mathematical Operations - Substitution",
+      "question_en": "If '+' means '÷', '-' means 'x', 'x' means '+' and '÷' means '-', then what is the value of: 36 + 6 - 3 x 5 ÷ 3?",
+      "question_te": "'+' అనగా '÷', '-' అనగా 'x', 'x' అనగా '+' మరియు '÷' అనగా '-' అయితే: 36 + 6 - 3 x 5 ÷ 3 యొక్క విలువ ఎంత?",
+      "options_en": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "options_te": [
+        "18",
+        "20",
+        "22",
+        "24"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Substituting symbols: 36 ÷ 6 * 3 + 5 - 3 = 6 * 3 + 5 - 3 = 18 + 5 - 3 = 20.",
+      "explanation_te": "గుర్తులను మార్చగా: 36 ÷ 6 * 3 + 5 - 3 = 6 * 3 + 5 - 3 = 18 + 5 - 3 = 20."
+    },
+    {
+      "id": 76,
+      "section": "Reasoning",
+      "topic": "Mathematical Operations - Balancing Signs",
+      "question_en": "Which set of mathematical signs will balance the equation: 24 _ 4 _ 5 _ 4 = 26?",
+      "question_te": "24 _ 4 _ 5 _ 4 = 26 సమీకరణాన్ని సరిచేయు సరైన గుర్తుల సముదాయం ఏది?",
+      "options_en": [
+        "÷, +, x",
+        "+, ÷, x",
+        "x, -, ÷",
+        "+, x, -"
+      ],
+      "options_te": [
+        "÷, +, x",
+        "+, ÷, x",
+        "x, -, ÷",
+        "+, x, -"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Using ÷, +, x: 24 ÷ 4 + 5 * 4 = 6 + 20 = 26. Fits perfectly.",
+      "explanation_te": "24 ÷ 4 + 5 * 4 = 6 + 20 = 26."
+    },
+    {
+      "id": 77,
+      "section": "Reasoning",
+      "topic": "Cubes and Dice - Opposite Faces",
+      "question_en": "Two positions of a dice are shown. In position 1 faces visible are 1, 2, 3. In position 2 faces visible are 1, 5, 6. Which number is opposite to 1?",
+      "question_te": "ఒక పాచిక యొక్క రెండు స్థితులు ఇవ్వబడ్డాయి. మొదటి స్థితిలో 1, 2, 3 కనిపించగా, రెండవ స్థితిలో 1, 5, 6 కనిపిస్తున్నాయి. 1 కి ఎదురుగా ఉండే సంఖ్య ఏది?",
+      "options_en": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "options_te": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Face 1 is adjacent to 2, 3, 5, and 6. The only remaining face that can be opposite to 1 is 4.",
+      "explanation_te": "1 కి పక్క ముఖాలుగా 2, 3, 5, 6 ఉన్నాయి. కాబట్టి 1 కి ఎదురుగా ఉండే ఏకైక సంఖ్య 4."
+    },
+    {
+      "id": 78,
+      "section": "Reasoning",
+      "topic": "Cubes - Painted Faces",
+      "question_en": "A solid wooden cube of side 5 cm is painted red on all six faces and then cut into smaller cubes of side 1 cm each. How many smaller cubes have exactly two faces painted?",
+      "question_te": "5 సెం.మీ. భుజం గల ఒక చెక్క ఘనానికి ఆరు ముఖాలపై ఎరుపు రంగు వేసి, దానిని 1 సెం.మీ. భుజం గల చిన్న ఘనాలుగా కోశారు. రెండు ముఖాలపై మాత్రమే ఎరుపు రంగు ఉన్న చిన్న ఘనాల సంఖ్య ఎంత?",
+      "options_en": [
+        "24",
+        "36",
+        "48",
+        "54"
+      ],
+      "options_te": [
+        "24",
+        "36",
+        "48",
+        "54"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Cubes with 2 faces painted lie along the 12 edges: 12 * (n - 2) = 12 * (5 - 2) = 12 * 3 = 36 cubes.",
+      "explanation_te": "రెండు ముఖాలపై రంగు గల ఘనాలు = 12 * (n - 2) = 12 * (5 - 2) = 36 ఘనాలు."
+    },
+    {
+      "id": 79,
+      "section": "Reasoning",
+      "topic": "Cubes - Unpainted Cubes",
+      "question_en": "In the above question, how many smaller cubes have NO face painted at all?",
+      "question_te": "పై ప్రశ్నలో, ఏ ముఖంపైనా రంగు లేని చిన్న ఘనాల సంఖ్య ఎంత?",
+      "options_en": [
+        "8",
+        "18",
+        "27",
+        "36"
+      ],
+      "options_te": [
+        "8",
+        "18",
+        "27",
+        "36"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Cubes with no face painted = (n - 2)^3 = (5 - 2)^3 = 3^3 = 27 cubes.",
+      "explanation_te": "రంగు లేని ఘనాలు = (n - 2)^3 = (5 - 2)^3 = 3^3 = 27."
+    },
+    {
+      "id": 80,
+      "section": "Reasoning",
+      "topic": "Venn Diagrams - Category Classification",
+      "question_en": "Which of the following descriptions best represents the relationship between: 'Vegetables', 'Potatoes', 'Cabbage'?",
+      "question_te": "'కూరగాయలు', 'బంగాళాదుంపలు', 'క్యాబేజీ' ల మధ్య గల సంబంధాన్ని ఉత్తమంగా సూచించే వర్ణన ఏది?",
+      "options_en": [
+        "Two separate non-intersecting circles inside one large circle",
+        "Three intersecting circles",
+        "Three concentric circles",
+        "Two intersecting circles inside one large circle"
+      ],
+      "options_te": [
+        "ఒక పెద్ద వృత్తం లోపల ఒకదానితో ఒకటి కలవని రెండు వేర్వేరు వృత్తాలు",
+        "ఒకదానితో ఒకటి ఖండించుకునే మూడు వృత్తాలు",
+        "ఏకకేంద్ర వృత్తాలు",
+        "ఒక పెద్ద వృత్తం లోపల ఖండించుకునే రెండు వృత్తాలు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Both Potatoes and Cabbages are distinct types of vegetables. They are mutually exclusive subsets inside the set of Vegetables.",
+      "explanation_te": "బంగాళాదుంప మరియు క్యాబేజీ రెండూ కూరగాయల వర్గానికి చెందినవి, కానీ ఒకదానితో మరొకటి భిన్నమైనవి."
+    },
+    {
+      "id": 81,
+      "section": "Reasoning",
+      "topic": "Venn Diagrams - Quantitative",
+      "question_en": "In a group of 100 students, 60 like Cricket, 50 like Football, and 20 like both games. How many students like neither Cricket nor Football?",
+      "question_te": "100 మంది విద్యార్థుల సమూహంలో, 60 మంది క్రికెట్, 50 మంది ఫుట్‌బాల్, మరియు 20 మంది రెండింటినీ ఇష్టపడతారు. క్రికెట్ లేదా ఫుట్‌బాల్ రెండింటినీ ఇష్టపడని విద్యార్థులు ఎంతమంది?",
+      "options_en": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "options_te": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_option": 0,
+      "explanation_en": "n(C U F) = n(C) + n(F) - n(C ∩ F) = 60 + 50 - 20 = 90. Students liking neither = 100 - 90 = 10.",
+      "explanation_te": "కనీసం ఒక ఆట ఆడేవారు = 60 + 50 - 20 = 90 మంది. ఏ ఆటా ఆడని వారు = 100 - 90 = 10 మంది."
+    },
+    {
+      "id": 82,
+      "section": "Reasoning",
+      "topic": "Decision Making - Eligibility Criteria",
+      "question_en": "For selection of Sub-Inspector: (a) Age between 21 and 25 years as on 01-07-2024. (b) Graduate with min 50% marks. (c) Minimum height 167.6 cm. Ramesh was born on 12-05-2001, completed B.Sc with 62% marks, and his height is 172 cm. What decision should be taken regarding Ramesh?",
+      "question_te": "సబ్-ఇన్‌స్పెక్టర్ శిక్షణ అభ్యర్థి ఎంపిక నిబంధనలు: (a) 01-07-2024 నాటికి వయస్సు 21-25 సం|| మధ్య ఉండాలి. (b) కనీసం 50% మార్కులతో డిగ్రీ ఉత్తీర్ణత. (c) కనీస ఎత్తు 167.6 సెం.మీ. రమేష్ 12-05-2001న జన్మించాడు, 62% మార్కులతో బి.ఎస్సీ పూర్తిచేశాడు, ఎత్తు 172 సెం.మీ. అతని విషయంలో ఏ నిర్ణయం తీసుకోవాలి?",
+      "options_en": [
+        "Candidate is selected",
+        "Candidate is rejected",
+        "Referred to Board Chairman",
+        "Data is inadequate"
+      ],
+      "options_te": [
+        "అభ్యర్థి ఎంపికవుతారు",
+        "అభ్యర్థి తిరస్కరించబడతారు",
+        "బోర్డు చైర్మన్‌కు నివేదించబడును",
+        "సమాచారం అసంపూర్ణం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Age on 01-07-2024 is 23 years (within 21-25). Degree marks 62% (>= 50%). Height 172 cm (>= 167.6 cm). He satisfies all criteria and is selected.",
+      "explanation_te": "రమేష్ వయస్సు 23 సం||, డిగ్రీలో 62% మార్కులు, ఎత్తు 172 సెం.మీ. అన్ని అర్హతలను సంతృప్తిపరిచాడు కాబట్టి ఎంపికవుతాడు."
+    },
+    {
+      "id": 83,
+      "section": "Reasoning",
+      "topic": "Calendars - Calendar Repetition",
+      "question_en": "Which year will have the exact same calendar as that of the year 2024?",
+      "question_te": "2024 వ సంవత్సరం క్యాలెండర్‌తో సరిగ్గా సమానమైన క్యాలెండర్ కలిగిన తర్వాతి సంవత్సరం ఏది?",
+      "options_en": [
+        "2030",
+        "2048",
+        "2052",
+        "2056"
+      ],
+      "options_te": [
+        "2030",
+        "2048",
+        "2052",
+        "2056"
+      ],
+      "correct_option": 2,
+      "explanation_en": "2024 is a leap year. A leap year calendar repeats after 28 years: 2024 + 28 = 2052.",
+      "explanation_te": "2024 లీపు సంవత్సరం. లీపు సంవత్సరం క్యాలెండర్ 28 సంవత్సరాల తర్వాత పునరావృతమవుతుంది: 2024 + 28 = 2052."
+    },
+    {
+      "id": 84,
+      "section": "Reasoning",
+      "topic": "Clocks - Hands Coinciding",
+      "question_en": "How many times do the hands of a clock coincide in a day (24 hours)?",
+      "question_te": "ఒక రోజులో (24 గంటలలో) గడియారంలోని రెండు ముళ్ళు ఎన్నిసార్లు ఏకీభవిస్తాయి (ఒకదానిపై ఒకటి వస్తాయి)?",
+      "options_en": [
+        "20",
+        "22",
+        "24",
+        "44"
+      ],
+      "options_te": [
+        "20",
+        "22",
+        "24",
+        "44"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The hands coincide 11 times in 12 hours (between 11 and 1 they coincide only once at 12). In 24 hours: 11 * 2 = 22 times.",
+      "explanation_te": "12 గంటల్లో 11 సార్లు ఏకీభవిస్తాయి, కాబట్టి 24 గంటల సమయంలో 11 * 2 = 22 సార్లు ఏకీభవిస్తాయి."
+    },
+    {
+      "id": 85,
+      "section": "Reasoning",
+      "topic": "Clocks - Right Angles",
+      "question_en": "How many times do the hands of a clock form a right angle (90°) in a day?",
+      "question_te": "ఒక రోజులో గడియారంలోని రెండు ముళ్ళు ఎన్నిసార్లు లంబకోణాన్ని (90°) ఏర్పరుస్తాయి?",
+      "options_en": [
+        "22",
+        "24",
+        "44",
+        "48"
+      ],
+      "options_te": [
+        "22",
+        "24",
+        "44",
+        "48"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The hands form a right angle 22 times in 12 hours. In 24 hours, they form a right angle 22 * 2 = 44 times.",
+      "explanation_te": "12 గంటల్లో 22 సార్లు లంబకోణం ఏర్పడుతుంది. 24 గంటల్లో 22 * 2 = 44 సార్లు ఏర్పడుతుంది."
+    },
+    {
+      "id": 86,
+      "section": "Reasoning",
+      "topic": "Missing Number in Matrix",
+      "question_en": "Find the missing number (?) in the following 3x3 magic matrix:\n[ 4, 9, 2 ]\n[ 3, 5, 7 ]\n[ 8, 1, ? ]",
+      "question_te": "క్రింది 3x3 మ్యాజిక్ మాత్రికలో లోపించిన సంఖ్య (?) ను కనుగొనండి:\n[ 4, 9, 2 ]\n[ 3, 5, 7 ]\n[ 8, 1, ? ]",
+      "options_en": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "options_te": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Sum of every row, column and diagonal is 15: In Row 3: 8 + 1 + ? = 15 => ? = 6.",
+      "explanation_te": "ప్రతి అడ్డు వరుస, నిలువు వరుస మొత్తం 15. మూడవ వరుసలో: 8 + 1 + ? = 15 => ? = 6."
+    },
+    {
+      "id": 87,
+      "section": "Reasoning",
+      "topic": "Missing Number in Circle",
+      "question_en": "A circle is divided into 4 sectors with numbers 4, 9, 16, ? in clockwise order. What is the value of ?",
+      "question_te": "ఒక వృత్తం 4 భాగాలుగా విభజించబడి సవ్యదిశలో 4, 9, 16, ? సంఖ్యలను కలిగి ఉంది. ? విలువ ఎంత?",
+      "options_en": [
+        "20",
+        "25",
+        "30",
+        "36"
+      ],
+      "options_te": [
+        "20",
+        "25",
+        "30",
+        "36"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The sequence follows squares of consecutive integers: 2^2 = 4, 3^2 = 9, 4^2 = 16, 5^2 = 25.",
+      "explanation_te": "వరుస సంఖ్యల వర్గాలు: 2^2 = 4, 3^2 = 9, 4^2 = 16, 5^2 = 25."
+    },
+    {
+      "id": 88,
+      "section": "Reasoning",
+      "topic": "Non-Verbal - Mirror Image",
+      "question_en": "When a vertical mirror is placed to the right of the word 'POLICE', which of the following is the correct reflection?",
+      "question_te": "'POLICE' అనే పదానికి కుడివైపున నిలువు అద్దం ఉంచినప్పుడు ఏర్పడే సరైన ప్రతిబింబం ఏది?",
+      "options_en": [
+        "ƎƆI⅃Oꟼ",
+        "POLICE",
+        "ECILOP",
+        "ƎƆILOP"
+      ],
+      "options_te": [
+        "ƎƆI⅃Oꟼ",
+        "POLICE",
+        "ECILOP",
+        "ƎƆILOP"
+      ],
+      "correct_option": 0,
+      "explanation_en": "In a vertical mirror, left and right reverse. The last letter E appears first (reversed), C (reversed), I, L (reversed), O, P (reversed) -> ƎƆI⅃Oꟼ.",
+      "explanation_te": "అద్దంలో ఎడమ, కుడిలు తారుమారవుతాయి. అక్షరాలు కుడి నుండి ఎడమకు తారుమారై ƎƆI⅃Oꟼ ఏర్పడుతుంది."
+    },
+    {
+      "id": 89,
+      "section": "Reasoning",
+      "topic": "Non-Verbal - Water Image",
+      "question_en": "Which of the following describes the water image of the letter word 'KICK'?",
+      "question_te": "'KICK' అనే పదం యొక్క నీటి ప్రతిబింబం (water image) ను కనుగొనండి:",
+      "options_en": [
+        "KICK (unchanged)",
+        "KCIC",
+        "Inverted KICK",
+        "Rotated 180°"
+      ],
+      "options_te": [
+        "KICK (మారదు)",
+        "KCIC",
+        "కిందికి తిరిగిన KICK",
+        "180° తిరిగిన KICK"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Letters K, I, C, K all have horizontal line symmetry. Therefore, their water reflection is identical to the original word 'KICK'.",
+      "explanation_te": "K, I, C, K అక్షరాలు క్షితిజ సమాంతర సౌష్టవం కలిగి ఉంటాయి కాబట్టి వాటి నీటి ప్రతిబింబం మారకుండా KICK గానే ఉంటుంది."
+    },
+    {
+      "id": 90,
+      "section": "Reasoning",
+      "topic": "Figure Counting - Chessboard Squares",
+      "question_en": "The total number of squares of all sizes on a standard 8x8 chessboard is:",
+      "question_te": "8x8 ప్రామాణిక చదరంగం బోర్డులో అన్ని పరిమాణాల చతురస్రాల మొత్తం సంఖ్య ఎంత?",
+      "options_en": [
+        "64",
+        "128",
+        "204",
+        "256"
+      ],
+      "options_te": [
+        "64",
+        "128",
+        "204",
+        "256"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Total squares = 1^2 + 2^2 + 3^2 + 4^2 + 5^2 + 6^2 + 7^2 + 8^2 = (8 * 9 * 17) / 6 = 204.",
+      "explanation_te": "చతురస్రాల మొత్తం = 1^2 + 2^2 + ... + 8^2 = (8 * 9 * 17) / 6 = 204."
+    },
+    {
+      "id": 91,
+      "section": "Reasoning",
+      "topic": "Figure Counting - Triangles in Square",
+      "question_en": "How many triangles are there in a square with both its diagonals drawn?",
+      "question_te": "రెండు కర్ణాలు గీసిన ఒక చతురస్రంలో మొత్తం ఎన్ని త్రిభుజాలు ఉంటాయి?",
+      "options_en": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "options_te": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correct_option": 2,
+      "explanation_en": "4 small triangles formed by intersecting diagonals + 4 large triangles formed by halves of the square = 8 triangles.",
+      "explanation_te": "4 చిన్న త్రిభుజాలు + 4 పెద్ద త్రిభుజాలు = మొత్తం 8 త్రిభుజాలు."
+    },
+    {
+      "id": 92,
+      "section": "Reasoning",
+      "topic": "Logical Deduction",
+      "question_en": "If all roses in a garden are red, and some red flowers fade quickly, then which of the following is definitely true?",
+      "question_te": "ఒక తోటలోని గులాబీలన్నీ ఎరుపు రంగులో ఉండి, కొన్ని ఎరుపు పువ్వులు త్వరగా వాడిపోతే, ఈ క్రింది వాటిలో ఏది ఖచ్చితంగా నిజం?",
+      "options_en": [
+        "All roses fade quickly",
+        "Some flowers in the garden are roses",
+        "Some roses may fade quickly",
+        "No roses fade quickly"
+      ],
+      "options_te": [
+        "గులాబీలన్నీ త్వరగా వాడిపోతాయి",
+        "తోటలోని కొన్ని పువ్వులు గులాబీలు",
+        "కొన్ని గులాబీలు త్వరగా వాడిపోయే అవకాశం ఉంది",
+        "ఏ గులాబీ కూడా వాడిపోదు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Since all roses are red and some red flowers fade quickly, some roses may be among the red flowers that fade quickly.",
+      "explanation_te": "గులాబీలన్నీ ఎరుపు రంగులోనే ఉన్నాయి కాబట్టి కొన్ని గులాబీలు వాడిపోయే అవకాశం ఉంటుంది."
+    },
+    {
+      "id": 93,
+      "section": "Reasoning",
+      "topic": "Coded Inequalities",
+      "question_en": "Statement: P >= Q > R = S <= T. Which of the following conclusions is definitely true?",
+      "question_te": "ప్రవచనం: P >= Q > R = S <= T. ఈ క్రింది తీర్మానాలలో ఏది ఖచ్చితంగా నిజం?",
+      "options_en": [
+        "P > S",
+        "P = S",
+        "Q <= S",
+        "P < T"
+      ],
+      "options_te": [
+        "P > S",
+        "P = S",
+        "Q <= S",
+        "P < T"
+      ],
+      "correct_option": 0,
+      "explanation_en": "P >= Q > R and R = S implies P >= Q > S, which strictly means P > S. Hence P > S is definitely true.",
+      "explanation_te": "P >= Q > R మరియు R = S కావున P > S ఖచ్చితంగా నిజం."
+    },
+    {
+      "id": 94,
+      "section": "Reasoning",
+      "topic": "Dictionary Arrangement",
+      "question_en": "Arrange the following words in alphabetical dictionary order:\n1. Police\n2. Policy\n3. Polite\n4. Polish\n5. Pollen",
+      "question_te": "క్రింది పదాలను ఆంగ్ల నిఘంటువు క్రమంలో అమర్చండి:\n1. Police\n2. Policy\n3. Polite\n4. Polish\n5. Pollen",
+      "options_en": [
+        "1, 2, 4, 3, 5",
+        "1, 2, 3, 4, 5",
+        "2, 1, 4, 3, 5",
+        "1, 4, 2, 3, 5"
+      ],
+      "options_te": [
+        "1, 2, 4, 3, 5",
+        "1, 2, 3, 4, 5",
+        "2, 1, 4, 3, 5",
+        "1, 4, 2, 3, 5"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Alphabetical order: Polic-e (1) -> Polic-y (2) -> Polish (4) -> Polit-e (3) -> Poll-en (5). Order is 1, 2, 4, 3, 5.",
+      "explanation_te": "నిఘంటువు క్రమం: Police (1) -> Policy (2) -> Polish (4) -> Polite (3) -> Pollen (5)."
+    },
+    {
+      "id": 95,
+      "section": "Reasoning",
+      "topic": "Arithmetical Reasoning - Heads and Legs",
+      "question_en": "A farmer has some hens and some goats. If the total number of heads is 48 and the total number of legs is 140, how many goats are there?",
+      "question_te": "ఒక రైతు వద్ద కొన్ని కోళ్ళు మరియు కొన్ని మేకలు ఉన్నాయి. మొత్తం తలల సంఖ్య 48 మరియు కాళ్ళ సంఖ్య 140 అయితే, అతని వద్ద ఉన్న మేకల సంఖ్య ఎంత?",
+      "options_en": [
+        "22",
+        "24",
+        "26",
+        "28"
+      ],
+      "options_te": [
+        "22",
+        "24",
+        "26",
+        "28"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Let H = hens and G = goats. H + G = 48. 2H + 4G = 140 => 2(H + G) + 2G = 140 => 96 + 2G = 140 => 2G = 44 => G = 22 goats.",
+      "explanation_te": "H + G = 48, 2H + 4G = 140 => 2G = 140 - 96 = 44 => మేకల సంఖ్య G = 22."
+    },
+    {
+      "id": 96,
+      "section": "Reasoning",
+      "topic": "Arithmetical Reasoning - Handshakes",
+      "question_en": "At a conference of Telangana Police Officers, 15 officers are present. If each officer shakes hands with every other officer exactly once, how many handshakes take place?",
+      "question_te": "తెలంగాణ పోలీస్ అధికారుల సమావేశంలో 15 మంది అధికారులు పాల్గొన్నారు. ప్రతి అధికారి మిగిలిన ప్రతి అధికారితో ఒక్కొక్కసారి మాత్రమే కరచాలనం (హ్యాండ్‌షేక్) చేసుకుంటే, మొత్తం ఎన్ని కరచాలనాలు జరుగుతాయి?",
+      "options_en": [
+        "90",
+        "105",
+        "120",
+        "210"
+      ],
+      "options_te": [
+        "90",
+        "105",
+        "120",
+        "210"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Number of handshakes = n*(n-1)/2 = 15 * 14 / 2 = 105.",
+      "explanation_te": "కరచాలనాల సంఖ్య = n(n-1)/2 = 15 * 14 / 2 = 105."
+    },
+    {
+      "id": 97,
+      "section": "Reasoning",
+      "topic": "Blood Relations - Coded Relations",
+      "question_en": "If 'A + B' means 'A is father of B', 'A - B' means 'A is wife of B', and 'A * B' means 'A is brother of B', then in P * R + Q, how is P related to Q?",
+      "question_te": "'A + B' అనగా 'B కి A తండ్రి', 'A - B' అనగా 'B కి A భార్య', 'A * B' అనగా 'B కి A సోదరుడు' అయితే, P * R + Q లో Q కి P ఏమవుతాడు?",
+      "options_en": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Grandfather"
+      ],
+      "options_te": [
+        "తండ్రి",
+        "బాబాయి / పెద్దనాన్న (Uncle)",
+        "సోదరుడు",
+        "తాతగారు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "R + Q means R is father of Q. P * R means P is brother of R. Brother of father is Uncle (Father's brother).",
+      "explanation_te": "R + Q అనగా Q కి R తండ్రి. P * R అనగా R కి P సోదరుడు. తండ్రి సోదరుడు బాబాయి/పెద్దనాన్న (Uncle) అవుతారు."
+    },
+    {
+      "id": 98,
+      "section": "Reasoning",
+      "topic": "Letter Analogy - Opposite Pairs",
+      "question_en": "Choose the related pair: AZ : BY : : CX : ____",
+      "question_te": "సంబంధిత జతను ఎన్నుకోండి: AZ : BY : : CX : ____",
+      "options_en": [
+        "DW",
+        "DV",
+        "EV",
+        "DU"
+      ],
+      "options_te": [
+        "DW",
+        "DV",
+        "EV",
+        "DU"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A is 1st from start, Z is 1st from end. B is 2nd, Y is 2nd from end. C is 3rd, X is 3rd from end. Next is D (4th from start) and W (4th from end) -> DW.",
+      "explanation_te": "ఆంగ్ల అక్షరమాలలో ఎదురెదురు అక్షరాల జతలు: A-Z, B-Y, C-X, D-W. కాబట్టి సమాధానం DW."
+    },
+    {
+      "id": 99,
+      "section": "Reasoning",
+      "topic": "Number Analogy - Cubes",
+      "question_en": "Select the related number: 5 : 124 : : 7 : ____",
+      "question_te": "సంబంధిత సంఖ్యను ఎన్నుకోండి: 5 : 124 : : 7 : ____",
+      "options_en": [
+        "341",
+        "342",
+        "343",
+        "344"
+      ],
+      "options_te": [
+        "341",
+        "342",
+        "343",
+        "344"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Pattern is n^3 - 1: 5^3 - 1 = 125 - 1 = 124. Similarly, 7^3 - 1 = 343 - 1 = 342.",
+      "explanation_te": "సూత్రం n^3 - 1: 5^3 - 1 = 124. అదే విధంగా 7^3 - 1 = 343 - 1 = 342."
+    },
+    {
+      "id": 100,
+      "section": "Reasoning",
+      "topic": "Logical Sequence of Events",
+      "question_en": "Arrange the following events in a meaningful logical sequence:\n1. FIR\n2. Crime\n3. Investigation\n4. Arrest\n5. Court Trial\n6. Judgement",
+      "question_te": "క్రింది సంఘటనలను అర్థవంతమైన తార్కిక క్రమంలో అమర్చండి:\n1. ఎఫ్.ఐ.ఆర్ (FIR)\n2. నేరం (Crime)\n3. దర్యాప్తు (Investigation)\n4. అరెస్టు (Arrest)\n5. కోర్టు విచారణ (Court Trial)\n6. తీర్పు (Judgement)",
+      "options_en": [
+        "2, 1, 3, 4, 5, 6",
+        "1, 2, 3, 4, 5, 6",
+        "2, 3, 1, 4, 5, 6",
+        "2, 1, 4, 3, 5, 6"
+      ],
+      "options_te": [
+        "2, 1, 3, 4, 5, 6",
+        "1, 2, 3, 4, 5, 6",
+        "2, 3, 1, 4, 5, 6",
+        "2, 1, 4, 3, 5, 6"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Natural logical order: Crime occurs (2) -> FIR registered (1) -> Police Investigation (3) -> Accused Arrested (4) -> Court Trial (5) -> Final Judgement (6).",
+      "explanation_te": "తార్కిక క్రమం: నేరం జరగడం (2) -> FIR నమోదు (1) -> దర్యాప్తు (3) -> అరెస్టు (4) -> కోర్టు విచారణ (5) -> తీర్పు (6)."
+    }
+  ]
+}
