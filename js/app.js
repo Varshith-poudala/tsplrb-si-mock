@@ -7,13 +7,13 @@
 (function () {
   'use strict';
 
-  // Constants
-  const TOTAL_QUESTIONS = 100;
+  // Constants & Variables
+  let TOTAL_QUESTIONS = 200;
   const QUESTIONS_PER_PAGE = 10;
-  const TOTAL_PAGES = 10;
+  let TOTAL_PAGES = 20;
   const EXAM_DURATION_SECONDS = 3 * 60 * 60; // 3 Hours (10800s)
   const NEGATIVE_MARK = 0.20;
-  let currentStorageKey = 'tsplrb_mock_test_1_state';
+  let currentStorageKey = 'tsplrb_mock_test_full_200_state';
 
   // App State
   let state = {
@@ -82,7 +82,7 @@
     try {
       // Determine test file from URL or dropdown
       const urlParams = new URLSearchParams(window.location.search);
-      let selectedTest = urlParams.get('test') || (testSelect ? testSelect.value : 'mock_test_3.json');
+      let selectedTest = urlParams.get('test') || (testSelect ? testSelect.value : 'mock_test_full_200.json');
       currentStorageKey = `tsplrb_${selectedTest.replace('.json', '')}_state`;
 
       if (testSelect) {
@@ -119,18 +119,40 @@
         const correctAns = (q.correct_answer !== undefined) ? q.correct_answer : 
                            (q.correct_option !== undefined ? q.correct_option : 0);
 
+        let defaultSec = 'General Studies';
+        if (qIndex < 50) defaultSec = 'Arithmetic';
+        else if (qIndex < 100) defaultSec = 'Reasoning & Mental Ability';
+
         return {
           id: q.id || (qIndex + 1),
-          section: q.section || (qIndex < 50 ? 'Arithmetic' : 'Reasoning & Mental Ability'),
+          section: q.section || defaultSec,
           topic: q.topic || 'General',
           question_en: q.question_en || '',
           question_te: q.question_te || q.question_en || '',
           options: opts,
           correct_answer: correctAns,
-          explanation_en: q.explanation_en || 'Refer to standard formula.',
-          explanation_te: q.explanation_te || q.explanation_en || 'ప్రామాణిక సూత్రాన్ని చూడండి.'
+          explanation_en: q.explanation_en || 'Refer to official solution.',
+          explanation_te: q.explanation_te || q.explanation_en || 'వివరణ చూడండి.'
         };
       });
+
+      TOTAL_QUESTIONS = state.questions.length;
+      TOTAL_PAGES = Math.ceil(TOTAL_QUESTIONS / QUESTIONS_PER_PAGE);
+
+      if (jumpInput) {
+        jumpInput.max = TOTAL_QUESTIONS;
+        jumpInput.placeholder = `1-${TOTAL_QUESTIONS}`;
+      }
+
+      const palTitle = document.getElementById('paletteTitle');
+      if (palTitle) {
+        palTitle.textContent = `Question Palette (${TOTAL_QUESTIONS} Qs)`;
+      }
+
+      const heroTitleDisplay = document.getElementById('heroTitleDisplay');
+      if (heroTitleDisplay && data.title) {
+        heroTitleDisplay.textContent = data.title;
+      }
       
       // Load saved state if available
       loadSavedState();
@@ -178,6 +200,8 @@
           goToPage(1);
         } else if (section === 'reasoning') {
           goToPage(6);
+        } else if (section === 'gs') {
+          goToPage(11);
         }
       });
     });
@@ -348,7 +372,7 @@
       html += `
         <div class="question-card" id="qCard_${q.id}">
           <div class="question-card-header">
-            <span class="q-badge">Question ${q.id} of 100</span>
+            <span class="q-badge">Question ${q.id} of ${TOTAL_QUESTIONS}</span>
             <div class="q-meta">
               <span class="q-section-pill">${q.section} (${q.topic})</span>
               <span class="q-marks-pill">+1.0, -0.20</span>
@@ -503,7 +527,9 @@
     if (state.paletteFilter === 'arithmetic') {
       filteredQuestions = state.questions.filter(q => q.id <= 50);
     } else if (state.paletteFilter === 'reasoning') {
-      filteredQuestions = state.questions.filter(q => q.id > 50);
+      filteredQuestions = state.questions.filter(q => q.id > 50 && q.id <= 100);
+    } else if (state.paletteFilter === 'gs') {
+      filteredQuestions = state.questions.filter(q => q.id > 100);
     }
 
     let html = '';
@@ -599,22 +625,31 @@
     // Sectional Breakdown
     let arithTotal = 50, arithAttempted = 0, arithCorrect = 0, arithWrong = 0;
     let reasTotal = 50, reasAttempted = 0, reasCorrect = 0, reasWrong = 0;
+    let gsTotal = Math.max(0, state.questions.length - 100), gsAttempted = 0, gsCorrect = 0, gsWrong = 0;
 
     state.questions.forEach(q => {
       const userChoice = state.userAnswers[q.id];
       const isArith = (q.id <= 50);
+      const isReas = (q.id > 50 && q.id <= 100);
+      const isGs = (q.id > 100);
 
       if (userChoice === undefined) {
         unattempted++;
       } else {
-        if (isArith) arithAttempted++; else reasAttempted++;
+        if (isArith) arithAttempted++;
+        else if (isReas) reasAttempted++;
+        else if (isGs) gsAttempted++;
 
         if (userChoice === q.correct_answer) {
           correct++;
-          if (isArith) arithCorrect++; else reasCorrect++;
+          if (isArith) arithCorrect++;
+          else if (isReas) reasCorrect++;
+          else if (isGs) gsCorrect++;
         } else {
           wrong++;
-          if (isArith) arithWrong++; else reasWrong++;
+          if (isArith) arithWrong++;
+          else if (isReas) reasWrong++;
+          else if (isGs) gsWrong++;
         }
       }
     });
@@ -635,7 +670,7 @@
     document.getElementById('resultCandidateName').textContent = `${state.candidateName} - TSPLRB SI Prelims Scorecard`;
     document.getElementById('resultTimestamp').textContent = `Submitted on ${new Date().toLocaleString()}`;
 
-    document.getElementById('resFinalScore').textContent = `${netScore.toFixed(2)} / 100`;
+    document.getElementById('resFinalScore').textContent = `${netScore.toFixed(2)} / ${TOTAL_QUESTIONS}`;
     document.getElementById('resPercentage').textContent = `${percentage}% Net Marks`;
     document.getElementById('resCorrect').textContent = correct;
     document.getElementById('resWrong').textContent = wrong;
@@ -648,9 +683,11 @@
     const arithAcc = arithAttempted > 0 ? ((arithCorrect / arithAttempted) * 100).toFixed(1) : '0.0';
     const reasScore = Math.max(0, reasCorrect * 1.0 - reasWrong * NEGATIVE_MARK);
     const reasAcc = reasAttempted > 0 ? ((reasCorrect / reasAttempted) * 100).toFixed(1) : '0.0';
+    const gsScore = Math.max(0, gsCorrect * 1.0 - gsWrong * NEGATIVE_MARK);
+    const gsAcc = gsAttempted > 0 ? ((gsCorrect / gsAttempted) * 100).toFixed(1) : '0.0';
 
     const sectionBody = document.getElementById('sectionSummaryBody');
-    sectionBody.innerHTML = `
+    let tableRows = `
       <tr>
         <td><strong>Part A: Arithmetic (అంకగణితం)</strong></td>
         <td>${arithTotal}</td>
@@ -669,16 +706,34 @@
         <td><strong>${reasScore.toFixed(2)}</strong></td>
         <td>${reasAcc}%</td>
       </tr>
+    `;
+
+    if (gsTotal > 0) {
+      tableRows += `
+      <tr>
+        <td><strong>Part C: General Studies (జనరల్ స్టడీస్)</strong></td>
+        <td>${gsTotal}</td>
+        <td>${gsAttempted}</td>
+        <td style="color:#16a34a; font-weight:700;">${gsCorrect}</td>
+        <td style="color:#dc2626; font-weight:700;">${gsWrong}</td>
+        <td><strong>${gsScore.toFixed(2)}</strong></td>
+        <td>${gsAcc}%</td>
+      </tr>
+      `;
+    }
+
+    tableRows += `
       <tr style="background:#f8fafc; font-weight:800;">
         <td>Total</td>
-        <td>100</td>
+        <td>${TOTAL_QUESTIONS}</td>
         <td>${totalAttempted}</td>
         <td style="color:#16a34a;">${correct}</td>
         <td style="color:#dc2626;">${wrong}</td>
-        <td style="color:#1d4ed8; font-size:1.05rem;">${netScore.toFixed(2)} / 100</td>
+        <td style="color:#1d4ed8; font-size:1.05rem;">${netScore.toFixed(2)} / ${TOTAL_QUESTIONS}</td>
         <td>${accuracy}%</td>
       </tr>
     `;
+    sectionBody.innerHTML = tableRows;
 
     renderSolutions();
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -776,10 +831,11 @@
   function shareMockTestWhatsapp() {
     const currentUrl = window.location.href.split('#')[0];
     const text = encodeURIComponent(
-      `🚨 *TSPLRB SI Prelims Daily Mock Test Series 2026* 🚨\n\n` +
-      `Prepare for upcoming Telangana Police Sub-Inspector (SI) Preliminary Exam with authentic full-length practice tests!\n\n` +
+      `🚨 *TSPLRB SI Prelims Full Mock Test (200 Questions)* 🚨\n\n` +
+      `Prepare for upcoming Telangana Police Sub-Inspector (SI) Preliminary Exam with the complete 200-question practice test!\n\n` +
       `📝 *Exam Details:*\n` +
-      `• 100 Questions (50 Arithmetic + 50 Reasoning)\n` +
+      `• 200 Questions (50 Arithmetic + 50 Reasoning + 100 General Studies)\n` +
+      `• Includes Telangana History, Movement & Latest Current Affairs\n` +
       `• Bilingual (English & Telugu)\n` +
       `• 3 Hours Real CBT Timer\n` +
       `• Negative Marking (-0.20) & Instant Detailed Solutions\n\n` +
@@ -796,13 +852,13 @@
     const wrong = document.getElementById('resWrong').textContent;
 
     const text = encodeURIComponent(
-      `🎯 *TSPLRB SI Prelims Mock Test 01 Result* 🎯\n` +
+      `🎯 *TSPLRB SI Prelims Full Mock Test Result* 🎯\n` +
       `Candidate: *${state.candidateName}*\n\n` +
       `🏆 *Final Score:* ${score}\n` +
       `✅ *Correct Answers:* ${correct}\n` +
       `❌ *Wrong Answers:* ${wrong}\n` +
       `🎯 *Accuracy:* ${accuracy}\n\n` +
-      `Can you beat my score? Take the daily mock test here:\n${currentUrl}`
+      `Can you beat my score? Take the full mock test here:\n${currentUrl}`
     );
     window.open(`https://api.whatsapp.com/send?text=${text}`, '_blank');
   }

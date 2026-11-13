@@ -39,7 +39,7 @@
         
         <div class="jump-box">
           <label for="jumpInput">Jump to Q#:</label>
-          <input type="number" id="jumpInput" min="1" max="100" placeholder="1-100" />
+          <input type="number" id="jumpInput" min="1" max="200" placeholder="1-200" />
           <button id="jumpBtn" class="btn btn-sm btn-secondary" title="Jump to question">Go</button>
         </div>
 
@@ -62,17 +62,17 @@
     <!-- ================= VIEW 1: HOME & INSTRUCTIONS ================= -->
     <section id="homeView" class="view-panel active">
       <div class="home-hero">
-        <div class="hero-badge">TSPLRB SI PRELIMS 2026 MOCK TEST SERIES</div>
-        <h2 class="hero-title" id="heroTitleDisplay">Daily Full-Length Practice Test 03</h2>
-        <p class="hero-telugu">తెలంగాణ స్టేట్ లెవల్ పోలీస్ రిక్రూట్‌మెంట్ బోర్డు - సబ్ ఇన్‌స్పెక్టర్ ప్రిలిమ్స్ మాక్ టెస్ట్</p>
+        <div class="hero-badge">TSPLRB SI PRELIMS 2026 OFFICIAL PATTERN</div>
+        <h2 class="hero-title" id="heroTitleDisplay">Full-Length Mock Test (200 Questions)</h2>
+        <p class="hero-telugu">తెలంగాణ స్టేట్ లెవల్ పోలీస్ రిక్రూట్‌మెంట్ బోర్డు - సబ్ ఇన్‌స్పెక్టర్ ప్రిలిమ్స్ పూర్తి స్థాయి మాక్ టెస్ట్ (200 మార్కులు)</p>
         
         <div class="exam-stats-bar">
           <div class="stat-item">
-            <span class="stat-number">100</span>
+            <span class="stat-number">200</span>
             <span class="stat-label">Questions (ప్రశ్నలు)</span>
           </div>
           <div class="stat-item">
-            <span class="stat-number">100</span>
+            <span class="stat-number">200</span>
             <span class="stat-label">Total Marks (మార్కులు)</span>
           </div>
           <div class="stat-item">
@@ -87,28 +87,42 @@
       </div>
 
       <div class="instructions-card">
-        <h3>Exam Syllabus & Structure (పరీక్ష విధానం మరియు సిలబస్)</h3>
-        <div class="section-grid">
+        <h3>Exam Syllabus & Structure (పరీక్ష విధానం మరియు పూర్తి సిలబస్)</h3>
+        <div class="section-grid" style="grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));">
           <div class="section-box">
             <h4>Part A: Arithmetic (అంకగణితం)</h4>
             <p><strong>50 Questions (Q1 to Q50)</strong></p>
             <ul>
-              <li>Number Systems, LCM & HCF, Decimals & Fractions</li>
-              <li>Ratio & Proportion, Averages, Ages, Partnerships</li>
+              <li>Number Systems, Divisibility Rules, LCM & HCF</li>
+              <li>Ratio & Proportion, Partnerships, Ages, Averages</li>
               <li>Percentages, Profit & Loss, Simple & Compound Interest</li>
-              <li>Time & Work, Pipes & Cisterns, Time, Speed & Distance, Trains, Boats</li>
-              <li>Mensuration (2D & 3D Area, Volume), Data Interpretation</li>
+              <li>Time & Work, Pipes & Cisterns, Speed, Distance & Trains, Boats</li>
+              <li>2D & 3D Mensuration, Progressions, Data Interpretation</li>
             </ul>
           </div>
           <div class="section-box">
-            <h4>Part B: Reasoning & Mental Ability (రీజనింగ్ & మానసిక సామర్థ్యం)</h4>
+            <h4>Part B: Reasoning & Mental Ability (రీజనింగ్)</h4>
             <p><strong>50 Questions (Q51 to Q100)</strong></p>
             <ul>
-              <li>Analogy, Classification (Odd One Out), Series (Number & Letter)</li>
-              <li>Coding-Decoding, Blood Relations, Direction & Distance</li>
-              <li>Order & Ranking, Sitting Arrangement, Syllogisms & Venn Diagrams</li>
-              <li>Clocks & Calendars, Arithmetical Reasoning, Math Operations</li>
-              <li>Non-Verbal: Mirror/Water Images, Paper Folding, Pattern Completion</li>
+              <li>Number & Letter Series, Analogies, Odd-One-Out</li>
+              <li>Coding-Decoding, Blood Relations, Direction & Distance Sense</li>
+              <li>Order & Ranking, Linear & Circular Seating Arrangement</li>
+              <li>Syllogisms & Venn Diagrams, Clocks & Calendars, Math Operations</li>
+              <li>Non-Verbal: Mirror/Water Images, Paper Folding, Critical Reasoning</li>
+            </ul>
+          </div>
+          <div class="section-box" style="border-left-color: #10b981;">
+            <h4>Part C: General Studies (జనరల్ స్టడీస్)</h4>
+            <p><strong>100 Questions (Q101 to Q200)</strong></p>
+            <ul>
+              <li><strong>Current Affairs (Q101–115)</strong>: International, National, Sports, Awards & TG schemes</li>
+              <li><strong>General Science & Environment (Q116–130)</strong>: Physics, Chemistry, Biology, Ecology</li>
+              <li><strong>History of India (Q131–145)</strong>: Ancient, Medieval, Modern & Freedom Struggle</li>
+              <li><strong>Geography (Q146–157)</strong>: Indian & Telangana Rivers, Projects, Minerals & Climate</li>
+              <li><strong>Indian Polity (Q158–170)</strong>: Constitution, Fundamental Rights, Parliament, Judiciary</li>
+              <li><strong>Economy (Q171–180)</strong>: RBI, Monetary Policy, GDP, Budget & Telangana Economy</li>
+              <li><strong>Telangana History & Culture (Q181–190)</strong>: Satavahanas, Kakatiyas, Nizams, Jatharas, Arts</li>
+              <li><strong>Telangana Movement (Q191–200)</strong>: 1948, 1952 Mulki, 1969, TJAC, 2014 Statehood</li>
             </ul>
           </div>
         </div>
@@ -116,11 +130,11 @@
         <div class="guidelines-box">
           <h4>Candidate Instructions (ముఖ్య గమనికలు):</h4>
           <ol>
-            <li>This mock test contains <strong>100 bilingual questions</strong> (English and Telugu).</li>
+            <li>This mock test contains <strong>200 bilingual questions</strong> (English and Telugu) strictly adhering to the official TSPLRB SI Prelims pattern.</li>
             <li>Each correct answer earns <strong>+1.0 mark</strong>. For every wrong answer, <strong>0.20 marks</strong> will be deducted.</li>
             <li>Test duration is exactly <strong>3 Hours (180 minutes)</strong>. The timer starts automatically once you click "Start Test".</li>
-            <li>Each page displays <strong>10 questions</strong>. You can navigate between pages using pagination buttons or jump directly to any question number (1–100).</li>
-            <li>Use the <strong>Question Palette</strong> on the sidebar to check answered, unattempted, and flagged questions.</li>
+            <li>Each page displays <strong>10 questions</strong> across 20 pages. You can navigate between pages or jump directly to any question number (1–200).</li>
+            <li>Use the <strong>Category Tabs</strong> and <strong>Question Palette</strong> to navigate between Arithmetic, Reasoning, and General Studies seamlessly.</li>
             <li>Your answers are saved locally in real-time. If the page is refreshed, your test will resume without losing state.</li>
           </ol>
         </div>
@@ -129,9 +143,10 @@
           <div style="margin-bottom: 1rem;">
             <label for="testSelect">Select Mock Test / మాక్ టెస్ట్ ఎంచుకోండి:</label>
             <select id="testSelect" style="width: 100%; padding: 0.65rem 1rem; border: 2px solid #cbd5e1; border-radius: 8px; font-size: 0.95rem; background: #ffffff;">
-              <option value="mock_test_3.json" selected>Daily Mock Test 03 (Today's Live Test - 100 Questions)</option>
-              <option value="mock_test_2.json">Daily Mock Test 02 (Full Length Practice Paper)</option>
-              <option value="mock_test_1.json">Daily Mock Test 01 (Full Length Practice Paper)</option>
+              <option value="mock_test_full_200.json" selected>TSPLRB SI Prelims Full Paper (200 Questions - Official Pattern)</option>
+              <option value="mock_test_3.json">Daily Mock Test 03 (100 Questions - Arith & Reas)</option>
+              <option value="mock_test_2.json">Daily Mock Test 02 (100 Questions - Arith & Reas)</option>
+              <option value="mock_test_1.json">Daily Mock Test 01 (100 Questions - Arith & Reas)</option>
             </select>
           </div>
 
@@ -152,12 +167,13 @@
       <!-- Section Switcher Bar -->
       <div class="section-nav-bar">
         <div class="section-tabs">
-          <button class="section-tab active" data-section="all">All (100 Qs)</button>
-          <button class="section-tab" data-section="arithmetic">Part A: Arithmetic (Q1 - 50)</button>
-          <button class="section-tab" data-section="reasoning">Part B: Reasoning (Q51 - 100)</button>
+          <button class="section-tab active" data-section="all" id="tabAll">All Questions</button>
+          <button class="section-tab" data-section="arithmetic">Part A: Arithmetic (1-50)</button>
+          <button class="section-tab" data-section="reasoning">Part B: Reasoning (51-100)</button>
+          <button class="section-tab" data-section="gs">Part C: General Studies (101-200)</button>
         </div>
         <div class="page-range-badge">
-          <span id="currentPageIndicator">Page 1 of 10</span>
+          <span id="currentPageIndicator">Page 1 of 20</span>
           <span class="subtext" id="currentQuestionRange">(Questions 1 to 10)</span>
         </div>
       </div>
@@ -200,16 +216,17 @@
 
           <!-- Section Filter in Sidebar -->
           <div class="sidebar-card">
-            <h3 class="sidebar-title">Question Palette (100 Qs)</h3>
+            <h3 class="sidebar-title" id="paletteTitle">Question Palette</h3>
             <div class="palette-filter-tabs">
-              <button class="pal-tab active" data-filter="all">All (100)</button>
-              <button class="pal-tab" data-filter="arithmetic">Arithmetic (1-50)</button>
-              <button class="pal-tab" data-filter="reasoning">Reasoning (51-100)</button>
+              <button class="pal-tab active" data-filter="all">All</button>
+              <button class="pal-tab" data-filter="arithmetic">Arith (1-50)</button>
+              <button class="pal-tab" data-filter="reasoning">Reas (51-100)</button>
+              <button class="pal-tab" data-filter="gs">GS (101-200)</button>
             </div>
 
-            <!-- Question Number Grid (1-100) -->
+            <!-- Question Number Grid -->
             <div id="questionGrid" class="question-grid">
-              <!-- 100 buttons injected by app.js -->
+              <!-- buttons injected by app.js -->
             </div>
           </div>
 
