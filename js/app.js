@@ -13,7 +13,7 @@
   const TOTAL_PAGES = 10;
   const EXAM_DURATION_SECONDS = 3 * 60 * 60; // 3 Hours (10800s)
   const NEGATIVE_MARK = 0.20;
-  const STORAGE_KEY = 'tsplrb_mock_test_1_state';
+  let currentStorageKey = 'tsplrb_mock_test_1_state';
 
   // App State
   let state = {
@@ -82,11 +82,13 @@
     try {
       // Determine test file from URL or dropdown
       const urlParams = new URLSearchParams(window.location.search);
-      let selectedTest = urlParams.get('test') || (testSelect ? testSelect.value : 'mock_test_1.json');
+      let selectedTest = urlParams.get('test') || (testSelect ? testSelect.value : 'mock_test_3.json');
+      currentStorageKey = `tsplrb_${selectedTest.replace('.json', '')}_state`;
+
       if (testSelect) {
         testSelect.value = selectedTest;
         testSelect.addEventListener('change', (e) => {
-          localStorage.removeItem(STORAGE_KEY);
+          localStorage.removeItem(currentStorageKey);
           window.location.search = `?test=${e.target.value}`;
         });
       }
@@ -808,7 +810,7 @@
   // Retake Exam
   function retakeExam() {
     if (confirm('Are you sure you want to retake the exam? Your previous responses will be cleared.')) {
-      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(currentStorageKey);
       window.location.reload();
     }
   }
@@ -816,7 +818,7 @@
   // Local Storage Save / Load
   function saveState() {
     try {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify({
+      localStorage.setItem(currentStorageKey, JSON.stringify({
         candidateName: state.candidateName,
         currentPage: state.currentPage,
         userAnswers: state.userAnswers,
@@ -835,7 +837,7 @@
 
   function loadSavedState() {
     try {
-      const saved = localStorage.getItem(STORAGE_KEY);
+      const saved = localStorage.getItem(currentStorageKey);
       if (saved) {
         const parsed = JSON.parse(saved);
         state = { ...state, ...parsed };
