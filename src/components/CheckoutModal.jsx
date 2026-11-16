@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 
-export default function CheckoutModal({ isOpen, onClose, onSuccess }) {
+export default function CheckoutModal({ isOpen, onClose, onSuccess, targetTestId }) {
   const { user, refreshUser } = useAuth();
   const navigate = useNavigate();
 
@@ -137,6 +137,8 @@ export default function CheckoutModal({ isOpen, onClose, onSuccess }) {
               onClose();
               if (onSuccess) {
                 onSuccess(response.razorpay_payment_id);
+              } else if (targetTestId) {
+                navigate(`/exam/${targetTestId}`);
               } else {
                 navigate('/payment/status?status=success&payment_id=' + response.razorpay_payment_id);
               }

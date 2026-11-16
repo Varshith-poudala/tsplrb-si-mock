@@ -6,6 +6,7 @@ export default function PaymentStatus() {
   const [searchParams] = useSearchParams();
   const status = searchParams.get('status');
   const paymentId = searchParams.get('payment_id');
+  const targetTest = searchParams.get('target_test') || 'tsplrb-si-mock-full-200';
 
   const isSuccess = status === 'success';
 
@@ -19,30 +20,39 @@ export default function PaymentStatus() {
               <CheckCircle2 className="w-8 h-8" />
             </div>
 
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-50 text-emerald-700 text-xs font-bold mb-3 border border-emerald-200">
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-50 dark:bg-emerald-950 text-emerald-700 dark:text-emerald-300 text-xs font-bold mb-3 border border-emerald-200 dark:border-emerald-800">
               <Crown className="w-3.5 h-3.5" />
               <span>Full Access Activated</span>
             </div>
 
             <h1 className="text-xl font-bold text-slate-900 dark:text-white mb-2">Payment Successful!</h1>
             <p className="text-xs text-slate-600 dark:text-slate-400 mb-6 leading-relaxed">
-              Your transaction has been verified. All 5 full 200-question mock tests are unlocked permanently on your account.
+              Your transaction has been verified. All full 200-question mock tests are unlocked permanently on your account.
             </p>
 
             {paymentId && (
               <div className="bg-slate-50 dark:bg-slate-950 border border-slate-200 dark:border-slate-800 p-3 rounded-xl mb-6 text-xs text-slate-500">
                 <span className="font-semibold text-slate-700 dark:text-slate-300">Payment Reference: </span>
-                <span className="font-mono text-blue-600">{paymentId}</span>
+                <span className="font-mono text-blue-600 dark:text-blue-400">{paymentId}</span>
               </div>
             )}
 
-            <Link
-              to="/dashboard"
-              className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs py-3 rounded-xl transition-colors shadow-xs flex items-center justify-center gap-1.5"
-            >
-              <span>Go to Candidate Dashboard</span>
-              <ArrowRight className="w-4 h-4" />
-            </Link>
+            <div className="space-y-3">
+              <Link
+                to={`/exam/${targetTest}`}
+                className="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs py-3 rounded-xl transition-all shadow-md flex items-center justify-center gap-1.5"
+              >
+                <span>Start Full Exam Now</span>
+                <ArrowRight className="w-4 h-4" />
+              </Link>
+
+              <Link
+                to="/dashboard"
+                className="w-full bg-slate-100 dark:bg-slate-800 hover:bg-slate-200 dark:hover:bg-slate-700 text-slate-800 dark:text-slate-200 font-bold text-xs py-2.5 rounded-xl transition-colors flex items-center justify-center gap-1.5"
+              >
+                <span>Go to Candidate Dashboard</span>
+              </Link>
+            </div>
           </>
         ) : (
           <>

@@ -251,6 +251,7 @@ export default function Dashboard() {
   const [difficultyFilter, setDifficultyFilter] = useState('all');
   const [selectedTestForModal, setSelectedTestForModal] = useState(null);
   const [showCheckoutModal, setShowCheckoutModal] = useState(false);
+  const [targetUnlockTest, setTargetUnlockTest] = useState('tsplrb-si-mock-full-200');
 
   // Read in-progress tests strictly scoped to the active candidate account
   useEffect(() => {
@@ -543,7 +544,10 @@ export default function Dashboard() {
 
             {!isPaid && (
               <button
-                onClick={() => setShowCheckoutModal(true)}
+                onClick={() => {
+                  setTargetUnlockTest('tsplrb-si-mock-full-200');
+                  setShowCheckoutModal(true);
+                }}
                 className="bg-blue-600 hover:bg-blue-700 text-white text-xs font-bold px-3.5 py-2 rounded-xl transition-colors shadow-xs flex items-center gap-1.5 cursor-pointer"
               >
                 <Lock className="w-3.5 h-3.5" />
@@ -1017,7 +1021,10 @@ export default function Dashboard() {
                           <span>Locked</span>
                         </span>
                         <button
-                          onClick={() => setShowCheckoutModal(true)}
+                          onClick={() => {
+                            setTargetUnlockTest(test.testId);
+                            setShowCheckoutModal(true);
+                          }}
                           className="bg-blue-600 hover:bg-blue-700 text-white font-bold text-xs px-3.5 py-1.5 rounded-lg transition-colors flex items-center gap-1 shadow-xs cursor-pointer"
                         >
                           <Lock className="w-3 h-3" />
@@ -1156,6 +1163,11 @@ export default function Dashboard() {
       <CheckoutModal
         isOpen={showCheckoutModal}
         onClose={() => setShowCheckoutModal(false)}
+        targetTestId={targetUnlockTest}
+        onSuccess={() => {
+          setShowCheckoutModal(false);
+          navigate(`/exam/${targetUnlockTest || 'tsplrb-si-mock-full-200'}`);
+        }}
       />
 
     </main>
