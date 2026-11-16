@@ -449,6 +449,17 @@ export default function Dashboard() {
       isFree: false,
       description: 'Official 200Q Standard Blueprint: 50 Arithmetic + 50 Reasoning + 100 General Studies & Telangana Movement.',
     },
+    {
+      testId: 'tsplrb-si-mock-full-200-9',
+      title: 'TSPLRB SI Mock Test 9 (Advanced Practice & 2026 High-Yield PWT)',
+      difficulty: 'Hard',
+      badge: 'HARD • ADVANCED 2026 PWT',
+      questions: 200,
+      duration: '180 Mins (3 Hrs)',
+      marks: 200,
+      isFree: false,
+      description: 'Advanced Practice Paper integrating latest 2026 faculty questions, Telangana policies (HYDRAA, Bhoo Bharati, Caste Survey, Musi Project), and comprehensive Arithmetic & Reasoning.',
+    },
   ];
 
   const filteredTests = testCatalog.filter(

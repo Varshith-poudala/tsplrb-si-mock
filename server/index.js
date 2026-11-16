@@ -489,6 +489,20 @@ const TEST_CATALOG = [
     isFreeDemo: false,
     description: 'Official 200Q Standard Blueprint: 50 Arithmetic + 50 Reasoning + 100 General Studies & Telangana Movement.',
   },
+  {
+    testId: 'tsplrb-si-mock-full-200-9',
+    title: 'TSPLRB SI Mock Test 9 (Advanced Practice & 2026 High-Yield PWT)',
+    title_te: 'తెలంగాణ ఎస్సై మాక్ టెస్ట్ 9 (అడ్వాన్స్డ్ ప్రాక్టీస్ & 2026 స్పెషల్ PWT)',
+    exam: 'TSPLRB Sub-Inspector Preliminary Written Test (PWT)',
+    difficulty: 'Hard',
+    totalQuestions: 200,
+    totalMarks: 200,
+    durationMinutes: 180,
+    marksPerQuestion: 1.0,
+    negativeMarking: 0.20,
+    isFreeDemo: false,
+    description: 'Advanced Practice Paper integrating latest 2026 faculty questions, Telangana policies (HYDRAA, Bhoo Bharati, Caste Survey, Musi Project), and comprehensive Arithmetic & Reasoning.',
+  },
 ];
 
 app.get('/api/tests', async (req, res) => {
@@ -560,6 +574,7 @@ app.get('/api/tests/:id/questions', async (req, res) => {
     else if (id === 'tsplrb-si-mock-full-200-6') fileName = 'mock_test_full_200_6.json';
     else if (id === 'tsplrb-si-mock-full-200-7') fileName = 'mock_test_full_200_7.json';
     else if (id === 'tsplrb-si-mock-full-200-8') fileName = 'mock_test_full_200_8.json';
+    else if (id === 'tsplrb-si-mock-full-200-9') fileName = 'mock_test_full_200_9.json';
 
     const localFilePath = path.join(process.cwd(), 'public/data', fileName);
     let questionsData = [];
@@ -626,6 +641,7 @@ app.post('/api/tests/:id/submit', async (req, res) => {
     else if (id === 'tsplrb-si-mock-full-200-6') fileName = 'mock_test_full_200_6.json';
     else if (id === 'tsplrb-si-mock-full-200-7') fileName = 'mock_test_full_200_7.json';
     else if (id === 'tsplrb-si-mock-full-200-8') fileName = 'mock_test_full_200_8.json';
+    else if (id === 'tsplrb-si-mock-full-200-9') fileName = 'mock_test_full_200_9.json';
 
     const localFilePath = path.join(process.cwd(), 'public/data', fileName);
     let masterQuestions = [];
