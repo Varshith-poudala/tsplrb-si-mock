@@ -137,7 +137,10 @@ app.post('/api/auth/login', async (req, res) => {
       return res.status(400).json({ error: 'Email is required' });
     }
     const cleanEmail = email.toLowerCase().trim();
-    await connectToDatabase();
+    const db = await connectToDatabase();
+    if (!db) {
+      return res.status(503).json({ error: 'Database connection failed. Please ensure MongoDB Atlas Network Access has 0.0.0.0/0 whitelisted.' });
+    }
 
     const user = await User.findOne({ email: cleanEmail });
     if (!user) {
@@ -241,7 +244,10 @@ app.post('/api/auth/forgot-password', async (req, res) => {
       return res.status(400).json({ error: 'Email is required' });
     }
     const cleanEmail = email.toLowerCase().trim();
-    await connectToDatabase();
+    const db = await connectToDatabase();
+    if (!db) {
+      return res.status(503).json({ error: 'Database connection failed. Please ensure MongoDB Atlas Network Access has 0.0.0.0/0 whitelisted.' });
+    }
 
     const user = await User.findOne({ email: cleanEmail });
     if (!user) {
@@ -292,7 +298,10 @@ app.post('/api/auth/reset-password', async (req, res) => {
     }
 
     const cleanEmail = email.toLowerCase().trim();
-    await connectToDatabase();
+    const db = await connectToDatabase();
+    if (!db) {
+      return res.status(503).json({ error: 'Database connection failed. Please ensure MongoDB Atlas Network Access has 0.0.0.0/0 whitelisted.' });
+    }
 
     const user = await User.findOne({ email: cleanEmail });
     if (!user) {
