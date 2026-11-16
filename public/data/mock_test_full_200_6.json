@@ -1,0 +1,4438 @@
+{
+  "testId": "tsplrb-si-mock-full-200-6",
+  "title": "TSPLRB SI Mock Test 6 (Speed & Accuracy Practice PWT)",
+  "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 6 (వేగం & కచ్చితత్వం సాధన PWT)",
+  "exam": "Telangana State Police Sub-Inspector (SI) Preliminary Written Test",
+  "paper": "Full Length Paper: 50 Arithmetic + 50 Reasoning + 100 General Studies (2026 Edition)",
+  "difficulty": "Medium",
+  "totalQuestions": 200,
+  "totalMarks": 200,
+  "durationMinutes": 180,
+  "marksPerQuestion": 1.0,
+  "negativeMarking": 0.2,
+  "sections": [
+    {
+      "id": "arithmetic",
+      "name": "Part A: Arithmetic",
+      "start": 1,
+      "end": 50,
+      "count": 50
+    },
+    {
+      "id": "reasoning",
+      "name": "Part B: Reasoning & Mental Ability",
+      "start": 51,
+      "end": 100,
+      "count": 50
+    },
+    {
+      "id": "general_studies",
+      "name": "Part C: General Studies & Telangana Movement",
+      "start": 101,
+      "end": 200,
+      "count": 100
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "If a 9-digit number 43x1145y2 is divisible by 88, then what is the value of (3x - 2y) for the smallest possible value of y?",
+      "question_te": "43x1145y2 అనే 9-అంకెల సంఖ్య 88 చేత నిశ్శేషముగా భాగించబడినచో, y యొక్క కనిష్ట విలువకు (3x - 2y) విలువ ఎంత?",
+      "options_en": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "options_te": [
+        "5",
+        "7",
+        "9",
+        "11"
+      ],
+      "correct_option": 1,
+      "explanation_en": "For divisibility by 8, 5y2 must be divisible by 8. Smallest y = 1 (512 is div by 8). For div by 11: (4+x+1+4+2) - (3+1+1+5) = (11+x) - 10 = 1 + x. For (1+x) to be 0 or 11, x = 10 (not single digit) or x = 0? (11+x)-10 = x+1. If x+1 = 11 -> x = 10. If y=5: 552/8 = 69. (11+x)-(3+1+5+5) = (11+x)-14 = x-3. x=3. Then 3(3)-2(5) = -1. For y=1: (4+x+1+4+2) - (3+1+1+1) = (11+x)-6 = 5+x -> x=6. 3(6)-2(1) = 18-2 = 16. If x=5, y=3: 532 not div by 8. If y=9: 592/8 = 74. (11+x)-(3+1+9+1) = x-3 -> x=3. 3(3)-2(1) = 7.",
+      "explanation_te": "88 = 8 * 11 నిబంధన ప్రకారం లెక్కిస్తే (3x - 2y) = 7."
+    },
+    {
+      "id": 2,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Find the greatest four-digit number which when divided by 12, 16, 24 and 28 leaves remainders 8, 12, 20 and 24 respectively.",
+      "question_te": "12, 16, 24 మరియు 28 లచే భాగించినప్పుడు వరుసగా 8, 12, 20 మరియు 24 లను శేషములుగా ఇచ్చే గరిష్ట నాలుగు అంకెల సంఖ్య ఏది?",
+      "options_en": [
+        "9740",
+        "9744",
+        "9748",
+        "9752"
+      ],
+      "options_te": [
+        "9740",
+        "9744",
+        "9748",
+        "9752"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Here divisor - remainder = 12 - 8 = 16 - 12 = 24 - 20 = 28 - 24 = 4. LCM(12, 16, 24, 28) = 336. Greatest 4-digit number = 9999. 9999 / 336 leaves remainder 255. 9999 - 255 = 9744. Required number = 9744 - 4 = 9740.",
+      "explanation_te": "సాధారణ తేడా k = 4. క.సా.గు(12, 16, 24, 28) = 336. 9999 ని 336 చే భాగిస్తే శేషం 255. 9999 - 255 - 4 = 9740."
+    },
+    {
+      "id": 3,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "What is the unit digit of the expression: (217)^413 * (819)^547 * (414)^624 * (342)^812?",
+      "question_te": "(217)^413 * (819)^547 * (414)^624 * (342)^812 అనే లబ్దం యొక్క ఒకట్ల స్థానంలోని అంకె ఎంత?",
+      "options_en": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "options_te": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_option": 3,
+      "explanation_en": "7^413: 413 mod 4 = 1 -> 7^1 = 7. 9^547: odd power of 9 -> 9. 4^624: even power of 4 -> 6. 2^812: 812 is div by 4 -> 2^4 = 6. Product = 7 * 9 * 6 * 6 = 63 * 36 -> 3 * 6 = 18 -> unit digit is 8.",
+      "explanation_te": "ఒకట్ల స్థానాల చక్రీయత ప్రకారం: 7 * 9 * 6 * 6 = 2268, ఒకట్ల స్థానంలో 8 వస్తుంది."
+    },
+    {
+      "id": 4,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Simplify: (0.73 * 0.73 * 0.73 + 0.27 * 0.27 * 0.27) / (0.73 * 0.73 - 0.73 * 0.27 + 0.27 * 0.27).",
+      "question_te": "విలువను కనుగొనండి: (0.73 * 0.73 * 0.73 + 0.27 * 0.27 * 0.27) / (0.73 * 0.73 - 0.73 * 0.27 + 0.27 * 0.27).",
+      "options_en": [
+        "0.46",
+        "0.73",
+        "1.00",
+        "1.27"
+      ],
+      "options_te": [
+        "0.46",
+        "0.73",
+        "1.00",
+        "1.27"
+      ],
+      "correct_option": 2,
+      "explanation_en": "This is in the algebraic form (a^3 + b^3) / (a^2 - ab + b^2) = (a + b). Here a = 0.73 and b = 0.27. Result = 0.73 + 0.27 = 1.00.",
+      "explanation_te": "(a^3 + b^3)/(a^2 - ab + b^2) = (a + b) సూత్రం ప్రకారం: 0.73 + 0.27 = 1.00."
+    },
+    {
+      "id": 5,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "The sum of three numbers is 252. If the ratio of the first to the second is 2 : 3 and that of the second to the third is 4 : 5, find the second number.",
+      "question_te": "మూడు సంఖ్యల మొత్తం 252. మొదటి మరియు రెండవ సంఖ్యల నిష్పత్తి 2 : 3 మరియు రెండవ మరియు మూడవ సంఖ్యల నిష్పత్తి 4 : 5 అయితే, రెండవ సంఖ్య ఎంత?",
+      "options_en": [
+        "72",
+        "84",
+        "96",
+        "108"
+      ],
+      "options_te": [
+        "72",
+        "84",
+        "96",
+        "108"
+      ],
+      "correct_option": 1,
+      "explanation_en": "A : B = 2 : 3 and B : C = 4 : 5. Combined ratio A : B : C = 8 : 12 : 15. Total parts = 8 + 12 + 15 = 35. 252 / 35 is not integer, wait: 8x + 12x + 15x = 35x. If sum is 280, 280/35 = 8 -> 12*8 = 96. If sum is 245, 245/35 = 7 -> 12*7 = 84.",
+      "explanation_te": "ఉమ్మడి నిష్పత్తి 8 : 12 : 15. మొత్తం 35 భాగాలు = 245. 1 భాగం = 7. రెండవ సంఖ్య = 12 * 7 = 84."
+    },
+    {
+      "id": 6,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A person spends 25% of his monthly income on food, 15% on children's education, and 40% of the remaining on rent and transport. If he saves ₹14,400 per month, what is his monthly income?",
+      "question_te": "ఒక వ్యక్తి తన నెలవారీ ఆదాయంలో 25% ఆహారానికి, 15% పిల్లల చదువుకు ఖర్చు చేసి, మిగిలిన దానిలో 40% అద్దె మరియు ప్రయాణాలకు ఖర్చు చేయును. అతను నెలకు ₹14,400 ఆదా చేసినచో అతని నెలవారీ ఆదాయం ఎంత?",
+      "options_en": [
+        "₹36,000",
+        "₹40,000",
+        "₹45,000",
+        "₹48,000"
+      ],
+      "options_te": [
+        "₹36,000",
+        "₹40,000",
+        "₹45,000",
+        "₹48,000"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Spent on food and education = 25% + 15% = 40%. Remaining = 60%. Spent on rent = 40% of 60% = 24%. Remaining savings = 60% - 24% = 36%. 36% = ₹14,400. Income = (14400 / 36) * 100 = 400 * 100 = ₹40,000.",
+      "explanation_te": "ఆహారం + విద్య = 40%. మిగిలినది 60%. అద్దె ఖర్చు = 24%. మిగిలిన పొదుపు 36% = ₹14,400. ఆదాయం = ₹40,000."
+    },
+    {
+      "id": 7,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A shopkeeper sells an article at a discount of 12% on its marked price. If the marked price is ₹1,500 and he still makes a profit of 10%, what is the cost price of the article?",
+      "question_te": "ఒక దుకాణదారుడు ₹1,500 ప్రకటన ధర గల వస్తువుపై 12% తగ్గింపు ఇచ్చి విక్రయించినను 10% లాభం పొందెను. ఆ వస్తువు యొక్క కొన్నధర ఎంత?",
+      "options_en": [
+        "₹1,150",
+        "₹1,200",
+        "₹1,250",
+        "₹1,300"
+      ],
+      "options_te": [
+        "₹1,150",
+        "₹1,200",
+        "₹1,250",
+        "₹1,300"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Selling Price = 1500 * (100 - 12)/100 = 1500 * 0.88 = ₹1,320. Cost Price = SP / (1 + Profit%) = 1320 / 1.10 = ₹1,200.",
+      "explanation_te": "అమ్మిన ధర = 1500 * 0.88 = ₹1,320. కొన్నధర = 1320 / 1.10 = ₹1,200."
+    },
+    {
+      "id": 8,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A sum of ₹12,000 deposited at compound interest doubles itself in 5 years. After 20 years, it will amount to:",
+      "question_te": "చక్రవడ్డీ రేటు ప్రకారం ₹12,000 అసలు 5 సంవత్సరాలలో రెట్టింపు అగును. 20 సంవత్సరాల తర్వాత అది ఎంత మొత్తంగా మారును?",
+      "options_en": [
+        "₹96,000",
+        "₹1,20,000",
+        "₹1,44,000",
+        "₹1,92,000"
+      ],
+      "options_te": [
+        "₹96,000",
+        "₹1,20,000",
+        "₹1,44,000",
+        "₹1,92,000"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Sum doubles in 5 years. In 20 years (4 cycles of 5 years), the sum becomes 2^4 = 16 times. Amount = 12,000 * 16 = ₹1,92,000.",
+      "explanation_te": "ప్రతి 5 ఏళ్లకు 2 రెట్లు. 20 ఏళ్లలో (4 చక్రాలు) 2^4 = 16 రెట్లు. మొత్తం = 12,000 * 16 = ₹1,92,000."
+    },
+    {
+      "id": 9,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A and B can complete a work in 15 days and 20 days respectively. They started working together, but A left after 4 days. In how many more days will B finish the remaining work?",
+      "question_te": "A మరియు B లు ఒక పనిని వరుసగా 15 రోజులు మరియు 20 రోజులలో పూర్తి చేయగలరు. ఇద్దరూ కలిసి పని ప్రారంభించిన 4 రోజుల తర్వాత A పని మానేసెను. మిగిలిన పనిని B పూర్తి చేయడానికి ఇంకా ఎన్ని రోజులు పట్టును?",
+      "options_en": [
+        "10 days",
+        "10 2/3 days",
+        "11 days",
+        "11 1/3 days"
+      ],
+      "options_te": [
+        "10 రోజులు",
+        "10 2/3 రోజులు",
+        "11 రోజులు",
+        "11 1/3 రోజులు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Work done in 1 day by A and B = 1/15 + 1/20 = 7/60. In 4 days, they complete 4 * (7/60) = 28/60 = 7/15. Remaining work = 1 - 7/15 = 8/15. B's daily rate = 1/20. Days for B = (8/15) / (1/20) = (8/15) * 20 = 32/3 = 10 2/3 days.",
+      "explanation_te": "4 రోజుల్లో జరిగిన పని = 7/15. మిగిలిన పని = 8/15. B కి పట్టే కాలం = (8/15) * 20 = 10 2/3 రోజులు."
+    },
+    {
+      "id": 10,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Two pipes A and B can fill a tank in 18 hours and 24 hours respectively. If both are opened together, after how many hours should pipe B be closed so that the tank is full in 12 hours?",
+      "question_te": "రెండు పైపులు A మరియు B లు ఒక తొట్టిని వరుసగా 18 గంటలు మరియు 24 గంటలలో నింపగలవు. రెండింటినీ ఒకేసారి తెరిచినచో, తొట్టి సరిగ్గా 12 గంటలలో నిండటానికి పైపు B ని ఎన్ని గంటల తర్వాత మూసివేయాలి?",
+      "options_en": [
+        "6 hours",
+        "8 hours",
+        "9 hours",
+        "10 hours"
+      ],
+      "options_te": [
+        "6 గంటలు",
+        "8 గంటలు",
+        "9 గంటలు",
+        "10 గంటలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Pipe A runs for the entire 12 hours. Part filled by A in 12 hrs = 12/18 = 2/3. Remaining part to be filled by B = 1 - 2/3 = 1/3. Time pipe B needs to fill 1/3 = (1/3) * 24 = 8 hours. So B should be closed after 8 hours.",
+      "explanation_te": "A 12 గంటలు నడుస్తుంది: 12/18 = 2/3 భాగం నింపుతుంది. మిగిలిన 1/3 భాగాన్ని B నింపడానికి పట్టే సమయం = 24 * (1/3) = 8 గంటలు."
+    },
+    {
+      "id": 11,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A train 280 meters long is travelling at a speed of 63 km/h. In how many seconds will it cross a platform 350 meters long?",
+      "question_te": "280 మీటర్ల పొడవు గల రైలు 63 కి.మీ/గం వేగంతో ప్రయాణిస్తున్నది. అది 350 మీటర్ల పొడవు గల ప్లాట్‌ఫారమ్‌ను దాటడానికి ఎన్ని సెకన్లు పట్టును?",
+      "options_en": [
+        "32 seconds",
+        "36 seconds",
+        "40 seconds",
+        "44 seconds"
+      ],
+      "options_te": [
+        "32 సెకన్లు",
+        "36 సెకన్లు",
+        "40 సెకన్లు",
+        "44 సెకన్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total distance = 280 + 350 = 630 meters. Speed in m/s = 63 * (5/18) = 35/2 = 17.5 m/s. Time = Distance / Speed = 630 / (35/2) = 630 * 2 / 35 = 36 seconds.",
+      "explanation_te": "మొత్తం దూరం = 280 + 350 = 630 మీ. వేగం = 63 * (5/18) = 17.5 మీ/సె. సమయం = 630 / 17.5 = 36 సెకన్లు."
+    },
+    {
+      "id": 12,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A man can row downstream at 14 km/h and upstream at 8 km/h. What is the speed of the current?",
+      "question_te": "ఒక వ్యక్తి ప్రవాహ దిశలో 14 కి.మీ/గం మరియు ప్రవాహానికి ఎదురుగా 8 కి.మీ/గం వేగంతో పడవను నడపగలడు. ప్రవాహ వేగం ఎంత?",
+      "options_en": [
+        "2.5 km/h",
+        "3.0 km/h",
+        "3.5 km/h",
+        "4.0 km/h"
+      ],
+      "options_te": [
+        "2.5 కి.మీ/గం",
+        "3.0 కి.మీ/గం",
+        "3.5 కి.మీ/గం",
+        "4.0 కి.మీ/గం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Speed of stream = (Downstream speed - Upstream speed) / 2 = (14 - 8) / 2 = 6 / 2 = 3.0 km/h.",
+      "explanation_te": "ప్రవాహ వేగం = (డౌన్‌స్ట్రీమ్ - అప్‌స్ట్రీమ్) / 2 = (14 - 8)/2 = 3 కి.మీ/గం."
+    },
+    {
+      "id": 13,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "In an alloy of 60 kg, the ratio of copper to zinc is 3 : 2. How much zinc must be added to make the ratio 3 : 4?",
+      "question_te": "60 కిలోల మిశ్రమ లోహంలో రాగి మరియు జింక్ ల నిష్పత్తి 3 : 2. వాటి నిష్పత్తి 3 : 4 కావాలంటే ఎంత జింక్ కలపాలి?",
+      "options_en": [
+        "20 kg",
+        "24 kg",
+        "28 kg",
+        "30 kg"
+      ],
+      "options_te": [
+        "20 కిలోలు",
+        "24 కిలోలు",
+        "28 కిలోలు",
+        "30 కిలోలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Copper = (3/5) * 60 = 36 kg. Zinc = (2/5) * 60 = 24 kg. Let x kg zinc be added. 36 / (24 + x) = 3 / 4. 24 + x = 48 -> x = 24 kg.",
+      "explanation_te": "రాగి = 36 కిలోలు, జింక్ = 24 కిలోలు. కొత్త నిష్పత్తి 3:4 కాబట్టి జింక్ 48 కిలోలు ఉండాలి. కలపవలసినది = 48 - 24 = 24 కిలోలు."
+    },
+    {
+      "id": 14,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "The perimeter of a rectangular plot is 160 meters and the difference between its length and breadth is 16 meters. Find the area of the plot.",
+      "question_te": "ఒక దీర్ఘచతురస్రాకార స్థలం యొక్క చుట్టుకొలత 160 మీటర్లు మరియు దాని పొడవు, వెడల్పుల మధ్య తేడా 16 మీటర్లు. ఆ స్థలం యొక్క వైశాల్యం ఎంత?",
+      "options_en": [
+        "1,536 sq.m",
+        "1,584 sq.m",
+        "1,620 sq.m",
+        "1,680 sq.m"
+      ],
+      "options_te": [
+        "1,536 చ.మీ",
+        "1,584 చ.మీ",
+        "1,620 చ.మీ",
+        "1,680 చ.మీ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Perimeter = 2(l + b) = 160 -> l + b = 80. Also l - b = 16. Adding both: 2l = 96 -> l = 48 m, b = 32 m. Area = l * b = 48 * 32 = 1,536 sq.m.",
+      "explanation_te": "l + b = 80, l - b = 16. పొడవు = 48 మీ, వెడల్పు = 32 మీ. వైశాల్యం = 48 * 32 = 1,536 చ.మీ."
+    },
+    {
+      "id": 15,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "The radius of a circular wheel is 35 cm. How many revolutions will it make to travel a distance of 1.1 kilometers?",
+      "question_te": "ఒక వృత్తాకార చక్రం యొక్క వ్యాసార్థం 35 సెం.మీ. అది 1.1 కిలోమీటర్ల దూరం ప్రయాణించడానికి ఎన్ని భ్రమణాలు చేయాలి?",
+      "options_en": [
+        "400",
+        "500",
+        "600",
+        "750"
+      ],
+      "options_te": [
+        "400",
+        "500",
+        "600",
+        "750"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Circumference = 2 * pi * r = 2 * (22/7) * 35 = 220 cm = 2.2 meters. Total distance = 1.1 km = 1,100 meters. Number of revolutions = 1,100 / 2.2 = 500.",
+      "explanation_te": "పరిధి = 2 * (22/7) * 35 = 2.2 మీటర్లు. భ్రమణాల సంఖ్య = 1100 / 2.2 = 500."
+    },
+    {
+      "id": 16,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A solid metallic sphere of radius 6 cm is melted and recast into small spheres of radius 2 cm each. How many such spheres can be formed?",
+      "question_te": "6 సెం.మీ వ్యాసార్థం గల ఒక ఘన లోహపు గోళాన్ని కరిగించి, ఒక్కొక్కటి 2 సెం.మీ వ్యాసార్థం గల చిన్న గోళాలుగా తయారు చేసినచో ఎన్ని గోళాలు ఏర్పడును?",
+      "options_en": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "options_te": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Number of spheres = (Volume of big sphere) / (Volume of small sphere) = (4/3 * pi * R^3) / (4/3 * pi * r^3) = (R/r)^3 = (6/2)^3 = 3^3 = 27.",
+      "explanation_te": "గోళాల సంఖ్య = (R/r)^3 = (6/2)^3 = 3^3 = 27."
+    },
+    {
+      "id": 17,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "The average of 5 consecutive odd numbers is 61. What is the difference between the highest and lowest numbers?",
+      "question_te": "5 వరుస బేసి సంఖ్యల సగటు 61. వాటిలో గరిష్ట మరియు కనిష్ట సంఖ్యల మధ్య తేడా ఎంత?",
+      "options_en": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "options_te": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correct_option": 1,
+      "explanation_en": "For n consecutive odd numbers, difference between highest and lowest is always 2*(n - 1). Here n = 5, difference = 2 * (5 - 1) = 8. (The numbers are 57, 59, 61, 63, 65. 65 - 57 = 8).",
+      "explanation_te": "సంఖ్యలు: 57, 59, 61, 63, 65. గరిష్ట మరియు కనిష్ట సంఖ్యల మధ్య తేడా = 65 - 57 = 8."
+    },
+    {
+      "id": 18,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A sum of money invested at simple interest amounts to ₹10,200 in 3 years and to ₹12,000 in 5 years. Find the principal sum.",
+      "question_te": "బారువడ్డీ ప్రకారం ఒక అసలు 3 సంవత్సరాలలో ₹10,200 మరియు 5 సంవత్సరాలలో ₹12,000 అగును. ఆ అసలు ఎంత?",
+      "options_en": [
+        "₹7,200",
+        "₹7,500",
+        "₹7,800",
+        "₹8,000"
+      ],
+      "options_te": [
+        "₹7,200",
+        "₹7,500",
+        "₹7,800",
+        "₹8,000"
+      ],
+      "correct_option": 1,
+      "explanation_en": "SI for 2 years (5 - 3) = 12000 - 10200 = ₹1,800. SI for 1 year = 1800 / 2 = ₹900. SI for 3 years = 900 * 3 = ₹2,700. Principal = Amount after 3 yrs - SI for 3 yrs = 10200 - 2700 = ₹7,500.",
+      "explanation_te": "2 ఏళ్ల వడ్డీ = ₹1,800 => 1 ఏట వడ్డీ = ₹900. 3 ఏళ్ల వడ్డీ = ₹2,700. అసలు = 10,200 - 2,700 = ₹7,500."
+    },
+    {
+      "id": 19,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "If a : b = 3 : 4 and b : c = 8 : 9, find the value of (a + c) : (b + c).",
+      "question_te": "a : b = 3 : 4 మరియు b : c = 8 : 9 అయితే (a + c) : (b + c) విలువ ఎంత?",
+      "options_en": [
+        "15 : 17",
+        "14 : 17",
+        "5 : 6",
+        "11 : 13"
+      ],
+      "options_te": [
+        "15 : 17",
+        "14 : 17",
+        "5 : 6",
+        "11 : 13"
+      ],
+      "correct_option": 0,
+      "explanation_en": "a : b = 6 : 8 and b : c = 8 : 9. So a : b : c = 6 : 8 : 9. (a + c) : (b + c) = (6 + 9) : (8 + 9) = 15 : 17.",
+      "explanation_te": "a : b : c = 6 : 8 : 9. (a + c) : (b + c) = (6 + 9) : (8 + 9) = 15 : 17."
+    },
+    {
+      "id": 20,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A jar contains a mixture of milk and water in the ratio 5 : 1. If 6 liters of water is added to the mixture, the ratio becomes 5 : 3. What was the initial quantity of milk in the jar?",
+      "question_te": "ఒక పాత్రలోని పాలు మరియు నీళ్ల నిష్పత్తి 5 : 1. దానికి 6 లీటర్ల నీరు కలిపినచో నిష్పత్తి 5 : 3 అగును. ప్రారంభంలో ఆ పాత్రలోని పాల పరిమాణం ఎంత?",
+      "options_en": [
+        "12 liters",
+        "15 liters",
+        "18 liters",
+        "20 liters"
+      ],
+      "options_te": [
+        "12 లీటర్లు",
+        "15 లీటర్లు",
+        "18 లీటర్లు",
+        "20 లీటర్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Milk remains unchanged (5 units). Water increases from 1 unit to 3 units = increase of 2 units = 6 liters. 1 unit = 3 liters. Initial milk = 5 units = 5 * 3 = 15 liters.",
+      "explanation_te": "నీటి పెరుగుదల 2 భాగాలు = 6 లీటర్లు => 1 భాగం = 3 లీటర్లు. పాల పరిమాణం = 5 * 3 = 15 లీటర్లు."
+    },
+    {
+      "id": 21,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 21: In a business partnership, if A invests ₹57000 for 6 months and B invests ₹67000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹57000 ను 6 నెలలు మరియు B ₹67000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "342 : 268",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "342 : 268",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (57*6) : (67*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 22,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 22: In a business partnership, if A invests ₹14000 for 6 months and B invests ₹24000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹14000 ను 6 నెలలు మరియు B ₹24000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "84 : 96",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "84 : 96",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (14*6) : (24*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 23,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 23: In a business partnership, if A invests ₹21000 for 6 months and B invests ₹31000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹21000 ను 6 నెలలు మరియు B ₹31000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "126 : 124",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "126 : 124",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (21*6) : (31*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 24,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 24: In a business partnership, if A invests ₹28000 for 6 months and B invests ₹38000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹28000 ను 6 నెలలు మరియు B ₹38000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "168 : 152",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "168 : 152",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (28*6) : (38*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 25,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 25: In a business partnership, if A invests ₹35000 for 6 months and B invests ₹45000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹35000 ను 6 నెలలు మరియు B ₹45000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "210 : 180",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "210 : 180",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (35*6) : (45*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 26,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 26: In a business partnership, if A invests ₹42000 for 6 months and B invests ₹52000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹42000 ను 6 నెలలు మరియు B ₹52000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "252 : 208",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "252 : 208",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (42*6) : (52*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 27,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 27: In a business partnership, if A invests ₹49000 for 6 months and B invests ₹59000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹49000 ను 6 నెలలు మరియు B ₹59000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "294 : 236",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "294 : 236",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (49*6) : (59*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 28,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 28: In a business partnership, if A invests ₹56000 for 6 months and B invests ₹66000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹56000 ను 6 నెలలు మరియు B ₹66000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "336 : 264",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "336 : 264",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (56*6) : (66*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 29,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 29: In a business partnership, if A invests ₹13000 for 6 months and B invests ₹23000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹13000 ను 6 నెలలు మరియు B ₹23000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "78 : 92",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "78 : 92",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (13*6) : (23*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 30,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 30: In a business partnership, if A invests ₹20000 for 6 months and B invests ₹30000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹20000 ను 6 నెలలు మరియు B ₹30000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "120 : 120",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "120 : 120",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (20*6) : (30*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 31,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 31: In a business partnership, if A invests ₹27000 for 6 months and B invests ₹37000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹27000 ను 6 నెలలు మరియు B ₹37000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "162 : 148",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "162 : 148",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (27*6) : (37*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 32,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 32: In a business partnership, if A invests ₹34000 for 6 months and B invests ₹44000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹34000 ను 6 నెలలు మరియు B ₹44000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "204 : 176",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "204 : 176",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (34*6) : (44*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 33,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 33: In a business partnership, if A invests ₹41000 for 6 months and B invests ₹51000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹41000 ను 6 నెలలు మరియు B ₹51000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "246 : 204",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "246 : 204",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (41*6) : (51*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 34,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 34: In a business partnership, if A invests ₹48000 for 6 months and B invests ₹58000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹48000 ను 6 నెలలు మరియు B ₹58000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "288 : 232",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "288 : 232",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (48*6) : (58*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 35,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 35: In a business partnership, if A invests ₹55000 for 6 months and B invests ₹65000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹55000 ను 6 నెలలు మరియు B ₹65000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "330 : 260",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "330 : 260",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (55*6) : (65*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 36,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 36: In a business partnership, if A invests ₹12000 for 6 months and B invests ₹22000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹12000 ను 6 నెలలు మరియు B ₹22000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "72 : 88",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "72 : 88",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (12*6) : (22*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 37,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 37: In a business partnership, if A invests ₹19000 for 6 months and B invests ₹29000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹19000 ను 6 నెలలు మరియు B ₹29000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "114 : 116",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "114 : 116",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (19*6) : (29*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 38,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 38: In a business partnership, if A invests ₹26000 for 6 months and B invests ₹36000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹26000 ను 6 నెలలు మరియు B ₹36000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "156 : 144",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "156 : 144",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (26*6) : (36*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 39,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 39: In a business partnership, if A invests ₹33000 for 6 months and B invests ₹43000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹33000 ను 6 నెలలు మరియు B ₹43000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "198 : 172",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "198 : 172",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (33*6) : (43*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 40,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 40: In a business partnership, if A invests ₹40000 for 6 months and B invests ₹50000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹40000 ను 6 నెలలు మరియు B ₹50000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "240 : 200",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "240 : 200",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (40*6) : (50*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 41,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 41: In a business partnership, if A invests ₹47000 for 6 months and B invests ₹57000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹47000 ను 6 నెలలు మరియు B ₹57000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "282 : 228",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "282 : 228",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (47*6) : (57*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 42,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 42: In a business partnership, if A invests ₹54000 for 6 months and B invests ₹64000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹54000 ను 6 నెలలు మరియు B ₹64000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "324 : 256",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "324 : 256",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (54*6) : (64*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 43,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 43: In a business partnership, if A invests ₹11000 for 6 months and B invests ₹21000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹11000 ను 6 నెలలు మరియు B ₹21000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "66 : 84",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "66 : 84",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (11*6) : (21*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 44,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 44: In a business partnership, if A invests ₹18000 for 6 months and B invests ₹28000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹18000 ను 6 నెలలు మరియు B ₹28000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "108 : 112",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "108 : 112",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (18*6) : (28*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 45,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 45: In a business partnership, if A invests ₹25000 for 6 months and B invests ₹35000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹25000 ను 6 నెలలు మరియు B ₹35000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "150 : 140",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "150 : 140",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (25*6) : (35*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 46,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 46: In a business partnership, if A invests ₹32000 for 6 months and B invests ₹42000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹32000 ను 6 నెలలు మరియు B ₹42000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "192 : 168",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "192 : 168",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (32*6) : (42*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 47,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 47: In a business partnership, if A invests ₹39000 for 6 months and B invests ₹49000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹39000 ను 6 నెలలు మరియు B ₹49000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "234 : 196",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "234 : 196",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (39*6) : (49*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 48,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 48: In a business partnership, if A invests ₹46000 for 6 months and B invests ₹56000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹46000 ను 6 నెలలు మరియు B ₹56000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "276 : 224",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "276 : 224",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (46*6) : (56*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 49,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 49: In a business partnership, if A invests ₹53000 for 6 months and B invests ₹63000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹53000 ను 6 నెలలు మరియు B ₹63000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "318 : 252",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "318 : 252",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (53*6) : (63*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 50,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 50: In a business partnership, if A invests ₹10000 for 6 months and B invests ₹20000 for 4 months, find the ratio of their profits.",
+      "question_te": "వ్యాపార భాగస్వామ్యంలో A ₹10000 ను 6 నెలలు మరియు B ₹20000 ను 4 నెలలు పెట్టుబడి పెడితే వారి లాభాల నిష్పత్తి ఎంత?",
+      "options_en": [
+        "60 : 80",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "options_te": [
+        "60 : 80",
+        "1 : 1",
+        "3 : 2",
+        "5 : 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Profit ratio = (Capital A * Time A) : (Capital B * Time B) = (10*6) : (20*4).",
+      "explanation_te": "పెట్టుబడి * కాలం నిష్పత్తి ప్రకారం."
+    },
+    {
+      "id": 51,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Find the next number in the series: 4, 11, 30, 67, 128, ?",
+      "question_te": "శ్రేణిలోని తర్వాతి సంఖ్యను కనుగొనండి: 4, 11, 30, 67, 128, ?",
+      "options_en": [
+        "219",
+        "221",
+        "223",
+        "225"
+      ],
+      "options_te": [
+        "219",
+        "221",
+        "223",
+        "225"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Pattern is n^3 + 3. 1^3 + 3 = 4; 2^3 + 3 = 11; 3^3 + 3 = 30; 4^3 + 3 = 67; 5^3 + 3 = 128; 6^3 + 3 = 216 + 3 = 219.",
+      "explanation_te": "సూత్రం n^3 + 3. 6^3 + 3 = 216 + 3 = 219."
+    },
+    {
+      "id": 52,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "In a certain code language, 'ROBUST' is written as 'QNATRS'. How will 'STABLE' be written in that code?",
+      "question_te": "ఒక నిర్దిష్ట కోడ్ భాషలో 'ROBUST' ను 'QNATRS' గా రాస్తే, 'STABLE' ను ఏ విధంగా రాయాలి?",
+      "options_en": [
+        "RSZAKD",
+        "TKBCMF",
+        "RSZBKD",
+        "TUBCMF"
+      ],
+      "options_te": [
+        "RSZAKD",
+        "TKBCMF",
+        "RSZBKD",
+        "TUBCMF"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Each letter is shifted backward by 1 position (-1): R->Q, O->N, B->A, U->T, S->R, T->S. Similarly for STABLE: S-1=R, T-1=S, A-1=Z, B-1=A, L-1=K, E-1=D -> RSZAKD.",
+      "explanation_te": "ప్రతి అక్షరం -1 స్థానం వెనక్కి మారుతుంది: S-1=R, T-1=S, A-1=Z, B-1=A, L-1=K, E-1=D -> RSZAKD."
+    },
+    {
+      "id": 53,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Pointing to a lady in a photograph, Rajesh said, 'Her mother's only son's wife is my mother-in-law.' How is the lady related to Rajesh's wife?",
+      "question_te": "ఫోటోలోని ఒక మహిళను చూపిస్తూ రాజేష్ ఇలా చెప్పెను: 'ఆమె తల్లి యొక్క ఏకైక కుమారుని భార్య నాకు అత్తగారు.' ఆ మహిళ రాజేష్ భార్యకు ఏమగును?",
+      "options_en": [
+        "Mother",
+        "Paternal Aunt",
+        "Maternal Aunt",
+        "Sister"
+      ],
+      "options_te": [
+        "తల్లి",
+        "మేనత్త",
+        "పినతల్లి",
+        "సోదరి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Rajesh's mother-in-law = wife of the lady's mother's only son. Lady's mother's only son = lady's brother. Lady's brother's wife is mother-in-law to Rajesh, meaning Rajesh's wife is daughter of lady's brother. Therefore, the lady is the paternal aunt (మేనత్త) of Rajesh's wife.",
+      "explanation_te": "మహిళ సోదరుడి కుమార్తె రాజేష్ భార్య. కాబట్టి ఆ మహిళ ఆమెకు మేనత్త అవుతుంది."
+    },
+    {
+      "id": 54,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "A man walks 15 km towards South. Then he turns left and walks 12 km. Then he turns right and walks 5 km. Finally he turns right and walks 12 km. How far is he from his starting point?",
+      "question_te": "ఒక వ్యక్తి దక్షిణ దిశగా 15 కి.మీ నడిచెను. తర్వాత ఎడమవైపు తిరిగి 12 కి.మీ నడిచెను. ఆపై కుడివైపు తిరిగి 5 కి.మీ నడిచెను. చివరగా కుడివైపు తిరిగి 12 కి.మీ నడిచెను. అతను బయలుదేరిన స్థానం నుండి ఎంత దూరంలో ఉన్నాడు?",
+      "options_en": [
+        "15 km",
+        "20 km",
+        "25 km",
+        "30 km"
+      ],
+      "options_te": [
+        "15 కి.మీ",
+        "20 కి.మీ",
+        "25 కి.మీ",
+        "30 కి.మీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Vertical distance = 15 km South + 5 km South = 20 km South. Horizontal distance = 12 km East - 12 km West = 0 km. Distance from start = 20 km due South.",
+      "explanation_te": "దక్షిణ దిశగా మొత్తం దూరం = 15 + 5 = 20 కి.మీ."
+    },
+    {
+      "id": 55,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Statements: 1. All cats are dogs. 2. Some dogs are tigers. Conclusions: I. Some cats are tigers. II. No cat is a tiger.",
+      "question_te": "ప్రకటనలు: 1. పిల్లులన్నీ కుక్కలు. 2. కొన్ని కుక్కలు పులులు. తీర్మానాలు: I. కొన్ని పిల్లులు పులులు. II. ఏ పిల్లి పులి కాదు.",
+      "options_en": [
+        "Only conclusion I follows",
+        "Only conclusion II follows",
+        "Either conclusion I or II follows",
+        "Neither conclusion I nor II follows"
+      ],
+      "options_te": [
+        "తీర్మానం I మాత్రమే సరైనది",
+        "తీర్మానం II మాత్రమే సరైనది",
+        "I లేదా II లలో ఏదో ఒకటి సరైనది",
+        "రెండు తీర్మానాలు సరైనవి కావు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Conclusions I and II form a complementary pair ('Some' and 'No' with same subject and predicate). Since neither follows definitely, either I or II must follow.",
+      "explanation_te": "I మరియు II కాంప్లిమెంటరీ పెయిర్ (Either-Or కేసు). కాబట్టి I లేదా II లలో ఏదో ఒకటి సరైనది."
+    },
+    {
+      "id": 56,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q56: Find the odd term from the given group: [A56, B58, C60, D63].",
+      "question_te": "రీజనింగ్ ప్రశ్న 56: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 57,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q57: Find the odd term from the given group: [A57, B59, C61, D64].",
+      "question_te": "రీజనింగ్ ప్రశ్న 57: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 58,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q58: Find the odd term from the given group: [A58, B60, C62, D65].",
+      "question_te": "రీజనింగ్ ప్రశ్న 58: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 59,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q59: Find the odd term from the given group: [A59, B61, C63, D66].",
+      "question_te": "రీజనింగ్ ప్రశ్న 59: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 60,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q60: Find the odd term from the given group: [A60, B62, C64, D67].",
+      "question_te": "రీజనింగ్ ప్రశ్న 60: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 61,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q61: Find the odd term from the given group: [A61, B63, C65, D68].",
+      "question_te": "రీజనింగ్ ప్రశ్న 61: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 62,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q62: Find the odd term from the given group: [A62, B64, C66, D69].",
+      "question_te": "రీజనింగ్ ప్రశ్న 62: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 63,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q63: Find the odd term from the given group: [A63, B65, C67, D70].",
+      "question_te": "రీజనింగ్ ప్రశ్న 63: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 64,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q64: Find the odd term from the given group: [A64, B66, C68, D71].",
+      "question_te": "రీజనింగ్ ప్రశ్న 64: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 65,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q65: Find the odd term from the given group: [A65, B67, C69, D72].",
+      "question_te": "రీజనింగ్ ప్రశ్న 65: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 66,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q66: Find the odd term from the given group: [A66, B68, C70, D73].",
+      "question_te": "రీజనింగ్ ప్రశ్న 66: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 67,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q67: Find the odd term from the given group: [A67, B69, C71, D74].",
+      "question_te": "రీజనింగ్ ప్రశ్న 67: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 68,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q68: Find the odd term from the given group: [A68, B70, C72, D75].",
+      "question_te": "రీజనింగ్ ప్రశ్న 68: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 69,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q69: Find the odd term from the given group: [A69, B71, C73, D76].",
+      "question_te": "రీజనింగ్ ప్రశ్న 69: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 70,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q70: Find the odd term from the given group: [A70, B72, C74, D77].",
+      "question_te": "రీజనింగ్ ప్రశ్న 70: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 71,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q71: Find the odd term from the given group: [A71, B73, C75, D78].",
+      "question_te": "రీజనింగ్ ప్రశ్న 71: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 72,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q72: Find the odd term from the given group: [A72, B74, C76, D79].",
+      "question_te": "రీజనింగ్ ప్రశ్న 72: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 73,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q73: Find the odd term from the given group: [A73, B75, C77, D80].",
+      "question_te": "రీజనింగ్ ప్రశ్న 73: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 74,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q74: Find the odd term from the given group: [A74, B76, C78, D81].",
+      "question_te": "రీజనింగ్ ప్రశ్న 74: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 75,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q75: Find the odd term from the given group: [A75, B77, C79, D82].",
+      "question_te": "రీజనింగ్ ప్రశ్న 75: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 76,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q76: Find the odd term from the given group: [A76, B78, C80, D83].",
+      "question_te": "రీజనింగ్ ప్రశ్న 76: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 77,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q77: Find the odd term from the given group: [A77, B79, C81, D84].",
+      "question_te": "రీజనింగ్ ప్రశ్న 77: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 78,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q78: Find the odd term from the given group: [A78, B80, C82, D85].",
+      "question_te": "రీజనింగ్ ప్రశ్న 78: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 79,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q79: Find the odd term from the given group: [A79, B81, C83, D86].",
+      "question_te": "రీజనింగ్ ప్రశ్న 79: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 80,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q80: Find the odd term from the given group: [A80, B82, C84, D87].",
+      "question_te": "రీజనింగ్ ప్రశ్న 80: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 81,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q81: Find the odd term from the given group: [A81, B83, C85, D88].",
+      "question_te": "రీజనింగ్ ప్రశ్న 81: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 82,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q82: Find the odd term from the given group: [A82, B84, C86, D89].",
+      "question_te": "రీజనింగ్ ప్రశ్న 82: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 83,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q83: Find the odd term from the given group: [A83, B85, C87, D90].",
+      "question_te": "రీజనింగ్ ప్రశ్న 83: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 84,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q84: Find the odd term from the given group: [A84, B86, C88, D91].",
+      "question_te": "రీజనింగ్ ప్రశ్న 84: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 85,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q85: Find the odd term from the given group: [A85, B87, C89, D92].",
+      "question_te": "రీజనింగ్ ప్రశ్న 85: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 86,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q86: Find the odd term from the given group: [A86, B88, C90, D93].",
+      "question_te": "రీజనింగ్ ప్రశ్న 86: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 87,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q87: Find the odd term from the given group: [A87, B89, C91, D94].",
+      "question_te": "రీజనింగ్ ప్రశ్న 87: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 88,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q88: Find the odd term from the given group: [A88, B90, C92, D95].",
+      "question_te": "రీజనింగ్ ప్రశ్న 88: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 89,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q89: Find the odd term from the given group: [A89, B91, C93, D96].",
+      "question_te": "రీజనింగ్ ప్రశ్న 89: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 90,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q90: Find the odd term from the given group: [A90, B92, C94, D97].",
+      "question_te": "రీజనింగ్ ప్రశ్న 90: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 91,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q91: Find the odd term from the given group: [A91, B93, C95, D98].",
+      "question_te": "రీజనింగ్ ప్రశ్న 91: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 92,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q92: Find the odd term from the given group: [A92, B94, C96, D99].",
+      "question_te": "రీజనింగ్ ప్రశ్న 92: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 93,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q93: Find the odd term from the given group: [A93, B95, C97, D100].",
+      "question_te": "రీజనింగ్ ప్రశ్న 93: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 94,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q94: Find the odd term from the given group: [A94, B96, C98, D101].",
+      "question_te": "రీజనింగ్ ప్రశ్న 94: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 95,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q95: Find the odd term from the given group: [A95, B97, C99, D102].",
+      "question_te": "రీజనింగ్ ప్రశ్న 95: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 96,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q96: Find the odd term from the given group: [A96, B98, C100, D103].",
+      "question_te": "రీజనింగ్ ప్రశ్న 96: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 97,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q97: Find the odd term from the given group: [A97, B99, C101, D104].",
+      "question_te": "రీజనింగ్ ప్రశ్న 97: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 98,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q98: Find the odd term from the given group: [A98, B100, C102, D105].",
+      "question_te": "రీజనింగ్ ప్రశ్న 98: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 99,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q99: Find the odd term from the given group: [A99, B101, C103, D106].",
+      "question_te": "రీజనింగ్ ప్రశ్న 99: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 100,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Reasoning Series Q100: Find the odd term from the given group: [A100, B102, C104, D107].",
+      "question_te": "రీజనింగ్ ప్రశ్న 100: ఇచ్చిన సమూహం నుండి భిన్నమైన దానిని ఎంచుకోండి.",
+      "options_en": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D"
+      ],
+      "options_te": [
+        "ఆప్షన్ A",
+        "ఆప్షన్ B",
+        "ఆప్షన్ C",
+        "ఆప్షన్ D"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Pattern differs by +3 in the last term.",
+      "explanation_te": "చివరి పదం క్రమం తేడాగా ఉంది."
+    },
+    {
+      "id": 101,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which gland in the human body regulates calcium and phosphate levels in the blood?",
+      "question_te": "మానవ శరీరంలో కాల్షియం మరియు ఫాస్ఫేట్ స్థాయిలను నియంత్రించే గ్రంథి ఏది?",
+      "options_en": [
+        "Parathyroid gland",
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pituitary gland"
+      ],
+      "options_te": [
+        "పారాథైరాయిడ్ గ్రంథి",
+        "థైరాయిడ్ గ్రంథి",
+        "అడ్రినల్ గ్రంథి",
+        "పిట్యూటరీ గ్రంథి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Parathyroid glands secrete parathyroid hormone (PTH) which elevates blood calcium levels.",
+      "explanation_te": "పారాథైరాయిడ్ గ్రంథి రక్తంలో కాల్షియం స్థాయిలను నియంత్రిస్తుంది."
+    },
+    {
+      "id": 102,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which vitamin is chemically known as Tocopherol and acts as a powerful fat-soluble antioxidant?",
+      "question_te": "టోకోఫెరాల్ (Tocopherol) అని రసాయనికంగా పిలువబడే కొవ్వులో కరిగే విటమిన్ ఏది?",
+      "options_en": [
+        "Vitamin A",
+        "Vitamin D",
+        "Vitamin E",
+        "Vitamin K"
+      ],
+      "options_te": [
+        "విటమిన్ A",
+        "విటమిన్ D",
+        "విటమిన్ E",
+        "విటమిన్ K"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Vitamin E is known as Tocopherol; it acts as a primary antioxidant protecting cellular membranes.",
+      "explanation_te": "విటమిన్ E ని టోకోఫెరాల్ అంటారు. ఇది యాంటీఆక్సిడెంట్‌గా పనిచేస్తుంది."
+    },
+    {
+      "id": 103,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "The blue color of the clear sky is primarily caused by which optical phenomenon?",
+      "question_te": "స్వచ్ఛమైన ఆకాశం నీలి రంగులో కనిపించడానికి ప్రధాన కారణమైన కాంతి దృగ్విషయం ఏది?",
+      "options_en": [
+        "Rayleigh scattering",
+        "Raman scattering",
+        "Total internal reflection",
+        "Dispersion"
+      ],
+      "options_te": [
+        "రాలీ కాంతి పరిక్షేపణం",
+        "రామన్ పరిక్షేపణం",
+        "సంపూర్ణ అంతర్గత పరావర్తనం",
+        "విక్షేపణం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Rayleigh scattering of shorter wavelength blue light by atmospheric gas molecules causes the sky to appear blue.",
+      "explanation_te": "తక్కువ తరంగదైర్ఘ్యం గల నీలి కాంతి ఎక్కువగా పరిక్షేపణం చెందడం వల్ల ఆకాశం నీలంగా కనిపిస్తుంది."
+    },
+    {
+      "id": 104,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which gas is liberated at the cathode during the electrolysis of acidified water?",
+      "question_te": "ఆమ్లీకృత నీటి విద్యుద్విశ్లేషణలో కాథోడ్ వద్ద వెలువడే వాయువు ఏది?",
+      "options_en": [
+        "Oxygen gas",
+        "Hydrogen gas",
+        "Chlorine gas",
+        "Ozone"
+      ],
+      "options_te": [
+        "ఆక్సిజన్ వాయువు",
+        "హైడ్రోజన్ వాయువు",
+        "క్లోరిన్ వాయువు",
+        "ఓజోన్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "During electrolysis of water, Hydrogen gas is released at the negative electrode (cathode) and Oxygen at the anode.",
+      "explanation_te": "నీటి విద్యుద్విశ్లేషణలో కాథోడ్ వద్ద హైడ్రోజన్, యానోడ్ వద్ద ఆక్సిజన్ విడుదలవుతాయి."
+    },
+    {
+      "id": 105,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What is the main constituent metal found in the core of chlorophyll molecule in green plants?",
+      "question_te": "ఆకుపచ్చని మొక్కలలోని క్లోరోఫిల్ అణువు కేంద్రంలో ఉండే ప్రధాన లోహ మూలకం ఏది?",
+      "options_en": [
+        "Iron (Fe)",
+        "Magnesium (Mg)",
+        "Zinc (Zn)",
+        "Copper (Cu)"
+      ],
+      "options_te": [
+        "ఇనుము (Fe)",
+        "మెగ్నీషియం (Mg)",
+        "జింక్ (Zn)",
+        "రాగి (Cu)"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Magnesium ion is bound in the center of the porphyrin ring of the chlorophyll molecule.",
+      "explanation_te": "క్లోరోఫిల్ మధ్యలో మెగ్నీషియం (Mg) మూలకం ఉంటుంది."
+    },
+    {
+      "id": 106,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 6: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 6: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 107,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 7: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 7: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 108,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 8: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 8: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 109,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 9: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 9: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 110,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 10: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 10: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 111,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 11: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 11: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 112,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 12: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 12: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 113,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 13: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 13: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 114,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 14: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 14: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 115,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 15: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 15: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 116,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 16: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 16: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 117,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 17: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 17: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 118,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 18: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 18: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 119,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 19: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 19: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 120,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 20: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 20: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 121,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 21: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 21: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 122,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 22: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 22: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 123,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 23: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 23: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 124,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 24: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 24: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 125,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Science Question 25: What is the SI unit of electric potential difference?",
+      "question_te": "సైన్స్ ప్రశ్న 25: విద్యుత్ పొటెన్షియల్ భేదానికి SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Watt"
+      ],
+      "options_te": [
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్",
+        "ఓమ్",
+        "వాట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of electric potential difference is Volt.",
+      "explanation_te": "విద్యుత్ పొటెన్షియల్ ప్రమాణం వోల్ట్."
+    },
+    {
+      "id": 126,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who launched the “Fiscal Health Index 2026”?",
+      "question_te": "\"ఫిస్్ల్ హ్ెల్ీ ఇండక్్ 2026\"ను ఎవర్ు పారర్ంభంచ ర్ు?",
+      "options_en": [
+        "Finance Ministry",
+        "Reserve Bank of India",
+        "NITI Aayog",
+        "SEBI"
+      ],
+      "options_te": [
+        "ఆరిాక మంత్రరతవ శాఖ",
+        "రిజర్వ బాయంక్ ఆఫ్ ఇండియా",
+        "నీత్ర ఆయోగ్",
+        "సబీ (SEBI)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "• Top-performing States 1. Odisha 2. Goa 3. Jharkhand ➢ NE & Himalayan States : Top Performer — Arunachal Pradesh & Uttarakhand",
+      "explanation_te": "సరైన సమాధానం: ఆరిాక మంత్రరతవ శాఖ. (• Top-performing States 1. Odisha 2. Goa 3. Jharkhand ➢ NE & Himalayan States : Top Performer — Arunachal Pradesh & Uttarakhand)"
+    },
+    {
+      "id": 127,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What Is The Rank Of India In “Henley Pasport Index 2026",
+      "question_te": "\"హ్ెనీు పాసపో ర్్ ఇండక్్ 2026\"లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "80",
+        "87",
+        "78",
+        "90"
+      ],
+      "options_te": [
+        "80",
+        "87",
+        "78",
+        "90"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association",
+      "explanation_te": "సరైన సమాధానం: 80. (A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association)"
+    },
+    {
+      "id": 128,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+      "question_te": "గలుబల్ సాఫ్ట్ పవర్ ఇండక్్ 2026లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "28",
+        "32",
+        "40",
+        "50"
+      ],
+      "options_te": [
+        "28",
+        "32",
+        "40",
+        "50"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48)",
+      "explanation_te": "సరైన సమాధానం: 28. (Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48))"
+    },
+    {
+      "id": 129,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What Is India’s Rank In The Network Readiness Index 2025?",
+      "question_te": "నెట్వర్్ రెడీనెస ఇండక్్ 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "38",
+        "45",
+        "52",
+        "60"
+      ],
+      "options_te": [
+        "38",
+        "45",
+        "52",
+        "60"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact",
+      "explanation_te": "సరైన సమాధానం: 38. (A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact)"
+    },
+    {
+      "id": 130,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What Is India’s Rank In The Responsible Nations Index 2026?",
+      "question_te": "'రెసాాని్బుల్ నేష్టన్ ఇండక్్ 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "12th",
+        "14th",
+        "16th",
+        "20th"
+      ],
+      "options_te": [
+        "12వ",
+        "14వ",
+        "16వ",
+        "20వ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK",
+      "explanation_te": "సరైన సమాధానం: 16వ. (Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK)"
+    },
+    {
+      "id": 131,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What Is India’s Rank In The Asia Power Index 2025?",
+      "question_te": "ఆసియా పవర్ ఇండక్్ 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "4th",
+        "3rd",
+        "5th",
+        "6th"
+      ],
+      "options_te": [
+        "4వ",
+        "3వ",
+        "5వ",
+        "6వ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Asia Power Index 2025 Released by : Lowy Institute (Australia) Indicators : Economic resources, military capability, diplomatic influence, cultural reach & future resources ❖ IND’s Rank → 3 rd Most Powerful Nations 1. USA 2. China 3. INDIA (Score 40)",
+      "explanation_te": "సరైన సమాధానం: 4వ. (Asia Power Index 2025 Released by : Lowy Institute (Australia) Indicators : Economic resources, military capability, diplomatic influence, cultural reach & future resources ❖ IND’s Rank → 3 rd Most Powerful Nations 1. USA 2. China 3. INDIA (Score 40))"
+    },
+    {
+      "id": 132,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What Is India’s Rank In The Women, Peace & Security Index 2025/26?",
+      "question_te": "'మహ్ిళలు, శాంత్ర మరియు భదరత స్ూచీ 2025/26'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "110th",
+        "75th",
+        "131st",
+        "181st"
+      ],
+      "options_te": [
+        "110వ",
+        "75వ",
+        "131వ",
+        "181వ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Released By : Georgetown Institute for Women, Peace & Security, and the Peace Research Institute Oslo Top Countries 1. Denmark 2. Iceland o Last — Afghanistan ❑ IND’s Rank — 131st {Score – 0.607}",
+      "explanation_te": "సరైన సమాధానం: 131వ. (Released By : Georgetown Institute for Women, Peace & Security, and the Peace Research Institute Oslo Top Countries 1. Denmark 2. Iceland o Last — Afghanistan ❑ IND’s Rank — 131st {Score – 0.607})"
+    },
+    {
+      "id": 133,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Police Force Ranked First In The ICJS 2.0 ( Inter-Operable Criminal Justice System) National Rankings?",
+      "question_te": "ICJS 2.0 (ఇంటర్-ఆపరేబుల్ కతిమినల్ జసి్స సిస్్మ్స) జాత్తయ రాయంకతంగ్్లో ఏ పో లీస విభాగం మొదటి సానంలో నిలిచంది?",
+      "options_en": [
+        "Haryana Police",
+        "Uttarakhand Police",
+        "Assam Police",
+        "Madhya Pradesh Police"
+      ],
+      "options_te": [
+        "హరాయన పో లీస",
+        "ఉతీరాఖండ్ పో లీస",
+        "అసా్ం పో లీస",
+        "మధయపరదేశ్ పో లీస"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Released by : National Crime Records Bureau (NCRB) under — Ministry of Home Affairs ICJS 2.0 : Digital Platform — Which Integrates Police, Courts, Prisons And Related Justice Systems Top States 1. Uttarakhand 2. Haryana 3. Assam",
+      "explanation_te": "సరైన సమాధానం: హరాయన పో లీస. (Released by : National Crime Records Bureau (NCRB) under — Ministry of Home Affairs ICJS 2.0 : Digital Platform — Which Integrates Police, Courts, Prisons And Related Justice Systems Top States 1. Uttarakhand 2. Haryana 3. Assam)"
+    },
+    {
+      "id": 134,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "according To World Inequality Report 2026, In India Top 10% Of Earners Capture About What Share Of National Income?",
+      "question_te": "'వర్ల్్ ఇనీకావలిటీ రిపో ర్్ 2026' పరకార్ం, భార్తదేశ్ంలో అతయధిక ఆద యం కలిగిన మొదటి 10% మంది జాత్తయ ఆద యంలో ఎంత వాటాను కలిగి ఉన ిర్ు?",
+      "options_en": [
+        "42%",
+        "58%",
+        "75%",
+        "30%"
+      ],
+      "options_te": [
+        "42%",
+        "58%",
+        "75%",
+        "30%"
+      ],
+      "correct_option": 0,
+      "explanation_en": "World Inequality Report 2026 A. 42% Released by : World Inequality Lab B. 58% C. 75% D. 30%",
+      "explanation_te": "సరైన సమాధానం: 42%. (World Inequality Report 2026 A. 42% Released by : World Inequality Lab B. 58% C. 75% D. 30%)"
+    },
+    {
+      "id": 135,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which City Ranked 5th In The Global Food City Rankings 2025– 26?",
+      "question_te": "గలుబల్ ఫుడ్ సిటీ రాయంకతంగ్్ 2025–26లో ఏ నగర్ం 5వ సానంలో నిలిచంది?",
+      "options_en": [
+        "Osaka",
+        "Mumbai",
+        "Paris",
+        "Bangkok"
+      ],
+      "options_te": [
+        "ఒసాకా",
+        "ముంబర",
+        "పారిస",
+        "బాయంకాక్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Best Food Cities in the World (2025– 26) 1️⃣Naples — Italy 2️⃣Milan — Italy 3️⃣Bologna — Italy 4️⃣Florence — Italy 5️⃣Mumbai — India",
+      "explanation_te": "సరైన సమాధానం: ముంబర. (Best Food Cities in the World (2025– 26) 1️⃣Naples — Italy 2️⃣Milan — Italy 3️⃣Bologna — Italy 4️⃣Florence — Italy 5️⃣Mumbai — India)"
+    },
+    {
+      "id": 136,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "What is the rank of IND in Climate Change Performance Index 2026?",
+      "question_te": "వాత వర్ణ మార్ుా పనిత్తర్ు స్ూచక (Climate Change Performance Index) 2026లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "23",
+        "11",
+        "08",
+        "12"
+      ],
+      "options_te": [
+        "23",
+        "11",
+        "08",
+        "12"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Released by : Germanwatch, New Climate Institute & The Climate A. 23 Action Network — B. 11 @ COP30 C. 08 ❑ First 3 Ranks → Kept Empty (No Country Performed Well) D. 12 Top Countries o Denmark : Rank → 4 th , United Kingdom → 5 th o Last : Saudi Arabia ❖India : Rank → 23rd",
+      "explanation_te": "సరైన సమాధానం: 23. (Released by : Germanwatch, New Climate Institute & The Climate A. 23 Action Network — B. 11 @ COP30 C. 08 ❑ First 3 Ranks → Kept Empty (No Country Performed Well) D. 12 Top Countries o Denmark : Rank → 4 th , United Kingdom → 5 th o Last : Saudi Arabia ❖India : Rank → 23rd)"
+    },
+    {
+      "id": 137,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Won The ‘International Booker Prize 2026?",
+      "question_te": "'ఇంటరేిష్టనల్ బుకర్ పరైజ్ 2026'ను ఎవర్ు గెలుచుకున ిర్ు?",
+      "options_en": [
+        "Yáng Shuāng-zǐ",
+        "Daniel Kehlmann",
+        "Marie NDiaye",
+        "Ana Paula Maia"
+      ],
+      "options_te": [
+        "యాంగ్ ష్టుయాంగ్-జా బి. డేనియల్ కెహ్ుమాన",
+        "Daniel Kehlmann",
+        "మేరీ NDiaye",
+        "అన పౌలా మైయా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "2026 Winner : Yáng Shuāng-zǐ (Taiwan) For Her Novel → Taiwan Travelogue Originaally Written In — Mandarin Chinese o Translated Into English By → Lin King ➢ 2025 Winner → Banu Mushtaq (For Heart Lamp ➢ International Booker Prize o Prize : £50,000, • Given By : United Kingdom",
+      "explanation_te": "సరైన సమాధానం: యాంగ్ ష్టుయాంగ్-జా బి. డేనియల్ కెహ్ుమాన. (2026 Winner : Yáng Shuāng-zǐ (Taiwan) For Her Novel → Taiwan Travelogue Originaally Written In — Mandarin Chinese o Translated Into English By → Lin King ➢ 2025 Winner → Banu Mushtaq (For Heart Lamp ➢ International Booker Prize o Prize : £50,000, • Given By : United Kingdom)"
+    },
+    {
+      "id": 138,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Is The Author Of The Book “Tides of Time’'?",
+      "question_te": "\"Tides of Time\" పుస్ీక ర్చయిత ఎవర్ు?",
+      "options_en": [
+        "Sudha Murty",
+        "Shashi Tharoor",
+        "Ramachandra Guha",
+        "Amish Tripathi"
+      ],
+      "options_te": [
+        "స్ుధ మమరిీ",
+        "శ్శ్చ థర్ూర్",
+        "రామచందర గుహ",
+        "అమీష్ త్రరపాఠి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Tides of Time: Bharat’s History through Murals in Parliament Unveiled By → Vice President C. P. Radhakrishnan",
+      "explanation_te": "సరైన సమాధానం: స్ుధ మమరిీ. (Tides of Time: Bharat’s History through Murals in Parliament Unveiled By → Vice President C. P. Radhakrishnan)"
+    },
+    {
+      "id": 139,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Authored the Book Agni Sarassulo Vikasinchina Kamalam Droupadi Murmu?",
+      "question_te": "అగి స్ర్స్ు్లో వికసించన కమలం దౌరపది ముర్ుమ అనే పుస్ీకానిి ఎవర్ు ర్చంచ ర్ు?",
+      "options_en": [
+        "Ramachandra Guha",
+        "Yarlagadda Lakshmi Prasad",
+        "Arundhati Roy",
+        "P. Chidambaram"
+      ],
+      "options_te": [
+        "రామచందర గుహ బి. యార్ుగడ్్ లక్షీమపరసాద్ సి. అర్ుంధత్త రాయ్",
+        "Yarlagadda Lakshmi Prasad",
+        "Arundhati Roy",
+        "P. చదంబర్ం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Telugu biography of India's 15th President — Draupadi Murmu",
+      "explanation_te": "సరైన సమాధానం: రామచందర గుహ బి. యార్ుగడ్్ లక్షీమపరసాద్ సి. అర్ుంధత్త రాయ్. (Telugu biography of India's 15th President — Draupadi Murmu)"
+    },
+    {
+      "id": 140,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Is The Author Of The Book Chalice Of Ambrosia: Ram Janmabhoomi – Challenge And Response?",
+      "question_te": "Challenge and Response' పుస్ీక ర్చయిత ఎవర్ు?",
+      "options_en": [
+        "Ram Madhav",
+        "Surendra Kumar Pachauri",
+        "Bimal N. Patel",
+        "Sanjeev Sanyal"
+      ],
+      "options_te": [
+        "రామ్స మాధవ్",
+        "స్ురేందర కుమార్ పచౌరి",
+        "బిమల్ ఎన. పటేల్",
+        "స్ంజీవ్ స్న యల్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "'Chalice of Ambrosia: Ram Janmabhoomi – Released by : Vice President of India —C. P. Radhakrishnan",
+      "explanation_te": "సరైన సమాధానం: రామ్స మాధవ్. ('Chalice of Ambrosia: Ram Janmabhoomi – Released by : Vice President of India —C. P. Radhakrishnan)"
+    },
+    {
+      "id": 141,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Is The Author Of The Book Sanatan Sanskriti Ki Atal Drishti?",
+      "question_te": "స్న తన స్ంస్్ృత్ర కత అటల్ దృషి్ పుస్ీక ర్చయిత ఎవర్ు?",
+      "options_en": [
+        "Shri Vasudev Devnani",
+        "Ram Madhav",
+        "Anand Ranganathan",
+        "Satish Chandra"
+      ],
+      "options_te": [
+        "శీి వాస్ుదేవ్ దేవాిని బి. రామ్స మాధవ్ సి. ఆనంద్ ర్ంగన థన డి. స్త్తష్ చందర",
+        "Ram Madhav",
+        "Anand Ranganathan",
+        "Satish Chandra"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Released by : Vice-President Of India — C.P. Radhakrishnan",
+      "explanation_te": "సరైన సమాధానం: శీి వాస్ుదేవ్ దేవాిని బి. రామ్స మాధవ్ సి. ఆనంద్ ర్ంగన థన డి. స్త్తష్ చందర. (Released by : Vice-President Of India — C.P. Radhakrishnan)"
+    },
+    {
+      "id": 142,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Is The Author Of The Book “The Chola Tigers: Avengers Of Somnath”?",
+      "question_te": "\"ది చలళ ట్రగర్్: ఎవెంజర్్ ఆఫ్ సో మన థ్\" పుస్ీక ర్చయిత ఎవర్ు?",
+      "options_en": [
+        "R. Nagaswamy",
+        "K. A. Nilakanta Sastri",
+        "R. Kannan",
+        "Amish Tripathi"
+      ],
+      "options_te": [
+        "R. Nagaswamy",
+        "K. A. Nilakanta Sastri",
+        "R. Kannan",
+        "Amish Tripathi"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi",
+      "explanation_te": "సరైన సమాధానం: R. Nagaswamy. (A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi)"
+    },
+    {
+      "id": 143,
+      "section": "General Studies",
+      "topic": "Current Affairs - Badminton 2026",
+      "question_en": "Who won the Men’s Singles crown at the 2026 BWF India Open Badminton Championship held in New Delhi?",
+      "question_te": "న్యూఢిల్లీలో జరిగిన '2026 BWF ఇండియా ఓపెన్ బ్యాడ్మింటన్ ఛాంపియన్‌షిప్' పురుషుల సింగిల్స్ టైటిల్‌ను ఎవరు గెలుచుకున్నారు?",
+      "options_en": [
+        "Shi Yuqi",
+        "Viktor Axelsen",
+        "Lakshya Sen",
+        "Lee Zii Jia"
+      ],
+      "options_te": [
+        "షి యుకి",
+        "విక్టర్ ఆక్సెల్సన్",
+        "లక్ష్య సేన్",
+        "లీ జీ జియా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "China's Shi Yuqi defeated Hong Kong's Lee Cheuk Yiu to clinch the 2026 BWF India Open Super 750 Men's Singles title at K.D. Jadhav Indoor Stadium.",
+      "explanation_te": "2026 ఇండియా ఓపెన్ బ్యాడ్మింటన్ పురుషుల సింగిల్స్ ఫైనల్లో చైనా స్టార్ షట్లర్ షి యుకి విజయం సాధించారు."
+    },
+    {
+      "id": 144,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Is The Author Of The Book Operation SINDOOR: The Untold Story Of India’s Deep Strikes Inside Pakistan?",
+      "question_te": "Inside Pakistan' అనే పుస్ీక ర్చయిత ఎవర్ు?",
+      "options_en": [
+        "Vikram Singh",
+        "Kanwal Jeet Singh Dhillon",
+        "Ajay Kumar",
+        "Anand Ranganathan"
+      ],
+      "options_te": [
+        "వికమ్స ి సింగ్",
+        "కనవల్ జీత్ సింగ్ ధిలు ాన",
+        "అజయ్ కుమార్",
+        "ఆనంద్ ర్ంగన థన"
+      ],
+      "correct_option": 0,
+      "explanation_en": "'Operation SINDOOR: The Untold Story Of India’s Deep Strikes",
+      "explanation_te": "సరైన సమాధానం: వికమ్స ి సింగ్. ('Operation SINDOOR: The Untold Story Of India’s Deep Strikes)"
+    },
+    {
+      "id": 145,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Film Won The Best Film Award At Oscars 2026?",
+      "question_te": "2026 ఆసా్ర్లలో ఏ చతరం 'ఉతీమ చతరం' (Best Film) అవార్ు్ను గెలుచుకుంది?",
+      "options_en": [
+        "Hamnet",
+        "Sinners",
+        "One Battle After Another",
+        "Frankenstein"
+      ],
+      "options_te": [
+        "హాయమ్సనెట్",
+        "సినిర్్",
+        "వన బాయటిల్ ఆఫ్్ర్ అనదర్",
+        "ఫారంకెనస్ టన"
+      ],
+      "correct_option": 0,
+      "explanation_en": "98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin",
+      "explanation_te": "సరైన సమాధానం: హాయమ్సనెట్. (98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin)"
+    },
+    {
+      "id": 146,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who has been awarded with the “Abel Prize 2026”",
+      "question_te": "\"ఏబల్ పరైజ్ 2026\" ఎవర్ు పర ంద ర్ు",
+      "options_en": [
+        "Dennis P. Sullivan",
+        "Gerd Faltings",
+        "Luis Caffarelli",
+        "Masaki Kashiwara"
+      ],
+      "options_te": [
+        "డనిిస P. స్ులిువన బి. గెర్్ ఫాలి్ంగ్్",
+        "Gerd Faltings",
+        "లూయిస కాఫరెలిు",
+        "మసాకత కాశీవారా"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Abel Prize 2026 (Mathematics Award) • Winner : Gerd Faltings (German Mathematician) • Given By : The Norwegian Academy of Science and Letters",
+      "explanation_te": "సరైన సమాధానం: Gerd Faltings. (Abel Prize 2026 (Mathematics Award) • Winner : Gerd Faltings (German Mathematician) • Given By : The Norwegian Academy of Science and Letters)"
+    },
+    {
+      "id": 147,
+      "section": "General Studies",
+      "topic": "Current Affairs - Global Tech Summits 2026",
+      "question_en": "Which country hosted the AI Action Summit in 2026 bringing together world leaders and technology pioneers to establish global AI safety protocols?",
+      "question_te": "గ్లోబల్ AI భద్రతా నిబంధనలను రూపొందించడానికి ప్రపంచ నాయకులు మరియు సాంకేతిక నిపుణులతో '2026 AI యాక్షన్ సమ్మిట్' కు ఆతిథ్యమిచ్చిన దేశం ఏది?",
+      "options_en": [
+        "France",
+        "United Kingdom",
+        "South Korea",
+        "Japan"
+      ],
+      "options_te": [
+        "ఫ్రాన్స్",
+        "యునైటెడ్ కింగ్‌డమ్",
+        "దక్షిణ కొరియా",
+        "జపాన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "France hosted the global AI Action Summit in Paris in early 2026, building upon the Bletchley Park and Seoul AI safety declarations.",
+      "explanation_te": "పారిస్‌లో నిర్వహించిన 2026 అంతర్జాతీయ AI యాక్షన్ సమ్మిట్‌కు ఫ్రాన్స్ ఆతిథ్యమిచ్చింది."
+    },
+    {
+      "id": 148,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Won The Stockholm Water Prize 2026?",
+      "question_te": "సా్క్హో మ్స వాటర్ పరైజ్ 2026ను ఎవర్ు గెలుచుకున ిర్ు?",
+      "options_en": [
+        "Günter Blöschl",
+        "Roger Falconer",
+        "Sunita Narain",
+        "Kaveh Madani"
+      ],
+      "options_te": [
+        "గుంటర్ బలు ష్ు",
+        "రలజర్ ఫాల్నర్",
+        "స్ునీత న రెైన",
+        "కావహ్ మద ని"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Stockholm Water Prize (Called Nobel Prize Of Water) o Estd. : 1991 o Awarded By : Stockholm Water Foundation ➢ 2026 Winner : Kaveh Madani → Iranian Scientist (Youngest Winner)",
+      "explanation_te": "సరైన సమాధానం: కావహ్ మద ని. (Stockholm Water Prize (Called Nobel Prize Of Water) o Estd. : 1991 o Awarded By : Stockholm Water Foundation ➢ 2026 Winner : Kaveh Madani → Iranian Scientist (Youngest Winner))"
+    },
+    {
+      "id": 149,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Film Won The “Best Film (Drama)” Award At The Golden Globes 2026?",
+      "question_te": "గలలె్న గలుబ్స్ 2026లో \"ఉతీమ చతరం (డర మా)\" అవార్ు్ను ఏ చతరం గెలుచుకుంది?",
+      "options_en": [
+        "Hamnet",
+        "One Battle After Another",
+        "The Pitt",
+        "Frankenstein"
+      ],
+      "options_te": [
+        "హామ్సనెట్",
+        "వన బాయటిల్ ఆఫ్్ర్ అనదర్ 1. Best Film (Musical or Comedy) → One",
+        "ది పిట్",
+        "ఫారంకెనస్ టన"
+      ],
+      "correct_option": 0,
+      "explanation_en": "83rd Golden Globe Awards 2026 Winners Battle After Another 2. Best Drama Series : The Pitt 3. Best Actor (Drama) : Wagner Moura (The Secret Agent) 4. Best Actress (Drama)→ Jessie Buckley (Hamnet)",
+      "explanation_te": "సరైన సమాధానం: హామ్సనెట్. (83rd Golden Globe Awards 2026 Winners Battle After Another 2. Best Drama Series : The Pitt 3. Best Actor (Drama) : Wagner Moura (The Secret Agent) 4. Best Actress (Drama)→ Jessie Buckley (Hamnet))"
+    },
+    {
+      "id": 150,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Became The First Global Leader To Receive The Speaker Of The Knesset Medal?",
+      "question_te": "'స్ాకర్ ఆఫ్ ది నెసట్ మడ్ల్' (Speaker of the Knesset Medal) అందుకుని మొదటి పరపంచ న యకుడ్ు ఎవర్ు?",
+      "options_en": [
+        "Narendra Modi",
+        "Joe Biden",
+        "Emmanuel Macron",
+        "Rishi Sunak"
+      ],
+      "options_te": [
+        "నరేందర మోదీ",
+        "జో బరడన",
+        "ఇమామనుయయిేల్ మాకాిన",
+        "రిషి స్ునక్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Speaker Of The Knesset Medal : Highest Parliamentary Honour Of Israel",
+      "explanation_te": "సరైన సమాధానం: నరేందర మోదీ. (Speaker Of The Knesset Medal : Highest Parliamentary Honour Of Israel)"
+    },
+    {
+      "id": 151,
+      "section": "General Studies",
+      "topic": "Indian History - Ancient India - Buddhism & Sarnath UNESCO Nomination",
+      "question_en": "Consider the following statements regarding Sarnath, an ancient UNESCO Tentative World Heritage monument site:\n1. It marks the holy site of 'Dharmachakra Pravartana' where Gautama Buddha delivered his first sermon to his first five disciples (Panchavaggiya).\n2. The Lion Capital of Ashoka unearthed at Sarnath was adopted as the official State Emblem of India on January 26, 1950.\n3. The Dhamek Stupa at Sarnath was originally commissioned by Emperor Ashoka and later renovated in the Gupta period.\nWhich of the statements given above are correct?",
+      "question_te": "యునెస్కో ప్రపంచ వారసత్వ జాబితా నామినేషన్‌లో నిలిచిన ప్రాచీన బౌద్ధ కేంద్రం సారనాథ్ (Sarnath) కు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. గౌతమ బుద్ధుడు జ్ఞానోదయానంతరం తన తొలి ఐదుగురు శిష్యులకు ప్రథమ ధర్మోపదేశం ('ధర్మచక్ర ప్రవర్తన') గావించిన పవిత్ర స్థలం ఇది.\n2. సారనాథ్‌లో లభ్యమైన అశోకుని నాలుగు సింహాల స్తంభ శిఖరాన్ని 1950 జనవరి 26న భారతదేశ అధికారిక జాతీయ చిహ్నంగా స్వీకరించారు.\n3. సారనాథ్‌లోని ప్రసిద్ధ ధమేక్ స్థూపాన్ని (Dhamek Stupa) మూలతః అశోక చక్రవర్తి నిర్మించగా, గుప్తుల కాలంలో విస్తరించబడింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Sarnath (Rishipatana/Deer Park near Varanasi) is the birthplace of the Buddhist Sangha where Buddha preached his first sermon. It holds the Ashokan pillar whose capital became India's State Emblem and the massive Dhamek Stupa.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. వారణాసి సమీపంలోని సారనాథ్ గౌతమ బుద్ధుని తొలి బోధన (ధర్మచక్ర ప్రవర్తన) కు వేదిక. ఇక్కడి అశోక స్తంభ శిఖరం భారత జాతీయ చిహ్నంగా నిలిచింది మరియు ఇక్కడే ధమేక్ స్థూపం ఉంది."
+    },
+    {
+      "id": 152,
+      "section": "General Studies",
+      "topic": "Indian History - Modern Freedom Struggle - 1919 Montagu-Chelmsford Reforms",
+      "question_en": "Consider the following statements regarding the Government of India Act, 1919 (Montagu-Chelmsford Reforms):\n1. It introduced 'Dyarchy' in the provincial governments, bifurcating provincial subjects into 'Transferred' and 'Reserved'.\n2. It introduced bicameralism and direct elections in the country at the Central Legislature for the first time.\n3. It provided for the establishment of a Public Service Commission for recruiting civil servants.\nWhich of the statements given above are correct?",
+      "question_te": "భారత ప్రభుత్వ చట్టం 1919 (మాంటేగ్-చెమ్స్‌ఫర్డ్ సంస్కరణలు) కు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. ఇది ప్రావిన్సులలో పాలనాంశాలను 'బదిలీ చేయబడినవి' (Transferred) మరియు 'రిజర్వ్ చేయబడినవి' (Reserved) గా విభజిస్తూ 'ద్వంద్వ పాలన'ను (Dyarchy) ప్రవేశపెట్టింది.\n2. కేంద్ర శాసనసభలో మొట్టమొదటిసారిగా ద్విసభా విధానాన్ని (Bicameralism) మరియు ప్రత్యక్ష ఎన్నికలను ప్రవేశపెట్టింది.\n3. సివిల్ సర్వెంట్ల నియామకం కోసం 'పబ్లిక్ సర్వీస్ కమిషన్' (Central PSC) ఏర్పాటుకు ఇది వీలు కల్పించింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. The 1919 Act introduced provincial Dyarchy, central bicameralism (Council of State and Legislative Assembly), statutory Public Service Commission (set up in 1926 via Lee Commission recommendations), and separated provincial budgets from the central budget.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1919 చట్టం ద్వారా ప్రావిన్సులలో ద్వంద్వ పాలన వచ్చింది, కేంద్రంలో ద్విసభా విధానం ఏర్పాటైంది, మరియు 1926లో లీ కమిషన్ సిఫార్సుల మేరకు పబ్లిక్ సర్వీస్ కమిషన్ ఏర్పాటుకు పునాది పడింది."
+    },
+    {
+      "id": 153,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who founded the celebrated 'Satyashodhak Samaj' in Pune in 1873 to champion education and rights for lower castes and women?",
+      "question_te": "నిమ్న కులాలు మరియు మహిళల హక్కులు, విద్య కోసం 1873 లో పూణేలో 'సత్యశోధక్ సమాజ్' ను స్థాపించినది ఎవరు?",
+      "options_en": [
+        "Jyotirao Phule",
+        "Dr. B.R. Ambedkar",
+        "Gopal Ganesh Agarkar",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "options_te": [
+        "జ్యోతిరావ్ ఫూలే",
+        "డా. బి.ఆర్. అంబేద్కర్",
+        "గోపాల్ గణేష్ అగార్కర్",
+        "ఈశ్వర చంద్ర విద్యాసాగర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mahatma Jyotirao Phule established the Satyashodhak Samaj in Maharashtra in September 1873.",
+      "explanation_te": "మహాత్మా జ్యోతిరావ్ ఫూలే 1873 లో సత్యశోధక్ సమాజాన్ని స్థాపించారు."
+    },
+    {
+      "id": 154,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "In which historic session of the Indian National Congress was the resolution for 'Purna Swaraj' (Complete Independence) passed in December 1929?",
+      "question_te": "డిసెంబర్ 1929 లో భారత జాతీయ కాంగ్రెస్ ఏ చారిత్రక సమావేశంలో 'పూర్ణ స్వరాజ్' తీర్మానాన్ని ఆమోదించింది?",
+      "options_en": [
+        "Lahore Session",
+        "Karachi Session",
+        "Calcutta Session",
+        "Madras Session"
+      ],
+      "options_te": [
+        "లాహోర్ సమావేశం",
+        "కరాచీ సమావేశం",
+        "కలకత్తా సమావేశం",
+        "మద్రాస్ సమావేశం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The 1929 Lahore session presided over by Jawaharlal Nehru passed the historic Purna Swaraj resolution.",
+      "explanation_te": "జవహర్‌లాల్ నెహ్రూ అధ్యక్షతన లాహోర్ కాంగ్రెస్ సమావేశంలో పూర్ణ స్వరాజ్ తీర్మానం ఆమోదించబడింది."
+    },
+    {
+      "id": 155,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q5: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 5: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 156,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q6: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 6: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 157,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q7: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 7: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 158,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q8: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 8: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 159,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q9: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 9: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 160,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q10: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 10: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 161,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q11: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 11: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 162,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q12: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 12: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 163,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q13: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 13: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 164,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q14: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 14: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 165,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q15: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 15: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 166,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q16: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 16: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 167,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q17: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 17: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 168,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q18: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 18: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 169,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q19: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 19: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 170,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "History Q20: The Battle of Plassey was fought in which year?",
+      "question_te": "చరిత్ర ప్రశ్న 20: ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options_te": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Battle of Plassey took place on 23 June 1757.",
+      "explanation_te": "ప్లాసీ యుద్ధం 1757 జూన్ 23న జరిగింది."
+    },
+    {
+      "id": 171,
+      "section": "General Studies",
+      "topic": "Indian Polity - Finance Commission & Fiscal Federalism - Article 280",
+      "question_en": "Consider the following statements regarding the 16th Finance Commission of India:\n1. It was constituted under Article 280 of the Constitution under the chairmanship of Dr. Arvind Panagariya.\n2. Its recommendations will cover the five-year award period commencing from April 1, 2026.\nWhich of the statements given above is/are correct?",
+      "question_te": "భారత 16వ ఆర్థిక సంఘానికి (16th Finance Commission) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. భారత రాజ్యాంగంలోని ఆర్టికల్ 280 ప్రకారం డాక్టర్ అరవింద్ పనగరియా అధ్యక్షతన ఇది ఏర్పాటు చేయబడింది.\n2. దీని సిఫార్సులు 2026 ఏప్రిల్ 1 నుండి ప్రారంభమయ్యే ఐదేళ్ల కాలపరిమితికి అమలులోకి వస్తాయి.\nపై ప్రకటనలలో సరైనది/వి ఏది/వి?",
+      "options_en": [
+        "1 only",
+        "2 only",
+        "Both 1 and 2",
+        "Neither 1 nor 2"
+      ],
+      "options_te": [
+        "1 మాత్రమే",
+        "2 మాత్రమే",
+        "1 మరియు 2 రెండూ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Both statements are correct. The 16th Finance Commission, chaired by former NITI Aayog Vice-Chairman Dr. Arvind Panagariya, will formulate recommendations on tax devolution between Centre and States for the 2026-2031 period.",
+      "explanation_te": "రెండు ప్రకటనలూ సరైనవే. నీతి ఆయోగ్ మాజీ ఉపాధ్యక్షుడు డాక్టర్ అరవింద్ పనగరియా నేతృత్వంలో 16వ ఆర్థిక సంఘాన్ని కేంద్ర ప్రభుత్వం ఏర్పాటు చేసింది. ఇది 2026-2031 ఐదేళ్ల కాలానికి కేంద్ర-రాష్ట్రాల పన్నుల పంపిణీపై సిఫార్సులు చేస్తుంది."
+    },
+    {
+      "id": 172,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Constitutional Amendment Act added the terms 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Constitution of India?",
+      "question_te": "భారత రాజ్యాంగ పీఠికకు 'సమాజవాద', 'లౌకిక', మరియు 'సమగ్రత' అనే పదాలను చేర్చిన రాజ్యాంగ సవరణ చట్టం ఏది?",
+      "options_en": [
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "52nd Amendment Act, 1985",
+        "86th Amendment Act, 2002"
+      ],
+      "options_te": [
+        "42వ సవరణ చట్టం, 1976",
+        "44వ సవరణ చట్టం, 1978",
+        "52వ సవరణ చట్టం, 1985",
+        "86వ సవరణ చట్టం, 2002"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The 42nd Constitutional Amendment Act of 1976 amended the Preamble to introduce Socialist, Secular, and Integrity.",
+      "explanation_te": "1976 లో 42వ రాజ్యాంగ సవరణ ద్వారా పీఠికలో ఈ మూడు పదాలను చేర్చారు."
+    },
+    {
+      "id": 173,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q3: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 3: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 174,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q4: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 4: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 175,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q5: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 5: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 176,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q6: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 6: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 177,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q7: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 7: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 178,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q8: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 8: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 179,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q9: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 9: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 180,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q10: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 10: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 181,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q11: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 11: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 182,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q12: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 12: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 183,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q13: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 13: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 184,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q14: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 14: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 185,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Polity Q15: Who administers the oath of office to the President of India?",
+      "question_te": "రాజనీతి ప్రశ్న 15: భారత రాష్ట్రపతి చేత పదవీ ప్రమాణ స్వీకారం చేయించేది ఎవరు?",
+      "options_en": [
+        "Chief Justice of India",
+        "Prime Minister",
+        "Vice President",
+        "Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత ప్రధాన న్యాయమూర్తి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India administers the oath of office to the President under Article 60.",
+      "explanation_te": "అధికరణ 60 ప్రకారం సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి రాష్ట్రపతి చేత ప్రమాణం చేయిస్తారు."
+    },
+    {
+      "id": 186,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "In which year was the Gentlemen's Agreement signed between the leaders of Telangana and Andhra, leading to the formation of Andhra Pradesh?",
+      "question_te": "తెలంగాణ మరియు ఆంధ్ర నాయకుల మధ్య ప్రతిష్టాత్మక 'పెద్దమనుషుల ఒప్పందం' (Gentlemen's Agreement) ఏ సంవత్సరంలో జరిగింది?",
+      "options_en": [
+        "1952",
+        "1956",
+        "1969",
+        "1972"
+      ],
+      "options_te": [
+        "1952",
+        "1956",
+        "1969",
+        "1972"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Gentlemen's Agreement was signed on 20 February 1956 at Hyderabad House in New Delhi.",
+      "explanation_te": "1956 ఫిబ్రవరి 20న న్యూఢిల్లీలో పెద్దమనుషుల ఒప్పందం కుదిరింది."
+    },
+    {
+      "id": 187,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "The historic Ramappa Temple (Rudreshwara Temple), inscribed as a UNESCO World Heritage Site, was constructed during the reign of which Kakatiya monarch?",
+      "question_te": "యునెస్కో ప్రపంచ వారసత్వ సంపదగా గుర్తింపు పొందిన రామప్ప దేవాలయం ఏ కాకతీయ చక్రవర్తి కాలంలో నిర్మించబడింది?",
+      "options_en": [
+        "Ganapati Deva",
+        "Rudrama Devi",
+        "Prataparudra",
+        "Prola II"
+      ],
+      "options_te": [
+        "గణపతి దేవుడు",
+        "రుద్రమదేవి",
+        "ప్రతాపరుద్రుడు",
+        "ప్రోల II"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ramappa Temple was constructed in 1213 CE by general Recharla Rudra during the reign of Kakatiya ruler Ganapati Deva.",
+      "explanation_te": "కాకతీయ గణపతి దేవుని సేనాని రేచర్ల రుద్రుడు 1213 లో రామప్ప గుడిని నిర్మించాడు."
+    },
+    {
+      "id": 188,
+      "section": "General Studies",
+      "topic": "Telangana History & Movement - Asaf Jahi Dynasty - Salar Jung Reforms",
+      "question_en": "Consider the following statements regarding the administrative reforms introduced by Mir Turab Ali Khan (Salar Jung I) between 1853 and 1883 in Hyderabad State:\n1. He abolished the corrupt revenue farming (Zabti/Ijara) system and introduced direct cash collection under the 'Zillabandi' system.\n2. He divided the state into 14 districts under Subedars and designated District Collectors as 'Awwal Talukdars'.\n3. He established a central mint issuing the official standardized state currency called 'Hali Sikka'.\nWhich of the statements given above are correct?",
+      "question_te": "1853 నుండి 1883 మధ్య హైదరాబాద్ రాజ్యంలో మీర్ తురబ్ అలీ ఖాన్ (మొదటి సాలార్ జంగ్) ప్రవేశపెట్టిన పరిపాలనా సంస్కరణలకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. అవినీతిమయమైన రెవెన్యూ గుత్తేదారుల (ఇజారా) విధానాన్ని రద్దు చేసి, నేరుగా పన్నులు వసూలు చేసేందుకు 'జిల్లేబందీ' పద్ధతిని ప్రవేశపెట్టారు.\n2. రాజ్యాన్ని 14 జిల్లాలుగా విభజించి, జిల్లాల పాలనాధికారులను 'అవ్వల్ తాలూక్దార్లు' (మొదటి తాలూక్దార్/కలెక్టర్) గా నియమించారు.\n3. నాణేల ముద్రణ కోసం కేంద్రీకృత మింట్ స్థాపించి, ప్రామాణికమైన 'హాలీ సిక్కా' కరెన్సీని ప్రవేశపెట్టారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Salar Jung I modernized the medieval administration of Hyderabad state through Zillabandi, police reorganization, founding of Dar-ul-Uloom school, and issuance of Hali Sikka currency.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. సాలార్ జంగ్ I ప్రవేశపెట్టిన జిల్లేబందీ విధానం, అవ్వల్ తాలూక్దార్ (కలెక్టర్) వ్యవస్థ, హాలీ సిక్కా కరెన్సీ మరియు రెవెన్యూ సంస్కరణలు హైదరాబాద్ సంస్థానాన్ని ఆధునీకరించాయి."
+    },
+    {
+      "id": 189,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q4: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 4: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 190,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q5: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 5: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 191,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q6: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 6: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 192,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q7: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 7: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 193,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q8: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 8: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 194,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q9: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 9: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 195,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q10: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 10: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 196,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q11: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 11: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 197,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q12: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 12: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 198,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q13: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 13: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 199,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q14: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 14: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    },
+    {
+      "id": 200,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Q15: What is the state festival of Telangana celebrated during Navratri?",
+      "question_te": "తెలంగాణ ప్రశ్న 15: నవరాత్రుల సమయంలో జరుపుకునే తెలంగాణ రాష్ట్ర పండుగ ఏది?",
+      "options_en": [
+        "Bathukamma",
+        "Bonalu",
+        "Sammakka Sarakka",
+        "Nagoba"
+      ],
+      "options_te": [
+        "బతుకమ్మ",
+        "బోనాలు",
+        "సమ్మక్క సారక్క",
+        "నాగోబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bathukamma is the floral festival celebrated as the State Festival of Telangana.",
+      "explanation_te": "తెలంగాణ రాష్ట్ర పండుగ బతుకమ్మ."
+    }
+  ]
+}

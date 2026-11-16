@@ -1,0 +1,41 @@
+{
+  "name": "tsplrb-si-mock-platform",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Vite + React Commercial CBT Platform for TSPLRB SI Prelims Examination",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.js",
+    "server": "node server/index.js",
+    "client": "vite --port 3000 --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "node server/index.js",
+    "seed": "node scripts/seed-all-mocks.js",
+    "cron:yt": "python3 scripts/poll_youtube_channels.py"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "clsx": "^2.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "lucide-react": "^0.451.0",
+    "mongoose": "^8.7.0",
+    "nodemailer": "^7.0.13",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.27.0",
+    "tailwind-merge": "^2.5.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.3",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.13",
+    "vite": "^5.4.9"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "last_polled_at": "2026-11-15T15:36:09.802458+00:00",
+  "channels": [
+    {
+      "name": "Ashoka Academy (Ashok Sir)",
+      "handle": "@ashokaonlineacademy8933",
+      "channel_id": "UCa5yYgqG7H7n8Q8B4o0W3xg",
+      "subjects": [
+        "Telangana History",
+        "Telangana Movement",
+        "TSPSC Group 1/2/3",
+        "TSLPRB SI/Constable"
+      ],
+      "keywords": [
+        "తెలంగాణ",
+        "ఉద్యమం",
+        "చరిత్ర",
+        "కాకతీయులు",
+        "ముల్కీ",
+        "1969",
+        "కమిటీలు",
+        "నిజాం"
+      ]
+    },
+    {
+      "name": "StudyNow Telugu",
+      "handle": "@studynowtelugu",
+      "channel_id": "UC_StudyNowTelugu_ID",
+      "subjects": [
+        "Current Affairs",
+        "Telangana State Schemes",
+        "Science & Tech",
+        "National Issues"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "కరెంట్ అఫైర్స్",
+        "స్కీమ్స్",
+        "బడ్జెట్",
+        "సర్వే",
+        "HYDRAA",
+        "భూభారతి",
+        "టాప్ బిట్స్",
+        "MCQs"
+      ]
+    },
+    {
+      "name": "CSB IAS Academy (Bala Latha Madam)",
+      "handle": "@csbiasacademyofficial",
+      "channel_id": "UC_CSBIAS_Official_ID",
+      "subjects": [
+        "Indian Polity",
+        "Constitutional Governance",
+        "Supreme Court Cases",
+        "State PCS Analysis"
+      ],
+      "keywords": [
+        "Polity",
+        "రాజ్యాంగం",
+        "సుప్రీంకోర్టు",
+        "ఆర్టికల్",
+        "సవరణ",
+        "పార్లమెంట్",
+        "గవర్నర్",
+        "DPSP",
+        "ప్రాథమిక హక్కులు"
+      ]
+    },
+    {
+      "name": "Winners Online (Winners Publications)",
+      "handle": "@winnersonline",
+      "channel_id": "UC_WinnersOnline_ID",
+      "subjects": [
+        "Indian History",
+        "General Studies",
+        "Freedom Struggle",
+        "Ancient & Medieval History"
+      ],
+      "keywords": [
+        "Indian History",
+        "భారత చరిత్ర",
+        "మౌర్యులు",
+        "గుప్తులు",
+        "1857",
+        "గాంధీ",
+        "స్వాతంత్ర్యోద్యమం",
+        "చట్టాలు"
+      ]
+    },
+    {
+      "name": "T-SAT Network (Govt of Telangana)",
+      "handle": "@tsatnetwork",
+      "channel_id": "UC_TSAT_Network_ID",
+      "subjects": [
+        "TSPSC Syllabus",
+        "Telangana Culture",
+        "Exam Bit Bank",
+        "Official Govt Tutorials"
+      ],
+      "keywords": [
+        "T-SAT",
+        "Marathon",
+        "Quiz Time",
+        "బిట్స్",
+        "తెలంగాణ సంస్కృతి",
+        "గ్రూప్స్",
+        "ఎస్ఐ"
+      ]
+    },
+    {
+      "name": "Adda247 Telugu (Suryadeep Sir)",
+      "handle": "@adda247telugu",
+      "playlist_id": "PLNOSFzLA9zoqz0kdVMRbRNt7ROUS688W1",
+      "playlist_url": "https://www.youtube.com/playlist?list=PLNOSFzLA9zoqz0kdVMRbRNt7ROUS688W1",
+      "subjects": [
+        "Daily Current Affairs",
+        "TGPSC / APPSC Group 1/2",
+        "Telangana State Issues",
+        "National & International Developments"
+      ],
+      "keywords": [
+        "Current Affairs",
+        "కరెంట్ అఫైర్స్",
+        "Suryadeep",
+        "TGPSC",
+        "APPSC",
+        "UPSC",
+        "సైన్స్",
+        "రక్షణ",
+        "సదస్సులు"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "section": "Biology",
+    "question": "Scientist who discovered the cell",
+    "answer": "Robert Hooke."
+  },
+  {
+    "id": 2,
+    "section": "Biology",
+    "question": "Powerhouses of the cell",
+    "answer": "Mitochondria."
+  },
+  {
+    "id": 3,
+    "section": "Biology",
+    "question": "Suicidal bags of the cell",
+    "answer": "Lysosomes."
+  },
+  {
+    "id": 4,
+    "section": "Biology",
+    "question": "Protein factories of the cell",
+    "answer": "Ribosomes."
+  },
+  {
+    "id": 5,
+    "section": "Biology",
+    "question": "Largest organ in the human body",
+    "answer": "Skin."
+  },
+  {
+    "id": 6,
+    "section": "Biology",
+    "question": "Largest gland in the human body",
+    "answer": "Liver."
+  },
+  {
+    "id": 7,
+    "section": "Biology",
+    "question": "Smallest gland in the human body",
+    "answer": "Pituitary gland."
+  },
+  {
+    "id": 8,
+    "section": "Biology",
+    "question": "Longest bone in the human body",
+    "answer": "Femur (thigh bone)."
+  },
+  {
+    "id": 9,
+    "section": "Biology",
+    "question": "Smallest bone in the human body",
+    "answer": "Stapes (in the ear)."
+  },
+  {
+    "id": 10,
+    "section": "Biology",
+    "question": "Vitamin that helps in blood clotting",
+    "answer": "Vitamin K."
+  },
+  {
+    "id": 11,
+    "section": "Biology",
+    "question": "Disease caused by Vitamin A deficiency",
+    "answer": "Night blindness."
+  },
+  {
+    "id": 12,
+    "section": "Biology",
+    "question": "Chemical name of Vitamin C",
+    "answer": "Ascorbic acid (its deficiency causes scurvy)."
+  },
+  {
+    "id": 13,
+    "section": "Biology",
+    "question": "Disease caused by Vitamin D deficiency",
+    "answer": "Rickets."
+  },
+  {
+    "id": 14,
+    "section": "Biology",
+    "question": "Element present in Vitamin B12",
+    "answer": "Cobalt."
+  },
+  {
+    "id": 15,
+    "section": "Biology",
+    "question": "Vitamin obtained through sunlight",
+    "answer": "Vitamin D."
+  },
+  {
+    "id": 16,
+    "section": "Biology",
+    "question": "Normal pH value of blood",
+    "answer": "7.4 (slightly alkaline)."
+  },
+  {
+    "id": 17,
+    "section": "Biology",
+    "question": "Lifespan of red blood cells (RBC)",
+    "answer": "120 days."
+  },
+  {
+    "id": 18,
+    "section": "Biology",
+    "question": "Lifespan of white blood cells (WBC)",
+    "answer": "12–13 days."
+  },
+  {
+    "id": 19,
+    "section": "Biology",
+    "question": "Universal blood donor",
+    "answer": "O Negative (O−)."
+  },
+  {
+    "id": 20,
+    "section": "Biology",
+    "question": "Universal blood recipient",
+    "answer": "AB Positive (AB+)."
+  },
+  {
+    "id": 21,
+    "section": "Biology",
+    "question": "Mosquito that spreads malaria",
+    "answer": "Female Anopheles mosquito."
+  },
+  {
+    "id": 22,
+    "section": "Biology",
+    "question": "Mosquito that spreads dengue",
+    "answer": "Aedes aegypti."
+  },
+  {
+    "id": 23,
+    "section": "Biology",
+    "question": "Cause of tuberculosis (TB)",
+    "answer": "Mycobacterium tuberculosis (bacteria)."
+  },
+  {
+    "id": 24,
+    "section": "Biology",
+    "question": "Test used to diagnose typhoid",
+    "answer": "Widal test."
+  },
+  {
+    "id": 25,
+    "section": "Biology",
+    "question": "Test used to diagnose AIDS",
+    "answer": "ELISA test."
+  },
+  {
+    "id": 26,
+    "section": "Biology",
+    "question": "Number of chambers in the human heart",
+    "answer": "Four."
+  },
+  {
+    "id": 27,
+    "section": "Biology",
+    "question": "Normal blood pressure",
+    "answer": "120/80 mmHg."
+  },
+  {
+    "id": 28,
+    "section": "Biology",
+    "question": "Instrument used to measure blood pressure",
+    "answer": "Sphygmomanometer."
+  },
+  {
+    "id": 29,
+    "section": "Biology",
+    "question": "Bile juice is produced in",
+    "answer": "Liver."
+  },
+  {
+    "id": 30,
+    "section": "Biology",
+    "question": "Bile juice is stored in",
+    "answer": "Gallbladder."
+  },
+  {
+    "id": 31,
+    "section": "Biology",
+    "question": "Digestion is completed in",
+    "answer": "Small intestine."
+  },
+  {
+    "id": 32,
+    "section": "Biology",
+    "question": "Part of the brain responsible for body balance",
+    "answer": "Cerebellum."
+  },
+  {
+    "id": 33,
+    "section": "Biology",
+    "question": "Centre of memory and intelligence",
+    "answer": "Cerebrum."
+  },
+  {
+    "id": 34,
+    "section": "Biology",
+    "question": "Functional unit of the kidneys",
+    "answer": "Nephron."
+  },
+  {
+    "id": 35,
+    "section": "Biology",
+    "question": "Functional unit of the nervous system",
+    "answer": "Neuron."
+  },
+  {
+    "id": 36,
+    "section": "Biology",
+    "question": "Part of the brain that regulates body temperature",
+    "answer": "Hypothalamus."
+  },
+  {
+    "id": 37,
+    "section": "Biology",
+    "question": "Total number of bones in an adult human body",
+    "answer": "206 (approximately 300 in newborn babies)."
+  },
+  {
+    "id": 38,
+    "section": "Biology",
+    "question": "Number of muscles in the human body",
+    "answer": "Approximately 639."
+  },
+  {
+    "id": 39,
+    "section": "Biology",
+    "question": "Part of the eye donated during eye donation",
+    "answer": "Cornea."
+  },
+  {
+    "id": 40,
+    "section": "Biology",
+    "question": "Image of an object is formed on the",
+    "answer": "Retina."
+  },
+  {
+    "id": 41,
+    "section": "Biology",
+    "question": "Green colour in plants is due to",
+    "answer": "Chlorophyll."
+  },
+  {
+    "id": 42,
+    "section": "Biology",
+    "question": "Element present in chlorophyll",
+    "answer": "Magnesium."
+  },
+  {
+    "id": 43,
+    "section": "Biology",
+    "question": "Requirements for photosynthesis",
+    "answer": "Sunlight, water, carbon dioxide and chlorophyll."
+  },
+  {
+    "id": 44,
+    "section": "Biology",
+    "question": "Tissue that transports water in plants",
+    "answer": "Xylem."
+  },
+  {
+    "id": 45,
+    "section": "Biology",
+    "question": "Tissue that transports food in plants",
+    "answer": "Phloem."
+  },
+  {
+    "id": 46,
+    "section": "Biology",
+    "question": "Father of Botany",
+    "answer": "Theophrastus."
+  },
+  {
+    "id": 47,
+    "section": "Biology",
+    "question": "Father of Genetics",
+    "answer": "Gregor Mendel."
+  },
+  {
+    "id": 48,
+    "section": "Biology",
+    "question": "Scientists who discovered the double-helix structure of DNA",
+    "answer": "Watson and Crick."
+  },
+  {
+    "id": 49,
+    "section": "Biology",
+    "question": "Scientist who discovered penicillin",
+    "answer": "Alexander Fleming."
+  },
+  {
+    "id": 50,
+    "section": "Biology",
+    "question": "Scientist who developed the polio vaccine",
+    "answer": "Jonas Salk."
+  },
+  {
+    "id": 51,
+    "section": "Biology",
+    "question": "Scientist who developed the rabies vaccine",
+    "answer": "Louis Pasteur."
+  },
+  {
+    "id": 52,
+    "section": "Biology",
+    "question": "Number of chromosomes in humans",
+    "answer": "46 (23 pairs)."
+  },
+  {
+    "id": 53,
+    "section": "Biology",
+    "question": "Red colour of blood is due to",
+    "answer": "Haemoglobin."
+  },
+  {
+    "id": 54,
+    "section": "Biology",
+    "question": "Element present in haemoglobin",
+    "answer": "Iron."
+  },
+  {
+    "id": 55,
+    "section": "Biology",
+    "question": "Study of cancer",
+    "answer": "Oncology."
+  },
+  {
+    "id": 56,
+    "section": "Biology",
+    "question": "Study of fruits",
+    "answer": "Pomology."
+  },
+  {
+    "id": 57,
+    "section": "Biology",
+    "question": "Study of birds",
+    "answer": "Ornithology."
+  },
+  {
+    "id": 58,
+    "section": "Biology",
+    "question": "Study of bones",
+    "answer": "Osteology."
+  },
+  {
+    "id": 59,
+    "section": "Biology",
+    "question": "Study of the liver",
+    "answer": "Hepatology."
+  },
+  {
+    "id": 60,
+    "section": "Biology",
+    "question": "Glands that produce hormones",
+    "answer": "Endocrine glands."
+  },
+  {
+    "id": 61,
+    "section": "Biology",
+    "question": "Scientist who discovered oxygen",
+    "answer": "Joseph Priestley."
+  },
+  {
+    "id": 62,
+    "section": "Biology",
+    "question": "Scientist who discovered blood circulation",
+    "answer": "William Harvey."
+  },
+  {
+    "id": 63,
+    "section": "Biology",
+    "question": "Scientist who discovered blood groups",
+    "answer": "Karl Landsteiner."
+  },
+  {
+    "id": 64,
+    "section": "Biology",
+    "question": "Largest flower",
+    "answer": "Rafflesia."
+  },
+  {
+    "id": 65,
+    "section": "Biology",
+    "question": "Smallest flowering plant",
+    "answer": "Wolffia."
+  },
+  {
+    "id": 66,
+    "section": "Physics",
+    "question": "Physics.",
+    "answer": ""
+  },
+  {
+    "id": 67,
+    "section": "Physics",
+    "question": "SI unit of force",
+    "answer": "Newton."
+  },
+  {
+    "id": 68,
+    "section": "Physics",
+    "question": "SI unit of work and energy",
+    "answer": "Joule."
+  },
+  {
+    "id": 69,
+    "section": "Physics",
+    "question": "SI unit of power",
+    "answer": "Watt."
+  },
+  {
+    "id": 70,
+    "section": "Physics",
+    "question": "SI unit of electric current",
+    "answer": "Ampere."
+  },
+  {
+    "id": 71,
+    "section": "Physics",
+    "question": "SI unit of electrical resistance",
+    "answer": "Ohm."
+  },
+  {
+    "id": 72,
+    "section": "Physics",
+    "question": "Light year is a unit of",
+    "answer": "Distance (used to measure astronomical distances)."
+  },
+  {
+    "id": 73,
+    "section": "Physics",
+    "question": "Speed of light in vacuum",
+    "answer": "3 × 10■ m/s."
+  },
+  {
+    "id": 74,
+    "section": "Physics",
+    "question": "Primary colours of light",
+    "answer": "Red, Green and Blue (RGB)."
+  },
+  {
+    "id": 75,
+    "section": "Physics",
+    "question": "Mirage occurs due to",
+    "answer": "Total internal reflection of light."
+  },
+  {
+    "id": 76,
+    "section": "Physics",
+    "question": "The sky appears blue due to",
+    "answer": "Scattering of light."
+  },
+  {
+    "id": 77,
+    "section": "Physics",
+    "question": "Twinkling of stars is due to",
+    "answer": "Refraction of light."
+  },
+  {
+    "id": 78,
+    "section": "Physics",
+    "question": "Sun appears red during sunrise and sunset due to",
+    "answer": "Scattering of light."
+  },
+  {
+    "id": 79,
+    "section": "Physics",
+    "question": "Mirror used in vehicle rear-view mirrors",
+    "answer": "Convex mirror."
+  },
+  {
+    "id": 80,
+    "section": "Physics",
+    "question": "Mirror used by dentists and for shaving",
+    "answer": "Concave mirror."
+  },
+  {
+    "id": 81,
+    "section": "Physics",
+    "question": "Mirror used in car headlights",
+    "answer": "Concave mirror."
+  },
+  {
+    "id": 82,
+    "section": "Physics",
+    "question": "Speed of sound is highest in",
+    "answer": "Solids (especially steel)."
+  },
+  {
+    "id": 83,
+    "section": "Physics",
+    "question": "Sound cannot travel through",
+    "answer": "Vacuum."
+  },
+  {
+    "id": 84,
+    "section": "Physics",
+    "question": "Human audible frequency range",
+    "answer": "20 Hz to 20,000 Hz."
+  },
+  {
+    "id": 85,
+    "section": "Physics",
+    "question": "Minimum distance required to hear an echo",
+    "answer": "Approximately 17 metres."
+  },
+  {
+    "id": 86,
+    "section": "Physics",
+    "question": "Bats use which sound waves to navigate at night?",
+    "answer": "Ultrasonic waves."
+  },
+  {
+    "id": 87,
+    "section": "Physics",
+    "question": "Acceleration due to gravity at the centre of the Earth",
+    "answer": "Zero."
+  },
+  {
+    "id": 88,
+    "section": "Physics",
+    "question": "Value of gravity at the poles",
+    "answer": "Maximum."
+  },
+  {
+    "id": 89,
+    "section": "Physics",
+    "question": "Value of gravity at the equator",
+    "answer": "Minimum."
+  },
+  {
+    "id": 90,
+    "section": "Physics",
+    "question": "Escape velocity of the Earth",
+    "answer": "11.2 km/s."
+  },
+  {
+    "id": 91,
+    "section": "Physics",
+    "question": "Escape velocity of the Moon",
+    "answer": "2.4 km/s."
+  },
+  {
+    "id": 92,
+    "section": "Physics",
+    "question": "Reason for falling forward while getting off a moving train",
+    "answer": "Inertia of motion (Newton's First Law)."
+  },
+  {
+    "id": 93,
+    "section": "Physics",
+    "question": "Principle behind rocket motion",
+    "answer": "Newton's Third Law (action and reaction) and conservation of momentum."
+  },
+  {
+    "id": 94,
+    "section": "Physics",
+    "question": "Hydraulic lifts and brakes work on",
+    "answer": "Pascal's Law."
+  },
+  {
+    "id": 95,
+    "section": "Physics",
+    "question": "Ice floats on water because",
+    "answer": "The density of ice is lower than the density of water."
+  },
+  {
+    "id": 96,
+    "section": "Physics",
+    "question": "Temperature at which water has maximum density",
+    "answer": "4°C."
+  },
+  {
+    "id": 97,
+    "section": "Physics",
+    "question": "Normal human body temperature",
+    "answer": "37°C or 98.6°F."
+  },
+  {
+    "id": 98,
+    "section": "Physics",
+    "question": "Absolute zero temperature",
+    "answer": "−273.15°C or 0 K."
+  },
+  {
+    "id": 99,
+    "section": "Physics",
+    "question": "Instrument used to measure heat",
+    "answer": "Calorimeter."
+  },
+  {
+    "id": 100,
+    "section": "Physics",
+    "question": "Electromagnetic waves with the highest frequency",
+    "answer": "Gamma rays."
+  },
+  {
+    "id": 101,
+    "section": "Physics",
+    "question": "Function of a dynamo",
+    "answer": "Converts mechanical energy into electrical energy."
+  },
+  {
+    "id": 102,
+    "section": "Physics",
+    "question": "Function of an electric motor",
+    "answer": "Converts electrical energy into mechanical energy."
+  },
+  {
+    "id": 103,
+    "section": "Physics",
+    "question": "Function of a solar cell",
+    "answer": "Converts light energy into electrical energy."
+  },
+  {
+    "id": 104,
+    "section": "Physics",
+    "question": "A transformer works only with",
+    "answer": "Alternating Current (AC)."
+  },
+  {
+    "id": 105,
+    "section": "Physics",
+    "question": "Important property of a fuse wire in household circuits",
+    "answer": "Low melting point."
+  },
+  {
+    "id": 106,
+    "section": "Physics",
+    "question": "Instrument used to measure the depth of oceans",
+    "answer": "Fathometer."
+  },
+  {
+    "id": 107,
+    "section": "Physics",
+    "question": "Technology used to measure ocean depth and detect underwater objects",
+    "answer": "SONAR (Sound Navigation and"
+  },
+  {
+    "id": 108,
+    "section": "Physics",
+    "question": "Instrument used to measure earthquakes",
+    "answer": "Seismograph."
+  },
+  {
+    "id": 109,
+    "section": "Physics",
+    "question": "Instrument used to measure wind speed",
+    "answer": "Anemometer."
+  },
+  {
+    "id": 110,
+    "section": "Physics",
+    "question": "Instrument used to measure atmospheric pressure",
+    "answer": "Barometer."
+  },
+  {
+    "id": 111,
+    "section": "Physics",
+    "question": "Instrument used to measure the purity or specific gravity of milk",
+    "answer": "Lactometer."
+  },
+  {
+    "id": 112,
+    "section": "Physics",
+    "question": "Instrument used to measure humidity in air",
+    "answer": "Hygrometer."
+  },
+  {
+    "id": 113,
+    "section": "Physics",
+    "question": "Instrument used to measure very high temperatures",
+    "answer": "Pyrometer."
+  },
+  {
+    "id": 114,
+    "section": "Physics",
+    "question": "Scientist who discovered X-rays",
+    "answer": "Wilhelm Conrad Roentgen."
+  },
+  {
+    "id": 115,
+    "section": "Physics",
+    "question": "Scientist who discovered radioactivity",
+    "answer": "Henri Becquerel."
+  },
+  {
+    "id": 116,
+    "section": "Physics",
+    "question": "Principle of an atomic bomb",
+    "answer": "Nuclear fission."
+  },
+  {
+    "id": 117,
+    "section": "Physics",
+    "question": "Principle of a hydrogen bomb",
+    "answer": "Nuclear fusion."
+  },
+  {
+    "id": 118,
+    "section": "Physics",
+    "question": "Source of energy in the Sun",
+    "answer": "Nuclear fusion."
+  },
+  {
+    "id": 119,
+    "section": "Physics",
+    "question": "Moderators used in nuclear reactors",
+    "answer": "Heavy water and graphite."
+  },
+  {
+    "id": 120,
+    "section": "Physics",
+    "question": "Control rods used in nuclear reactors",
+    "answer": "Cadmium or boron rods."
+  },
+  {
+    "id": 121,
+    "section": "Physics",
+    "question": "Glasses used to watch 3D movies in cinema theatres",
+    "answer": "Polaroid glasses."
+  },
+  {
+    "id": 122,
+    "section": "Chemistry",
+    "question": "Chemistry.",
+    "answer": ""
+  },
+  {
+    "id": 123,
+    "section": "Chemistry",
+    "question": "Father of Modern Chemistry",
+    "answer": "Antoine Lavoisier."
+  },
+  {
+    "id": 124,
+    "section": "Chemistry",
+    "question": "Scientist who discovered the electron",
+    "answer": "J. J. Thomson."
+  },
+  {
+    "id": 125,
+    "section": "Chemistry",
+    "question": "Scientist who discovered the proton",
+    "answer": "Ernest Rutherford (the source also mentions Goldstein)."
+  },
+  {
+    "id": 126,
+    "section": "Chemistry",
+    "question": "Scientist who discovered the neutron",
+    "answer": "James Chadwick."
+  },
+  {
+    "id": 127,
+    "section": "Chemistry",
+    "question": "Acids turn blue litmus paper into",
+    "answer": "Red."
+  },
+  {
+    "id": 128,
+    "section": "Chemistry",
+    "question": "Bases turn red litmus paper into",
+    "answer": "Blue."
+  },
+  {
+    "id": 129,
+    "section": "Chemistry",
+    "question": "pH value of pure water",
+    "answer": "7 (Neutral)."
+  },
+  {
+    "id": 130,
+    "section": "Chemistry",
+    "question": "pH value of blood",
+    "answer": "7.4."
+  },
+  {
+    "id": 131,
+    "section": "Chemistry",
+    "question": "Acid present in lemon",
+    "answer": "Citric acid."
+  },
+  {
+    "id": 132,
+    "section": "Chemistry",
+    "question": "Acid released during an ant bite",
+    "answer": "Formic acid (Methanoic acid)."
+  },
+  {
+    "id": 133,
+    "section": "Chemistry",
+    "question": "Acid present in curd and buttermilk",
+    "answer": "Lactic acid."
+  },
+  {
+    "id": 134,
+    "section": "Chemistry",
+    "question": "Acid used in car batteries",
+    "answer": "Sulphuric acid (H■SO■)."
+  },
+  {
+    "id": 135,
+    "section": "Chemistry",
+    "question": "Acid present in apples",
+    "answer": "Malic acid."
+  },
+  {
+    "id": 136,
+    "section": "Chemistry",
+    "question": "Laughing gas",
+    "answer": "Nitrous oxide (N■O)."
+  },
+  {
+    "id": 137,
+    "section": "Chemistry",
+    "question": "Dry ice",
+    "answer": "Solid carbon dioxide (CO■)."
+  },
+  {
+    "id": 138,
+    "section": "Chemistry",
+    "question": "Chemical name of baking soda",
+    "answer": "Sodium bicarbonate (NaHCO■)."
+  },
+  {
+    "id": 139,
+    "section": "Chemistry",
+    "question": "Chemical name of washing soda",
+    "answer": "Sodium carbonate (Na■CO■)."
+  },
+  {
+    "id": 140,
+    "section": "Chemistry",
+    "question": "Chemical name of bleaching powder",
+    "answer": "Calcium oxychloride."
+  },
+  {
+    "id": 141,
+    "section": "Chemistry",
+    "question": "Chemical name of Plaster of Paris",
+    "answer": "Calcium sulphate hemihydrate."
+  },
+  {
+    "id": 142,
+    "section": "Chemistry",
+    "question": "Only metal that is liquid at room temperature",
+    "answer": "Mercury."
+  },
+  {
+    "id": 143,
+    "section": "Chemistry",
+    "question": "Non-metal that is liquid at room temperature",
+    "answer": "Bromine."
+  },
+  {
+    "id": 144,
+    "section": "Chemistry",
+    "question": "Lightest metal",
+    "answer": "Lithium."
+  },
+  {
+    "id": 145,
+    "section": "Chemistry",
+    "question": "Heaviest metal",
+    "answer": "Osmium."
+  },
+  {
+    "id": 146,
+    "section": "Chemistry",
+    "question": "Metal with the highest electrical conductivity",
+    "answer": "Silver."
+  },
+  {
+    "id": 147,
+    "section": "Chemistry",
+    "question": "Most abundant element in the Earth's crust",
+    "answer": "Oxygen."
+  },
+  {
+    "id": 148,
+    "section": "Chemistry",
+    "question": "Most abundant metal in the Earth's crust",
+    "answer": "Aluminium."
+  },
+  {
+    "id": 149,
+    "section": "Chemistry",
+    "question": "Most abundant element in the universe",
+    "answer": "Hydrogen."
+  },
+  {
+    "id": 150,
+    "section": "Chemistry",
+    "question": "Rusting of iron is a process of",
+    "answer": "Oxidation."
+  },
+  {
+    "id": 151,
+    "section": "Chemistry",
+    "question": "Weight of iron increases when it rusts",
+    "answer": "Yes, it increases."
+  },
+  {
+    "id": 152,
+    "section": "Chemistry",
+    "question": "Metal coating used in galvanisation of iron",
+    "answer": "Zinc."
+  },
+  {
+    "id": 153,
+    "section": "Chemistry",
+    "question": "Substance used in the manufacture of matchsticks",
+    "answer": "Red phosphorus."
+  },
+  {
+    "id": 154,
+    "section": "Chemistry",
+    "question": "Material present in pencil leads",
+    "answer": "Graphite."
+  },
+  {
+    "id": 155,
+    "section": "Chemistry",
+    "question": "Diamond, graphite and buckminsterfullerene are forms of",
+    "answer": "Carbon allotropes."
+  },
+  {
+    "id": 156,
+    "section": "Chemistry",
+    "question": "Hardest naturally occurring substance",
+    "answer": "Diamond."
+  },
+  {
+    "id": 157,
+    "section": "Chemistry",
+    "question": "Main gas present in biogas (gobar gas)",
+    "answer": "Methane."
+  },
+  {
+    "id": 158,
+    "section": "Chemistry",
+    "question": "Main gas present in CNG (Compressed Natural Gas)",
+    "answer": "Methane."
+  },
+  {
+    "id": 159,
+    "section": "Chemistry",
+    "question": "Main gases present in LPG",
+    "answer": "Butane and propane."
+  },
+  {
+    "id": 160,
+    "section": "Chemistry",
+    "question": "Chemical added to LPG to detect gas leakage",
+    "answer": "Ethyl mercaptan (an odorant)."
+  },
+  {
+    "id": 161,
+    "section": "General Science & Astronomy",
+    "question": "Natural satellite of the Earth",
+    "answer": "Moon."
+  },
+  {
+    "id": 162,
+    "section": "General Science & Astronomy",
+    "question": "Planet closest to the Sun",
+    "answer": "Mercury."
+  },
+  {
+    "id": 163,
+    "section": "General Science & Astronomy",
+    "question": "Planet farthest from the Sun",
+    "answer": "Neptune."
+  },
+  {
+    "id": 164,
+    "section": "General Science & Astronomy",
+    "question": "Planet nearest to the Earth",
+    "answer": "Venus (as given in the source translation)."
+  },
+  {
+    "id": 165,
+    "section": "General Science & Astronomy",
+    "question": "Red Planet",
+    "answer": "Mars."
+  },
+  {
+    "id": 166,
+    "section": "General Science & Astronomy",
+    "question": "Largest planet",
+    "answer": "Jupiter."
+  },
+  {
+    "id": 167,
+    "section": "General Science & Astronomy",
+    "question": "Smallest planet",
+    "answer": "Mercury."
+  },
+  {
+    "id": 168,
+    "section": "General Science & Astronomy",
+    "question": "Number of planets in the Solar System",
+    "answer": "8."
+  },
+  {
+    "id": 169,
+    "section": "General Science & Astronomy",
+    "question": "Number of planets in the Solar System",
+    "answer": "8."
+  },
+  {
+    "id": 170,
+    "section": "General Science & Astronomy",
+    "question": "What is a star?",
+    "answer": "A celestial body that produces its own light and heat."
+  },
+  {
+    "id": 171,
+    "section": "General Science & Astronomy",
+    "question": "What is a light year?",
+    "answer": "The distance travelled by light in one year."
+  },
+  {
+    "id": 172,
+    "section": "General Science & Astronomy",
+    "question": "Time taken by the Earth to rotate on its axis",
+    "answer": "24 hours."
+  },
+  {
+    "id": 173,
+    "section": "General Science & Astronomy",
+    "question": "Time taken by the Earth to revolve around the Sun",
+    "answer": "365 days and 6 hours."
+  },
+  {
+    "id": 174,
+    "section": "General Science & Astronomy",
+    "question": "Temperature at which water freezes",
+    "answer": "0°C."
+  },
+  {
+    "id": 175,
+    "section": "General Science & Astronomy",
+    "question": "Temperature at which water boils",
+    "answer": "100°C."
+  },
+  {
+    "id": 176,
+    "section": "General Science & Astronomy",
+    "question": "Normal human body temperature",
+    "answer": "37°C (98.6°F)."
+  },
+  {
+    "id": 177,
+    "section": "General Science & Astronomy",
+    "question": "Largest organ in the human body",
+    "answer": "Skin."
+  },
+  {
+    "id": 178,
+    "section": "General Science & Astronomy",
+    "question": "Largest internal organ in the human body",
+    "answer": "Liver."
+  },
+  {
+    "id": 179,
+    "section": "General Science & Astronomy",
+    "question": "Longest bone in the human body",
+    "answer": "Femur (thigh bone)."
+  },
+  {
+    "id": 180,
+    "section": "General Science & Astronomy",
+    "question": "Smallest bone in the human body",
+    "answer": "Stapes (inner ear bone)."
+  },
+  {
+    "id": 181,
+    "section": "General Science & Astronomy",
+    "question": "Largest organ in our body",
+    "answer": "Skin."
+  },
+  {
+    "id": 182,
+    "section": "General Science & Astronomy",
+    "question": "Smallest bone in our body",
+    "answer": "Stapes (inner ear bone)."
+  },
+  {
+    "id": 183,
+    "section": "General Science & Astronomy",
+    "question": "Longest bone in our body",
+    "answer": "Femur (thigh bone)."
+  },
+  {
+    "id": 184,
+    "section": "General Science & Astronomy",
+    "question": "Red blood cells present in blood",
+    "answer": "RBC."
+  },
+  {
+    "id": 185,
+    "section": "General Science & Astronomy",
+    "question": "White blood cells present in blood",
+    "answer": "WBC."
+  },
+  {
+    "id": 186,
+    "section": "General Science & Astronomy",
+    "question": "Blood cells responsible for clotting",
+    "answer": "Platelets."
+  },
+  {
+    "id": 187,
+    "section": "General Science & Astronomy",
+    "question": "Number of bones in the human body",
+    "answer": "206."
+  },
+  {
+    "id": 188,
+    "section": "General Science & Astronomy",
+    "question": "Number of muscles in the human body",
+    "answer": "Approximately 650."
+  },
+  {
+    "id": 189,
+    "section": "General Science & Astronomy",
+    "question": "Approximate total length of blood vessels in the human body",
+    "answer": "96,000 km."
+  },
+  {
+    "id": 190,
+    "section": "General Science & Astronomy",
+    "question": "Part through which light enters the eye",
+    "answer": "Cornea."
+  },
+  {
+    "id": 191,
+    "section": "General Science & Astronomy",
+    "question": "Part of the eye where light is focused and the image is formed",
+    "answer": "Retina."
+  },
+  {
+    "id": 192,
+    "section": "General Science & Astronomy",
+    "question": "Main gas we breathe in",
+    "answer": "Oxygen."
+  },
+  {
+    "id": 193,
+    "section": "General Science & Astronomy",
+    "question": "Main gas we breathe out",
+    "answer": "Carbon dioxide."
+  },
+  {
+    "id": 194,
+    "section": "General Science & Astronomy",
+    "question": "Process by which plants prepare their food",
+    "answer": "Photosynthesis."
+  },
+  {
+    "id": 195,
+    "section": "General Science & Astronomy",
+    "question": "Process of changing water into water vapour",
+    "answer": "Evaporation."
+  },
+  {
+    "id": 196,
+    "section": "General Science & Astronomy",
+    "question": "Process of changing water vapour back into water",
+    "answer": "Condensation."
+  },
+  {
+    "id": 197,
+    "section": "General Science & Astronomy",
+    "question": "Process of rainfall",
+    "answer": "Precipitation."
+  },
+  {
+    "id": 198,
+    "section": "General Science & Astronomy",
+    "question": "Satellite that revolves around the Earth",
+    "answer": "Moon."
+  },
+  {
+    "id": 199,
+    "section": "General Science & Astronomy",
+    "question": "Largest planet in the Solar System",
+    "answer": "Jupiter."
+  },
+  {
+    "id": 200,
+    "section": "General Science & Astronomy",
+    "question": "Star that provides energy to the planets",
+    "answer": "Sun."
+  }
+]

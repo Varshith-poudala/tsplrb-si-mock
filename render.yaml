@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: tsplrb-si-mock
+    env: node
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: node server/index.js
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: TEST_SERIES_PRICE
+        value: 99
+      - key: ADMIN_EMAILS
+        value: varshithpoudala@gmail.com
+      - key: MONGODB_URI
+        sync: false
+      - key: RAZORPAY_KEY_ID
+        sync: false
+      - key: RAZORPAY_KEY_SECRET
+        sync: false
+      - key: SMTP_HOST
+        value: smtp.gmail.com
+      - key: SMTP_PORT
+        value: 587
+      - key: SMTP_USER
+        sync: false
+      - key: SMTP_PASS
+        sync: false
+      - key: SMTP_FROM
+        value: "TSPLRB SI Mock Test Series <varshithpoudala@gmail.com>"

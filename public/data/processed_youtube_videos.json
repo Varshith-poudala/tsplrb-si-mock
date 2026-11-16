@@ -1,0 +1,105 @@
+{
+  "processed_video_ids": [
+    "tsat_tg_epigraphy_inscriptions",
+    "tsat_polity_emergency_art360",
+    "ashoka_tg_kakatiya_irrigation",
+    "winners_history_vijayanagara_nayankara",
+    "winners_history_quit_india_1942",
+    "ashoka_tg_hyderabad_freedom",
+    "studynow_tg_young_india_residential_2026",
+    "csb_polity_106_amend",
+    "euL-pX15ueQ",
+    "wSUFFsHf0gc",
+    "ashoka_tg_qutb_shahi_admin",
+    "studynow_tg_msme_policy_2026",
+    "winners_history_1857_hyderabad_turrebaz",
+    "tsat_polity_election_commission_324",
+    "studynow_tg_global_ai_summit_2026",
+    "ashoka_tg_hist_1969",
+    "tsat_tg_tribal_festivals_medaram",
+    "csb_polity_parliamentary_committees",
+    "csb_polity_art356_sr_bommai",
+    "ashoka_tg_mulki_rules_1952",
+    "csb_polity_delimitation_art82",
+    "csb_polity_governor_art200",
+    "winners_history_ivc_dholavira_sanitation",
+    "studynow_tg_digital_agri_stack"
+  ],
+  "runs": [
+    {
+      "polled_at": "2026-11-15T15:34:02.780995+00:00",
+      "videos_detected": 4,
+      "video_ids": [
+        "ashoka_tg_hist_1969",
+        "euL-pX15ueQ",
+        "wSUFFsHf0gc",
+        "csb_polity_106_amend"
+      ]
+    },
+    {
+      "polled_at": "2026-11-16T03:32:14.872301+00:00",
+      "videos_detected": 10,
+      "video_ids": [
+        "ashoka_tg_kakatiya_irrigation",
+        "ashoka_tg_hyderabad_freedom",
+        "studynow_tg_msme_policy_2026",
+        "studynow_tg_digital_agri_stack",
+        "csb_polity_governor_art200",
+        "csb_polity_parliamentary_committees",
+        "winners_history_quit_india_1942",
+        "winners_history_vijayanagara_nayankara",
+        "tsat_tg_tribal_festivals_medaram",
+        "tsat_polity_election_commission_324"
+      ],
+      "new_questions_extracted": 10,
+      "question_ids": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "polled_at": "2026-11-16T15:31:09.684733+00:00",
+      "videos_detected": 0,
+      "video_ids": [],
+      "new_questions_extracted": 0,
+      "question_ids": []
+    },
+    {
+      "polled_at": "2026-11-16T16:45:25.257848+00:00",
+      "videos_detected": 10,
+      "video_ids": [
+        "ashoka_tg_qutb_shahi_admin",
+        "ashoka_tg_mulki_rules_1952",
+        "studynow_tg_global_ai_summit_2026",
+        "studynow_tg_young_india_residential_2026",
+        "csb_polity_art356_sr_bommai",
+        "csb_polity_delimitation_art82",
+        "winners_history_ivc_dholavira_sanitation",
+        "winners_history_1857_hyderabad_turrebaz",
+        "tsat_tg_epigraphy_inscriptions",
+        "tsat_polity_emergency_art360"
+      ],
+      "new_questions_extracted": 10,
+      "question_ids": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    }
+  ]
+}

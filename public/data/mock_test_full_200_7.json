@@ -1,0 +1,4438 @@
+{
+  "testId": "tsplrb-si-mock-full-200-7",
+  "title": "TSPLRB SI Mock Test 7 (Grand Master Championship Simulation)",
+  "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 7 (గ్రాండ్ మాస్టర్ ఛాంపియన్‌షిప్ సిమ్యులేషన్)",
+  "exam": "Telangana State Police Sub-Inspector (SI) Preliminary Written Test",
+  "paper": "Championship Tier Simulation: 50 Arithmetic + 50 Reasoning + 100 General Studies (2026 Edition)",
+  "difficulty": "Hard",
+  "totalQuestions": 200,
+  "totalMarks": 200,
+  "durationMinutes": 180,
+  "marksPerQuestion": 1.0,
+  "negativeMarking": 0.2,
+  "sections": [
+    {
+      "id": "arithmetic",
+      "name": "Part A: Arithmetic",
+      "start": 1,
+      "end": 50,
+      "count": 50
+    },
+    {
+      "id": "reasoning",
+      "name": "Part B: Reasoning & Mental Ability",
+      "start": 51,
+      "end": 100,
+      "count": 50
+    },
+    {
+      "id": "general_studies",
+      "name": "Part C: General Studies & Telangana Movement",
+      "start": 101,
+      "end": 200,
+      "count": 100
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Find the smallest number which when divided by 20, 25, 35 and 40 leaves remainders 14, 19, 29 and 34 respectively.",
+      "question_te": "20, 25, 35 మరియు 40 లచే భాగించినప్పుడు వరుసగా 14, 19, 29 మరియు 34 లను శేషములుగా ఇచ్చే కనిష్ట సంఖ్య ఏది?",
+      "options_en": [
+        "1394",
+        "1396",
+        "1404",
+        "1406"
+      ],
+      "options_te": [
+        "1394",
+        "1396",
+        "1404",
+        "1406"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Divisor - remainder = 20-14 = 25-19 = 35-29 = 40-34 = 6. LCM(20, 25, 35, 40) = 1400. Required number = LCM - 6 = 1400 - 6 = 1394.",
+      "explanation_te": "సాధారణ తేడా k = 6. క.సా.గు(20, 25, 35, 40) = 1400. కావలసిన సంఖ్య = 1400 - 6 = 1394."
+    },
+    {
+      "id": 2,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A milkman buys milk at ₹45 per liter and mixes water such that water is 20% of the total mixture. If he sells the mixture at ₹54 per liter, what is his overall profit percentage?",
+      "question_te": "ఒక పాల వ్యాపారి లీటరుకు ₹45 చొప్పున పాలను కొని, మొత్తం మిశ్రమంలో 20% నీరు ఉండేలా కలిపెను. ఆ మిశ్రమాన్ని లీటరుకు ₹54 చొప్పున విక్రయించినచో అతని మొత్తం లాభ శాతం ఎంత?",
+      "options_en": [
+        "40%",
+        "45%",
+        "50%",
+        "55%"
+      ],
+      "options_te": [
+        "40%",
+        "45%",
+        "50%",
+        "55%"
+      ],
+      "correct_option": 2,
+      "explanation_en": "In 100 liters of mixture, 80 liters is pure milk and 20 liters is free water. Cost of 80 L milk = 80 * 45 = ₹3,600. SP of 100 L mixture = 100 * 54 = ₹5,400. Profit = 5400 - 3600 = ₹1,800. Profit% = (1800 / 3600) * 100 = 50%.",
+      "explanation_te": "100 లీటర్ల మిశ్రమంలో 80 లీటర్ల పాలు (ఖర్చు ₹3,600). అమ్మిన ధర = ₹5,400. లాభం = ₹1,800. లాభ శాతం = 50%."
+    },
+    {
+      "id": 3,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A sum of ₹16,000 is invested at 20% per annum compound interest, compounded semi-annually. What will be the compound interest after 1.5 years?",
+      "question_te": "₹16,000 అసలుపై 20% వార్షిక చక్రవడ్డీ రేటుతో, అర్ధ వార్షికంగా చక్రవడ్డీ లెక్కిస్తే 1.5 సంవత్సరాల తర్వాత అయ్యే చక్రవడ్డీ ఎంత?",
+      "options_en": [
+        "₹5,136",
+        "₹5,296",
+        "₹5,456",
+        "₹5,616"
+      ],
+      "options_te": [
+        "₹5,136",
+        "₹5,296",
+        "₹5,456",
+        "₹5,616"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Semi-annual rate r = 20/2 = 10%. Time n = 1.5 * 2 = 3 half-years. Amount = 16000 * (1.1)^3 = 16000 * 1.331 = ₹21,296. Compound Interest = 21,296 - 16,000 = ₹5,296.",
+      "explanation_te": "అర్ధ వార్షిక రేటు = 10%, n = 3. మొత్తం = 16000 * 1.331 = ₹21,296. చక్రవడ్డీ = ₹5,296."
+    },
+    {
+      "id": 4,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "A can do a piece of work in 24 days, B in 36 days, and C in 48 days. They all begin together, but A leaves 4 days before completion and B leaves 3 days before completion. In how many days is the total work completed?",
+      "question_te": "A ఒక పనిని 24 రోజులు, B 36 రోజులు, C 48 రోజులలో చేయగలరు. ముగ్గురూ కలిసి పని ప్రారంభించిరి. పని పూర్తి కావడానికి 4 రోజుల ముందు A, 3 రోజుల ముందు B మానేసిరి. మొత్తం పని ఎన్ని రోజులలో పూర్తవును?",
+      "options_en": [
+        "12 days",
+        "14 days",
+        "15 days",
+        "16 days"
+      ],
+      "options_te": [
+        "12 రోజులు",
+        "14 రోజులు",
+        "15 రోజులు",
+        "16 రోజులు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total work = LCM(24, 36, 48) = 144 units. Efficiencies: A = 6, B = 4, C = 3 units/day. Total efficiency = 13. Add work left undone: A's 4 days = 4*6 = 24. B's 3 days = 3*4 = 12. Total work adjusted = 144 + 24 + 12 = 180 units. Total days = 180 / 13 = 13.84 ~ 14 days.",
+      "explanation_te": "మొత్తం పని = 144 యూనిట్లు. అదనపు యూనిట్లు = 24 + 12 = 36. సర్దుబాటు చేసిన పని = 180. రోజులు = 14 రోజులు."
+    },
+    {
+      "id": 5,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Two trains of lengths 220 m and 180 m are running in opposite directions on parallel tracks at 72 km/h and 54 km/h respectively. In how many seconds will they completely cross each other?",
+      "question_te": "220 మీ మరియు 180 మీ పొడవు గల రెండు రైళ్లు సమాంతర పట్టాలపై వ్యతిరేక దిశలలో వరుసగా 72 కి.మీ/గం మరియు 54 కి.మీ/గం వేగాలతో ప్రయాణిస్తున్నాయి. అవి ఒకదానినొకటి పూర్తిగా దాటడానికి ఎన్ని సెకన్లు పట్టును?",
+      "options_en": [
+        "11.4 seconds",
+        "12.0 seconds",
+        "12.6 seconds",
+        "13.2 seconds"
+      ],
+      "options_te": [
+        "11.4 సెకన్లు",
+        "12.0 సెకన్లు",
+        "12.6 సెకన్లు",
+        "13.2 సెకన్లు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Total distance = 220 + 180 = 400 m. Relative speed in opposite direction = 72 + 54 = 126 km/h. In m/s = 126 * (5/18) = 35 m/s. Time = 400 / 35 = 80/7 = 11.42 seconds.",
+      "explanation_te": "దూరం = 400 మీ. సాపేక్ష వేగం = 126 * (5/18) = 35 మీ/సె. దాటడానికి సమయం = 400 / 35 = 11.42 సెకన్లు."
+    },
+    {
+      "id": 6,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 6: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 6: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 7,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 7: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 7: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 8,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 8: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 8: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 9,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 9: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 9: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 10,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 10: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 10: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 11,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 11: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 11: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 12,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 12: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 12: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 13,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 13: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 13: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 14,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 14: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 14: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 15,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 15: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 15: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 16,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 16: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 16: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 17,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 17: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 17: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 18,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 18: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 18: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 19,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 19: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 19: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 20,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 20: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 20: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 21,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 21: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 21: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 22,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 22: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 22: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 23,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 23: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 23: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 24,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 24: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 24: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 25,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 25: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 25: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 26,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 26: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 26: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 27,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 27: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 27: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 28,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 28: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 28: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 29,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 29: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 29: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 30,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 30: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 30: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 31,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 31: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 31: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 32,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 32: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 32: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 33,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 33: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 33: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 34,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 34: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 34: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 35,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 35: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 35: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 36,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 36: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 36: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 37,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 37: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 37: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 38,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 38: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 38: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 39,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 39: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 39: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 40,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 40: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 40: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 41,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 41: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 41: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 42,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 42: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 42: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 43,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 43: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 43: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 44,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 44: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 44: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 45,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 45: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 45: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 46,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 46: If the volume of a right circular cone of height 15 cm is 375 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 46: 15 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 375 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "7 cm",
+        "15 cm",
+        "30 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "7 సెం.మీ",
+        "15 సెం.మీ",
+        "30 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 47,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 47: If the volume of a right circular cone of height 24 cm is 600 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 47: 24 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 600 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "12 cm",
+        "24 cm",
+        "48 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "12 సెం.మీ",
+        "24 సెం.మీ",
+        "48 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 48,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 48: If the volume of a right circular cone of height 33 cm is 825 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 48: 33 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 825 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "16 cm",
+        "33 cm",
+        "66 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "16 సెం.మీ",
+        "33 సెం.మీ",
+        "66 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 49,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 49: If the volume of a right circular cone of height 42 cm is 1050 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 49: 42 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1050 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "21 cm",
+        "42 cm",
+        "84 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "21 సెం.మీ",
+        "42 సెం.మీ",
+        "84 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 50,
+      "section": "Arithmetic",
+      "topic": "Arithmetic",
+      "question_en": "Arithmetic Problem 50: If the volume of a right circular cone of height 51 cm is 1275 cubic cm, find its base diameter.",
+      "question_te": "అంకగణిత ప్రశ్న 50: 51 సెం.మీ ఎత్తు గల శంకువు ఘనపరిమాణం 1275 ఘనపు సెం.మీ అయితే దాని భూ వ్యాసం ఎంత?",
+      "options_en": [
+        "25 cm",
+        "51 cm",
+        "102 cm",
+        "None of these"
+      ],
+      "options_te": [
+        "25 సెం.మీ",
+        "51 సెం.మీ",
+        "102 సెం.మీ",
+        "ఏదీ కాదు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Using cone volume formula V = (1/3) * pi * r^2 * h.",
+      "explanation_te": "శంకువు ఘనపరిమాణ సూత్రం ప్రకారం."
+    },
+    {
+      "id": 51,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Find the missing number in the matrix:\n[ 7   9   11 ]\n[ 8   6    ? ]\n[ 56  54  88 ]",
+      "question_te": "మాతృకలోని తప్పిపోయిన సంఖ్యను కనుగొనండి:\n[ 7   9   11 ]\n[ 8   6    ? ]\n[ 56  54  88 ]",
+      "options_en": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "options_te": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_option": 2,
+      "explanation_en": "In each column, Row 1 * Row 2 = Row 3. Col 1: 7 * 8 = 56. Col 2: 9 * 6 = 54. Col 3: 11 * ? = 88 -> ? = 8.",
+      "explanation_te": "ప్రతి నిలువు వరుసలో: మొదటి సంఖ్య * రెండవ సంఖ్య = మూడవ సంఖ్య. 11 * ? = 88 => ? = 8."
+    },
+    {
+      "id": 52,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "At what time between 4 o'clock and 5 o'clock will the hands of a clock be at right angles (90 degrees) to each other for the first time?",
+      "question_te": "4 మరియు 5 గంటల మధ్య ఏ సమయంలో గడియారంలోని రెండు ముల్లులు మొదటిసారి లంబకోణంలో (90 డిగ్రీలు) ఉండును?",
+      "options_en": [
+        "5 5/11 minutes past 4",
+        "6 4/11 minutes past 4",
+        "7 3/11 minutes past 4",
+        "8 2/11 minutes past 4"
+      ],
+      "options_te": [
+        "4 గంటల 5 5/11 నిమిషాలు",
+        "4 గంటల 6 4/11 నిమిషాలు",
+        "4 గంటల 7 3/11 నిమిషాలు",
+        "4 గంటల 8 2/11 నిమిషాలు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "At 4 o'clock, minute hand is 20 minute spaces behind. For 90 deg (15 minute spaces), it needs to gain (20 - 15) = 5 minute spaces. Time = 5 * (12/11) = 60/11 = 5 5/11 minutes past 4.",
+      "explanation_te": "లంబకోణం ఏర్పడటానికి పట్టే సమయం = 5 * (12/11) = 5 5/11 నిమిషాలు (4 గంటల తర్వాత)."
+    },
+    {
+      "id": 53,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "If 15 August 2024 was a Thursday, what day of the week will 15 August 2026 be?",
+      "question_te": "15 ఆగస్టు 2024 గురువారం అయినచో, 15 ఆగస్టు 2026 ఏ వారం అగును?",
+      "options_en": [
+        "Friday",
+        "Saturday",
+        "Sunday",
+        "Monday"
+      ],
+      "options_te": [
+        "శుక్రవారం",
+        "శనివారం",
+        "ఆదివారం",
+        "సోమవారం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "2024 is already past August (no leap day counted for the interval). From 15 Aug 2024 to 15 Aug 2025 = 1 ordinary year = 1 odd day. From 15 Aug 2025 to 15 Aug 2026 = 1 ordinary year = 1 odd day. Total odd days = 1 + 1 = 2 odd days. Thursday + 2 = Saturday.",
+      "explanation_te": "2024 ఆగస్టు తర్వాత లీపు రోజు లేదు. 2024 నుండి 2026 వరకు 2 సాధారణ సంవత్సరాలు = 2 అదనపు రోజులు. గురువారం + 2 = శనివారం."
+    },
+    {
+      "id": 54,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 4: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 4: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 55,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 5: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 5: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 56,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 6: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 6: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 57,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 7: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 7: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 58,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 8: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 8: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 59,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 9: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 9: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 60,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 10: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 10: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 61,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 11: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 11: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 62,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 12: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 12: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 63,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 13: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 13: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 64,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 14: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 14: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 65,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 15: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 15: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 66,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 16: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 16: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 67,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 17: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 17: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 68,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 18: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 18: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 69,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 19: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 19: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 70,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 20: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 20: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 71,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 21: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 21: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 72,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 22: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 22: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 73,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 23: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 23: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 74,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 24: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 24: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 75,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 25: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 25: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 76,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 26: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 26: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 77,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 27: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 27: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 78,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 28: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 28: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 79,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 29: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 29: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 80,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 30: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 30: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 81,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 31: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 31: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 82,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 32: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 32: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 83,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 33: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 33: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 84,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 34: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 34: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 85,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 35: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 35: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 86,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 36: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 36: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 87,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 37: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 37: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 88,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 38: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 38: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 89,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 39: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 39: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 90,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 40: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 40: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 91,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 41: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 41: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 92,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 42: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 42: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 93,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 43: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 43: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 94,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 44: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 44: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 95,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 45: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 45: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 96,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 46: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 46: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 97,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 47: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 47: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 98,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 48: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 48: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 99,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 49: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 49: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 100,
+      "section": "Reasoning",
+      "topic": "Reasoning",
+      "question_en": "Analytical Puzzle 50: In a row of students facing North, P is 14th from the left and Q is 17th from the right. If they interchange their positions, P becomes 23rd from the left. How many students are there in the row?",
+      "question_te": "రీజనింగ్ ప్రశ్న 50: విద్యార్థుల వరుసలో P ఎడమ నుండి 14వ, Q కుడి నుండి 17వ స్థానంలో ఉన్నారు. స్థానాలు మార్చుకున్న తర్వాత P ఎడమ నుండి 23వ స్థానంలో నిలిచెను. ఆ వరుసలో మొత్తం ఎంతమంది ఉన్నారు?",
+      "options_en": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "options_te": [
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total students = (New position of P) + (Old position of Q) - 1 = 23 + 17 - 1 = 39.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 23 + 17 - 1 = 39."
+    },
+    {
+      "id": 101,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which cell organelle contains hydrolytic digestive enzymes capable of breaking down cellular debris?",
+      "question_te": "కణ వ్యర్థాలను జీర్ణం చేయగల హైడ్రోలైటిక్ ఎంజైమ్‌లను కలిగి ఉండే కణాంగం ఏది?",
+      "options_en": [
+        "Lysosome",
+        "Ribosome",
+        "Golgi apparatus",
+        "Endoplasmic reticulum"
+      ],
+      "options_te": [
+        "లైసోజోమ్",
+        "రైబోజోమ్",
+        "గాల్జీ సంక్లిష్టం",
+        "ఎండోప్లాస్మిక్ రెటిక్యులమ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Lysosomes contain acid hydrolases that digest macromolecules; hence known as suicidal bags.",
+      "explanation_te": "లైసోజోమ్‌లలో జీర్ణక్రియ ఎంజైమ్‌లు ఉంటాయి."
+    },
+    {
+      "id": 102,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "The pitch or shrillness of a sound wave is primarily determined by which characteristic?",
+      "question_te": "ధ్వని యొక్క పిచ్ (తీవ్రత/కీచుదనం) ప్రధానంగా ఏ లక్షణంపై ఆధారపడి ఉంటుంది?",
+      "options_en": [
+        "Frequency",
+        "Amplitude",
+        "Speed",
+        "Loudness"
+      ],
+      "options_te": [
+        "పౌనఃపున్యం (Frequency)",
+        "కంపన పరిమితి (Amplitude)",
+        "వేగం",
+        "ధ్వని స్థాయి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Pitch is directly proportional to the frequency of the vibrating source.",
+      "explanation_te": "ధ్వని పిచ్ పౌనఃపున్యంపై ఆధారపడి ఉంటుంది."
+    },
+    {
+      "id": 103,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q3: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 3: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 104,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q4: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 4: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 105,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q5: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 5: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 106,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q6: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 6: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 107,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q7: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 7: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 108,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q8: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 8: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 109,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q9: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 9: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 110,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q10: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 10: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 111,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q11: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 11: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 112,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q12: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 12: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 113,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q13: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 13: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 114,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q14: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 14: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 115,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q15: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 15: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 116,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q16: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 16: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 117,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q17: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 17: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 118,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q18: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 18: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 119,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q19: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 19: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 120,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q20: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 20: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 121,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q21: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 21: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 122,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q22: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 22: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 123,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q23: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 23: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 124,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q24: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 24: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 125,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "General Science Q25: Which gas is commonly known as Laughing Gas?",
+      "question_te": "జనరల్ సైన్స్ ప్రశ్న 25: లాఫింగ్ గ్యాస్ అని ఏ వాయువును పిలుస్తారు?",
+      "options_en": [
+        "Nitrous oxide (N2O)",
+        "Nitric oxide (NO)",
+        "Nitrogen dioxide (NO2)",
+        "Sulfur dioxide (SO2)"
+      ],
+      "options_te": [
+        "నైట్రస్ ఆక్సైడ్ (N2O)",
+        "నైట్రిక్ ఆక్సైడ్ (NO)",
+        "నైట్రోజన్ డయాక్సైడ్ (NO2)",
+        "సల్ఫర్ డయాక్సైడ్ (SO2)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nitrous oxide (N2O) is popularly known as laughing gas.",
+      "explanation_te": "నైట్రస్ ఆక్సైడ్ (N2O) ను లాఫింగ్ గ్యాస్ అంటారు."
+    },
+    {
+      "id": 126,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Won The 2026 Tyler Prize for Environmental Achievement?",
+      "question_te": "పరాయవర్ణ సాధనకు గాను 2026 ట్రలర్ బహుమత్రని ఎవర్ు గెలుచుకున ిర్ు?",
+      "options_en": [
+        "Jane Goodall",
+        "Wangari Maathai",
+        "David Attenborough",
+        "Dr. Toby Kiers"
+      ],
+      "options_te": [
+        "జేన గుడ ల్",
+        "వాంగరీ మాతర",
+        "డేవిడ్ అట్నబరల",
+        "డ క్ర్ టోబీ కతయర్్"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Dr. Toby Kiers : American environmental scientist and biologist Won — 2026 Tyler Prize for Environmental Achievement (Aka — “Nobel Prize for the environment)",
+      "explanation_te": "సరైన సమాధానం: డ క్ర్ టోబీ కతయర్్. (Dr. Toby Kiers : American environmental scientist and biologist Won — 2026 Tyler Prize for Environmental Achievement (Aka — “Nobel Prize for the environment))"
+    },
+    {
+      "id": 127,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Received Indian Railways Highest Honour ‘Ati Vishisht Rail Sewa Puraskar‘",
+      "question_te": "భార్త్తయ రెైలేవ అతుయనిత గౌర్వం ‘అత్ర విశ్చష్ట్ రెైలు’ను ఎవర్ు అందుకున ిర్ు సేవా పుర్సా్ర్'",
+      "options_en": [
+        "Chandana Sinha",
+        "Amit Kumar",
+        "Sardar Singh",
+        "Ashutosh Verma"
+      ],
+      "options_te": [
+        "చందన సిన్ బి. అమిత్ కుమార్ సి. స్రార్ సింగ్ డి. అశుతోష్ వర్మ",
+        "Amit Kumar",
+        "Sardar Singh",
+        "Ashutosh Verma"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Chandana Sinha : RPF officer Given for — Her exceptional work in preventing child trafficking",
+      "explanation_te": "సరైన సమాధానం: చందన సిన్ బి. అమిత్ కుమార్ సి. స్రార్ సింగ్ డి. అశుతోష్ వర్మ. (Chandana Sinha : RPF officer Given for — Her exceptional work in preventing child trafficking)"
+    },
+    {
+      "id": 128,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which State Police Has Been Awarded With The President’s Police Colour Award 2026? President’s Police Colour (Nishaan)",
+      "question_te": "ఏ రాష్ట్ర పో లీస్ులకు 'పరసిడంట్్ పో లీస కలర్ అవార్ు్ 2026' లభంచంది?",
+      "options_en": [
+        "Sikkim",
+        "Assam",
+        "Meghalaya",
+        "Bihar"
+      ],
+      "options_te": [
+        "సికత్ం",
+        "అసా్ం",
+        "మేఘాలయ",
+        "బీహార్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "is the highest ceremonial honor — granted to police forces",
+      "explanation_te": "సరైన సమాధానం: సికత్ం. (is the highest ceremonial honor — granted to police forces)"
+    },
+    {
+      "id": 129,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "India’s First Large City (Population Over 7 Million) To Be Declared Slum-Free City?",
+      "question_te": "భార్తదేశ్పు మొట్మొదటి పదా నగర్ం (7 మిలియనుకు పరగా జన భా) మురికతవాడ్లు లేని నగర్ంగా పరకటించబడ్నుంద ?",
+      "options_en": [
+        "Mumbai",
+        "Hyderabad",
+        "Surat",
+        "Pune"
+      ],
+      "options_te": [
+        "ముంబర",
+        "హ్ెైదరాబాద్",
+        "స్ూర్త్",
+        "పూణే"
+      ],
+      "correct_option": 0,
+      "explanation_en": "IND’s 1st Slum Free City (Small City Category) — Chandigarh",
+      "explanation_te": "సరైన సమాధానం: ముంబర. (IND’s 1st Slum Free City (Small City Category) — Chandigarh)"
+    },
+    {
+      "id": 130,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Country Became The First In The World To Commercially Produce Bio-Bitumen?",
+      "question_te": "వాణిజయపర్ంగా బయో-బిటలమనను ఉతాత్రీ చేసిన పరపంచంలోనే మొదటి దేశ్ం ఏది?",
+      "options_en": [
+        "China",
+        "Japan",
+        "India",
+        "France"
+      ],
+      "options_te": [
+        "చరన",
+        "జపాన",
+        "భార్తదేశ్ం",
+        "ఫారన్"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Bio-bitumen : Obtained from → crop residue (Agriculture Waste) called Lignin India’s 1st Highway Using Bio-Bitumen : Inaugurated On → NH-44, Nagpur Maharashtra",
+      "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (Bio-bitumen : Obtained from → crop residue (Agriculture Waste) called Lignin India’s 1st Highway Using Bio-Bitumen : Inaugurated On → NH-44, Nagpur Maharashtra)"
+    },
+    {
+      "id": 131,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which City Has Become Uttar Pradesh’s First Zero Fresh Waste Dump City? Lucknow : UP‘s First City to",
+      "question_te": "ఉతీర్ పరదేశ్లో తొలి జీరల ఫరష్ వేస్ డ్ంప సిటీగా ఏ నగర్ం అవతరించంది?",
+      "options_en": [
+        "Kanpur",
+        "Varanasi",
+        "Lucknow",
+        "Prayagraj"
+      ],
+      "options_te": [
+        "కానూార్ బి. వార్ణ సి సి. లకోి డి. పరయాగాిజ్",
+        "Varanasi",
+        "Lucknow",
+        "Prayagraj"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Scientifically Process 100% municipal solid waste — under Swachh Bharat Mission-Urban",
+      "explanation_te": "సరైన సమాధానం: కానూార్ బి. వార్ణ సి సి. లకోి డి. పరయాగాిజ్. (Scientifically Process 100% municipal solid waste — under Swachh Bharat Mission-Urban)"
+    },
+    {
+      "id": 132,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Where Will India’s First Forest University Be Established?",
+      "question_te": "భార్తదేశ్పు మొట్మొదటి అటవీ విశ్వవిద యలయం ఎక్డ్ ఏరాాటల కానుంది?",
+      "options_en": [
+        "Jabalpur",
+        "Dehradun",
+        "Shillong",
+        "Gorakhpur"
+      ],
+      "options_te": [
+        "జబల్పూర్",
+        "డహాాడ్ూన",
+        "షిలు ాంగ్",
+        "గలర్ఖపూర్"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Location : Gorakhpur, Uttar Pradesh",
+      "explanation_te": "సరైన సమాధానం: గలర్ఖపూర్. (Location : Gorakhpur, Uttar Pradesh)"
+    },
+    {
+      "id": 133,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "World’s Longest Expressway Tunnel Opened By Which Country?",
+      "question_te": "పరపంచంలోనే అతయంత పర డ్వెరన ఎక్్పరసవే సర ర్ంగ మారాీనిి ఏ దేశ్ం పారర్ంభంచంది?",
+      "options_en": [
+        "China",
+        "India",
+        "USA",
+        "France"
+      ],
+      "options_te": [
+        "చరన",
+        "భార్తదేశ్ం",
+        "అమరికా",
+        "ఫారన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Tianshan Shengli Tunnel — World’s Longest Expressway Tunnel Length → 22.13 Km",
+      "explanation_te": "సరైన సమాధానం: చరన. (Tianshan Shengli Tunnel — World’s Longest Expressway Tunnel Length → 22.13 Km)"
+    },
+    {
+      "id": 134,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "India’s First PPP-Model Medical Colleges Will Be Established In Which In Which State?",
+      "question_te": "భార్తదేశ్పు మొట్మొదటి PPP-మోడ్ల్ వెరదయ కళాశాలలు ఏ రాష్ట్రంలో ఏరాాటల చేయబడ్త యి?",
+      "options_en": [
+        "Bihar",
+        "Tamil Nadu",
+        "Gujarat",
+        "Madhya Pradesh"
+      ],
+      "options_te": [
+        "బీహార్",
+        "తమిళన డ్ు",
+        "గుజరాత్",
+        "మధయపరదేశ్"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Will Be Established In — Dhar And Betul Districts(Madhya Pradesh) Aims : To Improve Healthcare Access And Medical Education In Tribal Areas ❑ *PPP : Public private partnership {Govt + Private Company work together}",
+      "explanation_te": "సరైన సమాధానం: మధయపరదేశ్. (Will Be Established In — Dhar And Betul Districts(Madhya Pradesh) Aims : To Improve Healthcare Access And Medical Education In Tribal Areas ❑ *PPP : Public private partnership {Govt + Private Company work together})"
+    },
+    {
+      "id": 135,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Indian Airport Became The First In India To Achieve “WaterPositive” Status? Water-Positive” Status Mean → Restoring",
+      "question_te": "భార్తదేశ్ంలో “వాటర్ పాజ్టివ్” హో ద ను సాధించన మొదటి విమాన శ్ియం ఏది?",
+      "options_en": [
+        "Chhatrapati Shivaji Maharaj Airport More Freshwater Than Consumed",
+        "Indira Gandhi International Airport o Awarded Under — NITI Aayog–CII Water",
+        "Kempegowda International Airport Neutrality Framework",
+        "Rajiv Gandhi International Airport oDelhi"
+      ],
+      "options_te": [
+        "ఛతరపత్ర శ్చవాజీ మహారాజ్ విమాన శ్య ి ం బి. ఇందిరా గాంధీ అంతరాాత్తయ విమాన శ్ియం సి. కెంపగౌడ్ అంతరాత్తయ విమాన శ్ియం డి. రాజీవ్ గాంధీ అంతరాత్తయ విమాన శ్ియం",
+        "Indira Gandhi International Airport o Awarded Under — NITI Aayog–CII Water",
+        "Kempegowda International Airport Neutrality Framework",
+        "Rajiv Gandhi International Airport oDelhi"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Indira Gandhi International Airport :",
+      "explanation_te": "సరైన సమాధానం: ఛతరపత్ర శ్చవాజీ మహారాజ్ విమాన శ్య ి ం బి. ఇందిరా గాంధీ అంతరాాత్తయ విమాన శ్ియం సి. కెంపగౌడ్ అంతరాత్తయ విమాన శ్ియం డి. రాజీవ్ గాంధీ అంతరాత్తయ విమాన శ్ియం. (Indira Gandhi International Airport :)"
+    },
+    {
+      "id": 136,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "India’s First Wildlife-Safe Road Was Created On Which National Highway? India’s First Wildlife-Safe Road",
+      "question_te": "భార్తదేశ్పు మొట్మొదటి వనయపారణి-స్ుర్క్షిత ర్హద రి ఏ జాత్తయ ర్హద రిపర నిరిమంచబడింది?",
+      "options_en": [
+        "NH-44",
+        "NH-48",
+        "NH-45",
+        "NH-27"
+      ],
+      "options_te": [
+        "NH-44",
+        "NH-48",
+        "NH-45",
+        "NH-27"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Introduced by : National Highways Authority of India (NHAI) Location : NH-45 (Madhya Pradesh) Passes Through — Veerangana Durgavati Tiger Reserve Aim → To reduce animal-vehicle collisions A. NH-44 B. NH-48 C. NH-45 D. NH-27",
+      "explanation_te": "సరైన సమాధానం: NH-44. (Introduced by : National Highways Authority of India (NHAI) Location : NH-45 (Madhya Pradesh) Passes Through — Veerangana Durgavati Tiger Reserve Aim → To reduce animal-vehicle collisions A. NH-44 B. NH-48 C. NH-45 D. NH-27)"
+    },
+    {
+      "id": 137,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Osbeckia zubeengargiana, New Plant Species Has Been Discovered In Which National Park? Osbeckia zubeengargiana: A New Plant",
+      "question_te": "ఓసీకతయా జుబీనగారిాయాన అనే కొతీ మొక్ జాత్ర ఏ జాత్తయ పార్ు్లో కనుగొనబడింది?",
+      "options_en": [
+        "Kaziranga National Park Species",
+        "Jim Corbett National Park Named After : Assamese Singer Zubeen",
+        "Manas National Park",
+        "Sundarbans National Park UNESCO World Heritage Site"
+      ],
+      "options_te": [
+        "కాజీర్ంగా జాత్తయ పార్ు్ బి. జ్మ్స కారెీట్ జాత్తయ పార్ు్ సి. మానస జాత్తయ పార్ు్ డి. స్ుందర్బన్ జాత్తయ పార్ు్",
+        "Jim Corbett National Park Named After : Assamese Singer Zubeen",
+        "Manas National Park",
+        "Sundarbans National Park UNESCO World Heritage Site"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Garg Manas National Park (Assam) —",
+      "explanation_te": "సరైన సమాధానం: Manas National Park. (Garg Manas National Park (Assam) —)"
+    },
+    {
+      "id": 138,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Shongtong–Karchham Hydroelectric Project Is Located On Which River? Location : Kinnaur district, Himachal Pradesh",
+      "question_te": "షో ంగ్టాంగ్-కార్చమ్స జలవిదుయత్ పారజెక్్ ఏ నదిపర ఉంది?",
+      "options_en": [
+        "Beas",
+        "Chenab",
+        "Ravi",
+        "Sutlej"
+      ],
+      "options_te": [
+        "బియాస",
+        "చీన బ్స",
+        "రావి",
+        "స్ట్ుజ్"
+      ],
+      "correct_option": 3,
+      "explanation_en": "River — Sutlej River Project Capacity : 450 MW",
+      "explanation_te": "సరైన సమాధానం: స్ట్ుజ్. (River — Sutlej River Project Capacity : 450 MW)"
+    },
+    {
+      "id": 139,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Musi River Rejuvenation Project Is Launched In Which State?",
+      "question_te": "మమస్ నది పునర్ుజీావన పారజెక్్ ఏ రాష్ట్ంర లో పారర్ంభంచబడింది?",
+      "options_en": [
+        "Karnataka",
+        "Maharashtra",
+        "Andhra Pradesh",
+        "Telangana"
+      ],
+      "options_te": [
+        "కరాటక",
+        "మహారాష్ట్ర Flagship Initiative Of — Telangana",
+        "ఆంధరపరదశ్ ే Government",
+        "తలంగాణ Aim : To Clean, Restore The Musi"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Musi River Rejuvenation Project : River Flowing Through — Hyderabad",
+      "explanation_te": "సరైన సమాధానం: కరాటక. (Musi River Rejuvenation Project : River Flowing Through — Hyderabad)"
+    },
+    {
+      "id": 140,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which African Country Supplied 9 Cheetahs To India Under Project Cheetah On 28th Feb 2026?",
+      "question_te": "28 ఫిబరవరి 2026న 'పారజెక్్ చీత ' కతంద భార్తదేశానికత 9 చీత లను స్ర్ఫరా చేసిన ఆఫిరకన దేశ్ం ఏది?",
+      "options_en": [
+        "Botswana",
+        "Uganda",
+        "Mali",
+        "Kenya"
+      ],
+      "options_te": [
+        "బల టా్ాన IND Received 9 More Cheetahs From BOTSWANA — Introduce",
+        "ఉగాండ",
+        "మాలి",
+        "కెన య"
+      ],
+      "correct_option": 0,
+      "explanation_en": "To Kuno National Park (MP Under » World’s 1 st Cheetah Rehabilitation Project 12 Cheetahs Brought From South Africa & 8 Cheetahs from → Namibia Introduced In → Kuno National Park (MP)",
+      "explanation_te": "సరైన సమాధానం: బల టా్ాన IND Received 9 More Cheetahs From BOTSWANA — Introduce. (To Kuno National Park (MP Under » World’s 1 st Cheetah Rehabilitation Project 12 Cheetahs Brought From South Africa & 8 Cheetahs from → Namibia Introduced In → Kuno National Park (MP))"
+    },
+    {
+      "id": 141,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "The Kalai-II Hydropower Project Is Planned On Which River?",
+      "question_te": "కలెర-II జలవిదుయత్ పారజెక్ును ఏ నదిపర నిరిమంచ లని పరణ ికక ర్ూపర ందించ ర్ు?",
+      "options_en": [
+        "Ganga",
+        "Lohit",
+        "Yamuna",
+        "Tapti"
+      ],
+      "options_te": [
+        "గంగ",
+        "లోహ్ిత్",
+        "యమున",
+        "తపత్ర"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Kalai-II Hydropower Project Location : Anjaw District, Arunachal Pradesh River — Lohit River (Brahmaputra Tributary) Capacity : 1,200 MW Recently Centre Recommended — Environment Clearance Critically Endangered — White-bellied heron bird found here",
+      "explanation_te": "సరైన సమాధానం: లోహ్ిత్. (Kalai-II Hydropower Project Location : Anjaw District, Arunachal Pradesh River — Lohit River (Brahmaputra Tributary) Capacity : 1,200 MW Recently Centre Recommended — Environment Clearance Critically Endangered — White-bellied heron bird found here)"
+    },
+    {
+      "id": 142,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which Wildlife Sanctuary Has Been Declared Kerala’s First Butterfly Sanctuary? Wildlife Sanctuary : Renamed",
+      "question_te": "కేర్ళ యొక్ మొట్మొదటి స్త కోకచలుకల అభయార్ణయంగా ఏ వనయపారణి స్ంర్క్ష్ణ కేందరం పరకటించబడింది?",
+      "options_en": [
+        "Wayanad Wildlife Sanctuary Aralam",
+        "Periyar Wildlife Sanctuary",
+        "Aralam Wildlife Sanctuary",
+        "Silent Valley National Park"
+      ],
+      "options_te": [
+        "వయన డ్ వనయపారణి స్ంర్క్ష్ణ కేందరం బి. పరియార్ వనయపారణి స్ంర్క్ష్ణ కేందరం సి. అర్లం వనయపారణి స్ంర్క్ష్ణ కేందరం డి. సరలెంట్ వాయలీ జాత్తయ ఉద యనవనం",
+        "Periyar Wildlife Sanctuary",
+        "Aralam Wildlife Sanctuary",
+        "Silent Valley National Park"
+      ],
+      "correct_option": 0,
+      "explanation_en": "As — Aralam Butterfly Sanctuary Location : Kannur district, Kerala (Western Ghats)",
+      "explanation_te": "సరైన సమాధానం: వయన డ్ వనయపారణి స్ంర్క్ష్ణ కేందరం బి. పరియార్ వనయపారణి స్ంర్క్ష్ణ కేందరం సి. అర్లం వనయపారణి స్ంర్క్ష్ణ కేందరం డి. సరలెంట్ వాయలీ జాత్తయ ఉద యనవనం. (As — Aralam Butterfly Sanctuary Location : Kannur district, Kerala (Western Ghats))"
+    },
+    {
+      "id": 143,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Keyi Panyor District, Became India’s First Bio-Happy District, Is Located In Which State?",
+      "question_te": "భార్తదేశ్పు మొట్మొదటి 'బయో-హాయప్' (Bio-Happy) జ్లాుగా నిలిచన 'కేయి పానోయర్' (Keyi Panyor) జ్లాు ఏ రాష్ట్రంలో ఉంది?",
+      "options_en": [
+        "Assam",
+        "Arunachal Pradesh",
+        "Meghalaya",
+        "Nagaland"
+      ],
+      "options_te": [
+        "అసా్ం",
+        "అర్ుణ చల్ పరదేశ్",
+        "మేఘాలయ",
+        "న గాలాండ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Bio-Happy District = Happy people + Healthy nature. {Biodiversity are protected} *Bio-Happiness : Term coined by agricultural scientist — Dr. M.S. Swaminathan",
+      "explanation_te": "సరైన సమాధానం: అసా్ం. (Bio-Happy District = Happy people + Healthy nature. {Biodiversity are protected} *Bio-Happiness : Term coined by agricultural scientist — Dr. M.S. Swaminathan)"
+    },
+    {
+      "id": 144,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Kumbhalgarh Wildlife Sanctuary, Recently Declared An EcoSensitive Zone, Is Located In Which State?",
+      "question_te": "ఇటీవల పరాయవర్ణ స్ునిిత పారంతంగా (Eco-Sensitive Zone) పరకటించబడిన కుంభల్గఢ్ వనయపారణుల అభయార్ణయం ఏ రాష్ట్ంర లో ఉంది?",
+      "options_en": [
+        "Gujarat",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Uttar Pradesh"
+      ],
+      "options_te": [
+        "గుజరాత్",
+        "రాజసాన",
+        "మధయపరదేశ్",
+        "ఉతీర్పరదేశ్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Declared by : Ministry of Environment, Forest and Climate Change (MoEFCC) Location : Aravalli Range, Rajasthan ESZs : Declared under — Environment (Protection) Act, 1986 Objective : To protect wildlife and ecosystems",
+      "explanation_te": "సరైన సమాధానం: రాజసాన. (Declared by : Ministry of Environment, Forest and Climate Change (MoEFCC) Location : Aravalli Range, Rajasthan ESZs : Declared under — Environment (Protection) Act, 1986 Objective : To protect wildlife and ecosystems)"
+    },
+    {
+      "id": 145,
+      "section": "General Studies",
+      "topic": "Current Affairs - Wildlife & Ecology 2026",
+      "question_en": "Which state was officially certified as India's premier 'Tiger State' in the 2026 National Tiger Conservation Assessment with the highest tiger population?",
+      "question_te": "2026 జాతీయ పులుల సంరక్షణ అంచనా ప్రకారం అత్యధిక సంఖ్యలో పులులు కలిగిన భారతదేశపు నంబర్ 1 'టైగర్ స్టేట్' గా ఏ రాష్ట్రం నిలిచింది?",
+      "options_en": [
+        "Madhya Pradesh",
+        "Karnataka",
+        "Uttarakhand",
+        "Maharashtra"
+      ],
+      "options_te": [
+        "మధ్యప్రదేశ్",
+        "కర్ణాటక",
+        "ఉత్తరాఖండ్",
+        "మహారాష్ట్ర"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Madhya Pradesh retained its distinguished status as India’s Tiger State in the 2026 assessment, housing the maximum wild tiger population across its 7 tiger reserves.",
+      "explanation_te": "2026 జాతీయ అంచనాలో మధ్యప్రదేశ్ తన 7 టైగర్ రిజర్వ్‌లలో అత్యధిక సంఖ్యలో పులులను కలిగి ఉండి 'టైగర్ స్టేట్' హోదాను నిలబెట్టుకుంది."
+    },
+    {
+      "id": 146,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which State Became A Tiger State After 33 Years As Declared By NTCA? Because A Tiger Was Confirmed In —",
+      "question_te": "NTCA పరకటించన ద ని పరకార్ం, 33 ఏళు తరావత ఏ రాష్ట్రం 'ట్రగర్ సే్ట్'గా మారింది?",
+      "options_en": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra"
+      ],
+      "options_te": [
+        "మధయపరదేశ్",
+        "రాజసాన",
+        "గుజరాత్",
+        "మహారాష్ట్ర"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ratanmahal Wildlife Sanctuary In Dahod District",
+      "explanation_te": "సరైన సమాధానం: మధయపరదేశ్. (Ratanmahal Wildlife Sanctuary In Dahod District)"
+    },
+    {
+      "id": 147,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Became The First Indian To Be Appointed FATF Vice President? FATF : Financial Action Task Force",
+      "question_te": "FATF ఉపాధయక్షుడిగా నియమితులెరన మొదటి భార్త్తయుడ్ు ఎవర్ు?",
+      "options_en": [
+        "T. V. Somanathan",
+        "Ajay Seth",
+        "Vivek Aggarwal",
+        "Rajiv Kumar"
+      ],
+      "options_te": [
+        "టి. వి. సో మన థన",
+        "అజయ్ సేథ్",
+        "వివేక్ అగరావల్",
+        "రాజీవ్ కుమార్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "FATF – Anti-money Laundering & AntiTerrorism Financing Agency Established → 1989 Headquarters → Paris, France ➢ President : Elisa de Anda Madrazo",
+      "explanation_te": "సరైన సమాధానం: టి. వి. సో మన థన. (FATF – Anti-money Laundering & AntiTerrorism Financing Agency Established → 1989 Headquarters → Paris, France ➢ President : Elisa de Anda Madrazo)"
+    },
+    {
+      "id": 148,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Has Taken Additional Charge As Chairman Of DRDO In 2026?",
+      "question_te": "2026లో DRDO చరర్మనగా అదనపు బాధయతలు ఎవర్ు చేపటా్ర్ు?",
+      "options_en": [
+        "Rajesh Kumar Singh",
+        "Ajay Kumar",
+        "Amitabh Kant",
+        "T. V. Somanathan"
+      ],
+      "options_te": [
+        "రాజేష్ కుమార్ సింగ్",
+        "అజయ్ కుమార్",
+        "అమిత బ్స కాంత్",
+        "టి. వి. సో మన థన"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Rajesh Kumar Singh : Defence Secretary & DRDO Chairman (Additional) DRDO Defence Research and Development Organisation Founded : 1958 HQ : New Delhi Ministry → Ministry Of Defence",
+      "explanation_te": "సరైన సమాధానం: రాజేష్ కుమార్ సింగ్. (Rajesh Kumar Singh : Defence Secretary & DRDO Chairman (Additional) DRDO Defence Research and Development Organisation Founded : 1958 HQ : New Delhi Ministry → Ministry Of Defence)"
+    },
+    {
+      "id": 149,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Has Been Appointed As The New Deputy Governor Of RBI In 2026?",
+      "question_te": "2026లో RBI కొతీ డిపూయటీ గవర్ిర్గా ఎవర్ు నియమితులయాయర్ు?",
+      "options_en": [
+        "Shaktikanta Das",
+        "Rohit Jain",
+        "Swaminathan J",
+        "Poonam Gupta"
+      ],
+      "options_te": [
+        "శ్కతీకాంత ద స",
+        "రలహ్ిత్ జెరన",
+        "సావమిన థన జె RBI : Reserve Bank Of India",
+        "పూనమ్స గుపాీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "4 Deputy Governor Of RBI — Rohit Jain, Swaminathan J, Shirish Chandra Murmu, Poonam Gupta • Founded : 1 st April 1935 • HQ → Mumbai • Governor : SANJAY MALHOTRA (26th) First Gov : Sir Osborne Smith",
+      "explanation_te": "సరైన సమాధానం: రలహ్ిత్ జెరన. (4 Deputy Governor Of RBI — Rohit Jain, Swaminathan J, Shirish Chandra Murmu, Poonam Gupta • Founded : 1 st April 1935 • HQ → Mumbai • Governor : SANJAY MALHOTRA (26th) First Gov : Sir Osborne Smith)"
+    },
+    {
+      "id": 150,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who Has Been Appointed As India’s Next Executive Director At The World Bank? World Bank",
+      "question_te": "పరపంచ బాయంకులో భార్తదేశ్ తదుపరి ఎగిాకూయటివ్ డరెక్ర్గా ఎవర్ు నియమితులయాయర్ు?",
+      "options_en": [
+        "Neelkanth Mishra",
+        "Ajay Seth",
+        "T. V. Somanathan",
+        "Parameswaran Iyer"
+      ],
+      "options_te": [
+        "నీలకంఠ మిశాి",
+        "అజయ్ సేథ్",
+        "టి. వి. సో మన థన",
+        "పర్మేశ్వర్న అయయర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Founded : 1944 HQ : Washington DC President → Ajay Banga",
+      "explanation_te": "సరైన సమాధానం: నీలకంఠ మిశాి. (Founded : 1944 HQ : Washington DC President → Ajay Banga)"
+    },
+    {
+      "id": 151,
+      "section": "General Studies",
+      "topic": "Indian History - Modern Freedom Struggle - 1935 Government of India Act",
+      "question_en": "Which of the following key institutions/features were established pursuant to the Government of India Act, 1935?\n1. Abolition of provincial Dyarchy and introduction of 'Provincial Autonomy'\n2. Establishment of the Federal Court of India (commenced in 1937)\n3. Establishment of the Reserve Bank of India (RBI) to control currency and credit\nSelect the correct answer using the code given below:",
+      "question_te": "భారత ప్రభుత్వ చట్టం 1935 ద్వారా ప్రవేశపెట్టబడిన లేదా స్థాపించబడిన కీలక అంశాలు ఏవి?\n1. ప్రావిన్సులలో ద్వంద్వ పాలన రద్దు మరియు 'ప్రావిన్షియల్ అటానమీ' (ప్రావిన్సుల స్వయంప్రతిపత్తి) ప్రవేశపెట్టడం\n2. భారత ఫెడరల్ కోర్టు (Federal Court of India) స్థాపన (1937 లో ప్రారంభం)\n3. దేశంలో కరెన్సీ మరియు పరపతి నియంత్రణ కోసం భారత రిజర్వ్ బ్యాంక్ (RBI) స్థాపన\nసరైన కోడ్‌ను ఎంచుకోండి:",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three features are directly linked to the 1935 Act: it abolished provincial dyarchy granting provincial autonomy, created the Federal Court of India (predecessor of Supreme Court), and provided the legislative basis for the Reserve Bank of India (enacted via RBI Act 1934/1935 framework).",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1935 చట్టం ద్వారా రాష్ట్రాల స్వయంప్రతిపత్తి వచ్చింది, 1937లో ఢిల్లీలో ఫెడరల్ కోర్టు ఏర్పాటైంది, మరియు రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా స్థాపన జరిగింది."
+    },
+    {
+      "id": 152,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "The First Battle of Tarain in 1191 CE was fought between Prithviraj Chauhan and which invader?",
+      "question_te": "క్రీ.శ. 1191 లో మొదటి తరైన్ యుద్ధం పృథ్వీరాజ్ చౌహాన్ మరియు ఎవరి మధ్య జరిగింది?",
+      "options_en": [
+        "Muhammad Ghori",
+        "Mahmud of Ghazni",
+        "Qutb-ud-din Aibak",
+        "Alauddin Khilji"
+      ],
+      "options_te": [
+        "మొహమ్మద్ ఘోరీ",
+        "మహమూద్ గజ్నీ",
+        "కుతుబుద్దీన్ ఐబక్",
+        "అల్లావుద్దీన్ ఖిల్జీ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "In the First Battle of Tarain (1191), Prithviraj Chauhan defeated Muhammad Ghori.",
+      "explanation_te": "1191 మొదటి తరైన్ యుద్ధంలో పృథ్వీరాజ్ చౌహాన్ మొహమ్మద్ ఘోరీని ఓడించాడు."
+    },
+    {
+      "id": 153,
+      "section": "General Studies",
+      "topic": "Indian History - Socio-Religious Reform Movements - Key Organizations",
+      "question_en": "Match the following 19th-century Socio-Religious Reform Organizations with their respective founders:\n(A) Brahmo Samaj (1828)         - (1) Jyotirao Phule\n(B) Arya Samaj (1875)           - (2) Swami Vivekananda\n(C) Satyashodhak Samaj (1873)   - (3) Raja Ram Mohan Roy\n(D) Ramakrishna Mission (1897)  - (4) Swami Dayananda Saraswati\n\nCorrect matching code:",
+      "question_te": "19వ శతాబ్దపు సామాజిక-మత సంస్కరణ సంస్థలను వాటి వ్యవస్థాపకులతో జతపరచండి:\n(A) బ్రహ్మ సమాజం (1828)          - (1) జ్యోతిరావు ఫూలే\n(B) ఆర్య సమాజం (1875)           - (2) స్వామి వివేకానంద\n(C) సత్యశోధక్ సమాజ్ (1873)       - (3) రాజా రామ్ మోహన్ రాయ్\n(D) రామకృష్ణ మిషన్ (1897)       - (4) స్వామి దయానంద సరస్వతి\n\nసరైన కోడ్‌ను ఎంచుకోండి:",
+      "options_en": [
+        "A-3, B-4, C-1, D-2",
+        "A-4, B-3, C-1, D-2",
+        "A-3, B-1, C-4, D-2",
+        "A-1, B-4, C-3, D-2"
+      ],
+      "options_te": [
+        "A-3, B-4, C-1, D-2",
+        "A-4, B-3, C-1, D-2",
+        "A-3, B-1, C-4, D-2",
+        "A-1, B-4, C-3, D-2"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A-3 (Brahmo Samaj by Raja Ram Mohan Roy in Calcutta), B-4 (Arya Samaj by Dayananda Saraswati in Bombay with the slogan 'Go back to the Vedas'), C-1 (Satyashodhak Samaj by Jyotirao Phule in Maharashtra for lower-caste rights), D-2 (Ramakrishna Mission by Swami Vivekananda in Belur).",
+      "explanation_te": "A-3 (బ్రహ్మ సమాజం - రాజా రామ్మోహన్ రాయ్), B-4 (ఆర్య సమాజం - దయానంద సరస్వతి), C-1 (సత్యశోధక్ సమాజ్ - జ్యోతిరావు ఫూలే), D-2 (రామకృష్ణ మిషన్ - స్వామి వివేకానంద)."
+    },
+    {
+      "id": 154,
+      "section": "General Studies",
+      "topic": "Indian History - Modern Freedom Struggle - 1942 Quit India Movement",
+      "question_en": "Consider the following statements regarding the 1942 'Quit India Movement' (ఆగస్టు ఉద్యమం):\n1. The historic Quit India Resolution was passed by the All India Congress Committee (AICC) at Gowalia Tank Maidan, Bombay on August 8, 1942.\n2. Mahatma Gandhi gave the famous call 'Do or Die' (కరో యా మరో) to the nation.\n3. Usha Mehta operated an underground clandestine radio station to disseminate news of the movement during British police crackdowns.\nWhich of the statements given above are correct?",
+      "question_te": "1942 'క్విట్ ఇండియా ఉద్యమం' (ఆగస్టు క్రాంతి) కు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. 1942 ఆగస్టు 8న బొంబాయిలోని గోవాలియా ట్యాంక్ మైదానంలో ఆల్ ఇండియా కాంగ్రెస్ కమిటీ (AICC) చారిత్రక క్విట్ ఇండియా తీర్మానాన్ని ఆమోదించింది.\n2. మహాత్మా గాంధీ దేశ ప్రజలకు 'డూ ఆర్ డై' (కరో యా మరో - సాధించు లేదా మరణించు) అనే ప్రసిద్ధ నినాదాన్ని ఇచ్చారు.\n3. బ్రిటిష్ ప్రభుత్వం కాంగ్రెస్ నాయకులను అరెస్ట్ చేసినప్పుడు ఉద్యమ సమాచారాన్ని అందించేందుకు ఉషా మెహతా అజ్ఞాత రేడియో కేంద్రాన్ని (Secret Congress Radio) నిర్వహించారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Passed following the failure of the Cripps Mission, the Quit India Movement saw spontaneous mass uprisings despite the immediate arrest of top leaders under 'Operation Zero Hour', with underground leaders like Usha Mehta, Aruna Asaf Ali, and Jayaprakash Narayan directing actions.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. క్రిప్స్ మిషన్ వైఫల్యం తర్వాత బొంబాయిలో క్విట్ ఇండియా తీర్మానం ఆమోదించబడింది. గాంధీజీ 'డూ ఆర్ డై' పిలుపునిచ్చారు మరియు ఉషా మెహతా సీక్రెట్ కాంగ్రెస్ రేడియోను నడిపారు."
+    },
+    {
+      "id": 155,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q5: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 5: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 156,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q6: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 6: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 157,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q7: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 7: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 158,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q8: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 8: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 159,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q9: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 9: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 160,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q10: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 10: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 161,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q11: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 11: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 162,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q12: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 12: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 163,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q13: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 13: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 164,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q14: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 14: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 165,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q15: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 15: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 166,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q16: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 16: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 167,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q17: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 17: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 168,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q18: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 18: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 169,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q19: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 19: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 170,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian History Q20: In which year was the Indian National Congress (INC) founded in Bombay?",
+      "question_te": "భారత చరిత్ర ప్రశ్న 20: భారత జాతీయ కాంగ్రెస్ (INC) ఏ సంవత్సరంలో బొంబాయిలో స్థాపించబడింది?",
+      "options_en": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "options_te": [
+        "1885",
+        "1886",
+        "1890",
+        "1905"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The INC was founded in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay by A.O. Hume.",
+      "explanation_te": "1885 డిసెంబర్‌లో ఎ.ఒ. హ్యూమ్ ఆధ్వర్యంలో కాంగ్రెస్ ఏర్పాటయింది."
+    },
+    {
+      "id": 171,
+      "section": "General Studies",
+      "topic": "Indian Polity - Panchayati Raj - 73rd Constitutional Amendment Act",
+      "question_en": "How many functional items are listed in the Eleventh Schedule of the Constitution of India placed within the purview of Panchayats by the 73rd Constitutional Amendment Act, 1992?",
+      "question_te": "73వ రాజ్యాంగ సవరణ చట్టం 1992 ద్వారా భారత రాజ్యాంగంలో చేర్చబడిన 11వ షెడ్యూల్‌లో గ్రామ పంచాయతీల పరిధిలోనికి ఎన్ని అధికారిక విధులు/అంశాలు (Functional Items) నిర్దేశించబడ్డాయి?",
+      "options_en": [
+        "29 subjects",
+        "18 subjects",
+        "21 subjects",
+        "33 subjects"
+      ],
+      "options_te": [
+        "29 అంశాలు",
+        "18 అంశాలు",
+        "21 అంశాలు",
+        "33 అంశాలు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The 11th Schedule contains 29 functional items for Panchayats (Article 243G). In contrast, the 12th Schedule contains 18 functional items for Municipalities (Article 243W).",
+      "explanation_te": "73వ సవరణ ద్వారా చేర్చిన 11వ షెడ్యూల్‌లో పంచాయతీల కోసం 29 అంశాలు ఉన్నాయి. 74వ సవరణ ద్వారా చేర్చిన 12వ షెడ్యూల్‌లో మున్సిపాలిటీల కోసం 18 అంశాలు ఉన్నాయి."
+    },
+    {
+      "id": 172,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who presides over a joint sitting of both Houses of Parliament in India?",
+      "question_te": "భారత పార్లమెంటు ఉభయ సభల సంయుక్త సమావేశానికి ఎవరు అధ్యక్షత వహిస్తారు?",
+      "options_en": [
+        "Speaker of the Lok Sabha",
+        "President of India",
+        "Chairman of Rajya Sabha",
+        "Prime Minister"
+      ],
+      "options_te": [
+        "లోక్‌సభ స్పీకర్",
+        "భారత రాష్ట్రపతి",
+        "రాజ్యసభ ఛైర్మన్",
+        "ప్రధానమంత్రి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Under Article 118(4), the Speaker of Lok Sabha presides over a joint sitting summoned under Article 108.",
+      "explanation_te": "అధికరణ 118(4) ప్రకారం లోక్‌సభ స్పీకర్ సంయుక్త సమావేశానికి అధ్యక్షత వహిస్తారు."
+    },
+    {
+      "id": 173,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q3: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 174,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q4: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 175,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q5: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 176,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q6: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 177,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q7: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 178,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q8: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 179,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q9: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 180,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q10: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 181,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q11: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 182,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q12: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 183,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q13: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 184,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q14: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 185,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Indian Polity Q15: The concept of 'Directive Principles of State Policy' (DPSP) in the Indian Constitution was borrowed from which country?",
+      "question_te": "భారత రాజ్యాంగంలోని 'ఆదేశిక సూత్రాలు' (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
+      "options_en": [
+        "Ireland",
+        "USA",
+        "United Kingdom",
+        "Canada"
+      ],
+      "options_te": [
+        "ఐర్లాండ్",
+        "అమెరికా",
+        "బ్రిటన్",
+        "కెనడా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "DPSP (Part IV, Articles 36-51) was borrowed from the Irish Constitution.",
+      "explanation_te": "ఆదేశిక సూత్రాలు ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి తీసుకోబడ్డాయి."
+    },
+    {
+      "id": 186,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Which armed peasant rebellion fought against the feudal landlords (Dorani) and Nizam's Razakars took place between 1946 and 1951?",
+      "question_te": "నిజాం రజాకార్లు మరియు భూస్వాములకు వ్యతిరేకంగా 1946 నుండి 1951 వరకు సాగిన సాయుధ రైతాంగ పోరాటం ఏది?",
+      "options_en": [
+        "Telangana Armed Struggle (సాయుధ పోరాటం)",
+        "Kayampur Rebellion",
+        "Bhil Revolt",
+        "Moplah Uprising"
+      ],
+      "options_te": [
+        "తెలంగాణ సాయుధ రైతాంగ పోరాటం",
+        "కాయంపూర్ తిరుగుబాటు",
+        "భిల్ తిరుగుబాటు",
+        "మోప్లా తిరుగుబాటు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Telangana Armed Peasant Struggle (1946–1951) was fought by communists and peasants against the Nizam's feudal exploitation.",
+      "explanation_te": "తెలంగాణ సాయుధ రైతాంగ పోరాటం 1946-1951 మధ్య జరిగింది."
+    },
+    {
+      "id": 187,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Who was appointed as the Chairman of the six-member Committee on Telangana constituted in February 2010 to study the demand for statehood?",
+      "question_te": "తెలంగాణ రాష్ట్ర ఏర్పాటు ఆవశ్యకతపై అధ్యయనం చేయడానికి ఫిబ్రవరి 2010 లో నియమించబడిన కమిటీ చైర్మన్ ఎవరు?",
+      "options_en": [
+        "Justice B.N. Srikrishna",
+        "Justice V.S. Malimath",
+        "Justice K.S. Hegde",
+        "Justice Sarkaria"
+      ],
+      "options_te": [
+        "జస్టిస్ బి.ఎన్. శ్రీకృష్ణ",
+        "జస్టిస్ వి.ఎస్. మలిమత్",
+        "జస్టిస్ కె.ఎస్. హెగ్డే",
+        "జస్టిస్ సర్కారియా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The five-member Committee headed by former Supreme Court Judge B.N. Srikrishna submitted its report on 30 December 2010.",
+      "explanation_te": "జస్టిస్ బి.ఎన్. శ్రీకృష్ణ కమిటీ 2010 డిసెంబర్ 30న కేంద్ర ప్రభుత్వానికి నివేదిక సమర్పించింది."
+    },
+    {
+      "id": 188,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q3: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 3: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 189,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q4: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 4: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 190,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q5: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 5: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 191,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q6: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 6: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 192,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q7: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 7: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 193,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q8: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 8: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 194,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q9: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 9: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 195,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q10: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 10: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 196,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q11: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 11: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 197,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q12: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 12: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 198,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q13: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 13: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 199,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q14: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 14: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    },
+    {
+      "id": 200,
+      "section": "General Studies",
+      "topic": "General Studies",
+      "question_en": "Telangana Movement Q15: What is the name of the mega reservoir project constructed on Godavari river in Telangana?",
+      "question_te": "తెలంగాణ ప్రశ్న 15: గోదావరి నదిపై నిర్మించబడిన ప్రతిష్టాత్మక బహుళార్ధసాధక ఎత్తిపోతల ప్రాజెక్టు ఏది?",
+      "options_en": [
+        "Kaleshwaram Lift Irrigation Project",
+        "Nagarjuna Sagar",
+        "Almatti Dam",
+        "Prakasam Barrage"
+      ],
+      "options_te": [
+        "కాళేశ్వరం ఎత్తిపోతల ప్రాజెక్ట్",
+        "నాగార్జున సాగర్",
+        "ఆలమట్టి డ్యామ్",
+        "ప్రకాశం బ్యారేజ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaleshwaram Lift Irrigation Project is one of the world's largest multi-stage lift irrigation systems.",
+      "explanation_te": "కాళేశ్వరం ప్రాజెక్ట్ ప్రపంచంలోనే అతిపెద్ద లిఫ్ట్ ఇరిగేషన్ వ్యవస్థలలో ఒకటి."
+    }
+  ]
+}
