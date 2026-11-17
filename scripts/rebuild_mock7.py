@@ -1894,31 +1894,32 @@ for idx, item in enumerate(telangana_qs, start=186):
 
 print(f"Added Part C Telangana: total count now = {len(questions)}.")
 
-assert len(questions) == 200, f"Expected exactly 200 questions, got {len(questions)}"
+if __name__ == '__main__':
+    assert len(questions) == 200, f"Expected exactly 200 questions, got {len(questions)}"
 
-# Final Paper Dictionary
-paper7 = {
-    "testId": "tsplrb-si-mock-full-200-7",
-    "title": "TSPLRB SI Mock Test 7 (Hard • Grand Master Championship Simulation)",
-    "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 7 (కఠినం • గ్రాండ్ మాస్టర్ ఛాంపియన్‌షిప్ సిమ్యులేషన్)",
-    "exam": "TSPLRB Sub-Inspector Preliminary Written Test (PWT)",
-    "paper": "Championship Tier Simulation: 50 Arithmetic + 50 Reasoning + 100 General Studies (2026 Edition)",
-    "difficulty": "Hard",
-    "totalQuestions": 200,
-    "totalMarks": 200,
-    "durationMinutes": 180,
-    "marksPerQuestion": 1.0,
-    "negativeMarking": 0.20,
-    "sections": [
-        {"id": "arithmetic", "name": "Part A: Arithmetic & Number Ability", "start": 1, "end": 50, "count": 50},
-        {"id": "reasoning", "name": "Part B: Reasoning & Mental Ability", "start": 51, "end": 100, "count": 50},
-        {"id": "general_studies", "name": "Part C: General Studies & Telangana Movement", "start": 101, "end": 200, "count": 100}
-    ],
-    "questions": questions
-}
+    # Final Paper Dictionary
+    paper7 = {
+        "testId": "tsplrb-si-mock-full-200-7",
+        "title": "TSPLRB SI Mock Test 7 (Hard • Grand Master Championship Simulation)",
+        "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 7 (కఠినం • గ్రాండ్ మాస్టర్ ఛాంపియన్‌షిప్ సిమ్యులేషన్)",
+        "exam": "TSPLRB Sub-Inspector Preliminary Written Test (PWT)",
+        "paper": "Championship Tier Simulation: 50 Arithmetic + 50 Reasoning + 100 General Studies (2026 Edition)",
+        "difficulty": "Hard",
+        "totalQuestions": 200,
+        "totalMarks": 200,
+        "durationMinutes": 180,
+        "marksPerQuestion": 1.0,
+        "negativeMarking": 0.20,
+        "sections": [
+            {"id": "arithmetic", "name": "Part A: Arithmetic & Number Ability", "start": 1, "end": 50, "count": 50},
+            {"id": "reasoning", "name": "Part B: Reasoning & Mental Ability", "start": 51, "end": 100, "count": 50},
+            {"id": "general_studies", "name": "Part C: General Studies & Telangana Movement", "start": 101, "end": 200, "count": 100}
+        ],
+        "questions": questions
+    }
 
-output_path = 'public/data/mock_test_full_200_7.json'
-with open(output_path, 'w', encoding='utf-8') as f:
-    json.dump(paper7, f, ensure_ascii=False, indent=2)
+    output_path = 'public/data/mock_test_full_200_7.json'
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(paper7, f, ensure_ascii=False, indent=2)
 
-print(f"🎉 Successfully reconstructed {output_path} with {len(questions)} completely unique validated questions!")
+    print(f"🎉 Successfully reconstructed {output_path} with {len(questions)} completely unique validated questions!")
