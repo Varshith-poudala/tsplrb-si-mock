@@ -46,6 +46,7 @@ async function sync() {
 
   const testsToSync = [
     { testId: 'tsplrb-si-mock-full-200-3', file: 'mock_test_full_200_3.json' },
+    { testId: 'tsplrb-si-mock-full-200-4', file: 'mock_test_full_200_4.json' },
     { testId: 'tsplrb-si-mock-full-200-5', file: 'mock_test_full_200_5.json' },
     { testId: 'tsplrb-si-mock-full-200-6', file: 'mock_test_full_200_6.json' },
     { testId: 'tsplrb-si-mock-full-200-8', file: 'mock_test_full_200_8.json' },
