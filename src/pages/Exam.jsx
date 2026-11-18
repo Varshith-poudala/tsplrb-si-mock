@@ -669,7 +669,7 @@ export default function Exam() {
                       <span className="text-xs font-semibold text-blue-600 dark:text-blue-400">
                         {q.section || 'General'}
                       </span>
-                      {reviewMode && q.topic && (
+                      {q.topic && (
                         <span className="text-[11px] text-slate-400 hidden sm:inline">• {q.topic}</span>
                       )}
                     </div>
