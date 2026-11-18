@@ -224,6 +224,32 @@ export default function Exam() {
     return `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
   };
 
+  // Helper to format statements, match the following, and lists with clean line breaks
+  const formatQuestionText = (text) => {
+    if (!text || typeof text !== 'string') return '';
+    // Strip bracket tags like [Advanced Calculation], [Analytical], [క్లిష్టమైన సమస్య], etc. if present
+    let clean = text.replace(/^\s*\[(Advanced Calculation|Analytical|Multi-Step Puzzle|క్లిష్టమైన సమస్య|విశ్లేషణాత్మక|బహుళ-దశల పజిల్)\]\s*/i, '');
+    
+    // Format statements and match the following if they are clumped without newlines
+    clean = clean
+      .replace(/([^\n])\s*(Statements?:)\s*/gi, '$1\n\n$2\n')
+      .replace(/([^\n])\s*(Conclusions?:)\s*/gi, '$1\n\n$2\n')
+      .replace(/([^\n])\s*(Arguments?:)\s*/gi, '$1\n\n$2\n')
+      .replace(/([^\n])\s*(Assumptions?:)\s*/gi, '$1\n\n$2\n')
+      .replace(/([^\n])\s*(Statement\s+[I|V|X|\d]+:?)\s*/gi, '$1\n$2 ')
+      .replace(/([^\n])\s*(Conclusion\s+[I|V|X|\d]+:?)\s*/gi, '$1\n$2 ')
+      .replace(/([^\n])\s*(Argument\s+[I|V|X|\d]+:?)\s*/gi, '$1\n$2 ')
+      .replace(/([^\n])\s*(Assumption\s+[I|V|X|\d]+:?)\s*/gi, '$1\n$2 ')
+      .replace(/([^\n])\s*(\([1-4]\)|\b[1-4]\.\s+)(?=[A-Z\u0C00-\u0C7F])/g, '$1\n$2')
+      .replace(/([^\n])\s*(List\s*[-–]\s*[I|1]:?)/gi, '$1\n\n$2')
+      .replace(/([^\n])\s*(List\s*[-–]\s*[II|2]:?)/gi, '$1\n\n$2')
+      .replace(/([^\n])\s*(Match\s+List[-–\s])/gi, '$1\n\n$2')
+      .replace(/([^\n])\s*(Which of the following|Which of the statements|Select the correct answer|పై వాటిలో)/gi, '$1\n\n$2')
+      .trim();
+      
+    return clean;
+  };
+
   // Question handlers
   const handleSelectOption = (qNum, optIndex) => {
     if (reviewMode) return;
@@ -643,7 +669,7 @@ export default function Exam() {
                       <span className="text-xs font-semibold text-blue-600 dark:text-blue-400">
                         {q.section || 'General'}
                       </span>
-                      {q.topic && (
+                      {reviewMode && q.topic && (
                         <span className="text-[11px] text-slate-400 hidden sm:inline">• {q.topic}</span>
                       )}
                     </div>
@@ -678,16 +704,16 @@ export default function Exam() {
                     </div>
                   </div>
 
-                  {/* Question Text (Bilingual) */}
+                  {/* Question Text (Bilingual with Structured Line-Breaks) */}
                   <div className="space-y-3 mb-5">
                     {(langMode === 'dual' || langMode === 'en') && q.question_en && (
-                      <p className="text-sm font-semibold text-slate-900 dark:text-white leading-relaxed">
-                        {q.question_en}
+                      <p className="text-sm font-semibold text-slate-900 dark:text-white leading-relaxed whitespace-pre-line">
+                        {formatQuestionText(q.question_en)}
                       </p>
                     )}
                     {(langMode === 'dual' || langMode === 'te') && q.question_te && (
-                      <p className="text-sm text-slate-800 dark:text-slate-200 leading-relaxed font-telugu">
-                        {q.question_te}
+                      <p className="text-sm text-slate-800 dark:text-slate-200 leading-relaxed font-telugu whitespace-pre-line">
+                        {formatQuestionText(q.question_te)}
                       </p>
                     )}
                   </div>
@@ -730,10 +756,10 @@ export default function Exam() {
                           </div>
                           <div className="flex-1 text-xs sm:text-sm">
                             {(langMode === 'dual' || langMode === 'en') && opt.text_en && (
-                              <div className="font-medium text-slate-800 dark:text-slate-200">{opt.text_en}</div>
+                              <div className="font-medium text-slate-800 dark:text-slate-200 whitespace-pre-line">{opt.text_en}</div>
                             )}
                             {(langMode === 'dual' || langMode === 'te') && opt.text_te && (
-                              <div className="text-slate-700 dark:text-slate-300 font-telugu mt-0.5">{opt.text_te}</div>
+                              <div className="text-slate-700 dark:text-slate-300 font-telugu mt-0.5 whitespace-pre-line">{opt.text_te}</div>
                             )}
                           </div>
                         </div>

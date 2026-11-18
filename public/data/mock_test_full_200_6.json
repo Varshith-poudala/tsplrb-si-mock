@@ -1705,24 +1705,24 @@
       "id": 75,
       "qNumber": 75,
       "section": "Reasoning",
-      "topic": "Reasoning & Mental Ability",
-      "question_en": "Find the odd pair out among the following state-capital pairs:\n(A) Telangana : Hyderabad\n(B) Kerala : Thiruvananthapuram\n(C) Assam : Guwahati\n(D) Gujarat : Gandhinagar",
-      "question_te": "క్రింది రాష్ట్రం-రాజధాని జతలలో సరిపోలని భిన్నమైన జత ఏది?\n(A) తెలంగాణ : హైదరాబాద్\n(B) కేరళ : తిరువనంతపురం\n(C) అస్సాం : గౌహతి\n(D) గుజరాత్ : గాంధీనగర్",
+      "topic": "Reasoning & Mental Ability - Calendar",
+      "question_en": "Which year will have the exact same calendar as the year 2017?",
+      "question_te": "2017 సంవత్సరపు క్యాలెండర్‌తో సరిగ్గా సమానమైన క్యాలెండర్ క్రింది ఏ సంవత్సరంలో వస్తుంది?",
       "options_en": [
-        "Telangana : Hyderabad",
-        "Kerala : Thiruvananthapuram",
-        "Assam : Guwahati",
-        "Gujarat : Gandhinagar"
+        "2022",
+        "2023",
+        "2028",
+        "2025"
       ],
       "options_te": [
-        "తెలంగాణ : హైదరాబాద్",
-        "కేరళ : తిరువనంతపురం",
-        "అస్సాం : గౌహతి",
-        "గుజరాత్ : గాంధీనగర్"
+        "2022",
+        "2023",
+        "2028",
+        "2025"
       ],
-      "correct_option": 2,
-      "explanation_en": "The capital of Assam is Dispur, not Guwahati (Guwahati is the largest city, but Dispur is the capital). All others are correct.",
-      "explanation_te": "అస్సాం రాజధాని దిస్పూర్, గౌహతి కాదు. మిగిలినవన్నీ సరైన రాజధాని జతలు."
+      "correct_option": 1,
+      "explanation_en": "2017 is an ordinary year that immediately follows a leap year (2016 + 1). An ordinary year of the form (Leap Year + 1) repeats its calendar after 6 years: 2017 + 6 = 2023. Total odd days between 2017 and 2023 = 1+1+1+2+1+1 = 7 odd days = 0 odd days.",
+      "explanation_te": "2017 అనేది లీపు సంవత్సరం (2016) తర్వాత వచ్చే సాధారణ సంవత్సరం (లీపు + 1). (లీపు + 1) సంవత్సరం క్యాలెండర్ 6 సంవత్సరాల తర్వాత పునరావృతమవుతుంది: 2017 + 6 = 2023. ఈ కాలంలో అదనపు రోజుల మొత్తం 7 (7/7 = 0 శేషం)."
     },
     {
       "id": 76,

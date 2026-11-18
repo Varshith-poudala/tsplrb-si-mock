@@ -1763,24 +1763,24 @@
       "id": 76,
       "qNumber": 76,
       "section": "Reasoning",
-      "topic": "Reasoning & Mental Ability",
-      "question_en": "Which of the following diagrams best represents the relationship between: 'Engineers, Doctors, and Human Beings'?",
-      "question_te": "కింది వానిలో ఏ వెన్ చిత్రం 'ఇంజనీర్లు, వైద్యులు మరియు మానవులు' మధ్య సంబంధాన్ని ఖచ్చితంగా సూచిస్తుంది?",
+      "topic": "Reasoning & Mental Ability - Calendar",
+      "question_en": "Which year will have the exact same calendar as the year 2019?",
+      "question_te": "2019 సంవత్సరపు క్యాలెండర్‌తో సరిగ్గా సరిపోలే క్యాలెండర్ క్రింది ఏ సంవత్సరంలో వస్తుంది?",
       "options_en": [
-        "Two disjoint circles inside a large circle",
-        "Three overlapping circles",
-        "Three concentric circles",
-        "Two intersecting circles inside a large circle"
+        "2028",
+        "2030",
+        "2031",
+        "2025"
       ],
       "options_te": [
-        "పెద్ద వృత్తం లోపల పరస్పర సంబంధం లేని రెండు చిన్న వృత్తాలు",
-        "మూడు అతివ్యాప్తి చెందే వృత్తాలు",
-        "మూడు ఏకకేంద్రక వృత్తాలు",
-        "పెద్ద వృత్తం లోపల ఖండించుకునే రెండు వృత్తాలు"
+        "2028",
+        "2030",
+        "2031",
+        "2025"
       ],
-      "correct_option": 0,
-      "explanation_en": "Both Engineers and Doctors are entirely Human Beings, but the two professions are mutually exclusive.",
-      "explanation_te": "ఇంజనీర్లు మరియు వైద్యులు ఇద్దరూ మానవులే; కానీ ఈ రెండు వృత్తులు విడివిడిగా ఉంటాయి."
+      "correct_option": 1,
+      "explanation_en": "2019 is an ordinary year of the form (Leap Year + 3), since 2016 was a leap year. Years of the form (Leap Year + 2 or 3) repeat their calendar after 11 years: 2019 + 11 = 2030. Cumulative odd days from 2019 to 2030 = 1+2+1+1+1+2+1+1+1+2+1 = 14 odd days = 0 remainder mod 7.",
+      "explanation_te": "2019 అనేది లీపు సంవత్సరం (2016) తర్వాత 3వ సాధారణ సంవత్సరం (లీపు + 3). ఇటువంటి సంవత్సరాల క్యాలెండర్ 11 సంవత్సరాల తర్వాత పునరావృతమవుతుంది: 2019 + 11 = 2030. ఈ మధ్య కాలంలో అదనపు రోజుల మొత్తం 14 (14/7 = 0 శేషం)."
     },
     {
       "id": 77,

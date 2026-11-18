@@ -1740,24 +1740,24 @@
       "id": 75,
       "qNumber": 75,
       "section": "Reasoning",
-      "topic": "Reasoning & Mental Ability",
-      "question_en": "Four words are given below. Three are alike in a certain manner and one is different. Pick the odd one out:\n(A) Kuchipudi\n(B) Kathakali\n(C) Bharatanatyam\n(D) Bhangra",
-      "question_te": "క్రింది నాలుగు పదాలలో మూడు ఒకే రకానికి చెందినవి, ఒకటి భిన్నమైనది. ఆ భిన్నమైన దానిని ఎన్నుకోండి:\n(A) కూచిపూడి\n(B) కథాకళి\n(C) భరతనాట్యం\n(D) భాంగ్రా",
+      "topic": "Reasoning & Mental Ability - Calendar",
+      "question_en": "The calendar for the year 2025 will be identical to which of the following future years?",
+      "question_te": "2025 సంవత్సరపు క్యాలెండర్ క్రింది ఏ భవిష్యత్ సంవత్సర క్యాలెండర్‌తో ఖచ్చితంగా ఒకే విధంగా ఉంటుంది?",
       "options_en": [
-        "Kuchipudi",
-        "Kathakali",
-        "Bharatanatyam",
-        "Bhangra"
+        "2030",
+        "2031",
+        "2036",
+        "2032"
       ],
       "options_te": [
-        "కూచిపూడి",
-        "కథాకళి",
-        "భరతనాట్యం",
-        "భాంగ్రా"
+        "2030",
+        "2031",
+        "2036",
+        "2032"
       ],
-      "correct_option": 3,
-      "explanation_en": "Kuchipudi, Kathakali, and Bharatanatyam are recognized Indian Classical Dance forms (Sangeet Natak Akademi). Bhangra is a folk dance of Punjab.",
-      "explanation_te": "కూచిపూడి, కథాకళి, భరతనాట్యం శాస్త్రీయ నృత్యాలు. భాంగ్రా పంజాబ్ జానపద నృత్యం."
+      "correct_option": 1,
+      "explanation_en": "2025 is (Leap Year + 1), since 2024 is a leap year. Any ordinary year that falls immediately after a leap year repeats after 6 years: 2025 + 6 = 2031. Both years start on Wednesday and have 365 days.",
+      "explanation_te": "2025 అనేది లీపు సంవత్సరం (2024) తర్వాత వచ్చే సంవత్సరం (లీపు + 1). లీపు సంవత్సరం తర్వాత వెంటనే వచ్చే సాధారణ సంవత్సరం క్యాలెండర్ 6 సంవత్సరాల తర్వాత పునరావృతమవుతుంది: 2025 + 6 = 2031."
     },
     {
       "id": 76,
