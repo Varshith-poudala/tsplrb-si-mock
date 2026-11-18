@@ -1,38 +1,5 @@
 {
   "testId": "tsplrb-si-mock-full-200-7",
-  "title": "TSPLRB SI Mock Test 7 (Hard • Grand Master Championship Simulation)",
-  "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 7 (కఠినం • గ్రాండ్ మాస్టర్ ఛాంపియన్‌షిప్ సిమ్యులేషన్)",
-  "exam": "TSPLRB Sub-Inspector Preliminary Written Test (PWT)",
-  "paper": "Championship Tier Simulation: 50 Arithmetic + 50 Reasoning + 100 General Studies (2026 Edition)",
-  "difficulty": "Hard",
-  "totalQuestions": 200,
-  "totalMarks": 200,
-  "durationMinutes": 180,
-  "marksPerQuestion": 1.0,
-  "negativeMarking": 0.2,
-  "sections": [
-    {
-      "id": "arithmetic",
-      "name": "Part A: Arithmetic & Number Ability",
-      "start": 1,
-      "end": 50,
-      "count": 50
-    },
-    {
-      "id": "reasoning",
-      "name": "Part B: Reasoning & Mental Ability",
-      "start": 51,
-      "end": 100,
-      "count": 50
-    },
-    {
-      "id": "general_studies",
-      "name": "Part C: General Studies & Telangana Movement",
-      "start": 101,
-      "end": 200,
-      "count": 100
-    }
-  ],
   "questions": [
     {
       "id": 1,
@@ -2660,259 +2627,6 @@
       "id": 115,
       "qNumber": 115,
       "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "During the light-dependent reaction of photosynthesis in green plants, oxygen gas (O2) is liberated from the splitting of which molecule?",
-      "question_te": "హరిత మొక్కలలో జరిగే కిరణజన్య సంయోగక్రియ కాంతి దశలో ఆక్సిజన్ వాయువు ఏ అణువు విచ్ఛిన్నం కావడం వల్ల విడుదలవుతుంది?",
-      "options_en": [
-        "Water (H2O)",
-        "Carbon dioxide (CO2)",
-        "Glucose (C6H12O6)",
-        "Chlorophyll"
-      ],
-      "options_te": [
-        "నీరు (H2O)",
-        "కార్బన్ డయాక్సైడ్ (CO2)",
-        "గ్లూకోజ్",
-        "హరితరేణువు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Photolysis of water (Hill reaction) in thylakoids splits H2O into protons, electrons, and Oxygen gas (O2).",
-      "explanation_te": "కాంతి విశ్లేషణ (Photolysis) ద్వారా నీటి అణువు విచ్ఛిన్నమై ఆక్సిజన్ విడుదలవుతుంది."
-    },
-    {
-      "id": 116,
-      "qNumber": 116,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Which noble gas is the most abundant in the Earth's atmosphere, constituting nearly 0.93% of dry air?",
-      "question_te": "భూ వాతావరణంలో అత్యధికంగా లభించే జడ వాయువు (దాదాపు 0.93%) ఏది?",
-      "options_en": [
-        "Argon (Ar)",
-        "Helium (He)",
-        "Neon (Ne)",
-        "Krypton (Kr)"
-      ],
-      "options_te": [
-        "ఆర్గాన్ (Argon)",
-        "హీలియం",
-        "నియాన్",
-        "క్రిప్టాన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Argon is the third most abundant gas in dry air (0.934%), making it the most abundant noble gas in Earth's atmosphere.",
-      "explanation_te": "వాతావరణంలో లభించే జడ వాయువులలో ఆర్గాన్ అత్యధిక శాతంలో (0.93%) ఉంటుంది."
-    },
-    {
-      "id": 117,
-      "qNumber": 117,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Why does steam at 100°C cause more severe burns than boiling water at the same temperature (100°C)?",
-      "question_te": "100°C వద్ద ఉన్న మరిగే నీటి కంటే అదే ఉష్ణోగ్రత వద్ద ఉన్న నీటి ఆవిరి ఎక్కువ తీవ్రమైన కాలిన గాయాలను కలిగించడానికి కారణం ఏమిటి?",
-      "options_en": [
-        "Steam contains additional Latent Heat of Vaporization",
-        "Steam has higher specific heat",
-        "Steam has greater density",
-        "Steam reacts chemically with skin"
-      ],
-      "options_te": [
-        "నీటి ఆవిరి అదనంగా బాష్పీభవన గుప్తోష్ణాన్ని (Latent Heat) కలిగి ఉంటుంది",
-        "ఆవిరికి విశిష్టోష్ణం ఎక్కువ",
-        "ఆవిరి సాంద్రత ఎక్కువ",
-        "ఆవిరి చర్మంతో రసాయన చర్య జరుపుతుంది"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Steam at 100°C possesses extra heat equal to the latent heat of vaporization (approx 540 cal/g or 2260 kJ/kg), transferring more thermal energy upon condensing.",
-      "explanation_te": "100°C వద్ద ఉన్న ఆవిరిలో అదనంగా బాష్పీభవన గుప్తోష్ణం (540 కేలరీలు/గ్రాము) ఉండటం వల్ల తీవ్రమైన గాయాలు అవుతాయి."
-    },
-    {
-      "id": 118,
-      "qNumber": 118,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Heavy water (Deuterium oxide, D2O) is primarily used in nuclear reactors for which purpose?",
-      "question_te": "అణు రియాక్టర్లలో భారజలం (D2O) ను ప్రధానంగా దేని కోసం ఉపయోగిస్తారు?",
-      "options_en": [
-        "Moderator to slow down fast neutrons",
-        "Nuclear fuel",
-        "Shielding radiation",
-        "Cooling tower turbine"
-      ],
-      "options_te": [
-        "న్యూట్రాన్ల వేగాన్ని తగ్గించే మోడరేటర్‌గా (Moderator)",
-        "అణు ఇంధనంగా",
-        "రేడియేషన్ కవచంగా",
-        "టర్బైన్ శీతలీకరణకు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Heavy water slows down fast neutrons produced by fission without excessively absorbing them, making it an excellent moderator in PHWRs.",
-      "explanation_te": "భారజలం అణు విచ్ఛిత్తిలో విడుదలయ్యే వేగవంతమైన న్యూట్రాన్ల వేగాన్ని తగ్గించడానికి మోడరేటర్‌గా పనిచేస్తుంది."
-    },
-    {
-      "id": 119,
-      "qNumber": 119,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "What is the normal blood pressure of a healthy adult human being measured in mm Hg?",
-      "question_te": "ఆరోగ్యవంతమైన మానవుని సాధారణ రక్తపీడనం (Blood Pressure) ఎంత?",
-      "options_en": [
-        "120/80 mm Hg",
-        "140/90 mm Hg",
-        "100/60 mm Hg",
-        "130/85 mm Hg"
-      ],
-      "options_te": [
-        "120/80 mm Hg",
-        "140/90 mm Hg",
-        "100/60 mm Hg",
-        "130/85 mm Hg"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Standard resting blood pressure is 120 mm Hg systolic (during cardiac contraction) and 80 mm Hg diastolic (during cardiac relaxation).",
-      "explanation_te": "సాధారణ రక్తపీడనం 120 mm Hg సిస్టోలిక్ మరియు 80 mm Hg డయాస్టోలిక్ (120/80 mm Hg)."
-    },
-    {
-      "id": 120,
-      "qNumber": 120,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Which mirror is used as a rear-view mirror in motor vehicles because it always forms an erect, diminished image and provides a wider field of view?",
-      "question_te": "వాహనాలలో డ్రైవర్లు వెనుక ట్రాఫిక్‌ను చూడటానికి రియర్-వ్యూ మిర్రర్‌గా ఏ దర్పణాన్ని ఉపయోగిస్తారు?",
-      "options_en": [
-        "Convex mirror",
-        "Concave mirror",
-        "Plane mirror",
-        "Parabolic mirror"
-      ],
-      "options_te": [
-        "కుంభాకార దర్పణం (Convex mirror)",
-        "పుటాకార దర్పణం",
-        "సమతల దర్పణం",
-        "పారాబొలిక్ దర్పణం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Convex mirrors always form virtual, erect, and diminished images, providing a much wider field of view for drivers.",
-      "explanation_te": "కుంభాకార దర్పణం ఎల్లప్పుడూ నిటారుగా ఉండే చిన్న ప్రతిబింబాన్ని ఏర్పరుస్తూ విశాలమైన దృశ్యాన్ని చూపిస్తుంది."
-    },
-    {
-      "id": 121,
-      "qNumber": 121,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Rusting of iron in the presence of air and moisture is chemically which type of reaction?",
-      "question_te": "గాలి మరియు తేమ సమక్షంలో ఇనుము తుప్పు పట్టడం అనేది రసాయనికంగా ఏ రకమైన చర్య?",
-      "options_en": [
-        "Redox reaction (Oxidation-Reduction)",
-        "Neutralization reaction",
-        "Decomposition reaction",
-        "Displacement reaction"
-      ],
-      "options_te": [
-        "రెడాక్స్ చర్య (ఆక్సీకరణ-క్షయకరణం)",
-        "తటస్థీకరణ చర్య",
-        "వియోగ చర్య",
-        "స్థానభ్రంశ చర్య"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Rusting involves iron oxidizing to Fe2O3.xH2O while atmospheric oxygen undergoes reduction, making it a classic electrochemical redox reaction.",
-      "explanation_te": "ఇనుము తుప్పు పట్టడం అనేది ఆక్సీకరణ మరియు క్షయకరణం ఏకకాలంలో జరిగే రెడాక్స్ చర్య."
-    },
-    {
-      "id": 122,
-      "qNumber": 122,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Which endocrine gland is commonly designated as the 'Master Gland' of the human endocrine system?",
-      "question_te": "మానవ అంతఃస్రావక వ్యవస్థలో ఇతర గ్రంథుల పనితీరును నియంత్రించడం వల్ల ఏ గ్రంథిని 'మాస్టర్ గ్లాండ్' (ప్రధాన గ్రంథి) అంటారు?",
-      "options_en": [
-        "Pituitary gland",
-        "Thyroid gland",
-        "Adrenal gland",
-        "Pancreas"
-      ],
-      "options_te": [
-        "పీయూష గ్రంథి (Pituitary gland)",
-        "థైరాయిడ్ గ్రంథి",
-        "అధివృక్క గ్రంథి",
-        "క్లోమం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The pituitary gland secretes tropic hormones that regulate thyroid, adrenal cortex, gonads, and somatic growth.",
-      "explanation_te": "పీయూష గ్రంథి ఇతర అంతఃస్రావక గ్రంథులను నియంత్రించే హార్మోన్లను విడుదల చేయడం వల్ల దీనిని మాస్టర్ గ్లాండ్ అంటారు."
-    },
-    {
-      "id": 123,
-      "qNumber": 123,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "An electrical transformer operates on the principle of which electromagnetic phenomenon?",
-      "question_te": "ట్రాన్స్‌ఫార్మర్ ఏ విద్యుదయస్కాంత సూత్రం ఆధారంగా పనిచేస్తుంది?",
-      "options_en": [
-        "Mutual Induction",
-        "Self Induction",
-        "Joule's Heating Effect",
-        "Seebeck Effect"
-      ],
-      "options_te": [
-        "పరస్పర ప్రేరణ (Mutual Induction)",
-        "స్వయం ప్రేరణ",
-        "జౌల్ ఉష్ణ నియమం",
-        "సీబెక్ ప్రభావం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Transformers transfer alternating electrical energy between two coils via Faraday's law of Mutual Electromagnetic Induction.",
-      "explanation_te": "ట్రాన్స్‌ఫార్మర్ పరస్పర ప్రేరణ (Mutual Induction) సూత్రం ఆధారంగా ఏసీ వోల్టేజ్‌ను పెంచడం లేదా తగ్గించడం చేస్తుంది."
-    },
-    {
-      "id": 124,
-      "qNumber": 124,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "What is the main chemical constituent present in Liquefied Petroleum Gas (LPG) used for domestic cooking?",
-      "question_te": "వంట గ్యాస్ (LPG) లో ప్రధానంగా ఉండే హైడ్రోకార్బన్ ఏది?",
-      "options_en": [
-        "Butane and Propane",
-        "Methane and Ethane",
-        "Acetylene",
-        "Ethylene"
-      ],
-      "options_te": [
-        "బ్యూటేన్ మరియు ప్రొపేన్",
-        "మీథేన్ మరియు ఈథేన్",
-        "ఎసిటిలీన్",
-        "ఇథిలీన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "LPG is predominantly composed of Liquefied Butane (n-butane and isobutane) mixed with Propane.",
-      "explanation_te": "ఎల్పీజీ లో ప్రధానంగా బ్యూటేన్ మరియు ప్రొపేన్ వాయువులు ఉంటాయి."
-    },
-    {
-      "id": 125,
-      "qNumber": 125,
-      "section": "General Studies",
-      "topic": "General Science (Physics, Chemistry, Biology)",
-      "question_en": "Which blood group lacks both A and B antigens on red blood cells, making it the universal red cell donor?",
-      "question_te": "ఎర్ర రక్తకణాలపై A మరియు B యాంటిజెన్లు రెండూ లేకపోవడం వల్ల ఏ రక్త వర్గాన్ని 'విశ్వ దాత' (Universal Donor) అంటారు?",
-      "options_en": [
-        "O Negative",
-        "O Positive",
-        "AB Positive",
-        "AB Negative"
-      ],
-      "options_te": [
-        "O నెగెటివ్",
-        "O పాజిటివ్",
-        "AB పాజిటివ్",
-        "AB నెగెటివ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "O negative red blood cells have neither A/B antigens nor the Rh antigen (D antigen), making them safe for transfusion to all recipients.",
-      "explanation_te": "O నెగెటివ్ రక్త కణాలపై ఎటువంటి యాంటిజెన్లు లేకపోవడం వల్ల ఏ వ్యక్తికైనా సురక్షితంగా రక్తాన్ని ఇవ్వవచ్చు."
-    },
-    {
-      "id": 126,
-      "qNumber": 126,
-      "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book Mahatma Gandhi & The Environment?",
       "question_te": "'మహాత మ గాంధీ & ది ఎనివరానమంట్' (Mahatma Gandhi & The Environment) పుస్ీక ర్చయిత ఎవర్ు?",
@@ -2933,8 +2647,8 @@
       "explanation_te": "సరైన సమాధానం: రామచందర గుహ."
     },
     {
-      "id": 127,
-      "qNumber": 127,
+      "id": 116,
+      "qNumber": 116,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “The Chola Tigers: Avengers Of Somnath”?",
@@ -2956,8 +2670,8 @@
       "explanation_te": "సరైన సమాధానం: R. Nagaswamy. (A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi)"
     },
     {
-      "id": 128,
-      "qNumber": 128,
+      "id": 117,
+      "qNumber": 117,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “Dapaan: Tales From Kashmir’s Conflict”?",
@@ -2979,8 +2693,8 @@
       "explanation_te": "సరైన సమాధానం: అర్ుంధత్త రాయ్ బి. శ్శ్చ థర్ూర్ సి.కతర్ణ్ దేశాయ్ డి. ఇపి్త చకివరిీ."
     },
     {
-      "id": 129,
-      "qNumber": 129,
+      "id": 118,
+      "qNumber": 118,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book Titled “Demography, Representation, Delimitation”?",
@@ -3002,8 +2716,8 @@
       "explanation_te": "సరైన సమాధానం: శ్శ్చ థర్ూర్."
     },
     {
-      "id": 130,
-      "qNumber": 130,
+      "id": 119,
+      "qNumber": 119,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book M. S. Swaminathan: The Man Who Fed India?",
@@ -3025,8 +2739,8 @@
       "explanation_te": "సరైన సమాధానం: ఎ. భటా్చ ర్య. ('M. S. Swaminathan: The Man Who Fed India’ MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024))"
     },
     {
-      "id": 131,
-      "qNumber": 131,
+      "id": 120,
+      "qNumber": 120,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book Justice Denied Justice Lost?",
@@ -3048,8 +2762,8 @@
       "explanation_te": "సరైన సమాధానం: అర్ుంధత్ర భటా్చ ర్య."
     },
     {
-      "id": 132,
-      "qNumber": 132,
+      "id": 121,
+      "qNumber": 121,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book PMO: Prime Minister’s Office Through The Years?",
@@ -3071,8 +2785,8 @@
       "explanation_te": "సరైన సమాధానం: స్ంజయ్ బార్ు."
     },
     {
-      "id": 133,
-      "qNumber": 133,
+      "id": 122,
+      "qNumber": 122,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book Operation SINDOOR: The Untold Story Of India’s Deep Strikes Inside Pakistan?",
@@ -3094,8 +2808,8 @@
       "explanation_te": "సరైన సమాధానం: వికమ్స ి సింగ్. ('Operation SINDOOR: The Untold Story Of India’s Deep Strikes)"
     },
     {
-      "id": 134,
-      "qNumber": 134,
+      "id": 123,
+      "qNumber": 123,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “Mother Mary Comes To Me”?",
@@ -3117,8 +2831,8 @@
       "explanation_te": "సరైన సమాధానం: కతర్ణ్ దేశాయ్."
     },
     {
-      "id": 135,
-      "qNumber": 135,
+      "id": 124,
+      "qNumber": 124,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “Different But No Less”?",
@@ -3140,8 +2854,8 @@
       "explanation_te": "సరైన సమాధానం: అనుపమ్స ఖేర్."
     },
     {
-      "id": 136,
-      "qNumber": 136,
+      "id": 125,
+      "qNumber": 125,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Received The Prof. M.S. Swaminathan Award 2026?",
@@ -3163,8 +2877,8 @@
       "explanation_te": "సరైన సమాధానం: డ క్ర్ సిహ్ెచ్. శీినివాస్ రావు Prestigious 9th Prof. M.S. Swaminathan. (Award Given To — Dr. Ch. Srinivasa Rao MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024))"
     },
     {
-      "id": 137,
-      "qNumber": 137,
+      "id": 126,
+      "qNumber": 126,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Which Film Won The Best Film Award At Oscars 2026?",
@@ -3186,8 +2900,8 @@
       "explanation_te": "సరైన సమాధానం: హాయమ్సనెట్. (98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin)"
     },
     {
-      "id": 138,
-      "qNumber": 138,
+      "id": 127,
+      "qNumber": 127,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who has been awarded with the “Abel Prize 2026”",
@@ -3209,8 +2923,8 @@
       "explanation_te": "సరైన సమాధానం: Gerd Faltings. (Abel Prize 2026 (Mathematics Award) • Winner : Gerd Faltings (German Mathematician) • Given By : The Norwegian Academy of Science and Letters)"
     },
     {
-      "id": 139,
-      "qNumber": 139,
+      "id": 128,
+      "qNumber": 128,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Has Been Awarded The 60th Jnanpith Award For 2025?",
@@ -3232,8 +2946,8 @@
       "explanation_te": "సరైన సమాధానం: ఆర్. వెరర్ముతు ీ బి. నరేష్ మహత సి.లీలాధర్ మాండలు య్ డి. న గార్ుాన. (Jnanpith Award : Oldest & Highest Indian Literary Award First Winner : 1965 → G. Sankara Kurup Cash Prize : ₹11 Lakhs 60th Jnanpith Award (2025) ➢ R. Vairamuthu — Tamil Poet & Lyricist • 59th Jnanpith Award (2024) — Vinod Kumar Shukla)"
     },
     {
-      "id": 140,
-      "qNumber": 140,
+      "id": 129,
+      "qNumber": 129,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Won The Stockholm Water Prize 2026?",
@@ -3255,8 +2969,8 @@
       "explanation_te": "సరైన సమాధానం: కావహ్ మద ని. (Stockholm Water Prize (Called Nobel Prize Of Water) o Estd. : 1991 o Awarded By : Stockholm Water Foundation ➢ 2026 Winner : Kaveh Madani → Iranian Scientist (Youngest Winner))"
     },
     {
-      "id": 141,
-      "qNumber": 141,
+      "id": 130,
+      "qNumber": 130,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Which Indian Film Won A BAFTA Award In 2026?",
@@ -3278,192 +2992,652 @@
       "explanation_te": "సరైన సమాధానం: RRR. (B. RRR BOONG : Manipuri Film First Indian Film To Win A BAFTA In — Best Children’s & Family Film Category Director : Lakshmipriya Devi Produced By : Farhan Akhtar And Ritesh Sidhwani.)"
     },
     {
+      "id": 131,
+      "qNumber": 131,
+      "section": "General Studies",
+      "topic": "Geography - Drainage Systems of India",
+      "question_en": "Which of the following rivers is the only perennial river in Peninsular India that receives rainfall from both South-West and North-East monsoons?",
+      "question_te": "దక్షిణ ద్వీపకల్ప భారతదేశంలో నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి నుండి వర్షపాతాన్ని పొందుతూ జీవనదిగా ప్రవహించే నది ఏది?",
+      "options_en": [
+        "Godavari River",
+        "Krishna River",
+        "Cauvery River (Kaveri)",
+        "Mahanadi River"
+      ],
+      "options_te": [
+        "గోదావరి నది",
+        "కృష్ణా నది",
+        "కావేరి నది (Cauvery)",
+        "మహానది"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The Cauvery basin receives summer rainfall from SW monsoon in upper reaches (Coorg) and winter rainfall from NE monsoon in lower reaches (Tamil Nadu), making it almost perennial.",
+      "explanation_te": "కావేరి నది ఎగువ ప్రాంతంలో నైరుతి రుతుపవనాల వల్ల, దిగువ ప్రాంతంలో ఈశాన్య రుతుపవనాల వల్ల వర్షం పొంది దాదాపు జీవనదిగా ప్రవహిస్తుంది."
+    },
+    {
+      "id": 132,
+      "qNumber": 132,
+      "section": "General Studies",
+      "topic": "Geography - Physiography of India",
+      "question_en": "Which gap or pass in the Western Ghats connects Palakkad in Kerala with Coimbatore in Tamil Nadu?",
+      "question_te": "పశ్చిమ కనుమలలో కేరళలోని పాలక్కాడ్‌ను తమిళనాడులోని కోయంబత్తూరుతో కలిపే ప్రముఖ కనుమ ఏది?",
+      "options_en": [
+        "Thal Ghat",
+        "Bhor Ghat",
+        "Palghat Gap (Palakkad Gap)",
+        "Shencottah Gap"
+      ],
+      "options_te": [
+        "థాల్ ఘాట్",
+        "భోర్ ఘాట్",
+        "పాల్ఘాట్ కనుమ (Palghat Gap)",
+        "షెంకోట్టా కనుమ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Palghat Gap is a major low mountain pass (around 30 km wide) in the Western Ghats between Nilgiri Hills and Anaimalai Hills.",
+      "explanation_te": "నీలగిరి మరియు ఆనైమలై కొండల మధ్య పశ్చిమ కనుమలలో విస్తరించి కేరళ, తమిళనాడులను కలిపే ముఖ్యమైన కనుమ పాల్ఘాట్."
+    },
+    {
+      "id": 133,
+      "qNumber": 133,
+      "section": "General Studies",
+      "topic": "Geography - Soils of India",
+      "question_en": "Which soil type in India develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan Plateau and turns yellow when hydrated?",
+      "question_te": "దక్కన్ పీఠభూమిలోని తక్కువ వర్షపాతం గల ప్రాంతాలలో స్పటికాకార అగ్నిశిలల నుండి ఏర్పడి, నీటిని గ్రహించినప్పుడు పసుపు రంగులోకి మారే నేలలు ఏవి?",
+      "options_en": [
+        "Laterite Soils",
+        "Red and Yellow Soils",
+        "Alluvial Soils",
+        "Saline Soils"
+      ],
+      "options_te": [
+        "లాటరైట్ నేలలు",
+        "ఎర్ర మరియు పసుపు నేలలు (Red and Yellow Soils)",
+        "ఒండ్రు నేలలు",
+        "చౌడు నేలలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Red soils develop a reddish color due to a wide diffusion of iron in crystalline and metamorphic rocks and look yellow in a hydrated form.",
+      "explanation_te": "ఐరన్ (ఇనుము) విస్తరణ వల్ల ఎరుపు రంగులోను, తేమను గ్రహించినప్పుడు పసుపు రంగులోను కనిపించేవి ఎర్ర నేలలు."
+    },
+    {
+      "id": 134,
+      "qNumber": 134,
+      "section": "General Studies",
+      "topic": "Geography - Biosphere Reserves & Ecology",
+      "question_en": "Which of the following was designated as India's very first National Park in 1936, originally named Hailey National Park?",
+      "question_te": "1936 లో 'హైలీ నేషనల్ పార్క్' పేరుతో స్థాపించబడిన భారతదేశపు మొట్టమొదటి జాతీయ ఉద్యానవనం ఏది?",
+      "options_en": [
+        "Kaziranga National Park",
+        "Jim Corbett National Park",
+        "Gir National Park",
+        "Kanha National Park"
+      ],
+      "options_te": [
+        "కాజిరంగా జాతీయ ఉద్యానవనం",
+        "జిమ్ కార్బెట్ జాతీయ ఉద్యానవనం (Jim Corbett)",
+        "గిర్ జాతీయ ఉద్యానవనం",
+        "కన్హా జాతీయ ఉద్యానవనం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Jim Corbett National Park in Nainital/Pauri Garhwal district of Uttarakhand was established in 1936 as Hailey National Park.",
+      "explanation_te": "ఉత్తరాఖండ్‌లో 1936 లో ఏర్పాటైన భారతదేశ తొలి జాతీయ ఉద్యానవనం జిమ్ కార్బెట్ నేషనల్ పార్క్."
+    },
+    {
+      "id": 135,
+      "qNumber": 135,
+      "section": "General Studies",
+      "topic": "Geography - Water Resources & Dams",
+      "question_en": "The Hirakud Dam, one of the longest earthen dams in the world, is constructed across which river in Odisha?",
+      "question_te": "ప్రపంచంలోనే అతి పొడవైన మట్టి ఆనకట్టలలో ఒకటైన హీరాకుడ్ డ్యామ్ ఒడిశాలోని ఏ నదిపై నిర్మించబడింది?",
+      "options_en": [
+        "Mahanadi River",
+        "Brahmani River",
+        "Baitarani River",
+        "Subarnarekha River"
+      ],
+      "options_te": [
+        "మహానది (Mahanadi)",
+        "బ్రాహ్మణి నది",
+        "బైతరణి నది",
+        "సువర్ణరేఖ నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Hirakud Dam was built across the Mahanadi River near Sambalpur in Odisha, commissioned in 1957.",
+      "explanation_te": "ఒడిశాలోని సంబల్‌పూర్ వద్ద మహానదిపై హీరాకుడ్ బహుళార్థసాధక ప్రాజెక్టు నిర్మించబడింది."
+    },
+    {
+      "id": 136,
+      "qNumber": 136,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Rivers & Drainage",
+      "question_en": "The Pranahita river, the largest tributary of the Godavari river in terms of water discharge, is formed by the confluence of which two rivers?",
+      "question_te": "గోదావరి నదికి అత్యధిక నీటిని అందించే అతిపెద్ద ఉపనది అయిన ప్రాణహిత ఏ రెండు నదుల సంగమం వల్ల ఏర్పడుతుంది?",
+      "options_en": [
+        "Wardha and Penganga",
+        "Wainganga and Wardha",
+        "Manjeera and Kadam",
+        "Indravati and Sabari"
+      ],
+      "options_te": [
+        "వార్ధా మరియు పెన్‌గంగ",
+        "వైన్‌గంగా మరియు వార్ధా (Wainganga & Wardha)",
+        "మంజీర మరియు కడెం",
+        "ఇంద్రావతి మరియు శబరి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "River Pranahita is formed by the combined waters of Penganga/Wardha and Wainganga at the Maharashtra-Telangana border.",
+      "explanation_te": "వార్ధా (పెన్‌గంగతో కలిసినది) మరియు వైన్‌గంగా నదులు సంగమించి ప్రాణహిత నదిగా ఏర్పడి కాళేశ్వరం వద్ద గోదావరిలో కలుస్తాయి."
+    },
+    {
+      "id": 137,
+      "qNumber": 137,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Rivers & Confluences",
+      "question_en": "At which historic pilgrim town in Telangana does the River Krishna receive its major tributary, the Tungabhadra?",
+      "question_te": "తెలంగాణలోని ఏ చారిత్రక పుణ్యక్షేత్రం వద్ద కృష్ణా నదిలో దాని ప్రధాన ఉపనది అయిన తుంగభద్ర సంగమిస్తుంది?",
+      "options_en": [
+        "Alampur (Jogulamba Gadwal district)",
+        "Beechupalli",
+        "Somashila",
+        "Nagarjuna Sagar"
+      ],
+      "options_te": [
+        "ఆలంపూర్ (జోగులాంబ గద్వాల జిల్లా)",
+        "బీచుపల్లి",
+        "సోమశిల",
+        "నాగార్జున సాగర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The confluence of Krishna and Tungabhadra takes place near Alampur (Dakshina Kashi) in Jogulamba Gadwal district.",
+      "explanation_te": "జోగులాంబ గద్వాల జిల్లాలోని దక్షిణ కాశీగా ప్రసిద్ధి చెందిన ఆలంపూర్ సమీపంలో కృష్ణా-తుంగభద్ర నదుల సంగమం జరుగుతుంది."
+    },
+    {
+      "id": 138,
+      "qNumber": 138,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Irrigation Projects",
+      "question_en": "The historic 'Nizam Sagar' project, constructed in 1931 across the Manjeera river, is located in which district of Telangana?",
+      "question_te": "1931 లో మంజీర నదిపై నిర్మించబడిన చారిత్రక 'నిజాం సాగర్' ప్రాజెక్టు తెలంగాణలోని ఏ జిల్లాలో ఉంది?",
+      "options_en": [
+        "Kamareddy district",
+        "Sangareddy district",
+        "Medak district",
+        "Nizamabad district"
+      ],
+      "options_te": [
+        "కామారెడ్డి జిల్లా (Kamareddy)",
+        "సంగారెడ్డి జిల్లా",
+        "మెదక్ జిల్లా",
+        "నిజామాబాద్ జిల్లా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nizam Sagar dam was constructed across the Manjeera river at Achampet in present Kamareddy district.",
+      "explanation_te": "నిజాం సాగర్ ప్రాజెక్టు ప్రస్తుత కామారెడ్డి జిల్లాలోని మంజీర నదిపై నిర్మించబడింది."
+    },
+    {
+      "id": 139,
+      "qNumber": 139,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Forests & Wildlife",
+      "question_en": "The 'Kawal Tiger Reserve' is situated in which of the following regions of northern Telangana?",
+      "question_te": "తెలంగాణ ఉత్తర భాగంలో ఉన్న 'కవ్వాల్ టైగర్ రిజర్వ్' ఏ పూర్వ అవిభక్త జిల్లా పరిధిలో విస్తరించి ఉంది?",
+      "options_en": [
+        "Adilabad / Mancherial / Nirmal",
+        "Khammam / Kothagudem",
+        "Warangal / Mulugu",
+        "Mahabubnagar / Nagarkurnool"
+      ],
+      "options_te": [
+        "ఆదిలాబాద్ / మంచిర్యాల / నిర్మల్",
+        "ఖమ్మం / కొత్తగూడెం",
+        "వరంగల్ / ములుగు",
+        "మహబూబ్‌నగర్ / నాగర్‌కర్నూల్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kawal Wildlife Sanctuary was declared a Tiger Reserve in 2012, situated in the catchment of Kadam and Godavari in Adilabad/Mancherial/Nirmal.",
+      "explanation_te": "కవ్వాల్ పులుల అభయారణ్యం పూర్వ ఆదిలాబాద్ (మంచిర్యాల, నిర్మల్) జిల్లా పరిధిలో విస్తరించి ఉంది."
+    },
+    {
+      "id": 140,
+      "qNumber": 140,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Plateaus & Hills",
+      "question_en": "The 'Ananthagiri Hills', which give rise to the River Musi, are located in which district of Telangana?",
+      "question_te": "మూసీ నది జన్మస్థానమైన 'అనంతగిరి కొండలు' తెలంగాణలోని ఏ జిల్లాలో ఉన్నాయి?",
+      "options_en": [
+        "Vikarabad district",
+        "Ranga Reddy district",
+        "Mahabubnagar district",
+        "Medak district"
+      ],
+      "options_te": [
+        "వికారాబాద్ జిల్లా (Vikarabad)",
+        "రంగారెడ్డి జిల్లా",
+        "మహబూబ్‌నగర్ జిల్లా",
+        "మెదక్ జిల్లా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ananthagiri Hills in Vikarabad district are densely forested hills where River Musi originates.",
+      "explanation_te": "వికారాబాద్ జిల్లాలోని అనంతగిరి కొండల్లో మూసీ నది జన్మిస్తుంది."
+    },
+    {
+      "id": 141,
+      "qNumber": 141,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Mineral Resources",
+      "question_en": "Extensive high-grade limestone deposits that feed major cement manufacturing clusters in Telangana are concentrated in which district?",
+      "question_te": "తెలంగాణలో భారీ సిమెంట్ కర్మాగారాలకు ముడిసరుకును అందించే సున్నపురాయి (లైమ్‌స్టోన్) నిల్వలు ఏ జిల్లాలో అత్యధికంగా కేంద్రీకృతమై ఉన్నాయి?",
+      "options_en": [
+        "Suryapet / Nalgonda",
+        "Bhadradri Kothagudem",
+        "Jogulamba Gadwal",
+        "Medchal Malkajgiri"
+      ],
+      "options_te": [
+        "సూర్యాపేట / నల్గొండ (Suryapet/Nalgonda)",
+        "భద్రాద్రి కొత్తగూడెం",
+        "జోగులాంబ గద్వాల",
+        "మేడ్చల్ మల్కాజిగిరి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Palnadu limestone basin extends across Suryapet (Mellacheruvu, Mattampally, Kodad) and Nalgonda, making it a cement hub.",
+      "explanation_te": "సూర్యాపేట మరియు నల్గొండ జిల్లాల్లోని సున్నపురాయి నిల్వల ఆధారంగా అనేక సిమెంట్ పరిశ్రమలు ఏర్పాటయ్యాయి."
+    },
+    {
       "id": 142,
       "qNumber": 142,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Which Film Won Best Film Awards At “BAFTA Awards 2026 ?",
-      "question_te": "“బాఫ్ా్ అవార్్్ 2026లో ఏ చతరం ఉతీమ చలనచతర అవార్ు్లను గెలుచుకుంది?",
+      "topic": "Geography - Telangana Administrative Geography",
+      "question_en": "Which of the following is the only district in Telangana that shares boundaries with three neighboring Indian states (Maharashtra, Karnataka, and Chhattisgarh)?",
+      "question_te": "తెలంగాణలోని ఏ జిల్లా మూడు పొరుగు రాష్ట్రాలతో సరిహద్దును పంచుకుంటుంది లేదా అంతర్రాష్ట్ర సరిహద్దు లక్షణాన్ని కలిగి ఉంది?",
       "options_en": [
-        "Hamnet",
-        "The Brutalist",
-        "One Battle After Another",
-        "I Swear"
+        "None (No single district touches 3 states)",
+        "Kumuram Bheem Asifabad",
+        "Jashupur",
+        "Bhadradri Kothagudem"
       ],
       "options_te": [
-        "హామిట్ బి. ది బమ ర టలిస్",
-        "The Brutalist",
-        "ఒకద ని తరావత మరొకటి యుదధం",
-        "నేను పరమాణం చేస్ీ ున ిను 2. Best Actor : Robert Aramayo (I Swear)"
+        "ఏ జిల్లా కూడా మూడు రాష్ట్రాలను తాకదు (No single district touches 3 states)",
+        "కుమురం భీమ్ ఆసిఫాబాద్",
+        "జాషుపూర్",
+        "భద్రాద్రి కొత్తగూడెం"
       ],
       "correct_option": 0,
-      "explanation_en": "79th British Academy Film Awards Or BAFTA Awards 2026 Winners List 1. Most awards : One Battle After Another (6) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another)",
-      "explanation_te": "సరైన సమాధానం: హామిట్ బి. ది బమ ర టలిస్. (79th British Academy Film Awards Or BAFTA Awards 2026 Winners List 1. Most awards : One Battle After Another (6) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another))"
+      "explanation_en": "No single district in Telangana shares borders with 3 states. Bhadradri touches AP and Chhattisgarh; Kamareddy touches Maharashtra and Karnataka.",
+      "explanation_te": "తెలంగాణలో ఏ ఒక్క జిల్లా కూడా ఒకేసారి 3 రాష్ట్రాలతో సరిహద్దును కలిగి లేదు."
     },
     {
       "id": 143,
       "qNumber": 143,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Which Film Won The “Best Film (Drama)” Award At The Golden Globes 2026?",
-      "question_te": "గలలె్న గలుబ్స్ 2026లో \"ఉతీమ చతరం (డర మా)\" అవార్ు్ను ఏ చతరం గెలుచుకుంది?",
+      "topic": "Geography - Indian Climate & Monsoons",
+      "question_en": "The phenomenon of 'Western Disturbances' that brings winter precipitation to North-West India originates over which body of water?",
+      "question_te": "వాయవ్య భారతదేశంలో శీతాకాలంలో వర్షపాతాన్ని కలిగించే 'పశ్చిమ అలజడులు' (Western Disturbances) ఏ సముద్రం మీదుగా ఉద్భవిస్తాయి?",
       "options_en": [
-        "Hamnet",
-        "One Battle After Another",
-        "The Pitt",
-        "Frankenstein"
+        "Mediterranean Sea",
+        "Arabian Sea",
+        "Red Sea",
+        "Bay of Bengal"
       ],
       "options_te": [
-        "హామ్సనెట్",
-        "వన బాయటిల్ ఆఫ్్ర్ అనదర్ 1. Best Film (Musical or Comedy) → One",
-        "ది పిట్",
-        "ఫారంకెనస్ టన"
+        "మధ్యధరా సముద్రం (Mediterranean Sea)",
+        "అరేబియా సముద్రం",
+        "ఎర్ర సముద్రం",
+        "బంగాళాఖాతం"
       ],
       "correct_option": 0,
-      "explanation_en": "83rd Golden Globe Awards 2026 Winners Battle After Another 2. Best Drama Series : The Pitt 3. Best Actor (Drama) : Wagner Moura (The Secret Agent) 4. Best Actress (Drama)→ Jessie Buckley (Hamnet)",
-      "explanation_te": "సరైన సమాధానం: హామ్సనెట్. (83rd Golden Globe Awards 2026 Winners Battle After Another 2. Best Drama Series : The Pitt 3. Best Actor (Drama) : Wagner Moura (The Secret Agent) 4. Best Actress (Drama)→ Jessie Buckley (Hamnet))"
+      "explanation_en": "Western disturbances are extra-tropical cyclones originating over the Mediterranean Sea, carried by westerly jet streams to Punjab and Haryana.",
+      "explanation_te": "మధ్యధరా సముద్రంపై ఉద్భవించే పశ్చిమ అలజడులు జెట్ ప్రవాహాల ద్వారా భారతదేశ వాయవ్య ప్రాంతానికి శీతాకాలపు వర్షాన్ని తెస్తాయి."
     },
     {
       "id": 144,
       "qNumber": 144,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Became The First Global Leader To Receive The Speaker Of The Knesset Medal?",
-      "question_te": "'స్ాకర్ ఆఫ్ ది నెసట్ మడ్ల్' (Speaker of the Knesset Medal) అందుకుని మొదటి పరపంచ న యకుడ్ు ఎవర్ు?",
+      "topic": "Geography - Transport & Major Ports of India",
+      "question_en": "Which of the following is a major tidal port located in the Gulf of Kutch in Gujarat, known as Deendayal Port?",
+      "question_te": "గుజరాత్‌లోని కచ్ సింధుశాఖలో ఉన్న ప్రముఖ టైడల్ పోర్ట్ (దీన్‌దయాళ్ పోర్ట్) ఏది?",
       "options_en": [
-        "Narendra Modi",
-        "Joe Biden",
-        "Emmanuel Macron",
-        "Rishi Sunak"
+        "Kandla Port",
+        "Mundra Port",
+        "Pipavav Port",
+        "Dahej Port"
       ],
       "options_te": [
-        "నరేందర మోదీ",
-        "జో బరడన",
-        "ఇమామనుయయిేల్ మాకాిన",
-        "రిషి స్ునక్"
+        "కాండ్లా పోర్ట్ (Kandla)",
+        "ముంద్రా పోర్ట్",
+        "పిపావావ్ పోర్ట్",
+        "దహేజ్ పోర్ట్"
       ],
       "correct_option": 0,
-      "explanation_en": "Speaker Of The Knesset Medal : Highest Parliamentary Honour Of Israel",
-      "explanation_te": "సరైన సమాధానం: నరేందర మోదీ. (Speaker Of The Knesset Medal : Highest Parliamentary Honour Of Israel)"
+      "explanation_en": "Kandla Port in Gujarat was developed post-independence to replace Karachi port and was renamed Deendayal Port Trust.",
+      "explanation_te": "కచ్ సింధుశాఖలోని కాండ్లా పోర్టును దీన్‌దయాళ్ పోర్ట్ అని పిలుస్తారు."
     },
     {
       "id": 145,
       "qNumber": 145,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Which Song Won “Album of the Year” Award At Grammy Awards 2026?",
-      "question_te": "2026 గాిమీ అవార్ు్లలో ఏ పాట \"ఆలీమ్స ఆఫ్ ది ఇయర్\" అవార్ు్ను గెలుచుకుంది?",
+      "topic": "Indian Economy - Monetary Policy & Banking",
+      "question_en": "What is the 'Repo Rate' in the Indian financial system?",
+      "question_te": "భారతీయ ఆర్థిక వ్యవస్థలో 'రెపో రేటు' (Repo Rate) అనగా ఏమిటి?",
       "options_en": [
-        "Defying Gravity",
-        "Debí Tirar Más Fotos",
-        "Mayhem",
-        "Wildflower"
+        "The interest rate at which commercial banks borrow short-term funds from the RBI against government securities",
+        "The rate at which RBI borrows from commercial banks",
+        "The lending rate charged by commercial banks to their prime corporate borrowers",
+        "The discount rate on export bills of exchange"
       ],
       "options_te": [
-        "Defying Gravity",
-        "Debí Tirar Más Fotos",
-        "Mayhem",
-        "Wildflower"
+        "ప్రభుత్వ సెక్యూరిటీల హామీతో వాణిజ్య బ్యాంకులు రిజర్వ్ బ్యాంకు నుండి స్వల్పకాలిక రుణాలు పొందే వడ్డీ రేటు",
+        "వాణిజ్య బ్యాంకుల నుండి ఆర్బీఐ అప్పు తీసుకునే రేటు",
+        "బ్యాంకులు తమ ఉత్తమ కస్టమర్లకు ఇచ్చే రుణాల వడ్డీ రేటు",
+        "ఎగుమతి బిల్లులపై డిస్కౌంట్ రేటు"
       ],
       "correct_option": 0,
-      "explanation_en": "68th Annual Grammy Awards 2026 {Musical Awards} A. Defying Gravity B. Debí Tirar Más Fotos 1. Record of the Year : “luther” – Kendrick Lamar C. Mayhem 2. Album of the Year” : Debí Tirar Más Fotos – D. Wildflower Bad Bunny 3. Song Of The Year : “Wildflower” 4. Best New Artist → Olivia Dean",
-      "explanation_te": "సరైన సమాధానం: Defying Gravity. (68th Annual Grammy Awards 2026 {Musical Awards} A. Defying Gravity B. Debí Tirar Más Fotos 1. Record of the Year : “luther” – Kendrick Lamar C. Mayhem 2. Album of the Year” : Debí Tirar Más Fotos – D. Wildflower Bad Bunny 3. Song Of The Year : “Wildflower” 4. Best New Artist → Olivia Dean)"
+      "explanation_en": "Repo (Repurchase Option) rate is the key policy rate at which the RBI lends liquidity to commercial banks against eligible collateral.",
+      "explanation_te": "వాణిజ్య బ్యాంకులు తమ స్వల్పకాలిక ద్రవ్య అవసరాల కోసం ఆర్బీఐ వద్ద ప్రభుత్వ బాండ్లను తాకట్టు పెట్టి రుణాలు పొందే రేటును రెపో రేటు అంటారు."
     },
     {
       "id": 146,
       "qNumber": 146,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Won The 2026 Grammy Award For Best Audio Book, Narration & Storytelling Recording For The Album “Meditations”?",
-      "question_te": "\"మడిటేష్టన్\" (Meditations) ఆలీమ్సకు గాను, ఉతీమ ఆడియో బుక్, కథనం & కథ పఠన రికారి్ంగ్ విభాగంలో 2026 గాిమీ అవార్ు్ను ఎవర్ు గెలుచుకున ిర్ు?",
+      "topic": "Indian Economy - National Income Concepts",
+      "question_en": "How is 'Gross National Product at Market Prices' (GNP_MP) derived from Gross Domestic Product (GDP_MP)?",
+      "question_te": "స్థూల దేశీయోత్పత్తి (GDP_MP) నుండి 'స్థూల జాతీయోత్పత్తి' (GNP_MP) ని ఏ విధంగా లెక్కిస్తారు?",
       "options_en": [
-        "Dalai Lama",
-        "Anoushka Shankar",
-        "Kendrick Lamar",
-        "Barack Obama"
+        "GNP_MP = GDP_MP + Net Factor Income from Abroad (NFIA)",
+        "GNP_MP = GDP_MP - Depreciation",
+        "GNP_MP = GDP_MP + Indirect Taxes - Subsidies",
+        "GNP_MP = GDP_MP - Net Factor Income from Abroad"
       ],
       "options_te": [
-        "దలెరలామా",
-        "అనుష్ట్ శ్ంకర్",
-        "కెండిరక్ లామార్",
-        "బరాక్ ఒబామా"
+        "GNP_MP = GDP_MP + విదేశాల నుండి నికర కారక ఆదాయం (NFIA)",
+        "GNP_MP = GDP_MP - తరుగుదల",
+        "GNP_MP = GDP_MP + పరోక్ష పన్నులు - రాయితీలు",
+        "GNP_MP = GDP_MP - NFIA"
       ],
       "correct_option": 0,
-      "explanation_en": "Correct Answer: Dalai Lama",
-      "explanation_te": "సరైన సమాధానం: దలెరలామా."
+      "explanation_en": "GNP includes total value generated by residents of a country: GNP = GDP + Net Factor Income from Abroad (NFIA).",
+      "explanation_te": "దేశ పౌరులు దేశంలో మరియు విదేశాలలో సంపాదించిన మొత్తం ఆదాయాన్ని GNP అంటారు: GDP + విదేశాల నుండి నికర కారక ఆదాయం (NFIA)."
     },
     {
       "id": 147,
       "qNumber": 147,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Won The Prestigious Global Teacher Prize 2026?",
-      "question_te": "పరత్రషా్తమక 'గలుబల్ టీచర్ పరైజ్ 2026'ను ఎవర్ు గెలుచుకున ిర్ు?",
+      "topic": "Indian Economy - Inflation & Price Indices",
+      "question_en": "What distinguishes 'Core Inflation' from 'Headline Inflation' in economic analysis?",
+      "question_te": "ఆర్థిక విశ్లేషణలో 'కోర్ ద్రవ్యోల్బణం' (Core Inflation) కు మరియు 'హెడ్‌లైన్ ద్రవ్యోల్బణం' కు గల ప్రధాన తేడా ఏమిటి?",
       "options_en": [
-        "Rouble Nagi",
-        "Ranjitsinh Disale",
-        "Sister Cyril",
-        "Anand Kumar"
+        "Core inflation excludes volatile food and fuel energy prices from the headline index",
+        "Core inflation includes only wholesale industrial raw materials",
+        "Core inflation is computed only for rural unorganized sectors",
+        "Core inflation measures only asset and stock market prices"
       ],
       "options_te": [
-        "ర్ూబుల్ న గి",
-        "ర్ంజ్త్సిన్ డిసాలే",
-        "సిస్్ర్ సిరిల్",
-        "ఆనంద్ కుమార్"
+        "హెడ్‌లైన్ సూచీ నుండి తీవ్ర ఒడిదుడుకులు ఉండే ఆహార మరియు ఇంధన ధరలను మినహాయించి కోర్ ద్రవ్యోల్బణాన్ని లెక్కిస్తారు",
+        "కోర్ ద్రవ్యోల్బణం పారిశ్రామిక ముడిసరుకును మాత్రమే లెక్కిస్తుంది",
+        "ఇది గ్రామీణ అసంఘటిత రంగానికి మాత్రమే వర్తిస్తుంది",
+        "ఇది కేవలం షేర్ మార్కెట్ ధరలను లెక్కిస్తుంది"
       ],
       "correct_option": 0,
-      "explanation_en": "Correct Answer: Rouble Nagi",
-      "explanation_te": "సరైన సమాధానం: ర్ూబుల్ న గి."
+      "explanation_en": "Core inflation excludes volatile food and energy components to reflect the persistent, underlying trend in consumer price inflation.",
+      "explanation_te": "ఆహార, ఇంధన ధరలలో హెచ్చుతగ్గులు ఎక్కువగా ఉండటం వలన వాటిని మినహాయించి లెక్కించే స్థిరమైన ద్రవ్యోల్బణాన్ని కోర్ ద్రవ్యోల్బణం అంటారు."
     },
     {
       "id": 148,
       "qNumber": 148,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Won The 2026 Tyler Prize for Environmental Achievement?",
-      "question_te": "పరాయవర్ణ సాధనకు గాను 2026 ట్రలర్ బహుమత్రని ఎవర్ు గెలుచుకున ిర్ు?",
+      "topic": "Indian Economy - Public Finance & Deficits",
+      "question_en": "What does a 'Revenue Deficit' in a government budget indicate?",
+      "question_te": "ప్రభుత్వ బడ్జెట్‌లో 'రెవెన్యూ లోటు' (Revenue Deficit) దేనిని సూచిస్తుంది?",
       "options_en": [
-        "Jane Goodall",
-        "Wangari Maathai",
-        "David Attenborough",
-        "Dr. Toby Kiers"
+        "Excess of government revenue expenditure over revenue receipts",
+        "Excess of total budget expenditure over total tax receipts",
+        "Total borrowing from the Reserve Bank of India",
+        "Difference between exports and imports"
       ],
       "options_te": [
-        "జేన గుడ ల్",
-        "వాంగరీ మాతర",
-        "డేవిడ్ అట్నబరల",
-        "డ క్ర్ టోబీ కతయర్్"
+        "ప్రభుత్వ రెవెన్యూ రాబడుల కంటే రెవెన్యూ వ్యయం అధికంగా ఉండటం",
+        "మొత్తం బడ్జెట్ వ్యయం పన్ను రాబడుల కంటే మించడం",
+        "ఆర్బీఐ నుండి ప్రభుత్వం తీసుకున్న మొత్తం రుణం",
+        "ఎగుమతులు మరియు దిగుమతుల మధ్య వ్యత్యాసం"
       ],
-      "correct_option": 3,
-      "explanation_en": "Dr. Toby Kiers : American environmental scientist and biologist Won — 2026 Tyler Prize for Environmental Achievement (Aka — “Nobel Prize for the environment)",
-      "explanation_te": "సరైన సమాధానం: డ క్ర్ టోబీ కతయర్్. (Dr. Toby Kiers : American environmental scientist and biologist Won — 2026 Tyler Prize for Environmental Achievement (Aka — “Nobel Prize for the environment))"
+      "correct_option": 0,
+      "explanation_en": "Revenue Deficit occurs when government's routine operational expenditures exceed its routine revenue receipts (taxes + non-tax fees).",
+      "explanation_te": "ప్రభుత్వ సాధారణ రోజువారీ పరిపాలనా ఖర్చులు (జీతాలు, వడ్డీలు) దాని రెవెన్యూ ఆదాయం కంటే మించిపోవడాన్ని రెవెన్యూ లోటు అంటారు."
     },
     {
       "id": 149,
       "qNumber": 149,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Received Indian Railways Highest Honour ‘Ati Vishisht Rail Sewa Puraskar‘",
-      "question_te": "భార్త్తయ రెైలేవ అతుయనిత గౌర్వం ‘అత్ర విశ్చష్ట్ రెైలు’ను ఎవర్ు అందుకున ిర్ు సేవా పుర్సా్ర్'",
+      "topic": "Indian Economy - Banking & Non-Performing Assets",
+      "question_en": "According to Reserve Bank of India guidelines, an advance or loan is classified as a 'Non-Performing Asset' (NPA) when interest or principal remains overdue for a period of more than:",
+      "question_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా నిబంధనల ప్రకారం, రుణంపై అసలు లేదా వడ్డీ ఎన్ని రోజులకు మించి చెల్లించకుండా బకాయి ఉంటే దానిని 'నిరర్థక ఆస్తి' (NPA) గా వర్గీకరిస్తారు?",
       "options_en": [
-        "Chandana Sinha",
-        "Amit Kumar",
-        "Sardar Singh",
-        "Ashutosh Verma"
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
       ],
       "options_te": [
-        "చందన సిన్ బి. అమిత్ కుమార్ సి. స్రార్ సింగ్ డి. అశుతోష్ వర్మ",
-        "Amit Kumar",
-        "Sardar Singh",
-        "Ashutosh Verma"
+        "30 రోజులు",
+        "60 రోజులు",
+        "90 రోజులు (90 days)",
+        "180 రోజులు"
       ],
-      "correct_option": 0,
-      "explanation_en": "Chandana Sinha : RPF officer Given for — Her exceptional work in preventing child trafficking",
-      "explanation_te": "సరైన సమాధానం: చందన సిన్ బి. అమిత్ కుమార్ సి. స్రార్ సింగ్ డి. అశుతోష్ వర్మ. (Chandana Sinha : RPF officer Given for — Her exceptional work in preventing child trafficking)"
+      "correct_option": 2,
+      "explanation_en": "An asset becomes an NPA when it ceases to generate income for the bank, with interest or principal installment overdue for over 90 days.",
+      "explanation_te": "వడ్డీ లేదా అసలు వాయిదా 90 రోజులకు పైగా చెల్లించబడకుండా నిలిచిపోతే ఆ రుణాన్ని నిరర్థక ఆస్తి (NPA) గా గుర్తిస్తారు."
     },
     {
       "id": 150,
       "qNumber": 150,
+      "section": "General Studies",
+      "topic": "Indian Economy - Balance of Payments",
+      "question_en": "The difference between the total monetary value of a nation's merchandise exports and merchandise imports is termed as:",
+      "question_te": "ఒక దేశం యొక్క వస్తు ఎగుమతులు మరియు వస్తు దిగుమతుల మొత్తం విలువల మధ్య గల తేడాను ఏమంటారు?",
+      "options_en": [
+        "Balance of Trade (Trade Balance)",
+        "Current Account Balance",
+        "Capital Account Balance",
+        "Balance of Invisible Payments"
+      ],
+      "options_te": [
+        "వర్తక సమతౌల్యం (Balance of Trade)",
+        "కరెంట్ ఖాతా బ్యాలెన్స్",
+        "మూలధన ఖాతా బ్యాలెన్స్",
+        "అదృశ్య లావాదేవీల బ్యాలెన్స్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Balance of Trade = Merchandise Exports - Merchandise Imports. It covers only visible physical goods.",
+      "explanation_te": "భౌతిక వస్తువుల ఎగుమతులు మరియు దిగుమతుల మధ్య గల తేడాను వర్తక సమతౌల్యం (Balance of Trade) అంటారు."
+    },
+    {
+      "id": 151,
+      "qNumber": 151,
+      "section": "General Studies",
+      "topic": "Telangana Economy - State Socio-Economic Outlook",
+      "question_en": "According to the Telangana Socio-Economic Outlook, which sector contributes the highest share to the Gross State Value Added (GSVA) of Telangana?",
+      "question_te": "తెలంగాణ సామాజిక ఆర్థిక సర్వే ప్రకారం, రాష్ట్ర స్థూల విలువ జోడింపు (GSVA) లో అత్యధిక వాటాను కలిగి ఉన్న రంగం ఏది?",
+      "options_en": [
+        "Services Sector",
+        "Industrial Sector",
+        "Agricultural and Allied Sector",
+        "Mining and Quarrying Sector"
+      ],
+      "options_te": [
+        "సేవా రంగం (Services Sector)",
+        "పారిశ్రామిక రంగం",
+        "వ్యవసాయ మరియు అనుబంధ రంగాలు",
+        "గనుల రంగం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Services sector (IT, finance, trade, hospitality) contributes around 64% of Telangana's GSVA.",
+      "explanation_te": "తెలంగాణ ఆర్థిక వ్యవస్థలో ఐటీ, రియల్ ఎస్టేట్, బ్యాంకింగ్ రంగాలతో కూడిన సేవా రంగం సుమారు 64% వాటాతో అగ్రస్థానంలో ఉంది."
+    },
+    {
+      "id": 152,
+      "qNumber": 152,
+      "section": "General Studies",
+      "topic": "Telangana Economy - Agriculture & Irrigation",
+      "question_en": "The flagship irrigation program 'Mission Kakatiya' was undertaken by the Government of Telangana with the objective of:",
+      "question_te": "తెలంగాణ ప్రభుత్వం ప్రతిష్టాత్మకంగా చేపట్టిన 'మిషన్ కాకతీయ' పథకం యొక్క ప్రధాన లక్ష్యం ఏమిటి?",
+      "options_en": [
+        "Restoration and desiltation of 46,500 minor irrigation tanks across the state",
+        "Construction of thermal power stations",
+        "Distribution of drip irrigation kits to small farmers",
+        "Digging of new borewells in drought mandals"
+      ],
+      "options_te": [
+        "రాష్ట్రంలోని 46,500 గొలుసుకట్టు చెరువుల పునరుద్ధరణ మరియు పూడికతీత",
+        "థర్మల్ విద్యుత్ కేంద్రాల నిర్మాణం",
+        "బిందు సేద్యం కిట్ల పంపిణీ",
+        "కరువు మండలాల్లో కొత్త బోర్ల తవ్వకం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mission Kakatiya aimed to restore minor irrigation chain tanks to revive traditional decentralized water harvesting.",
+      "explanation_te": "కాకతీయుల నాటి గొలుసుకట్టు చెరువుల పూడికతీత, మరమ్మతుల ద్వారా భూగర్భ జలాలను పెంచడానికి మిషన్ కాకతీయ చేపట్టారు."
+    },
+    {
+      "id": 153,
+      "qNumber": 153,
+      "section": "General Studies",
+      "topic": "Telangana Economy - Industrial Infrastructure",
+      "question_en": "'T-Works' set up by the Telangana Government in Hyderabad is celebrated as:",
+      "question_te": "హైదరాబాద్‌లో తెలంగాణ ప్రభుత్వం ఏర్పాటు చేసిన 'టి-వర్క్స్' (T-Works) దేనికి ప్రసిద్ధి చెందింది?",
+      "options_en": [
+        "India's largest prototyping center for hardware and electronics innovation",
+        "Software coding academy for rural youth",
+        "State commercial tax grievance tribunal",
+        "Apparel export processing zone"
+      ],
+      "options_te": [
+        "హార్డ్‌వేర్ మరియు ఎలక్ట్రానిక్స్ ఆవిష్కరణల కోసం భారతదేశంలోనే అతిపెద్ద ప్రోటోటైపింగ్ కేంద్రం",
+        "గ్రామీణ యువతకు సాఫ్ట్‌వేర్ శిక్షణా కేంద్రం",
+        "వాణిజ్య పన్నుల పరిష్కార ట్రైబ్యునల్",
+        "వస్త్ర ఎగుమతి ప్రాసెసింగ్ జోన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "T-Works is an 78,000 sq.ft prototyping facility enabling innovators and hardware startups to build physical prototypes.",
+      "explanation_te": "హార్డ్‌వేర్ ఉత్పత్తులు, ఎలక్ట్రానిక్స్ రంగంలో నూతన ఆవిష్కరణలను ప్రోత్సహించడానికి టి-వర్క్స్ ను ప్రోటోటైపింగ్ కేంద్రంగా తీర్చిదిద్దారు."
+    },
+    {
+      "id": 154,
+      "qNumber": 154,
+      "section": "General Studies",
+      "topic": "Telangana Economy - Social Welfare Guarantees",
+      "question_en": "Under the 'Cheyutha' pension guarantee in Telangana, what is the enhanced monthly financial assistance intended for eligible elderly and disabled persons?",
+      "question_te": "తెలంగాణలో 'చేయూత' సంక్షేమ హామీ క్రింద అర్హులైన వృద్ధులు, వితంతువులకు అందించేందుకు ఉద్దేశించిన నెలవారీ పెన్షన్ మొత్తం ఎంత?",
+      "options_en": [
+        "₹2,016 per month",
+        "₹3,016 per month",
+        "₹4,000 per month",
+        "₹5,000 per month"
+      ],
+      "options_te": [
+        "నెలకు ₹2,016",
+        "నెలకు ₹3,016",
+        "నెలకు ₹4,000 (₹4,000 per month)",
+        "నెలకు ₹5,000"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Under the Six Guarantees, the Cheyutha scheme aims to provide ₹4,000 monthly social security pension to beneficiaries.",
+      "explanation_te": "ఆరు గ్యారెంటీలలోని చేయూత పథకం క్రింద ఆసరా లబ్ధిదారులకు నెలకు ₹4,000 పెన్షన్ అందించే ప్రతిపాదన ఉంది."
+    },
+    {
+      "id": 155,
+      "qNumber": 155,
+      "section": "General Studies",
+      "topic": "Indian Economy - Taxation & Fiscal Policy",
+      "question_en": "Which of the following is categorized as a 'Direct Tax' levied by the Central Government in India?",
+      "question_te": "భారతదేశంలో కేంద్ర ప్రభుత్వం విధించే పన్నులలో 'ప్రత్యక్ష పన్ను' (Direct Tax) క్రింది వాటిలో ఏది?",
+      "options_en": [
+        "Goods and Services Tax (GST)",
+        "Customs Duty",
+        "Corporation Tax (Corporate Income Tax)",
+        "Central Excise Duty on Petroleum"
+      ],
+      "options_te": [
+        "వస్తు సేవల పన్ను (GST)",
+        "కస్టమ్స్ డ్యూటీ",
+        "కార్పొరేషన్ పన్ను (కంపెనీల ఆదాయపు పన్ను)",
+        "కేంద్ర ఎక్సైజ్ డ్యూటీ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Corporation Tax and Personal Income Tax are direct taxes whose liability cannot be shifted to another person.",
+      "explanation_te": "కార్పొరేషన్ పన్ను మరియు వ్యక్తిగత ఆదాయపు పన్నులు ప్రత్యక్ష పన్నులు, వీటి భారాన్ని ఇతరులపైకి బదిలీ చేయలేము."
+    },
+    {
+      "id": 156,
+      "qNumber": 156,
+      "section": "General Studies",
+      "topic": "Telangana Economy - IT & Service Exports",
+      "question_en": "Telangana contributes approximately what proportion of India's total Information Technology (IT) service exports?",
+      "question_te": "భారతదేశ మొత్తం ఐటీ (IT) సేవల ఎగుమతులలో తెలంగాణ రాష్ట్రం సుమారు ఎంత శాతం వాటాను కలిగి ఉంది?",
+      "options_en": [
+        "Around 5%",
+        "Around 10%",
+        "Around one-third (approx. 33%)",
+        "Over 60%"
+      ],
+      "options_te": [
+        "సుమారు 5%",
+        "సుమారు 10%",
+        "సుమారు మూడో వంతు (సుమారు 33%)",
+        "60% కి పైగా"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Telangana's IT exports exceeded ₹2.41 lakh crore, accounting for nearly one-third of the net national IT employment and export additions.",
+      "explanation_te": "దేశీయ ఐటీ రంగంలో నికర ఉద్యోగ కల్పన మరియు ఎగుమతులలో తెలంగాణ సుమారు మూడో వంతు వాటాను అందిస్తోంది."
+    },
+    {
+      "id": 157,
+      "qNumber": 157,
+      "section": "General Studies",
+      "topic": "Indian Economy - Money Supply Aggregates",
+      "question_en": "In the Reserve Bank of India's monetary statistics, which measure is officially designated as 'Broad Money'?",
+      "question_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ద్రవ్య కొలమానాలలో 'విశాల ద్రవ్యం' (Broad Money) గా దేనిని వ్యవహరిస్తారు?",
+      "options_en": [
+        "M1",
+        "M2",
+        "M3",
+        "M4"
+      ],
+      "options_te": [
+        "M1",
+        "M2",
+        "M3 (M3 Aggregate)",
+        "M4"
+      ],
+      "correct_option": 2,
+      "explanation_en": "M3 = Currency with public + Demand deposits + Time deposits with banks, representing Broad Money.",
+      "explanation_te": "కరెన్సీ + డిమాండ్ డిపాజిట్లు + కాలపరిమితి (ఫిక్స్‌డ్) డిపాజిట్లతో కూడిన M3 ని విశాల ద్రవ్యం అంటారు."
+    },
+    {
+      "id": 158,
+      "qNumber": 158,
+      "section": "General Studies",
+      "topic": "Indian Economy - Economic Planning & NITI Aayog",
+      "question_en": "Who serves as the ex-officio Chairperson of the Governing Council of NITI Aayog?",
+      "question_te": "నీతి ఆయోగ్ గవర్నింగ్ కౌన్సిల్‌కు ఎక్స్-అఫీషియో ఛైర్‌పర్సన్‌గా వ్యవహరించేది ఎవరు?",
+      "options_en": [
+        "President of India",
+        "Prime Minister of India",
+        "Union Finance Minister",
+        "Vice Chairman of NITI Aayog"
+      ],
+      "options_te": [
+        "భారత రాష్ట్రపతి",
+        "భారత ప్రధానమంత్రి (Prime Minister)",
+        "కేంద్ర ఆర్థిక మంత్రి",
+        "నీతి ఆయోగ్ ఉపాధ్యక్షుడు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Prime Minister of India is the Chairperson of NITI Aayog and heads its Governing Council comprising all Chief Ministers and Lt. Governors.",
+      "explanation_te": "నీతి ఆయోగ్ కు ప్రధానమంత్రి ఛైర్మన్‌గా వ్యవహరిస్తారు."
+    },
+    {
+      "id": 159,
+      "qNumber": 159,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Which State Police Has Been Awarded With The President’s Police Colour Award 2026? President’s Police Colour (Nishaan)",
@@ -3485,468 +3659,8 @@
       "explanation_te": "సరైన సమాధానం: సికత్ం. (is the highest ceremonial honor — granted to police forces)"
     },
     {
-      "id": 151,
-      "qNumber": 151,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "The ancient dockyard discovered at which Indus Valley Civilization site proves maritime trade with Mesopotamia?",
-      "question_te": "మెసపటోమియాతో సముద్ర వాణిజ్యాన్ని రుజువు చేసే సింధు నాగరికతకు చెందిన ప్రాచీన ఓడరేవు (Dockyard) ఏ ప్రదేశంలో కనుగొనబడింది?",
-      "options_en": [
-        "Lothal",
-        "Kalibangan",
-        "Mohenjo-daro",
-        "Harappa"
-      ],
-      "options_te": [
-        "లోథాల్ (Lothal)",
-        "కాలిబంగన్",
-        "మొహెంజొదారో",
-        "హరప్పా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Lothal in Gujarat was a major port city of the Harappan civilization with a massive tidal dockyard.",
-      "explanation_te": "గుజరాత్‌లోని లోథాల్‌లో ప్రపంచంలోనే అత్యంత పురాతన టైడల్ డాక్‌యార్డ్ కనుగొనబడింది."
-    },
-    {
-      "id": 152,
-      "qNumber": 152,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Who was the court poet of King Harshavardhana who authored the famous biography 'Harshacharita' and Sanskrit play 'Kadambari'?",
-      "question_te": "హర్షవర్ధనుని ఆస్థాన కవి మరియు 'హర్షచరిత', 'కాదంబరి' గ్రంథాల రచయిత ఎవరు?",
-      "options_en": [
-        "Banabhatta",
-        "Kalidasa",
-        "Dandin",
-        "Bhavabhuti"
-      ],
-      "options_te": [
-        "బాణభట్టు (Banabhatta)",
-        "కాళిదాసు",
-        "దండి",
-        "భవభూతి"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Banabhatta was Harsha's Asthana Kavi who chronicled Harsha's life in Harshacharita.",
-      "explanation_te": "బాణభట్టు హర్షవర్ధనుని జీవిత చరిత్ర అయిన హర్షచరితను సంస్కృతంలో రచించాడు."
-    },
-    {
-      "id": 153,
-      "qNumber": 153,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Under the reign of Mughal Emperor Akbar, who formulated and executed the famous land revenue settlement system called 'Zabt' or 'Bandobast'?",
-      "question_te": "మొఘల్ చక్రవర్తి అక్బర్ పాలనలో 'జబ్తీ' లేదా 'బందోబస్త్' భూమి శిస్తు విధానాన్ని రూపొందించిన ప్రసిద్ధ రెవెన్యూ మంత్రి ఎవరు?",
-      "options_en": [
-        "Raja Todar Mal",
-        "Raja Man Singh",
-        "Birbal",
-        "Abul Fazl"
-      ],
-      "options_te": [
-        "రాజా తోడర్‌మల్ (Todar Mal)",
-        "రాజా మాన్‌సింగ్",
-        "బీర్బల్",
-        "అబుల్ ఫజల్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Raja Todar Mal was Akbar's finance minister who instituted Dahsala/Zabt system based on average crop yields.",
-      "explanation_te": "రాజా తోడర్‌మల్ అక్బర్ ఆస్థానంలో ప్రసిద్ధ రెవెన్యూ విధానాన్ని అమలు చేశాడు."
-    },
-    {
-      "id": 154,
-      "qNumber": 154,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "In which year was the historic Battle of Plassey fought that laid the foundation of British East India Company's rule in Bengal?",
-      "question_te": "బెంగాల్‌లో ఈస్ట్ ఇండియా కంపెనీ పాలనకు పునాది వేసిన చారిత్రాత్మక ప్లాసీ యుద్ధం ఏ సంవత్సరంలో జరిగింది?",
-      "options_en": [
-        "1757",
-        "1764",
-        "1761",
-        "1773"
-      ],
-      "options_te": [
-        "1757",
-        "1764",
-        "1761",
-        "1773"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The Battle of Plassey was fought on 23 June 1757 between Robert Clive and Nawab Siraj-ud-Daulah.",
-      "explanation_te": "1757 జూన్ 23న సిరాజుద్దౌలా మరియు రాబర్ట్ క్లైవ్ మధ్య ప్లాసీ యుద్ధం జరిగింది."
-    },
-    {
-      "id": 155,
-      "qNumber": 155,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "In which year and at which venue was the first session of the Indian National Congress (INC) held under the presidency of W.C. Bonnerjee?",
-      "question_te": "డబ్ల్యూ.సి. బెనర్జీ అధ్యక్షతన భారత జాతీయ కాంగ్రెస్ (INC) మొదటి సమావేశం ఏ సంవత్సరంలో మరియు ఎక్కడ జరిగింది?",
-      "options_en": [
-        "1885, Bombay (Gokuldas Tejpal Sanskrit College)",
-        "1886, Calcutta",
-        "1887, Madras",
-        "1888, Allahabad"
-      ],
-      "options_te": [
-        "1885, బొంబాయి (గోకుల్‌దాస్ తేజ్‌పాల్ కాలేజీ)",
-        "1886, కలకత్తా",
-        "1887, మద్రాస్",
-        "1888, అలహాబాద్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The INC was founded by A.O. Hume in December 1885, holding its first session in Bombay attended by 72 delegates.",
-      "explanation_te": "1885 డిసెంబర్‌లో బొంబాయిలో 72 మంది ప్రతినిధులతో కాంగ్రెస్ మొదటి సమావేశం జరిగింది."
-    },
-    {
-      "id": 156,
-      "qNumber": 156,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Which Mauryan Emperor renounced warfare and embraced Buddhism following the catastrophic devastation of the Kalinga War in 261 BCE?",
-      "question_te": "క్రీ.పూ. 261 లో జరిగిన కళింగ యుద్ధం రక్తపాతం చూసి చలించి బౌద్ధమతాన్ని స్వీకరించి యుద్ధాన్ని విడనాడిన మౌర్య చక్రవర్తి ఎవరు?",
-      "options_en": [
-        "Ashoka the Great",
-        "Chandragupta Maurya",
-        "Bindusara",
-        "Brihadratha"
-      ],
-      "options_te": [
-        "అశోకుడు (Ashoka)",
-        "చంద్రగుప్త మౌర్యుడు",
-        "బిందుసారుడు",
-        "బృహద్రథుడు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Emperor Ashoka embraced Dhamma Vijaya (victory through righteousness) and patronized Buddhism after Kalinga War.",
-      "explanation_te": "కళింగ యుద్ధం అనంతరం అశోకుడు యుద్ధనీతిని వీడి ధర్మవిజయాన్ని స్వీకరించాడు."
-    },
-    {
-      "id": 157,
-      "qNumber": 157,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Which Gupta monarch was conferred the title 'Kaviraja' and referred to by historian V.A. Smith as the 'Napoleon of India' for his extensive military conquests?",
-      "question_te": "తన సైనిక విజయాల వలన చరిత్రకారుడు వి.ఎ. స్మిత్ చేత 'భారత నెపోలియన్' గా అభివర్ణించబడిన గుప్త చక్రవర్తి ఎవరు?",
-      "options_en": [
-        "Samudragupta",
-        "Chandragupta I",
-        "Chandragupta II (Vikramaditya)",
-        "Skandagupta"
-      ],
-      "options_te": [
-        "సముద్రగుప్తుడు (Samudragupta)",
-        "మొదటి చంద్రగుప్తుడు",
-        "రెండవ చంద్రగుప్తుడు",
-        "స్కందగుప్తుడు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Samudragupta's military campaigns were inscribed by Harishena on the Allahabad Pillar Inscription (Prayag Prashasti).",
-      "explanation_te": "అలహాబాద్ ప్రశస్తిలో హరిసేనుడు సముద్రగుప్తుని విజయాలను వర్ణించాడు; ఇతనిని భారత నెపోలియన్ అంటారు."
-    },
-    {
-      "id": 158,
-      "qNumber": 158,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Which Sultan of Delhi introduced revolutionary market control regulations and price monitoring systems for grains, horses, and cloth?",
-      "question_te": "ధాన్యాలు, బట్టలు మరియు గుర్రాల ధరలను నియంత్రించడానికి మార్కెట్ సంస్కరణలను అమలు చేసిన ఢిల్లీ సుల్తాన్ ఎవరు?",
-      "options_en": [
-        "Alauddin Khilji",
-        "Balban",
-        "Muhammad bin Tughlaq",
-        "Feroz Shah Tughlaq"
-      ],
-      "options_te": [
-        "అల్లావుద్దీన్ ఖిల్జీ",
-        "బాల్బన్",
-        "మహమ్మద్ బిన్ తుగ్లక్",
-        "ఫిరోజ్ షా తుగ్లక్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Alauddin Khilji established Shahna-i-Mandi and controlled prices to maintain a large standing army.",
-      "explanation_te": "విశాల సైన్యాన్ని పోషించడానికి అల్లావుద్దీన్ ఖిల్జీ కఠినమైన మార్కెట్ ధరల నియంత్రణను అమలు చేశాడు."
-    },
-    {
-      "id": 159,
-      "qNumber": 159,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "During whose golden reign did the Vijayanagara Empire reach its zenith in literature, art, and territorial expanse, authoring the Telugu classic 'Amuktamalyada'?",
-      "question_te": "'ఆముక్తమాల్యద' గ్రంథాన్ని రచించి, విజయనగర సామ్రాజ్యాన్ని సర్వతోముఖాభివృద్ధి చేసిన మహనీయుడు ఎవరు?",
-      "options_en": [
-        "Sri Krishnadevaraya",
-        "Harihara I",
-        "Bukka I",
-        "Devaraya II"
-      ],
-      "options_te": [
-        "శ్రీకృష్ణదేవరాయలు",
-        "మొదటి హరిహరరాయలు",
-        "మొదటి బుక్కరాయలు",
-        "రెండవ దేవరాయలు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Sri Krishnadevaraya (Tuluva dynasty) patronized the Ashtadiggajas and wrote Amuktamalyada in Telugu.",
-      "explanation_te": "శ్రీకృష్ణదేవరాయల పాలనలో అష్టదిగ్గజ కవులు వర్ధిల్లారు మరియు ఆయన స్వయంగా ఆముక్తమాల్యదను రచించారు."
-    },
-    {
       "id": 160,
       "qNumber": 160,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Who led the anti-British insurrection of the 1857 Revolt in Bihar (Jagdishpur) demonstrating heroic military leadership despite advancing age?",
-      "question_te": "1857 సిపాయిల తిరుగుబాటులో బీహార్ (జగదీష్‌పూర్) లో బ్రిటిష్ వారికి వ్యతిరేకంగా వీరోచితంగా పోరాడిన వృద్ధ నాయకుడు ఎవరు?",
-      "options_en": [
-        "Kunwar Singh",
-        "Nana Saheb",
-        "Tatya Tope",
-        "Bakht Khan"
-      ],
-      "options_te": [
-        "వీర్ కున్వర్ సింగ్ (Kunwar Singh)",
-        "నానా సాహెబ్",
-        "తాంతియా తోపే",
-        "భక్త్ ఖాన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "80-year-old Veer Kunwar Singh led the armed resistance against the British in Jagdishpur, Bihar.",
-      "explanation_te": "బీహార్‌లో 80 ఏళ్ల వయస్సులో కున్వర్ సింగ్ బ్రిటిష్ సేనలపై ధైర్యసాహసాలతో పోరాడారు."
-    },
-    {
-      "id": 161,
-      "qNumber": 161,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "The Partition of Bengal announced by Viceroy Lord Curzon in 1905 sparked which nationwide mass movement advocating Swadeshi and boycott?",
-      "question_te": "1905లో లార్డ్ కర్జన్ బెంగాల్ విభజన ప్రకటించినప్పుడు దానికి వ్యతిరేకంగా ప్రారంభమైన దేశవ్యాప్త ఉద్యమం ఏది?",
-      "options_en": [
-        "Swadeshi Movement (Vandemataram Movement)",
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Quit India Movement"
-      ],
-      "options_te": [
-        "స్వదేశీ ఉద్యమం (వందేమాతరం ఉద్యమం)",
-        "సహాయ నిరాకరణ ఉద్యమం",
-        "శాసనోల్లంఘన ఉద్యమం",
-        "క్విట్ ఇండియా ఉద్యమం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The anti-partition agitation developed into the historic Swadeshi and Boycott Movement in 1905.",
-      "explanation_te": "బెంగాల్ విభజనకు వ్యతిరేకంగా 1905 లో స్వదేశీ (వందేమాతరం) ఉద్యమం వెల్లువెత్తింది."
-    },
-    {
-      "id": 162,
-      "qNumber": 162,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Following which tragic violent incident in February 1922 did Mahatma Gandhi unilaterally suspend the nationwide Non-Cooperation Movement?",
-      "question_te": "1922 ఫిబ్రవరిలో జరిగిన ఏ హింసాత్మక ఘటన కారణంగా మహాత్మా గాంధీ సహాయ నిరాకరణ ఉద్యమాన్ని అర్ధాంతరంగా నిలిపివేశారు?",
-      "options_en": [
-        "Chauri Chaura Incident",
-        "Jallianwala Bagh Massacre",
-        "Kakori Train Action",
-        "Rowlatt Satyagraha"
-      ],
-      "options_te": [
-        "చౌరీ చౌరా ఘటన (Chauri Chaura)",
-        "జలియన్ వాలాబాగ్ దురంతం",
-        "కాకోరి కుట్ర కేసు",
-        "రౌలట్ సత్యాగ్రహం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "On 4 February 1922, a mob set fire to a police station at Chauri Chaura (UP), killing 22 policemen. Distressed by the violence, Gandhi called off the movement.",
-      "explanation_te": "చౌరీ చౌరాలో పోలీస్ స్టేషన్‌ను తగులబెట్టి 22 మంది పోలీసులను సజీవ దహనం చేయడంతో గాంధీజీ ఉద్యమాన్ని నిలిపివేశారు."
-    },
-    {
-      "id": 163,
-      "qNumber": 163,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Mahatma Gandhi launched the Civil Disobedience Movement with the historic Salt March from Sabarmati Ashram to Dandi. On which date did he reach Dandi and break the salt law?",
-      "question_te": "గాంధీజీ సబర్మతి ఆశ్రమం నుండి దండి వరకు ఉప్పు సత్యాగ్రహం చేపట్టి, ఏ తేదీన దండి చేరుకుని ఉప్పు చట్టాన్ని ఉల్లంఘించారు?",
-      "options_en": [
-        "6 April 1930",
-        "12 March 1930",
-        "26 January 1930",
-        "5 May 1930"
-      ],
-      "options_te": [
-        "6 ఏప్రిల్ 1930",
-        "12 మార్చి 1930",
-        "26 జనవరి 1930",
-        "5 మే 1930"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The Dandi March began on 12 March 1930 from Sabarmati and culminated on 6 April 1930 at Dandi beach where Gandhi made salt.",
-      "explanation_te": "1930 మార్చి 12న ప్రారంభమైన దండి యాత్ర ఏప్రిల్ 6న దండి తీరాన ఉప్పు తయారు చేయడంతో ముగిసింది."
-    },
-    {
-      "id": 164,
-      "qNumber": 164,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "The Cabinet Mission Plan of 1946 sent by the British government to negotiate transfer of power consisted of which three British Cabinet Ministers?",
-      "question_te": "1946లో అధికార మార్పిడి కోసం భారతదేశానికి వచ్చిన క్యాబినెట్ మిషన్‌లో సభ్యులుగా ఉన్న ముగ్గురు బ్రిటిష్ మంత్రులు ఎవరు?",
-      "options_en": [
-        "Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander",
-        "Lord Mountbatten, Clement Attlee, Stafford Cripps",
-        "Lord Wavell, Winston Churchill, John Simon",
-        "Ramsay MacDonald, Lord Irwin, Samuel Hoare"
-      ],
-      "options_te": [
-        "లార్డ్ పెథిక్ లారెన్స్, స్టాఫోర్డ్ క్రిప్స్, ఎ.వి. అలెగ్జాండర్",
-        "మౌంట్ బాటన్, అట్లీ, క్రిప్స్",
-        "వావెల్, చర్చిల్, సైమన్",
-        "మెక్‌డొనాల్డ్, ఇర్విన్, హోరే"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The Cabinet Mission 1946 comprised Lord Pethick-Lawrence (Secretary of State), Sir Stafford Cripps, and A.V. Alexander.",
-      "explanation_te": "క్యాబినెట్ మిషన్ ముగ్గురు సభ్యులు: పెథిక్ లారెన్స్, స్టాఫోర్డ్ క్రిప్స్, ఎ.వి. అలెగ్జాండర్."
-    },
-    {
-      "id": 165,
-      "qNumber": 165,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Who founded the 'Brahmo Samaj' in Calcutta in 1828 and campaigned vigorously against the practice of Sati resulting in the Sati Abolition Act of 1829?",
-      "question_te": "1828లో కలకత్తాలో 'బ్రహ్మ సమాజం' స్థాపించి, సతీ సహగమన నిషేధ చట్టం (1829) రావడానికి తీవ్ర కృషి చేసిన సంఘ సంస్కర్త ఎవరు?",
-      "options_en": [
-        "Raja Ram Mohan Roy",
-        "Ishwar Chandra Vidyasagar",
-        "Swami Dayananda Saraswati",
-        "Keshab Chandra Sen"
-      ],
-      "options_te": [
-        "రాజా రామ్మోహన్ రాయ్",
-        "ఈశ్వర చంద్ర విద్యాసాగర్",
-        "స్వామి దయానంద సరస్వతి",
-        "కేశవ చంద్ర సేన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Raja Ram Mohan Roy, known as the Father of Modern Indian Renaissance, founded Brahmo Samaj and persuaded William Bentinck to abolish Sati.",
-      "explanation_te": "ఆధునిక భారత పునరుజ్జీవన పితామహుడు రాజా రామ్మోహన్ రాయ్ సతీ నిషేధానికి కృషి చేశారు."
-    },
-    {
-      "id": 166,
-      "qNumber": 166,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Which iconic anti-caste social reformer founded the 'Satyashodhak Samaj' in Maharashtra in 1873 and authored 'Gulamgiri'?",
-      "question_te": "1873లో మహారాష్ట్రలో 'సత్యశోధక్ సమాజ్' ను స్థాపించి, 'గులాంగిరి' గ్రంథాన్ని రచించిన ప్రముఖ సామాజిక విప్లవకారుడు ఎవరు?",
-      "options_en": [
-        "Mahatma Jyotirao Phule",
-        "Dr. B.R. Ambedkar",
-        "Gopal Ganesh Agarkar",
-        "Mahadev Govind Ranade"
-      ],
-      "options_te": [
-        "మహాత్మా జ్యోతిరావు ఫూలే",
-        "డా. బి.ఆర్. అంబేద్కర్",
-        "గోపాల్ గణేష్ అగార్కర్",
-        "ఎం.జి. రనడే"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Jyotirao Phule championed education for women and lower castes, founding Satyashodhak Samaj and authoring Gulamgiri (Slavery).",
-      "explanation_te": "జ్యోతిరావు ఫూలే అణగారిన వర్గాల విద్యాభివృద్ధికి సత్యశోధక్ సమాజ్ స్థాపించి గులాంగిరి రచించారు."
-    },
-    {
-      "id": 167,
-      "qNumber": 167,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Where did Netaji Subhas Chandra Bose formally establish the Provisional Government of Free India ('Azad Hind') on 21 October 1943?",
-      "question_te": "నేతాజీ సుభాష్ చంద్రబోస్ 1943 అక్టోబర్ 21న 'ఆజాద్ హింద్' స్వతంత్ర భారత తాత్కాలిక ప్రభుత్వాన్ని ఎక్కడ స్థాపించారు?",
-      "options_en": [
-        "Singapore",
-        "Tokyo",
-        "Rangoon",
-        "Berlin"
-      ],
-      "options_te": [
-        "సింగపూర్ (Singapore)",
-        "టోక్యో",
-        "రంగూన్",
-        "బెర్లిన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Netaji declared the Provisional Government of Free India (Arzi Hukumat-e-Azad Hind) at Cathay Cinema Hall in Singapore.",
-      "explanation_te": "సింగపూర్‌లో నేతాజీ ఆజాద్ హింద్ తాత్కాలిక ప్రభుత్వాన్ని లాంఛనంగా ప్రకటించారు."
-    },
-    {
-      "id": 168,
-      "qNumber": 168,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "The historic Red Fort Trials (1945-46) of Indian National Army (INA) officers were conducted against which three prominent leaders?",
-      "question_te": "1945-46 లో ఎర్రకోటలో విచారణ జరిపిన ఆజాద్ హింద్ ఫౌజ్ (INA) ప్రముఖ అధికారులు ఎవరు?",
-      "options_en": [
-        "Prem Sahgal, Gurbaksh Singh Dhillon, Shah Nawaz Khan",
-        "Mohan Singh, Rash Behari Bose, Subhas Bose",
-        "Bhagat Singh, Sukhdev, Rajguru",
-        "Surya Sen, Pritilata Waddedar, Kalpana Datta"
-      ],
-      "options_te": [
-        "ప్రేమ్ సెహగల్, గురుబక్ష సింగ్ ధిల్లాన్, షానవాజ్ ఖాన్",
-        "మోహన్ సింగ్, రాష్ బిహారీ బోస్, సుభాష్ బోస్",
-        "భగత్ సింగ్, సుఖ్‌దేవ్, రాజ్‌గురు",
-        "సూర్య సేన్, ప్రీతీలత, కల్పన దత్తా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The joint trial of Prem Sahgal (Hindu), Gurbaksh Singh Dhillon (Sikh), and Shah Nawaz Khan (Muslim) united Indians across religious lines.",
-      "explanation_te": "ప్రేమ్ సెహగల్, గురుబక్ష్ సింగ్ ధిల్లాన్, షానవాజ్ ఖాన్‌లపై ఎర్రకోట విచారణ దేశవ్యాప్త సమైక్యతను రగిల్చింది."
-    },
-    {
-      "id": 169,
-      "qNumber": 169,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Under the Gandhi-Irwin Pact signed in March 1931, the Congress agreed to suspend the Civil Disobedience Movement and participate in which conference?",
-      "question_te": "1931 మార్చిలో కుదిరిన గాంధీ-ఇర్విన్ ఒప్పందం ప్రకారం కాంగ్రెస్ పార్టీ ఏ సమావేశంలో పాల్గొనడానికి అంగీకరించింది?",
-      "options_en": [
-        "Second Round Table Conference in London",
-        "First Round Table Conference",
-        "Third Round Table Conference",
-        "Simla Conference"
-      ],
-      "options_te": [
-        "రెండవ రౌండ్ టేబుల్ సమావేశం (లండన్)",
-        "మొదటి రౌండ్ టేబుల్ సమావేశం",
-        "మూడవ రౌండ్ టేబుల్ సమావేశం",
-        "సిమ్లా కాన్ఫరెన్స్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Pursuant to the Gandhi-Irwin Pact, the Civil Disobedience Movement was discontinued and Gandhi attended the 2nd Round Table Conference in London.",
-      "explanation_te": "ఈ ఒప్పందం ప్రకారం గాంధీజీ లండన్‌లో జరిగిన 2వ రౌండ్ టేబుల్ సమావేశానికి హాజరయ్యారు."
-    },
-    {
-      "id": 170,
-      "qNumber": 170,
-      "section": "General Studies",
-      "topic": "Indian History & National Movement",
-      "question_en": "Which landmark battle in 1764 resulted in the Treaty of Allahabad (1765) granting Diwani rights of Bengal, Bihar, and Orissa to the British East India Company?",
-      "question_te": "1764లో జరిగిన ఏ చారిత్రక యుద్ధం అనంతరం అలహాబాద్ సంధి (1765) ద్వారా బ్రిటిష్ వారికి బెంగాల్, బీహార్, ఒరిస్సాలలో దివానీ హక్కులు లభించాయి?",
-      "options_en": [
-        "Battle of Buxar",
-        "Battle of Wandiwash",
-        "Third Battle of Panipat",
-        "Battle of Karnal"
-      ],
-      "options_te": [
-        "బక్సార్ యుద్ధం (Battle of Buxar)",
-        "వాండివాష్ యుద్ధం",
-        "మూడవ పానిపట్ యుద్ధం",
-        "కర్నాల్ యుద్ధం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The Battle of Buxar (22 Oct 1764) saw Hector Munro defeat the combined armies of Mir Qasim, Shuja-ud-Daulah, and Shah Alam II.",
-      "explanation_te": "బక్సార్ యుద్ధంలో మీర్ ఖాసిం సంయుక్త సేనలను బ్రిటిష్ సైన్యం ఓడించి దివానీ హక్కులు సాధించింది."
-    },
-    {
-      "id": 171,
-      "qNumber": 171,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Which Article of the Indian Constitution empowers the President to promulgate Ordinances during the recess of Parliament?",
@@ -3968,8 +3682,8 @@
       "explanation_te": "ఆర్టికల్ 123 రాష్ట్రపతికి అత్యవసర ఆర్డినెన్స్ జారీ చేసే అధికారాన్ని ఇస్తుంది. గవర్నర్‌కు ఆర్టికల్ 213 కింద ఉంటుంది."
     },
     {
-      "id": 172,
-      "qNumber": 172,
+      "id": 161,
+      "qNumber": 161,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "In which landmark verdict did the Supreme Court propound the 'Basic Structure Doctrine' limiting the amending power of Parliament under Article 368?",
@@ -3991,8 +3705,8 @@
       "explanation_te": "1973 కేశవానంద భారతి తీర్పు ద్వారా సుప్రీంకోర్టు రాజ్యాంగ మౌలిక స్వరూపాన్ని సవరించే అధికారం పార్లమెంటుకు లేదని స్పష్టం చేసింది."
     },
     {
-      "id": 173,
-      "qNumber": 173,
+      "id": 162,
+      "qNumber": 162,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "The Directive Principles of State Policy (DPSP) contained in Part IV of the Indian Constitution were borrowed from the Constitution of which nation?",
@@ -4014,8 +3728,8 @@
       "explanation_te": "ఆదేశిక సూత్రాలను ఐర్లాండ్ రాజ్యాంగం నుండి స్వీకరించారు."
     },
     {
-      "id": 174,
-      "qNumber": 174,
+      "id": 163,
+      "qNumber": 163,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Which three words were added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act of 1976?",
@@ -4037,8 +3751,8 @@
       "explanation_te": "పీఠికను కేవలం ఒకేసారి 1976లో 42వ సవరణ ద్వారా సవరించి సామ్యవాద, లౌకిక, సమగ్రత అనే పదాలను చేర్చారు."
     },
     {
-      "id": 175,
-      "qNumber": 175,
+      "id": 164,
+      "qNumber": 164,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Which Fundamental Right guaranteed under Article 21 was expanded in the landmark Maneka Gandhi case (1978) to incorporate the principle of 'Due Process of Law'?",
@@ -4060,8 +3774,8 @@
       "explanation_te": "ఆర్టికల్ 21 జీవించే హక్కును రక్షిస్తుంది; చట్టం న్యాయబద్ధంగా, సహేతుకంగా ఉండాలని మేనకా గాంధీ కేసు తీర్పు ఇచ్చింది."
     },
     {
-      "id": 176,
-      "qNumber": 176,
+      "id": 165,
+      "qNumber": 165,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Which writ literally translates to 'We Command' and is issued by the Supreme Court or High Courts to compel a public official to perform their statutory duty?",
@@ -4083,8 +3797,8 @@
       "explanation_te": "మాండమస్ అనగా 'మేము ఆజ్ఞాపిస్తున్నాము'. ప్రభుత్వ అధికారి తన కర్తవ్యాన్ని నిర్వహించనప్పుడు ఈ రిట్ జారీ చేస్తారు."
     },
     {
-      "id": 177,
-      "qNumber": 177,
+      "id": 166,
+      "qNumber": 166,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Under Article 110 of the Indian Constitution, whose decision is final and binding on whether a legislative bill is a Money Bill or not?",
@@ -4106,8 +3820,8 @@
       "explanation_te": "ఒక బిల్లు ద్రవ్య బిల్లూ కాదా అని నిర్ణయించే అంతిమ అధికారం లోక్‌సభ స్పీకర్‌కు మాత్రమే ఉంటుంది."
     },
     {
-      "id": 178,
-      "qNumber": 178,
+      "id": 167,
+      "qNumber": 167,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Under Article 108 of the Constitution, who presides over a Joint Sitting of both Houses of Parliament convened to resolve a legislative deadlock?",
@@ -4129,8 +3843,8 @@
       "explanation_te": "సంయుక్త సమావేశానికి లోక్‌సభ స్పీకర్ అధ్యక్షత వహిస్తారు; ఉపరాష్ట్రపతి ఎట్టి పరిస్థితుల్లోనూ అధ్యక్షత వహించరు."
     },
     {
-      "id": 179,
-      "qNumber": 179,
+      "id": 168,
+      "qNumber": 168,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "The Comptroller and Auditor General of India (CAG) is appointed by the President under which Article of the Constitution and submits audit reports to whom?",
@@ -4152,8 +3866,8 @@
       "explanation_te": "ఆర్టికల్ 148 ప్రకారం కాగ్ నియామకం జరుగుతుంది మరియు నివేదికలను ఆర్టికల్ 151 కింద రాష్ట్రపతికి సమర్పిస్తారు."
     },
     {
-      "id": 180,
-      "qNumber": 180,
+      "id": 169,
+      "qNumber": 169,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "The 73rd Constitutional Amendment Act, 1992 granted constitutional status to Panchayati Raj institutions by adding which Part and Schedule to the Constitution?",
@@ -4175,8 +3889,8 @@
       "explanation_te": "73వ సవరణ ద్వారా 9వ భాగం మరియు 29 విధులతో కూడిన 11వ షెడ్యూల్‌ను చేర్చారు."
     },
     {
-      "id": 181,
-      "qNumber": 181,
+      "id": 170,
+      "qNumber": 170,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Under Article 352, a Proclamation of National Emergency can be declared by the President on which three constitutional grounds?",
@@ -4198,8 +3912,8 @@
       "explanation_te": "44వ సవరణ ద్వారా 'అంతర్గత కల్లోలం' స్థానంలో 'సాయుధ తిరుగుబాటు' చేర్చబడింది. యుద్ధం, విదేశీ దురాక్రమణ లేదా సాయుధ తిరుగుబాటు ప్రాతిపదికన విధిస్తారు."
     },
     {
-      "id": 182,
-      "qNumber": 182,
+      "id": 171,
+      "qNumber": 171,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "The Anti-Defection Law was introduced by the 52nd Constitutional Amendment Act, 1985 by inserting which Schedule into the Indian Constitution?",
@@ -4221,8 +3935,8 @@
       "explanation_te": "52వ సవరణ చట్టం 1985 ద్వారా 10వ షెడ్యూల్‌లో పార్టీ ఫిరాయింపుల నిరోధక నిబంధనలను చేర్చారు."
     },
     {
-      "id": 183,
-      "qNumber": 183,
+      "id": 172,
+      "qNumber": 172,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Under which Article of the Constitution can the President establish an Inter-State Council to promote cooperative federalism and resolve disputes between States?",
@@ -4244,8 +3958,8 @@
       "explanation_te": "సర్కారియా కమిషన్ సిఫార్సుల మేరకు ఆర్టికల్ 263 కింద అంతర్-రాష్ట్ర మండలి ఏర్పాటు చేయబడింది."
     },
     {
-      "id": 184,
-      "qNumber": 184,
+      "id": 173,
+      "qNumber": 173,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Who is the highest law officer in the Government of India, holding office during the pleasure of the President under Article 76?",
@@ -4267,8 +3981,8 @@
       "explanation_te": "భారత అటార్నీ జనరల్ దేశ అత్యున్నత న్యాయాధికారి. ఇతనికి పార్లమెంట్ ఉభయ సభల సమావేశాలలో పాల్గొనే హక్కు ఉంటుంది."
     },
     {
-      "id": 185,
-      "qNumber": 185,
+      "id": 174,
+      "qNumber": 174,
       "section": "General Studies",
       "topic": "Indian Polity & Constitutional Governance",
       "question_en": "Under Article 280, the Finance Commission is constituted by the President every five years primarily for which purpose?",
@@ -4290,31 +4004,8 @@
       "explanation_te": "కేంద్రం మరియు రాష్ట్రాల మధ్య పన్నుల ఆదాయాన్ని పంపిణీ చేయడానికి ఆర్టికల్ 280 కింద ఆర్థిక సంఘం ఏర్పాటవుతుంది."
     },
     {
-      "id": 186,
-      "qNumber": 186,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "Who was the prime architect and engineer under the Asaf Jahi ruler Mir Osman Ali Khan who redesigned Hyderabad following the catastrophic 1908 Musi floods?",
-      "question_te": "1908 మూసీ నది వరదల అనంతరం హైదరాబాద్ నగరాన్ని ఆధునీకరించి ఉస్మాన్ సాగర్, హిమాయత్ సాగర్ రిజర్వాయర్లను డిజైన్ చేసిన ప్రఖ్యాత ఇంజనీర్ ఎవరు?",
-      "options_en": [
-        "Mokshagundam Visvesvaraya",
-        "Ali Nawaz Jung Bahadur",
-        "Nawab Khan Bahadur",
-        "Mir Alam"
-      ],
-      "options_te": [
-        "మోక్షగుండం విశ్వేశ్వరయ్య (Sir M. Visvesvaraya)",
-        "అలీ నవాజ్ జంగ్ బహదూర్",
-        "నవాబ్ ఖాన్ బహదూర్",
-        "మీర్ ఆలం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Sir M. Visvesvaraya served as Chief Consulting Engineer to Nizam VII, designing the modern drainage and twin flood protection reservoirs.",
-      "explanation_te": "మోక్షగుండం విశ్వేశ్వరయ్య హైదరాబాద్ వరద నివారణకు ప్రణాళికలు రచిస్తూ మూసీ, ఈసీ నదులపై జంట జలాశయాలను నిర్మించారు."
-    },
-    {
-      "id": 187,
-      "qNumber": 187,
+      "id": 175,
+      "qNumber": 175,
       "section": "General Studies",
       "topic": "Telangana History, Heritage, Culture & Statehood Movement",
       "question_en": "In which historic year did the 5-member Committee headed by former Supreme Court Justice B.N. Srikrishna submit its report examining the situation in Andhra Pradesh with reference to Telangana?",
@@ -4336,303 +4027,579 @@
       "explanation_te": "జస్టిస్ శ్రీకృష్ణ కమిటీ 2010 డిసెంబర్ 30న కేంద్ర ప్రభుత్వానికి 6 ప్రత్యామ్నాయాలతో కూడిన నివేదికను సమర్పించింది."
     },
     {
+      "id": 176,
+      "qNumber": 176,
+      "section": "General Studies",
+      "topic": "Indian History - Indus Valley Civilization",
+      "question_en": "At which Indus Valley site was an ancient tidal dockyard discovered, indicating active maritime trade with Mesopotamia?",
+      "question_te": "మెసపొటేమియాతో సముద్ర వాణిజ్యాన్ని సూచించే ప్రాచీన నౌకాశ్రయం (డాక్‌యార్డ్) ఏ సింధు నాగరికత నగరంలో బయల్పడింది?",
+      "options_en": [
+        "Kalibangan",
+        "Lothal (Gujarat)",
+        "Banawali",
+        "Rakhigarhi"
+      ],
+      "options_te": [
+        "కాలిబంగన్",
+        "లోథాల్ (Lothal - Gujarat)",
+        "బనవాలి",
+        "రాఖీగర్హి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Lothal situated on the Bhogava river in Gujarat had a massive brick tidal dockyard connected to the Arabian Sea.",
+      "explanation_te": "గుజరాత్‌లోని భోగావా నదీ తీరాన గల లోథాల్‌లో ప్రపంచంలోనే అత్యంత పురాతన టైడల్ డాక్‌యార్డ్ బయల్పడింది."
+    },
+    {
+      "id": 177,
+      "qNumber": 177,
+      "section": "General Studies",
+      "topic": "Indian History - Mauryan Empire",
+      "question_en": "Who was the Greek ambassador sent by Seleucus I Nicator to the royal court of Chandragupta Maurya at Pataliputra?",
+      "question_te": "పాటలీపుత్రంలోని చంద్రగుప్త మౌర్యుని ఆస్థానానికి సెల్యూకస్ నికేటర్ పంపిన గ్రీకు రాయబారి ఎవరు?",
+      "options_en": [
+        "Megasthenes",
+        "Deimachus",
+        "Dionysius",
+        "Fa-Hien"
+      ],
+      "options_te": [
+        "మెగస్తనీస్ (Megasthenes)",
+        "డైమాకస్",
+        "డయోనిసియస్",
+        "ఫాహియాన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Megasthenes lived at Pataliputra and authored 'Indica', providing a vivid account of Mauryan administration and society.",
+      "explanation_te": "మౌర్య సామ్రాజ్య పరిపాలనను వివరిస్తూ 'ఇండికా' గ్రంథాన్ని రచించిన గ్రీకు రాయబారి మెగస్తనీస్."
+    },
+    {
+      "id": 178,
+      "qNumber": 178,
+      "section": "General Studies",
+      "topic": "Indian History - Gupta Dynasty",
+      "question_en": "The renowned iron pillar which has resisted rusting for over 1600 years at Mehrauli, Delhi was erected during the reign of:",
+      "question_te": "ఢిల్లీలోని మెహ్రౌలీ వద్ద 1600 సంవత్సరాలుగా తుప్పు పట్టకుండా నిలిచిన ప్రసిద్ధ ఇనుప స్తంభం ఏ గుప్త రాజు కాలంలో నిర్మించబడింది?",
+      "options_en": [
+        "Samudragupta",
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I",
+        "Skandagupta"
+      ],
+      "options_te": [
+        "సముద్రగుప్తుడు",
+        "రెండవ చంద్రగుప్తుడు (Chandragupta II)",
+        "మొదటి కుమారగుప్తుడు",
+        "స్కందగుప్తుడు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Mehrauli iron pillar bears an inscription mentioning King 'Chandra', identified as Chandragupta II Vikramaditya.",
+      "explanation_te": "మెహ్రౌలీ ఇనుప స్తంభం రెండవ చంద్రగుప్తుని (విక్రమాదిత్యుని) ఘనతను చాటుతూ నిర్మించబడింది."
+    },
+    {
+      "id": 179,
+      "qNumber": 179,
+      "section": "General Studies",
+      "topic": "Indian History - Medieval Delhi Sultanate",
+      "question_en": "Who among the following was the first and only woman monarch to rule the Delhi Sultanate (1236–1240 AD)?",
+      "question_te": "ఢిల్లీ సుల్తానేట్‌ను పరిపాలించిన మొట్టమొదటి మరియు ఏకైక మహిళా పాలకురాలు ఎవరు?",
+      "options_en": [
+        "Nur Jahan",
+        "Razia Sultana",
+        "Chand Bibi",
+        "Mumtaz Mahal"
+      ],
+      "options_te": [
+        "నూర్జహాన్",
+        "రజియా సుల్తానా (Razia Sultana)",
+        "చాంద్ బీబీ",
+        "ముంతాజ్ మహల్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Razia Sultana, daughter of Iltutmish, ruled the Delhi Sultanate from 1236 to 1240 AD.",
+      "explanation_te": "ఇల్తుత్‌మిష్ కుమార్తె రజియా సుల్తానా ఢిల్లీ పీఠాన్ని అధిరోహించిన ఏకైక మహిళా సుల్తాన్."
+    },
+    {
+      "id": 180,
+      "qNumber": 180,
+      "section": "General Studies",
+      "topic": "Indian History - Vijayanagara Empire",
+      "question_en": "The greatest monarch of the Vijayanagara Empire, Sri Krishnadevaraya (1509–1529 AD), belonged to which dynasty?",
+      "question_te": "విజయనగర సామ్రాజ్య చక్రవర్తులలో అగ్రగణ్యుడైన శ్రీకృష్ణదేవరాయలు (1509–1529) ఏ రాజవంశానికి చెందినవారు?",
+      "options_en": [
+        "Sangama Dynasty",
+        "Saluva Dynasty",
+        "Tuluva Dynasty",
+        "Aravidu Dynasty"
+      ],
+      "options_te": [
+        "సంగమ వంశం",
+        "సాళువ వంశం",
+        "తుళువ వంశం (Tuluva Dynasty)",
+        "ఆరవీడు వంశం"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Sri Krishnadevaraya belonged to the Tuluva dynasty, which succeeded the Saluva dynasty.",
+      "explanation_te": "శ్రీకృష్ణదేవరాయలు విజయనగర సామ్రాజ్యాన్ని పాలించిన తుళువ వంశానికి చెందినవారు."
+    },
+    {
+      "id": 181,
+      "qNumber": 181,
+      "section": "General Studies",
+      "topic": "Indian History - 1857 Revolt",
+      "question_en": "Which British military commander recaptured Delhi from the rebel soldiers in September 1857?",
+      "question_te": "సెప్టెంబర్ 1857 లో తిరుగుబాటుదారుల నుండి ఢిల్లీని తిరిగి స్వాధీనం చేసుకున్న బ్రిటిష్ సైన్యాధికారి ఎవరు?",
+      "options_en": [
+        "John Nicholson",
+        "Colin Campbell",
+        "Hugh Rose",
+        "James Outram"
+      ],
+      "options_te": [
+        "జాన్ నికల్సన్ (John Nicholson)",
+        "కోలిన్ క్యాంప్‌బెల్",
+        "హ్యూగ్ రోజ్",
+        "జేమ్స్ ఔట్రామ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Brigadier-General John Nicholson led the storming of Delhi in September 1857, dying of wounds during the assault.",
+      "explanation_te": "1857 తిరుగుబాటు సమయంలో ఢిల్లీని తిరిగి స్వాధీనం చేసుకునే పోరులో జాన్ నికల్సన్ మరణించాడు."
+    },
+    {
+      "id": 182,
+      "qNumber": 182,
+      "section": "General Studies",
+      "topic": "Indian History - Socio-Religious Reform",
+      "question_en": "Who established the 'Satyashodhak Samaj' in Maharashtra in 1873 to eradicate untouchability and promote women's education?",
+      "question_te": "1873 లో మహారాష్ట్రలో అణగారిన వర్గాల విముక్తి మరియు మహిళా విద్య కోసం 'సత్యశోధక్ సమాజ్' ను స్థాపించిన సంస్కర్త ఎవరు?",
+      "options_en": [
+        "Jyotirao Govindrao Phule (Jyotiba Phule)",
+        "B.R. Ambedkar",
+        "Gopal Krishna Gokhale",
+        "Mahadev Govind Ranade"
+      ],
+      "options_te": [
+        "జ్యోతిరావ్ గోవిందరావ్ ఫూలే (Jyotiba Phule)",
+        "బి.ఆర్. అంబేద్కర్",
+        "గోపాలకృష్ణ గోఖలే",
+        "మహదేవ్ గోవింద్ రనడే"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mahatma Jyotiba Phule founded Satyashodhak Samaj in Pune in 1873 and authored 'Gulamgiri'.",
+      "explanation_te": "జ్యోతిబా ఫూలే 1873 లో పూణేలో సత్యశోధక్ సమాజాన్ని స్థాపించి బహుజనుల విద్య, హక్కుల కోసం పోరాడారు."
+    },
+    {
+      "id": 183,
+      "qNumber": 183,
+      "section": "General Studies",
+      "topic": "Indian History - Indian National Congress",
+      "question_en": "Who presided over the historic 1929 Lahore Session of the Indian National Congress where the resolution for 'Purna Swaraj' (Complete Independence) was adopted?",
+      "question_te": "1929 లో 'పూర్ణ స్వరాజ్' (సంపూర్ణ స్వాతంత్ర్యం) తీర్మానాన్ని ఆమోదించిన చారిత్రక లాహోర్ కాంగ్రెస్ సమావేశానికి ఎవరు అధ్యక్షత వహించారు?",
+      "options_en": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "options_te": [
+        "మహాత్మా గాంధీ",
+        "జవహర్‌లాల్ నెహ్రూ (Jawaharlal Nehru)",
+        "సుభాష్ చంద్రబోస్",
+        "సర్దార్ వల్లభభాయ్ పటేల్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Jawaharlal Nehru presided over the Lahore session in December 1929, unfurling the tricolor on the banks of River Ravi on 31 Dec 1929.",
+      "explanation_te": "1929 లాహోర్ సమావేశానికి జవహర్‌లాల్ నెహ్రూ అధ్యక్షత వహించి పూర్ణ స్వరాజ్ లక్ష్యాన్ని ప్రకటించారు."
+    },
+    {
+      "id": 184,
+      "qNumber": 184,
+      "section": "General Studies",
+      "topic": "Indian History - Swadeshi Movement",
+      "question_en": "The inspiring national patriotic song 'Vande Mataram' was originally composed by Bankim Chandra Chattopadhyay in which famous novel?",
+      "question_te": "భారత స్వాతంత్ర్య సమరంలో జాతిని జాగృతం చేసిన జాతీయ గేయం 'వందేమాతరం' బంకించంద్ర ఛటర్జీ ఏ నవలలో రాశారు?",
+      "options_en": [
+        "Durgeshnandini",
+        "Anandamath (ఆనందమఠం)",
+        "Kapalkundala",
+        "Devi Chaudhurani"
+      ],
+      "options_te": [
+        "దుర్గేశనందిని",
+        "ఆనందమఠం (Anandamath)",
+        "కపాలకుండల",
+        "దేవి చౌధురాణి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Vande Mataram was written in 1875 and included in Bankim Chandra's Bengali novel Anandamath published in 1882.",
+      "explanation_te": "బంకించంద్ర ఛటర్జీ 1882 లో ప్రచురించిన 'ఆనందమఠం' నవలలో వందేమాతరం గేయం అంతర్భాగంగా ఉంది."
+    },
+    {
+      "id": 185,
+      "qNumber": 185,
+      "section": "General Studies",
+      "topic": "Indian History - Revolutionary Movement",
+      "question_en": "Who founded the revolutionary association 'Abhinav Bharat Society' in 1904?",
+      "question_te": "1904 లో 'అభినవ్ భారత్ సొసైటీ' అనే రహస్య విప్లవ సంస్థను స్థాపించినది ఎవరు?",
+      "options_en": [
+        "Vinayak Damodar Savarkar (V.D. Savarkar)",
+        "Bhagat Singh",
+        "Barindra Kumar Ghosh",
+        "Rash Behari Bose"
+      ],
+      "options_te": [
+        "వినాయక్ దామోదర్ సావర్కర్ (V.D. Savarkar)",
+        "భగత్ సింగ్",
+        "బరీంద్ర కుమార్ ఘోష్",
+        "రాష్ బిహారీ బోస్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "V.D. Savarkar and his brother Ganesh Savarkar founded the Abhinav Bharat Society in Nashik in 1904.",
+      "explanation_te": "వీడీ సావర్కర్ 1904 లో నాసిక్‌లో అభినవ్ భారత్ విప్లవ సంస్థను స్థాపించారు."
+    },
+    {
+      "id": 186,
+      "qNumber": 186,
+      "section": "General Studies",
+      "topic": "Indian History - British Administration",
+      "question_en": "Which British Governor-General introduced the controversial 'Doctrine of Lapse' in India?",
+      "question_te": "భారతదేశంలో వివాదాస్పద 'రాజ్య సంక్రమణ సిద్ధాంతాన్ని' (Doctrine of Lapse) అమలు చేసిన బ్రిటిష్ గవర్నర్ జనరల్ ఎవరు?",
+      "options_en": [
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Cornwallis",
+        "Lord Hastings"
+      ],
+      "options_te": [
+        "లార్డ్ వెల్లెస్లీ",
+        "లార్డ్ డల్హౌసీ (Lord Dalhousie)",
+        "లార్డ్ కారన్‌వాలీస్",
+        "లార్డ్ హేస్టింగ్స్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Lord Dalhousie annexed Satara (1848), Sambalpur, Jhansi, and Nagpur under the Doctrine of Lapse.",
+      "explanation_te": "లార్డ్ డల్హౌసీ రాజ్య సంక్రమణ సిద్ధాంతం ద్వారా ఝాన్సీ, సతారా, నాగ్‌పూర్ మొదలైన స్వదేశీ సంస్థానాలను ఆక్రమించాడు."
+    },
+    {
+      "id": 187,
+      "qNumber": 187,
+      "section": "General Studies",
+      "topic": "Indian History - Round Table Conferences",
+      "question_en": "Mahatma Gandhi attended which of the three Round Table Conferences held in London as the sole representative of the Indian National Congress?",
+      "question_te": "లండన్‌లో జరిగిన మూడు రౌండ్ టేబుల్ సమావేశాలలో మహాత్మా గాంధీ కాంగ్రెస్ ఏకైక ప్రతినిధిగా ఏ సమావేశానికి హాజరయ్యారు?",
+      "options_en": [
+        "First Round Table Conference (1930)",
+        "Second Round Table Conference (1931)",
+        "Third Round Table Conference (1932)",
+        "All three conferences"
+      ],
+      "options_te": [
+        "మొదటి రౌండ్ టేబుల్ సమావేశం (1930)",
+        "రెండవ రౌండ్ టేబుల్ సమావేశం (1931)",
+        "మూడవ రౌండ్ టేబుల్ సమావేశం (1932)",
+        "మూడు సమావేశాలకూ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Under the Gandhi-Irwin Pact (1931), Gandhiji suspended Civil Disobedience and attended the Second Round Table Conference in London.",
+      "explanation_te": "గాంధీ-ఇర్విన్ ఒడంబడిక ప్రకారం 1931 లో లండన్‌లో జరిగిన రెండవ రౌండ్ టేబుల్ సమావేశానికి గాంధీజీ హాజరయ్యారు."
+    },
+    {
       "id": 188,
       "qNumber": 188,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "In October 1972, which apex judicial forum delivered a historic judgment declaring that the 1919 Hyderabad Mulki Rules were constitutionally valid and continued to be in force?",
-      "question_te": "1919 నాటి హైదరాబాద్ ముల్కీ నిబంధనలు రాజ్యాంగబద్ధమైనవని మరియు అవి అమలులోనే ఉంటాయని 1972 అక్టోబర్‌లో చారిత్రాత్మక తీర్పు ఇచ్చిన అత్యున్నత న్యాయస్థానం ఏది?",
+      "topic": "Indian History - INA",
+      "question_en": "Netaji Subhas Chandra Bose established the Provisional Government of Free India ('Azad Hind') in October 1943 in:",
+      "question_te": "అక్టోబర్ 1943 లో నేతాజీ సుభాష్ చంద్రబోస్ 'ఆజాద్ హింద్' స్వతంత్ర ప్రభుత్వాన్ని ఎక్కడ ఏర్పాటు చేశారు?",
       "options_en": [
-        "Supreme Court of India (5-Judge Constitution Bench)",
-        "Andhra Pradesh High Court Full Bench",
-        "Hyderabad High Court Division Bench",
-        "Privy Council"
+        "Tokyo (Japan)",
+        "Singapore",
+        "Rangoon (Burma)",
+        "Berlin (Germany)"
       ],
       "options_te": [
-        "భారత సుప్రీంకోర్టు (5 గురు న్యాయమూర్తుల ధర్మాసనం)",
-        "ఆంధ్రప్రదేశ్ హైకోర్టు ఫుల్ బెంచ్",
-        "హైదరాబాద్ హైకోర్టు",
-        "ప్రివీ కౌన్సిల్"
+        "టోక్యో",
+        "సింగపూర్ (Singapore)",
+        "రంగూన్",
+        "బెర్లిన్"
       ],
-      "correct_option": 0,
-      "explanation_en": "A 5-judge Constitution Bench of the Supreme Court headed by CJI S.M. Sikri held on 3 October 1972 that Mulki Rules continued to be valid under Article 35(b).",
-      "explanation_te": "1972 అక్టోబర్ 3న సుప్రీంకోర్టు ముల్కీ నిబంధనలు రాజ్యాంగబద్ధమైనవని తీర్పు ఇచ్చింది."
+      "correct_option": 1,
+      "explanation_en": "Netaji Subhas Chandra Bose proclaimed the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) in Singapore on 21 October 1943.",
+      "explanation_te": "21 అక్టోబర్ 1943న సింగపూర్‌లో నేతాజీ ఆజాద్ హింద్ తాత్కాలిక ప్రభుత్వాన్ని ప్రకటించారు."
     },
     {
       "id": 189,
       "qNumber": 189,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "On which date was the historic 'Gentlemen's Agreement' signed at Hyderabad House in New Delhi providing safeguards for the Telangana region in Andhra Pradesh?",
-      "question_te": "తెలంగాణ ప్రాంత హక్కుల రక్షణ కోసం న్యూఢిల్లీలోని హైదరాబాద్ హౌస్‌లో చారిత్రాత్మక 'పెద్దమనుషుల ఒప్పందం' ఏ తేదీన సంతకం చేయబడింది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Which renowned Prakrit poetic anthology of 700 verses depicting ancient Deccan rural life was composed by Satavahana King Hala?",
+      "question_te": "ప్రాచీన దక్కన్ గ్రామీణ జీవనాన్ని ప్రతిబింబించే 700 శృంగార పద్యాల ప్రాకృత సంకలనం 'గాథా సప్తశతి'ని ఏ శాతవాహన రాజు రచించాడు?",
       "options_en": [
-        "20 February 1956",
-        "1 November 1956",
-        "29 December 1953",
-        "10 May 1956"
+        "Brihatkatha",
+        "Gatha Saptasati (గాథా సప్తశతి)",
+        "Lilavati",
+        "Kavyamimamsa"
       ],
       "options_te": [
-        "20 ఫిబ్రవరి 1956",
-        "1 నవంబర్ 1956",
-        "29 డిసెంబర్ 1953",
-        "10 మే 1956"
+        "బృహత్కథ",
+        "గాథా సప్తశతి (Gatha Saptasati)",
+        "లీలావతి",
+        "కావ్యమీమాంస"
       ],
-      "correct_option": 0,
-      "explanation_en": "The Gentlemen's Agreement was signed on 20 February 1956 by 4 leaders of Telangana and 4 leaders of Andhra.",
-      "explanation_te": "1956 ఫిబ్రవరి 20న న్యూఢిల్లీలో 14 అంశాలతో కూడిన పెద్దమనుషుల ఒప్పందం కుదిరింది."
+      "correct_option": 1,
+      "explanation_en": "King Hala, the 17th Satavahana ruler, compiled the celebrated Gatha Saptasati in Maharashtri Prakrit.",
+      "explanation_te": "శాతవాహన రాజు హాలుడు ప్రాకృత భాషలో గాథా సప్తశతిని రచించాడు."
     },
     {
       "id": 190,
       "qNumber": 190,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "During the 1969 Telangana Agitation, who was the founder-president who formed the 'Telangana Praja Samithi' (TPS) in Hyderabad?",
-      "question_te": "1969 తెలంగాణ ఉద్యమ సమయంలో హైదరాబాద్‌లో 'తెలంగాణ ప్రజా సమితి' (TPS) ని స్థాపించిన వ్యవస్థాపక అధ్యక్షుడు ఎవరు?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Which famous Kakatiya sea-trade charter granting protection and customs relief to foreign merchant ships was issued by King Ganapati Deva at Motupalli port?",
+      "question_te": "విదేశీ వర్తక నౌకలకు రక్షణ మరియు సుంకాల రాయితీలను కల్పిస్తూ కాకతీయ చక్రవర్తి గణపతి దేవుడు మోటుపల్లి రేవు వద్ద జారీ చేసిన ప్రసిద్ధ శాసనం ఏది?",
       "options_en": [
-        "Ananthula Madan Mohan",
-        "Dr. Marri Chenna Reddy",
-        "K.V. Ranga Reddy",
-        "Konda Laxman Bapuji"
+        "Chandupatla Inscription",
+        "Motupalli Abhaya Sasanam (మోటుపల్లి అభయ శాసనం)",
+        "Bayyaram Inscription",
+        "Malkapuram Inscription"
       ],
       "options_te": [
-        "అనంతుల మదన్ మోహన్ (Ananthula Madan Mohan)",
-        "డా. మర్రి చెన్నారెడ్డి",
-        "కె.వి. రంగా రెడ్డి",
-        "కొండా లక్ష్మణ్ బాపూజీ"
+        "చందుపట్ల శాసనం",
+        "మోటుపల్లి అభయ శాసనం (Motupalli Abhaya Sasanam)",
+        "బయ్యారం శాసనం",
+        "మల్కాపురం శాసనం"
       ],
-      "correct_option": 0,
-      "explanation_en": "TPS was founded on 25 March 1969 by advocate Ananthula Madan Mohan. Later in May 1969, Dr. Marri Chenna Reddy took over its leadership.",
-      "explanation_te": "1969 మార్చి 25న అనంతుల మదన్ మోహన్ టీపీఎస్ ను స్థాపించారు; తర్వాత మర్రి చెన్నారెడ్డి నాయకత్వం వహించారు."
+      "correct_option": 1,
+      "explanation_en": "The Motupalli Abhaya Sasanam of Ganapati Deva granted royal protection (Abhaya) to seafaring traders, promoting Kakatiya foreign trade.",
+      "explanation_te": "కాకతీయ గణపతి దేవుడు విదేశీ వర్తకుల రక్షణ కోసం మోటుపల్లి రేవు వద్ద అభయ శాసనాన్ని వేయించాడు."
     },
     {
       "id": 191,
       "qNumber": 191,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "Which Prime Minister of India announced the 'Eight-Point Formula' in the Lok Sabha on 11 April 1969 to address the Telangana grievances?",
-      "question_te": "1969 తెలంగాణ ఉద్యమ ఆందోళనలను పరిష్కరించడానికి 1969 ఏప్రిల్ 11న లోక్‌సభలో 'ఎనిమిది సూత్రాల పథకాన్ని' ప్రకటించిన భారత ప్రధానమంత్రి ఎవరు?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Who built the historic 'Charminar' in Hyderabad in 1591 AD to commemorate the cessation of a deadly plague epidemic?",
+      "question_te": "1591 లో ప్లేగు వ్యాధి నిర్మూలనకు గుర్తుగా హైదరాబాద్‌లో చారిత్రక 'చార్మినార్' ను నిర్మించినది ఎవరు?",
       "options_en": [
-        "Indira Gandhi",
-        "Lal Bahadur Shastri",
-        "Jawaharlal Nehru",
-        "Morarji Desai"
+        "Sultan Quli Qutb Shah",
+        "Ibrahim Qutb Shah",
+        "Muhammad Quli Qutb Shah",
+        "Abdullah Qutb Shah"
       ],
       "options_te": [
-        "ఇందిరా గాంధీ (Indira Gandhi)",
-        "లాల్ బహదూర్ శాస్త్రి",
-        "జవహర్‌లాల్ నెహ్రూ",
-        "మొరార్జీ దేశాయ్"
+        "సుల్తాన్ కులీ కుతుబ్ షా",
+        "ఇబ్రహీం కుతుబ్ షా",
+        "మహమ్మద్ కులీ కుతుబ్ షా (Muhammad Quli Qutb Shah)",
+        "అబ్దుల్లా కుతుబ్ షా"
       ],
-      "correct_option": 0,
-      "explanation_en": "Prime Minister Indira Gandhi announced the Eight-Point Formula on 11 April 1969, which led to the appointment of the Justice Bhargava Committee.",
-      "explanation_te": "1969 ఏప్రిల్ 11న ప్రధానమంత్రి ఇందిరా గాంధీ పార్లమెంటులో ఎనిమిది సూత్రాల పథకాన్ని ప్రకటించారు."
+      "correct_option": 2,
+      "explanation_en": "Muhammad Quli Qutb Shah, the 5th Sultan of Golconda and founder of Hyderabad, constructed Charminar in 1591.",
+      "explanation_te": "హైదరాబాద్ నగర నిర్మాత మహమ్మద్ కులీ కుతుబ్ షా 1591 లో చార్మినార్ నిర్మించాడు."
     },
     {
       "id": 192,
       "qNumber": 192,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "G.O. Ms. No. 610, which mandated the repatriation of all non-local employees illegally appointed in Telangana zones, was issued in which year under Chief Minister N.T. Rama Rao?",
-      "question_te": "తెలంగాణ జోన్లలో అక్రమంగా నియమించబడిన స్థానికేతరులను వెనక్కి పంపించాలని ముఖ్యమంత్రి ఎన్.టి. రామారావు హయాంలో జారీ చేయబడిన ప్రసిద్ధ జి.ఓ. నం. 610 ఏ సంవత్సరంలో జారీ అయింది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Who was the Prime Minister (Diwan) of Hyderabad State who introduced the 'Zilabandi' administrative reform in 1865?",
+      "question_te": "1865 లో హైదరాబాద్ రాజ్యంలో పరిపాలనా సౌలభ్యం కోసం 'జిలాబందీ' రెవెన్యూ సంస్కరణను ప్రవేశపెట్టిన ప్రధాని (దివాన్) ఎవరు?",
       "options_en": [
-        "1985 (30 December 1985)",
-        "1983",
-        "1989",
-        "1992"
+        "Salar Jung I (Mir Turab Ali Khan)",
+        "Salar Jung II",
+        "Maharaja Kishen Pershad",
+        "Mir Alam"
       ],
       "options_te": [
-        "1985 (30 డిసెంబర్ 1985)",
-        "1983",
-        "1989",
-        "1992"
+        "మొదటి సాలార్ జంగ్ (Salar Jung I)",
+        "రెండవ సాలార్ జంగ్",
+        "మహారాజా కిషన్ ప్రసాద్",
+        "మీర్ ఆలం"
       ],
       "correct_option": 0,
-      "explanation_en": "G.O. Ms. No. 610 was issued on 30 December 1985 directing repatriation of non-locals appointed in violation of Presidential Order by 31 March 1986.",
-      "explanation_te": "జీవో 610 ను 1985 డిసెంబర్ 30న ఎన్టీఆర్ ప్రభుత్వం జారీ చేసింది."
+      "explanation_en": "Nawab Mir Turab Ali Khan (Salar Jung I) reorganized the Nizam's dominions into regular districts (Zilabandi) under Subedars and Taluqdars.",
+      "explanation_te": "మొదటి సాలార్ జంగ్ 1865 లో రాష్ట్రాన్ని సుబాలు, జిల్లాలుగా విభజిస్తూ జిలాబందీ సంస్కరణలను అమలు చేశాడు."
     },
     {
       "id": 193,
       "qNumber": 193,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "The Justice J.M. Girglani One-Man Commission was appointed in 2001 to inquire into which specific issue?",
-      "question_te": "2001లో నియమించబడిన జస్టిస్ జె.ఎం. గిర్‌గ్లానీ ఏకసభ్య కమిషన్ ఏ అంశంపై విచారణ జరిపేందుకు ఏర్పాటైంది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "The traditional folk floral festival 'Bathukamma', worshiping nature and Goddess Gauri, concludes on which auspicious day with 'Pedda Bathukamma' (Saddula Bathukamma)?",
+      "question_te": "తెలంగాణ సంస్కృతికి ప్రతీక అయిన 'బతుకమ్మ' పండుగ ఏ పర్వదినం నాడు 'సద్దుల బతుకమ్మ' (పెద్ద బతుకమ్మ) తో ముగుస్తుంది?",
       "options_en": [
-        "Violations of Presidential Order 1975 and non-implementation of G.O. 610",
-        "Irrigation water allocation in Krishna and Godavari basins",
-        "Hyderabad municipal revenue sharing",
-        "Power tariff restructuring"
+        "Mahalaya Amavasya (Engili Pula Bathukamma)",
+        "Durgashtami / Mahanavami",
+        "Vijayadasami",
+        "Deepavali"
       ],
       "options_te": [
-        "1975 రాష్ట్రపతి ఉత్తర్వుల ఉల్లంఘనలు మరియు జీవో 610 అమలు వైఫల్యాలపై",
-        "కృష్ణా, గోదావరి నదీ జలాల పంపిణీపై",
-        "హైదరాబాద్ మున్సిపల్ ఆదాయ భాగస్వామ్యంపై",
-        "విద్యుత్ చార్జీల సంస్కరణలపై"
+        "మహాలయ అమావాస్య (ఎంగిలిపూల బతుకమ్మ)",
+        "దుర్గాష్టమి / మహర్నవమి (Durgashtami / Saddula Bathukamma)",
+        "విజయదశమి",
+        "దీపావళి"
       ],
-      "correct_option": 0,
-      "explanation_en": "The Girglani Commission was tasked with reviewing lapses in implementing G.O. 610 and reported thousands of non-local irregularities.",
-      "explanation_te": "జీవో 610 అమలు వైఫల్యాలు మరియు స్థానిక నియామకాల ఉల్లంఘనలపై గిర్‌గ్లానీ కమిషన్ నివేదిక ఇచ్చింది."
+      "correct_option": 1,
+      "explanation_en": "Bathukamma begins on Mahalaya Amavasya (Engili Pula Bathukamma) and concludes after 9 days on Durgashtami/Ashwayuja Ashtami with Saddula Bathukamma.",
+      "explanation_te": "బతుకమ్మ పండుగ 9 రోజుల పాటు జరిగి దుర్గాష్టమి నాడు సద్దుల బతుకమ్మతో ఘనంగా ముగుస్తుంది."
     },
     {
       "id": 194,
       "qNumber": 194,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "The historic 'Million March' organized on Tank Bund in Hyderabad on 10 March 2011 was modeled after which international mass movement?",
-      "question_te": "2011 మార్చి 10న హైదరాబాద్ ట్యాంక్ బండ్‌పై జరిగిన చారిత్రాత్మక 'మిలియన్ మార్చ్' ఏ అంతర్జాతీయ ప్రజా ఉద్యమం స్ఫూర్తితో నిర్వహించబడింది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "On which date did the Nizam of Hyderabad formally surrender his armed forces to Indian Commander Major General J.N. Chaudhuri, concluding 'Operation Polo'?",
+      "question_te": "ఏ తేదీన నిజాం సైన్యం భారత మేజర్ జనరల్ జె.ఎన్. చౌధురికి లొంగిపోవడంతో 'ఆపరేషన్ పోలో' ముగిసి హైదరాబాద్ రాష్ట్రం భారత్‌లో విలీనమైంది?",
       "options_en": [
-        "Egypt's Tahrir Square Protests",
-        "French Revolution",
-        "American Civil Rights March",
-        "Orange Revolution in Ukraine"
+        "13th September 1948",
+        "17th September 1948",
+        "26th January 1950",
+        "1st November 1956"
       ],
       "options_te": [
-        "ఈజిప్ట్ తహ్రీర్ స్క్వేర్ ప్రజా ఉద్యమం",
-        "ఫ్రెంచ్ విప్లవం",
-        "అమెరికా పౌర హక్కుల మార్చ్",
-        "ఉక్రెయిన్ ఆరెంజ్ విప్లవం"
+        "13 సెప్టెంబర్ 1948",
+        "17 సెప్టెంబర్ 1948 (17 September 1948)",
+        "26 జనవరి 1950",
+        "1 నవంబర్ 1956"
       ],
-      "correct_option": 0,
-      "explanation_en": "TJAC Chairman Prof. M. Kodandaram organized the Million March drawing inspiration from Egypt's Tahrir Square Arab Spring protests.",
-      "explanation_te": "ఈజిప్ట్ కైరోలోని తహ్రీర్ స్క్వేర్ ఉద్యమ స్ఫూర్తితో ట్యాంక్ బండ్‌పై మిలియన్ మార్చ్ నిర్వహించారు."
+      "correct_option": 1,
+      "explanation_en": "On 17 September 1948, Nizam Mir Osman Ali Khan announced surrender on Deccan Radio, ending the police action Operation Polo.",
+      "explanation_te": "17 సెప్టెంబర్ 1948న నిజాం సైన్యాలు లొంగిపోవడంతో హైదరాబాద్ సంస్థానం భారత యూనియన్‌లో విలీనమైంది."
     },
     {
       "id": 195,
       "qNumber": 195,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "During the Telangana Statehood agitation in 2011, government employees and workers launched the historic 42-day strike known as:",
-      "question_te": "2011 లో ప్రత్యేక రాష్ట్ర ఉద్యమ సమయంలో ప్రభుత్వ ఉద్యోగులు, సింగరేణి కార్మికులు చేపట్టిన చారిత్రాత్మక 42 రోజుల సమ్మె పేరు ఏమిటి?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "The 1952 Non-Mulki Agitation ('Idli Sambar Go Back') began in which town of southern Telangana over the illegal appointment of non-local teachers?",
+      "question_te": "స్థానికేతరుల అక్రమ నియామకాలకు వ్యతిరేకంగా 1952 లో 'నాన్-ముల్కీ ఉద్యమం' దక్షిణ తెలంగాణలోని ఏ పట్టణంలో ప్రారంభమైంది?",
       "options_en": [
-        "Sakala Janula Samme (All People's Strike)",
-        "Sagara Haram",
-        "Sadak Bandh",
-        "Jail Bharo"
+        "Warangal (Hanamkonda)",
+        "Khammam",
+        "Mahabubnagar",
+        "Nizamabad"
       ],
       "options_te": [
-        "సకల జనుల సమ్మె (Sakala Janula Samme)",
-        "సాగర హారం",
-        "సడక్ బంద్",
-        "జైల్ భరో"
+        "వరంగల్ (హనుమకొండ)",
+        "ఖమ్మం",
+        "మహబూబ్‌నగర్",
+        "నిజామాబాద్"
       ],
       "correct_option": 0,
-      "explanation_en": "Sakala Janula Samme lasted for 42 days from 13 September to 24 October 2011, bringing government administration to a complete standstill.",
-      "explanation_te": "2011 సెప్టెంబర్ 13 నుండి అక్టోబర్ 24 వరకు 42 రోజుల పాటు సకల జనుల సమ్మె జరిగింది."
+      "explanation_en": "The 1952 Mulki agitation started in Hanamkonda/Warangal in July 1952 protesting the transfer of non-mulki teachers by Divisional Inspector of Schools.",
+      "explanation_te": "1952 ముల్కీ ఉద్యమం హనుమకొండ/వరంగల్ లో ఉపాధ్యాయుల బదిలీలకు వ్యతిరేకంగా విద్యార్థుల ఆందోళనతో మొదలైంది."
     },
     {
       "id": 196,
       "qNumber": 196,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "In the historic Golconda Fort, a clap of hands at the Fateh Darwaza can be clearly heard at the highest pavilion situated a kilometer away. What is this pavilion called?",
-      "question_te": "గోల్కొండ కోట ప్రవేశ ద్వారమైన ఫతే దర్వాజా వద్ద చప్పట్లు కొడితే ఒక కిలోమీటరు దూరంలో ఉన్న కోట శిఖర భవనం వద్ద స్పష్టంగా వినిపిస్తుంది. ఆ ఎత్తైన భవనం పేరు ఏమిటి?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Which commission appointed by the Government of India in 1953 recommended that the Telangana region should initially remain as a separate State of Hyderabad?",
+      "question_te": "1953 లో కేంద్రం నియమించిన ఏ కమిషన్ తెలంగాణ ప్రాంతాన్ని తొలుత ప్రత్యేక హైదరాబాద్ రాష్ట్రంగానే ఉంచాలని సిఫార్సు చేసింది?",
       "options_en": [
-        "Bala Hissar",
-        "Nagina Bagh",
-        "Taramati Baradari",
-        "Ibrahim Mosque"
+        "Dhar Commission",
+        "JVP Committee",
+        "States Reorganisation Commission (Fazal Ali Commission)",
+        "Wanchoo Committee"
       ],
       "options_te": [
-        "బాలా హిస్సార్ (Bala Hissar)",
-        "నగీనా బాగ్",
-        "తారామతి బారాదరి",
-        "ఇబ్రహీం మసీదు"
+        "ధార్ కమిషన్",
+        "జెవిపి కమిటీ",
+        "ఫజల్ అలీ కమిషన్ (States Reorganisation Commission)",
+        "వాంచూ కమిటీ"
       ],
-      "correct_option": 0,
-      "explanation_en": "The highest point of Golconda Fort is Bala Hissar, renowned for its ingenious acoustic engineering.",
-      "explanation_te": "గోల్కొండ కోట ఎత్తైన ప్రాంతమైన బాలా హిస్సార్ ధ్వని శాస్త్ర నైపుణ్యానికి అద్భుత నిదర్శనం."
+      "correct_option": 2,
+      "explanation_en": "The Fazal Ali Commission (SRC 1955) in Para 386 recommended retaining Telangana as a separate state, giving it the option to merge after 5 years with a 2/3rd majority.",
+      "explanation_te": "ఫజల్ అలీ నేతృత్వంలోని రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ తెలంగాణను ప్రత్యేక రాష్ట్రంగానే కొనసాగించాలని స్పష్టంగా సిఫార్సు చేసింది."
     },
     {
       "id": 197,
       "qNumber": 197,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "The famous Thousand Pillar Temple (Rudreshwara Temple) in Hanumakonda was commissioned in 1163 CE by which Kakatiya ruler?",
-      "question_te": "హనుమకొండలోని ప్రసిద్ధ వేయి స్తంభాల గుడి (రుద్రేశ్వరాలయం) క్రీ.శ. 1163లో ఏ కాకతీయ పాలకుడి చేత నిర్మించబడింది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "How many key safeguards for Telangana region were agreed upon and signed under the 'Gentlemen's Agreement' on 20th February 1956 in New Delhi?",
+      "question_te": "20 ఫిబ్రవరి 1956న న్యూఢిల్లీలో కుదిరిన 'పెద్దమనుషుల ఒప్పందం' లో తెలంగాణ రక్షణల కోసం ఎన్ని ప్రధాన అంశాలపై సంతకాలు చేశారు?",
       "options_en": [
-        "Rudradeva (Prataparudra I)",
-        "Prola II",
-        "Ganapatideva",
-        "Rudrama Devi"
+        "8 safeguards",
+        "10 safeguards",
+        "14 safeguards",
+        "16 safeguards"
       ],
       "options_te": [
-        "రుద్రదేవుడు / మొదటి ప్రతాపరుద్రుడు",
-        "రెండవ ప్రోలరాజు",
-        "గణపతి దేవుడు",
-        "రుద్రమదేవి"
+        "8 రక్షణలు",
+        "10 రక్షణలు",
+        "14 రక్షణలు (14 Safeguards)",
+        "16 రక్షణలు"
       ],
-      "correct_option": 0,
-      "explanation_en": "The Thousand Pillar Temple at Hanumakonda was constructed in 1163 CE during the reign of Kakatiya ruler Rudradeva.",
-      "explanation_te": "క్రీ.శ. 1163 లో కాకతీయ చక్రవర్తి రుద్రదేవుని కాలంలో వేయి స్తంభాల గుడి నిర్మించబడింది."
+      "correct_option": 2,
+      "explanation_en": "The Gentlemen's Agreement signed at Hyderabad House contained 14 specific safeguards relating to Telangana Regional Committee, ministers, revenues, and education.",
+      "explanation_te": "పెద్దమనుషుల ఒప్పందంలో తెలంగాణ ప్రయోజనాల కోసం 14 రక్షణలతో కూడిన నిబంధనలను పొందుపరిచారు."
     },
     {
       "id": 198,
       "qNumber": 198,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "Pochampally Ikat, the world-famous tie-and-dye weaving tradition of Telangana that secured India's first textile GI tag, is predominantly practiced in which district?",
-      "question_te": "భారతదేశంలోనే వస్త్ర రంగానికి సంబంధించి తొలి జీఐ ట్యాగ్ (GI Tag) పొందిన ప్రసిద్ధ పోచంపల్లి ఇక్కత్ చేనేత కళ ప్రధానంగా ఏ జిల్లాలో ప్రసిద్ధి చెందింది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Which All-Party Accord was formulated on 19th January 1969 to safeguard non-mulki repatriations and ensure utilization of Telangana surplus revenues?",
+      "question_te": "తెలంగాణ మిగులు నిధుల వినియోగం మరియు స్థానికేతరుల వెనక్కి పంపడంపై 19 జనవరి 1969న ముఖ్యమంత్రి కాసు బ్రహ్మానంద రెడ్డి ఆధ్వర్యంలో జరిగిన ఒప్పందం ఏది?",
       "options_en": [
-        "Yadadri Bhuvanagiri District",
-        "Warangal District",
-        "Karimnagar District",
-        "Nalgonda District"
+        "Eight-Point Formula",
+        "All-Party Accord (సర్వపార్టీ ఒప్పందం - G.O. 36)",
+        "Six-Point Formula",
+        "Five-Point Formula"
       ],
       "options_te": [
-        "యాదాద్రి భువనగిరి జిల్లా",
-        "వరంగల్ జిల్లా",
-        "కరీంనగర్ జిల్లా",
-        "నల్గొండ జిల్లా"
+        "ఎనిమిది సూత్రాల పథకం",
+        "సర్వపార్టీ ఒప్పందం (All-Party Accord - G.O. 36)",
+        "ఆరు సూత్రాల పథకం",
+        "ఐదు సూత్రాల పథకం"
       ],
-      "correct_option": 0,
-      "explanation_en": "Pochampally is located in Yadadri Bhuvanagiri district (Silk City of India), securing a Geographical Indication tag in 2004.",
-      "explanation_te": "పోచంపల్లి గ్రామం యాదాద్రి భువనగిరి జిల్లాలో ఉంది; దీని ఇక్కత్ నేతకు 2004 లో జీఐ ట్యాగ్ లభించింది."
+      "correct_option": 1,
+      "explanation_en": "The All-Party Accord reached on 19 January 1969 agreed to repatriate non-mulki employees by 28 Feb 1969, leading to the issuance of G.O. 36.",
+      "explanation_te": "19 జనవరి 1969న కుదిరిన సర్వపార్టీ ఒప్పందం ఆధారంగానే ప్రభుత్వం వివాదాస్పద జీవో 36ను జారీ చేసింది."
     },
     {
       "id": 199,
       "qNumber": 199,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "Which annual cultural festival fostering communal harmony and Telangana cultural heritage during Dussehra was initiated by senior leader Bandaru Dattatreya in 2005?",
-      "question_te": "తెలంగాణ సంస్కృతి, సాంప్రదాయాలు మరియు సామరస్యాన్ని ప్రతిబింబిస్తూ దసరా సందర్భంగా 2005 నుండి బండారు దత్తాత్రేయ ప్రారంభించిన వార్షిక వేడుక ఏది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Under which Prime Minister was the 'Six-Point Formula' formulated in September 1973, leading to the enactment of Article 371D and Presidential Order 1975?",
+      "question_te": "సెప్టెంబర్ 1973 లో 'ఆరు సూత్రాల పథకం' (Six-Point Formula) ఏ ప్రధానమంత్రి హయాంలో రూపొందించబడి అధికరణం 371D కి దారితీసింది?",
       "options_en": [
-        "Alai Balai (అలయ్ బలయ్)",
-        "Bathukamma",
-        "Bonalu",
-        "Perini Utsavam"
+        "Jawaharlal Nehru",
+        "Indira Gandhi",
+        "Lal Bahadur Shastri",
+        "Morarji Desai"
       ],
       "options_te": [
-        "అలయ్ బలయ్ (Alai Balai)",
-        "బతుకమ్మ",
-        "బోనాలు",
-        "పేరిణి ఉత్సవం"
+        "జవహర్‌లాల్ నెహ్రూ",
+        "ఇందిరా గాంధీ (Indira Gandhi)",
+        "లాల్ బహదూర్ శాస్త్రి",
+        "మొరార్జీ దేశాయ్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Alai Balai is a traditional post-Dussehra cultural congregation initiated by Bandaru Dattatreya bringing diverse political and cultural figures onto a common platform.",
-      "explanation_te": "దసరా మరుసటి రోజు తెలంగాణ వంటకాలు, జానపద కళలతో నిర్వహించే అలయ్ బలయ్ కార్యక్రమాన్ని బండారు దత్తాత్రేయ ప్రారంభించారు."
+      "correct_option": 1,
+      "explanation_en": "Prime Minister Indira Gandhi introduced the Six-Point Formula in 1973, which was incorporated into the Constitution via the 32nd Amendment Act (Article 371D).",
+      "explanation_te": "ఇందిరా గాంధీ ప్రభుత్వం 1973 లో ఆరు సూత్రాల పథకాన్ని తెచ్చి 32వ రాజ్యాంగ సవరణ ద్వారా అధికరణం 371D ని చేర్చింది."
     },
     {
       "id": 200,
       "qNumber": 200,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage, Culture & Statehood Movement",
-      "question_en": "Under Section 5 of the Andhra Pradesh Reorganisation Act, 2014, for a period not exceeding how many years was Hyderabad designated as the common capital for both states?",
-      "question_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం, 2014 లోని సెక్షన్ 5 ప్రకారం, గరిష్టంగా ఎన్ని సంవత్సరాల కాలపరిమితి వరకు హైదరాబాద్ ఉమ్మడి రాజధానిగా నిర్ణయించబడింది?",
+      "topic": "Telangana History, Culture & State Formation Movement",
+      "question_en": "Under Section 3 of the Andhra Pradesh Reorganisation Act, 2014, how many parliamentary Lok Sabha constituencies were allocated to the newly formed State of Telangana?",
+      "question_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం, 2014 ప్రకారం నూతన తెలంగాణ రాష్ట్రానికి ఎన్ని లోక్‌సభ నియోజకవర్గాలు కేటాయించబడ్డాయి?",
       "options_en": [
-        "10 years",
-        "5 years",
-        "15 years",
-        "20 years"
+        "14 Lok Sabha seats",
+        "17 Lok Sabha seats",
+        "20 Lok Sabha seats",
+        "25 Lok Sabha seats"
       ],
       "options_te": [
-        "10 సంవత్సరాలు (10 Years)",
-        "5 సంవత్సరాలు",
-        "15 సంవత్సరాలు",
-        "20 సంవత్సరాలు"
+        "14 లోక్‌సభ స్థానాలు",
+        "17 లోక్‌సభ స్థానాలు (17 Lok Sabha Seats)",
+        "20 లోక్‌సభ స్థానాలు",
+        "25 లోక్‌సభ స్థానాలు"
       ],
-      "correct_option": 0,
-      "explanation_en": "Section 5(1) stipulated that Hyderabad would be the common capital of Telangana and Andhra Pradesh for a period not exceeding 10 years (which lapsed on 2 June 2024).",
-      "explanation_te": "విభజన చట్టంలోని సెక్షన్ 5(1) ప్రకారం 10 సంవత్సరాల పాటు హైదరాబాద్ ఉమ్మడి రాజధానిగా ఉంది (2 జూన్ 2024 తో ఇది ముగిసింది)."
+      "correct_option": 1,
+      "explanation_en": "The AP Reorganisation Act 2014 allocated 17 Lok Sabha seats and 7 Rajya Sabha seats to Telangana.",
+      "explanation_te": "2014 పునర్వ్యవస్థీకరణ చట్టం ప్రకారం తెలంగాణకు 17 లోక్‌సభ మరియు 7 రాజ్యసభ స్థానాలు కేటాయించబడ్డాయి."
     }
   ]
 }

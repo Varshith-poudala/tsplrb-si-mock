@@ -1,32 +1,5 @@
 {
   "testId": "tsplrb-si-mock-full-200-5",
-  "title": "TSPLRB SI Mock Test 5 (Tough • Advanced High-Yield PWT)",
-  "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 5 (క్లిష్టం • ఉన్నత స్థాయి స్పెషల్ PWT)",
-  "exam": "TSPLRB Sub-Inspector Preliminary Written Test (PWT)",
-  "paper": "Paper I & II Composite CBT",
-  "difficulty": "Hard",
-  "totalQuestions": 200,
-  "totalMarks": 200,
-  "durationMinutes": 180,
-  "marksPerQuestion": 1.0,
-  "negativeMarking": 0.2,
-  "sections": [
-    {
-      "name": "Arithmetic",
-      "questions": 50,
-      "marks": 50
-    },
-    {
-      "name": "Reasoning & Mental Ability",
-      "questions": 50,
-      "marks": 50
-    },
-    {
-      "name": "General Studies",
-      "questions": 100,
-      "marks": 100
-    }
-  ],
   "questions": [
     {
       "id": 1,
@@ -882,7 +855,7 @@
     {
       "id": 38,
       "qNumber": 38,
-      "section": "Reasoning",
+      "section": "Arithmetic",
       "topic": "Reasoning & Mental Ability - Calendar",
       "question_en": "Which future year will have the exact same calendar as the year 2024?",
       "question_te": "2024 సంవత్సరానికి సంబంధించిన క్యాలెండర్ భవిష్యత్తులో ఏ సంవత్సరపు క్యాలెండర్‌తో సరిగ్గా సమానంగా ఉంటుంది?",
@@ -1181,7 +1154,7 @@
     {
       "id": 51,
       "qNumber": 51,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Clocks - Angle",
       "question_en": "What is the angle between the minute hand and hour hand of a clock at 8:30?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] గడియారంలో సమయం 8:30 అయినప్పుడు గంటల ముల్లు మరియు నిమిషాల ముల్లుల మధ్య కోణం ఎంత?",
@@ -1204,7 +1177,7 @@
     {
       "id": 52,
       "qNumber": 52,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Calendars - Day of Week",
       "question_en": "If January 1, 2024 was a Monday, what day of the week was December 31, 2024?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 2024 జనవరి 1వ తేదీ సోమవారం అయితే, 2024 డిసెంబర్ 31వ తేదీ ఏ వారం అవుతుంది?",
@@ -1227,7 +1200,7 @@
     {
       "id": 53,
       "qNumber": 53,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Mathematical Operations",
       "question_en": "If '+' means 'divided by', '-' means 'multiplied by', '*' means 'minus', and '/' means 'plus', then evaluate: 64 + 8 - 4 * 12 / 6",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] '+' అనగా భాగహారం (/), '-' అనగా గుణకారం (*), '*' అనగా తీసివేత (-), మరియు '/' అనగా సంకలనం (+) అయినచో, విలువ ఎంత: 64 + 8 - 4 * 12 / 6",
@@ -1250,7 +1223,7 @@
     {
       "id": 54,
       "qNumber": 54,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Logical Sequence of Words",
       "question_en": "Arrange the following in a logical sequence: 1. Notification 2. Preliminary Exam 3. Application 4. Physical Test 5. Appointment Order",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది వాటిని తార్కిక క్రమంలో అమర్చండి: 1. నోటిఫికేషన్ 2. ప్రిలిమ్స్ పరీక్ష 3. దరఖాస్తు 4. దేహదారుఢ్య పరీక్ష (PET) 5. నియామక పత్రం",
@@ -1273,7 +1246,7 @@
     {
       "id": 55,
       "qNumber": 55,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Non-Verbal - Mirror Image",
       "question_en": "Choose the correct mirror image of the word 'POLICE' when the mirror is placed vertically on the right:",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] అద్దం కుడివైపు నిలువుగా ఉంచినప్పుడు 'POLICE' పదానికి సరైన ప్రతిబింబం ఏది?",
@@ -1296,7 +1269,7 @@
     {
       "id": 56,
       "qNumber": 56,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Analogy - Alphabet",
       "question_en": "ACEG : BDFH :: MOQS : ?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ACEG : BDFH :: MOQS : ?",
@@ -1319,7 +1292,7 @@
     {
       "id": 57,
       "qNumber": 57,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Number Matrix / Missing Number",
       "question_en": "Find the missing number in the 3x3 matrix:\n[ 4 5 6 ]\n[ 2 3 7 ]\n[ 8 15 ? ]",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 3x3 మ్యాట్రిక్స్‌లో లోపించిన సంఖ్యను కనుగొనండి:\n[ 4 5 6 ]\n[ 2 3 7 ]\n[ 8 15 ? ]",
@@ -1342,7 +1315,7 @@
     {
       "id": 58,
       "qNumber": 58,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Dice & Cubes",
       "question_en": "A standard die is numbered 1 to 6. If the number 3 is on the bottom face, which number will be on the top face?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక ప్రామాణిక పాచికపై 1 నుండి 6 వరకు అంకెలు ఉన్నాయి. అడుగు భాగంలో 3 ఉంటే, పై భాగంలో ఏ సంఖ్య ఉంటుంది?",
@@ -1365,7 +1338,7 @@
     {
       "id": 59,
       "qNumber": 59,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Statement and Arguments",
       "question_en": "Statement: Should CCTV surveillance cameras be installed at all traffic junctions in Telangana cities? Argument I: Yes, this will significantly reduce traffic violations and crime. Argument II: No, it involves huge expenditure of public money.",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ప్రకటన: తెలంగాణ నగరాల్లోని అన్ని ట్రాఫిక్ కూడళ్లలో సీసీటీవీ కెమెరాలను ఏర్పాటు చేయాలా? వాదన I: అవును, ఇది ట్రాఫిక్ ఉల్లంఘనలు మరియు నేరాలను గణనీయంగా తగ్గిస్తుంది. వాదన II: వద్దు, దీనికి ప్రజల ధనం విపరీతంగా ఖర్చవుతుంది.",
@@ -1388,7 +1361,7 @@
     {
       "id": 60,
       "qNumber": 60,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Arithmetical Reasoning",
       "question_en": "In a police training ground, there are some dogs and some handlers. Total heads are 20 and total legs are 64. How many dogs are there?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక పోలీస్ డాగ్ స్క్వాడ్ మైదానంలో కొన్ని కుక్కలు మరియు వాటి సంరక్షకులు (మనుషులు) ఉన్నారు. అక్కడ మొత్తం తలలు 20 మరియు కాళ్ళు 64. అక్కడ ఉన్న కుక్కల సంఖ్య ఎంత?",
@@ -1411,7 +1384,7 @@
     {
       "id": 61,
       "qNumber": 61,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Coding-Decoding - Numbers",
       "question_en": "If 'A' = 1, 'PAT' = 37, then what is the code for 'POLICE'?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 'A' = 1, 'PAT' = 37 అయినచో, 'POLICE' యొక్క కోడ్ సంఖ్య ఎంత?",
@@ -1434,7 +1407,7 @@
     {
       "id": 62,
       "qNumber": 62,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Analogy - State & Capital",
       "question_en": "Telangana : Hyderabad :: Assam : ?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] తెలంగాణ : హైదరాబాద్ :: అసోం (Assam) : ?",
@@ -1457,7 +1430,7 @@
     {
       "id": 63,
       "qNumber": 63,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Number Analogy",
       "question_en": "48 : 122 :: 168 : ?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 48 : 122 :: 168 : ?",
@@ -1480,7 +1453,7 @@
     {
       "id": 64,
       "qNumber": 64,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Series - Alpha-Numeric",
       "question_en": "Find the next term: 2B, 4D, 8H, 16P, ?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] శ్రేణిలో తర్వాతి పదాన్ని గుర్తించండి: 2B, 4D, 8H, 16P, ?",
@@ -1503,7 +1476,7 @@
     {
       "id": 65,
       "qNumber": 65,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Seating Arrangement - Facing Direction",
       "question_en": "Four girls A, B, C, D are sitting in a circle facing the center. A and C are opposite to each other. B is to the right of A. Who is to the left of C?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] A, B, C, D అనే నలుగురు బాలికలు వృత్తాకారంలో కేంద్రం వైపు ముఖం చేసి కూర్చున్నారు. A మరియు C లు ఒకరికొకరు ఎదురెదురుగా ఉన్నారు. A కి కుడివైపున B ఉన్నది. C కి ఎడమవైపున ఎవరు ఉన్నారు?",
@@ -1526,7 +1499,7 @@
     {
       "id": 66,
       "qNumber": 66,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Syllogism - Three Statements",
       "question_en": "Statements: (1) Some books are pens. (2) All pens are papers. Conclusion I: Some books are papers. Conclusion II: Some papers are pens.",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ప్రకటనలు: (1) కొన్ని పుస్తకాలు పెన్నులు. (2) అన్ని పెన్నులు కాగితాలు. ముగింపు I: కొన్ని పుస్తకాలు కాగితాలు. ముగింపు II: కొన్ని కాగితాలు పెన్నులు.",
@@ -1549,7 +1522,7 @@
     {
       "id": 67,
       "qNumber": 67,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Calendar - Leap Year",
       "question_en": "Which of the following years is NOT a leap year?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది వాటిలో లీపు సంవత్సరం కానిది ఏది?",
@@ -1572,7 +1545,7 @@
     {
       "id": 68,
       "qNumber": 68,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Clock - Overlapping Hands",
       "question_en": "At what time between 4 o'clock and 5 o'clock will the hands of a clock be together (overlap)?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 4 మరియు 5 గంటల మధ్య గడియారంలోని రెండు ముల్లులు ఎప్పుడు ఒకదానిపై ఒకటి కలుసుకుంటాయి?",
@@ -1595,7 +1568,7 @@
     {
       "id": 69,
       "qNumber": 69,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Classification - Words",
       "question_en": "Find the odd one out among the Indian states:",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది రాష్ట్రాలలో భిన్నమైన దానిని గుర్తించండి:",
@@ -1618,7 +1591,7 @@
     {
       "id": 70,
       "qNumber": 70,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Letter Classification",
       "question_en": "Find the odd letter group among the following: BDF, HJL, NPR, KMO",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది అక్షర సమూహాలలో భిన్నమైన దానిని గుర్తించండి: BDF, HJL, NPR, KMO",
@@ -1641,7 +1614,7 @@
     {
       "id": 71,
       "qNumber": 71,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Blood Relations - Puzzle",
       "question_en": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] B యొక్క సోదరుడు A. A యొక్క తండ్రి C. E యొక్క సోదరుడు D. B యొక్క కుమార్తె E. అయితే D కి మేనమామ / బాబాయ్ (Uncle) ఎవరు?",
@@ -1664,7 +1637,7 @@
     {
       "id": 72,
       "qNumber": 72,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Direction - Walk and Turn",
       "question_en": "Ravi walked 30 metres towards East, took a right turn and walked 40 metres. Then he took a left turn and walked 30 metres. In which direction is he now with respect to the starting point?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] రవి తూర్పు దిశగా 30 మీటర్లు నడిచి, కుడివైపు తిరిగి 40 మీటర్లు నడిచాడు. తరువాత ఎడమవైపు తిరిగి 30 మీటర్లు నడిచాడు. ప్రారంభ స్థానం నుండి అతను ఇప్పుడు ఏ దిశలో ఉన్నాడు?",
@@ -1687,7 +1660,7 @@
     {
       "id": 73,
       "qNumber": 73,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Number Puzzle / Series",
       "question_en": "Find the wrong number in the sequence: 1, 8, 27, 64, 125, 218, 343",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది శ్రేణిలో తప్పుగా ఉన్న సంఖ్యను గుర్తించండి: 1, 8, 27, 64, 125, 218, 343",
@@ -1710,7 +1683,7 @@
     {
       "id": 74,
       "qNumber": 74,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Coding-Decoding - Sentence",
       "question_en": "In a code language: 'la ke ne' means 'law and order', 'ke pe ro' means 'order is maintained', and 'ne se pe' means 'law is supreme'. Which word stands for 'and'?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక సంకేత భాషలో 'la ke ne' అనగా 'law and order', 'ke pe ro' అనగా 'order is maintained', 'ne se pe' అనగా 'law is supreme'. అయితే 'and' కి సంకేతం ఏది?",
@@ -1733,7 +1706,7 @@
     {
       "id": 75,
       "qNumber": 75,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Venn Diagram - 3 Sets",
       "question_en": "In a group of 100 police cadets, 60 passed shooting, 50 passed physical endurance, and 30 passed both. How many cadets failed in both tests?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 100 మంది పోలీస్ క్యాడెట్లలో 60 మంది షూటింగ్‌లో, 50 మంది రన్నింగ్/ఎండ్యూరెన్స్‌లో, 30 మంది రెండింటిలోనూ పాసయ్యారు. రెండింటిలోనూ ఫెయిల్ అయిన వారి సంఖ్య ఎంత?",
@@ -1756,7 +1729,7 @@
     {
       "id": 76,
       "qNumber": 76,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Statement & Arguments",
       "question_en": "Statement: Should single-use plastic bags be completely banned in India? Argument I: Yes, they cause severe environmental pollution, block sewage lines, and harm wildlife. Argument II: No, they are cheap and convenient for ordinary shoppers and shopkeepers.",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ప్రవచనం: భారతదేశంలో సింగిల్-యూజ్ ప్లాస్టిక్ సంచులను పూర్తిగా నిషేధించాలా? వాదన I: అవును, అవి తీవ్ర పర్యావరణ కాలుష్యానికి కారణమవుతున్నాయి, డ్రైనేజీలను మూసివేస్తాయి మరియు మూగజీవాలకు హాని చేస్తాయి. వాదన II: కాదు, అవి చౌకైనవి మరియు వినియోగదారులకు, వ్యాపారులకు సౌకర్యవంతమైనవి.",
@@ -1779,7 +1752,7 @@
     {
       "id": 77,
       "qNumber": 77,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Cause & Effect",
       "question_en": "Statement I: The government increased the minimum support price (MSP) for paddy by 12% this year. Statement II: A large number of farmers in the state have expanded the area under paddy cultivation this season.",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ప్రవచనం I: ప్రభుత్వం ఈ సంవత్సరం వరి కనీస మద్దతు ధర (MSP)ని 12% పెంచింది. ప్రవచనం II: రాష్ట్రంలోని పెద్ద సంఖ్యలో రైతులు ఈ సీజన్‌లో వరి సాగు విస్తీర్ణాన్ని గణనీయంగా పెంచారు.",
@@ -1802,7 +1775,7 @@
     {
       "id": 78,
       "qNumber": 78,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Data Sufficiency - Quadratic Equations",
       "question_en": "What is the value of the positive integer x? Statement I: x^2 - 7x + 12 = 0. Statement II: x is an even number.",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ధన పూర్ణాంకం x యొక్క విలువ ఎంత? ప్రవచనం I: x^2 - 7x + 12 = 0. ప్రవచనం II: x ఒక సరి సంఖ్య.",
@@ -1825,7 +1798,7 @@
     {
       "id": 79,
       "qNumber": 79,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Data Sufficiency - Age Comparison",
       "question_en": "Is A older than B? Statement I: A is 5 years older than C. Statement II: B is 2 years younger than C.",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] B కంటే A పెద్దవాడా? ప్రవచనం I: C కంటే A 5 సంవత్సరాలు పెద్ద. ప్రవచనం II: C కంటే B 2 సంవత్సరాలు చిన్న.",
@@ -1848,7 +1821,7 @@
     {
       "id": 80,
       "qNumber": 80,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Mathematical Operations - Substitution",
       "question_en": "If '+' means '÷', '-' means 'x', 'x' means '+' and '÷' means '-', then what is the value of: 36 + 6 - 3 x 5 ÷ 3?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] '+' అనగా '÷', '-' అనగా 'x', 'x' అనగా '+' మరియు '÷' అనగా '-' అయితే: 36 + 6 - 3 x 5 ÷ 3 యొక్క విలువ ఎంత?",
@@ -1871,7 +1844,7 @@
     {
       "id": 81,
       "qNumber": 81,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Mathematical Operations - Balancing Signs",
       "question_en": "Which set of mathematical signs will balance the equation: 24 _ 4 _ 5 _ 4 = 26?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 24 _ 4 _ 5 _ 4 = 26 సమీకరణాన్ని సరిచేయు సరైన గుర్తుల సముదాయం ఏది?",
@@ -1894,7 +1867,7 @@
     {
       "id": 82,
       "qNumber": 82,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Cubes and Dice - Opposite Faces",
       "question_en": "Two positions of a dice are shown. In position 1 faces visible are 1, 2, 3. In position 2 faces visible are 1, 5, 6. Which number is opposite to 1?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక పాచిక యొక్క రెండు స్థితులు ఇవ్వబడ్డాయి. మొదటి స్థితిలో 1, 2, 3 కనిపించగా, రెండవ స్థితిలో 1, 5, 6 కనిపిస్తున్నాయి. 1 కి ఎదురుగా ఉండే సంఖ్య ఏది?",
@@ -1917,7 +1890,7 @@
     {
       "id": 83,
       "qNumber": 83,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Cubes - Painted Faces",
       "question_en": "A solid wooden cube of side 5 cm is painted red on all six faces and then cut into smaller cubes of side 1 cm each. How many smaller cubes have exactly two faces painted?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 5 సెం.మీ. భుజం గల ఒక చెక్క ఘనానికి ఆరు ముఖాలపై ఎరుపు రంగు వేసి, దానిని 1 సెం.మీ. భుజం గల చిన్న ఘనాలుగా కోశారు. రెండు ముఖాలపై మాత్రమే ఎరుపు రంగు ఉన్న చిన్న ఘనాల సంఖ్య ఎంత?",
@@ -1940,7 +1913,7 @@
     {
       "id": 84,
       "qNumber": 84,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Cubes - Unpainted Cubes",
       "question_en": "In the above question, how many smaller cubes have NO face painted at all?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] పై ప్రశ్నలో, ఏ ముఖంపైనా రంగు లేని చిన్న ఘనాల సంఖ్య ఎంత?",
@@ -1963,7 +1936,7 @@
     {
       "id": 85,
       "qNumber": 85,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Venn Diagrams - Category Classification",
       "question_en": "Which of the following descriptions best represents the relationship between: 'Vegetables', 'Potatoes', 'Cabbage'?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 'కూరగాయలు', 'బంగాళాదుంపలు', 'క్యాబేజీ' ల మధ్య గల సంబంధాన్ని ఉత్తమంగా సూచించే వర్ణన ఏది?",
@@ -1986,7 +1959,7 @@
     {
       "id": 86,
       "qNumber": 86,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Venn Diagrams - Quantitative",
       "question_en": "In a group of 100 students, 60 like Cricket, 50 like Football, and 20 like both games. How many students like neither Cricket nor Football?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 100 మంది విద్యార్థుల సమూహంలో, 60 మంది క్రికెట్, 50 మంది ఫుట్‌బాల్, మరియు 20 మంది రెండింటినీ ఇష్టపడతారు. క్రికెట్ లేదా ఫుట్‌బాల్ రెండింటినీ ఇష్టపడని విద్యార్థులు ఎంతమంది?",
@@ -2009,7 +1982,7 @@
     {
       "id": 87,
       "qNumber": 87,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Decision Making - Eligibility Criteria",
       "question_en": "For selection of Sub-Inspector: (a) Age between 21 and 25 years as on 01-07-2024. (b) Graduate with min 50% marks. (c) Minimum height 167.6 cm. Ramesh was born on 12-05-2001, completed B.Sc with 62% marks, and his height is 172 cm. What decision should be taken regarding Ramesh?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] సబ్-ఇన్‌స్పెక్టర్ శిక్షణ అభ్యర్థి ఎంపిక నిబంధనలు: (a) 01-07-2024 నాటికి వయస్సు 21-25 సం|| మధ్య ఉండాలి. (b) కనీసం 50% మార్కులతో డిగ్రీ ఉత్తీర్ణత. (c) కనీస ఎత్తు 167.6 సెం.మీ. రమేష్ 12-05-2001న జన్మించాడు, 62% మార్కులతో బి.ఎస్సీ పూర్తిచేశాడు, ఎత్తు 172 సెం.మీ. అతని విషయంలో ఏ నిర్ణయం తీసుకోవాలి?",
@@ -2032,7 +2005,7 @@
     {
       "id": 88,
       "qNumber": 88,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Calendars - Calendar Repetition",
       "question_en": "Which year will have the exact same calendar as that of the year 2024?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 2024 వ సంవత్సరం క్యాలెండర్‌తో సరిగ్గా సమానమైన క్యాలెండర్ కలిగిన తర్వాతి సంవత్సరం ఏది?",
@@ -2055,7 +2028,7 @@
     {
       "id": 89,
       "qNumber": 89,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Clocks - Hands Coinciding",
       "question_en": "How many times do the hands of a clock coincide in a day (24 hours)?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక రోజులో (24 గంటలలో) గడియారంలోని రెండు ముళ్ళు ఎన్నిసార్లు ఏకీభవిస్తాయి (ఒకదానిపై ఒకటి వస్తాయి)?",
@@ -2078,7 +2051,7 @@
     {
       "id": 90,
       "qNumber": 90,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Clocks - Right Angles",
       "question_en": "How many times do the hands of a clock form a right angle (90°) in a day?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక రోజులో గడియారంలోని రెండు ముళ్ళు ఎన్నిసార్లు లంబకోణాన్ని (90°) ఏర్పరుస్తాయి?",
@@ -2101,7 +2074,7 @@
     {
       "id": 91,
       "qNumber": 91,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Missing Number in Matrix",
       "question_en": "Find the missing number (?) in the following 3x3 magic matrix:\n[ 4, 9, 2 ]\n[ 3, 5, 7 ]\n[ 8, 1, ? ]",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది 3x3 మ్యాజిక్ మాత్రికలో లోపించిన సంఖ్య (?) ను కనుగొనండి:\n[ 4, 9, 2 ]\n[ 3, 5, 7 ]\n[ 8, 1, ? ]",
@@ -2124,7 +2097,7 @@
     {
       "id": 92,
       "qNumber": 92,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Missing Number in Circle",
       "question_en": "A circle is divided into 4 sectors with numbers 4, 9, 16, ? in clockwise order. What is the value of ?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక వృత్తం 4 భాగాలుగా విభజించబడి సవ్యదిశలో 4, 9, 16, ? సంఖ్యలను కలిగి ఉంది. ? విలువ ఎంత?",
@@ -2147,7 +2120,7 @@
     {
       "id": 93,
       "qNumber": 93,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Non-Verbal - Mirror Image",
       "question_en": "When a vertical mirror is placed to the right of the word 'POLICE', which of the following is the correct reflection?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 'POLICE' అనే పదానికి కుడివైపున నిలువు అద్దం ఉంచినప్పుడు ఏర్పడే సరైన ప్రతిబింబం ఏది?",
@@ -2170,7 +2143,7 @@
     {
       "id": 94,
       "qNumber": 94,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Non-Verbal - Water Image",
       "question_en": "Which of the following describes the water image of the letter word 'KICK'?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 'KICK' అనే పదం యొక్క నీటి ప్రతిబింబం (water image) ను కనుగొనండి:",
@@ -2193,7 +2166,7 @@
     {
       "id": 95,
       "qNumber": 95,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Figure Counting - Chessboard Squares",
       "question_en": "The total number of squares of all sizes on a standard 8x8 chessboard is:",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] 8x8 ప్రామాణిక చదరంగం బోర్డులో అన్ని పరిమాణాల చతురస్రాల మొత్తం సంఖ్య ఎంత?",
@@ -2216,7 +2189,7 @@
     {
       "id": 96,
       "qNumber": 96,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Figure Counting - Triangles in Square",
       "question_en": "How many triangles are there in a square with both its diagonals drawn?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] రెండు కర్ణాలు గీసిన ఒక చతురస్రంలో మొత్తం ఎన్ని త్రిభుజాలు ఉంటాయి?",
@@ -2239,7 +2212,7 @@
     {
       "id": 97,
       "qNumber": 97,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Logical Deduction",
       "question_en": "If all roses in a garden are red, and some red flowers fade quickly, then which of the following is definitely true?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక తోటలోని గులాబీలన్నీ ఎరుపు రంగులో ఉండి, కొన్ని ఎరుపు పువ్వులు త్వరగా వాడిపోతే, ఈ క్రింది వాటిలో ఏది ఖచ్చితంగా నిజం?",
@@ -2262,7 +2235,7 @@
     {
       "id": 98,
       "qNumber": 98,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Coded Inequalities",
       "question_en": "Statement: P >= Q > R = S <= T. Which of the following conclusions is definitely true?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ప్రవచనం: P >= Q > R = S <= T. ఈ క్రింది తీర్మానాలలో ఏది ఖచ్చితంగా నిజం?",
@@ -2285,7 +2258,7 @@
     {
       "id": 99,
       "qNumber": 99,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Dictionary Arrangement",
       "question_en": "Arrange the following words in alphabetical dictionary order:\n1. Police\n2. Policy\n3. Polite\n4. Polish\n5. Pollen",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] క్రింది పదాలను ఆంగ్ల నిఘంటువు క్రమంలో అమర్చండి:\n1. Police\n2. Policy\n3. Polite\n4. Polish\n5. Pollen",
@@ -2308,7 +2281,7 @@
     {
       "id": 100,
       "qNumber": 100,
-      "section": "Reasoning & Mental Ability",
+      "section": "Reasoning",
       "topic": "Advanced Arithmetical Reasoning - Heads and Legs",
       "question_en": "A farmer has some hens and some goats. If the total number of heads is 48 and the total number of legs is 140, how many goats are there?",
       "question_te": "[క్లిష్టమైన తార్కిక ప్రశ్న] ఒక రైతు వద్ద కొన్ని కోళ్ళు మరియు కొన్ని మేకలు ఉన్నాయి. మొత్తం తలల సంఖ్య 48 మరియు కాళ్ళ సంఖ్య 140 అయితే, అతని వద్ద ఉన్న మేకల సంఖ్య ఎంత?",
@@ -2330,6 +2303,328 @@
     },
     {
       "id": 101,
+      "qNumber": 101,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which law of physics explains why an iron ship floats on water while an iron nail sinks?",
+      "question_te": "ఇనుప మేకు నీటిలో మునిగిపోయినప్పటికీ, భారీ ఇనుప ఓడ నీటిపై తేలడానికి గల కారణాన్ని వివరించే భౌతిక సూత్రం ఏది?",
+      "options_en": [
+        "Bernoulli's Principle",
+        "Archimedes' Principle",
+        "Pascal's Law",
+        "Kepler's Law"
+      ],
+      "options_te": [
+        "బెర్నౌలీ సూత్రం",
+        "ఆర్కిమెడిస్ సూత్రం (Archimedes' Principle)",
+        "పాస్కల్ నియమం",
+        "కెప్లర్ నియమం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Archimedes' principle states that a body immersed in a fluid experiences an upward buoyant force equal to the weight of fluid displaced.",
+      "explanation_te": "ఓడ తన బరువుకు సమానమైన నీటిని స్థానభ్రంశం చెందించడం వల్ల కలిగే ఉత్ప్లావక బలం వలన తేలుతుంది."
+    },
+    {
+      "id": 102,
+      "qNumber": 102,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "What is the audible frequency range of sound for a healthy adult human ear?",
+      "question_te": "ఆరోగ్యకరమైన మానవ చెవి వినగలిగే ధ్వని పౌనఃపున్య పరిధి (Audible range) ఎంత?",
+      "options_en": [
+        "20 Hz to 20,000 Hz",
+        "50 Hz to 50,000 Hz",
+        "10 Hz to 10,000 Hz",
+        "Above 20,000 Hz"
+      ],
+      "options_te": [
+        "20 Hz నుండి 20,000 Hz",
+        "50 Hz నుండి 50,000 Hz",
+        "10 Hz నుండి 10,000 Hz",
+        "20,000 Hz కంటే ఎక్కువ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The audible range of hearing for human beings extends from about 20 Hz to 20,000 Hz (20 kHz).",
+      "explanation_te": "మానవులు వినగలిగే శ్రవ్య ధ్వనుల పరిధి 20 హెర్ట్జ్ నుండి 20,000 హెర్ట్జ్ వరకు ఉంటుంది."
+    },
+    {
+      "id": 103,
+      "qNumber": 103,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which pigment present in human red blood cells (RBCs) is responsible for transporting oxygen from the lungs to tissues?",
+      "question_te": "మానవ ఎర్ర రక్త కణాలలో (RBC) ఉండి, ఊపిరితిత్తుల నుండి కణజాలాలకు ఆక్సిజన్‌ను మోసుకెళ్ళే ఇనుముతో కూడిన వర్ణద్రవ్యం ఏది?",
+      "options_en": [
+        "Hemoglobin",
+        "Myoglobin",
+        "Melanin",
+        "Bilirubin"
+      ],
+      "options_te": [
+        "హిమోగ్లోబిన్ (Hemoglobin)",
+        "మయోగ్లోబిన్",
+        "మెలనిన్",
+        "బిలిరుబిన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Hemoglobin is an iron-containing metalloprotein in RBCs that binds reversibly to oxygen to form oxyhemoglobin.",
+      "explanation_te": "ఎర్ర రక్త కణాలలోని హిమోగ్లోబిన్ ఆక్సిజన్‌తో కలిసి ఆక్సీహిమోగ్లోబిన్‌గా శరీర కణజాలాలకు ఆక్సిజన్‌ను సరఫరా చేస్తుంది."
+    },
+    {
+      "id": 104,
+      "qNumber": 104,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "What is the pH value of pure distilled water at 25°C?",
+      "question_te": "25°C ఉష్ణోగ్రత వద్ద స్వచ్ఛమైన స్వేదన జలం (Distilled water) యొక్క pH విలువ ఎంత?",
+      "options_en": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "options_te": [
+        "0",
+        "7 (Neutral pH 7)",
+        "10",
+        "14"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Pure water has a neutral pH of exactly 7 at 25°C, where [H+] = [OH-] = 10^-7 M.",
+      "explanation_te": "స్వచ్ఛమైన తటస్థ నీటి యొక్క pH విలువ 7."
+    },
+    {
+      "id": 105,
+      "qNumber": 105,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which cell organelle is universally referred to as the 'Powerhouse of the Cell' due to ATP synthesis?",
+      "question_te": "కణ శ్వాసక్రియ జరిపి ATP రూపంలో శక్తిని ఉత్పత్తి చేయడం వలన 'కణ శక్త్యాగారాలు' (Powerhouse of the cell) అని పిలువబడే కణాంగాలు ఏవి?",
+      "options_en": [
+        "Ribosomes",
+        "Mitochondria",
+        "Lysosomes",
+        "Endoplasmic Reticulum"
+      ],
+      "options_te": [
+        "రైబోజోములు",
+        "మైటోకాండ్రియా (Mitochondria)",
+        "లైసోజోములు",
+        "అంతర్జీవ ద్రవ్యజాలం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Mitochondria generate cellular energy in the form of Adenosine Triphosphate (ATP) through oxidative phosphorylation.",
+      "explanation_te": "మైటోకాండ్రియాలు సెల్యులార్ ఎనర్జీని (ATP) ఉత్పత్తి చేయడం వల్ల వీటిని కణ శక్త్యాగారాలు అంటారు."
+    },
+    {
+      "id": 106,
+      "qNumber": 106,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which gas protects life on Earth by absorbing hazardous ultraviolet-B (UV-B) rays in the stratosphere?",
+      "question_te": "భూమిపై జీవులను ప్రమాదకరమైన అతినీలలోహిత (UV-B) కిరణాల నుండి రక్షించే స్ట్రాటోస్ఫియర్‌లోని వాయువు ఏది?",
+      "options_en": [
+        "Oxygen (O2)",
+        "Ozone (O3)",
+        "Carbon dioxide (CO2)",
+        "Methane (CH4)"
+      ],
+      "options_te": [
+        "ఆక్సిజన్",
+        "ఓజోన్ (O3)",
+        "కార్బన్ డయాక్సైడ్",
+        "మీథేన్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The stratospheric ozone layer (O3) absorbs solar UV radiation, preventing DNA damage and skin cancers.",
+      "explanation_te": "స్ట్రాటోస్ఫియర్‌లోని ఓజోన్ పొర హానికర అతినీలలోహిత కిరణాలను శోషించుకుంటుంది."
+    },
+    {
+      "id": 107,
+      "qNumber": 107,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which vitamin is synthesized in the human skin upon exposure to sunlight?",
+      "question_te": "సూర్యరశ్మి సోకినప్పుడు మానవ చర్మంలో సహజంగా సంశ్లేషణ చెందే విటమిన్ ఏది?",
+      "options_en": [
+        "Vitamin A",
+        "Vitamin B12",
+        "Vitamin D (Sunshine Vitamin)",
+        "Vitamin K"
+      ],
+      "options_te": [
+        "విటమిన్ A",
+        "విటమిన్ B12",
+        "విటమిన్ D (సన్‌షైన్ విటమిన్)",
+        "విటమిన్ K"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Exposure of 7-dehydrocholesterol in the skin to solar UVB converts it into cholecalciferol (Vitamin D3).",
+      "explanation_te": "సూర్యకాంతి సమక్షంలో చర్మంలో విటమిన్ డి సంశ్లేషణ జరుగుతుంది, కాబట్టి దీనిని సన్‌షైన్ విటమిన్ అంటారు."
+    },
+    {
+      "id": 108,
+      "qNumber": 108,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which catalyst is commonly utilized in the industrial hydrogenation of vegetable oils into vanaspati ghee?",
+      "question_te": "వనస్పతి నెయ్యి తయారీలో కూరగాయల నూనెలను హైడ్రోజనీకరణం చేయడానికి పారిశ్రామికంగా ఉపయోగించే ఉత్ప్రేరకం ఏది?",
+      "options_en": [
+        "Nickel (Ni)",
+        "Iron (Fe)",
+        "Platinum (Pt)",
+        "Zinc (Zn)"
+      ],
+      "options_te": [
+        "నికెల్ (Nickel - Ni)",
+        "ఇనుము",
+        "ప్లాటినం",
+        "జింక్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Finely divided Nickel (Ni) is used as a heterogeneous catalyst for the hydrogenation of unsaturated fats.",
+      "explanation_te": "నూనెల హైడ్రోజనీకరణ చర్యలో నికెల్ (Ni) ను ఉత్ప్రేరకంగా ఉపయోగిస్తారు."
+    },
+    {
+      "id": 109,
+      "qNumber": 109,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which human blood type lacks both A and B antibodies in the plasma and is known as the 'Universal Recipient'?",
+      "question_te": "ప్లాస్మాలో A మరియు B యాంటీబాడీలు రెండూ లేకపోవడం వల్ల 'విశ్వ గ్రహీత' (Universal Recipient) గా పరిగణించబడే మానవ రక్త వర్గం ఏది?",
+      "options_en": [
+        "O Negative",
+        "AB Positive",
+        "A Positive",
+        "B Negative"
+      ],
+      "options_te": [
+        "O నెగటివ్",
+        "AB పాజిటివ్ (AB Positive)",
+        "A పాజిటివ్",
+        "B నెగటివ్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "AB Positive individuals have both A and B antigens on RBCs and no antibodies in plasma, allowing them to safely receive blood from any ABO group.",
+      "explanation_te": "AB పాజిటివ్ వ్యక్తులు ఎవరి రక్తమైనా స్వీకరించగలరు కాబట్టి వీరిని 'విశ్వ గ్రహీతలు' అంటారు."
+    },
+    {
+      "id": 110,
+      "qNumber": 110,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "What is the optical phenomenon that causes the blue colour of the clear sky during daytime?",
+      "question_te": "పగటి పూట నిర్మలమైన ఆకాశం నీలి రంగులో కనిపించడానికి కారణమైన కాంతి దృగ్విషయం ఏది?",
+      "options_en": [
+        "Rayleigh Scattering of light",
+        "Total Internal Reflection",
+        "Dispersion of light through rain droplets",
+        "Interference of light waves"
+      ],
+      "options_te": [
+        "కాంతి రాలే పరిక్షేపణం (Rayleigh Scattering)",
+        "సంపూర్ణాంతర పరావర్తనం",
+        "కాంతి విక్షేపణం",
+        "కాంతి వ్యతికరణం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "According to Rayleigh's law of scattering, shorter blue wavelengths scatter much more strongly in the atmosphere than red light.",
+      "explanation_te": "తక్కువ తరంగదైర్ఘ్యం గల నీలి రంగు కాంతి వాతావరణ అణువుల చేత ఎక్కువగా పరిక్షేపణం చెందడం వల్ల ఆకాశం నీలంగా కనిపిస్తుంది."
+    },
+    {
+      "id": 111,
+      "qNumber": 111,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which disease in humans is caused by the bacterial pathogen Mycobacterium tuberculosis?",
+      "question_te": "మైకోబాక్టీరియం ట్యూబర్‌క్యులోసిస్ అనే బ్యాక్టీరియా సంక్రమణ వలన మానవులలో కలిగే వ్యాధి ఏది?",
+      "options_en": [
+        "Cholera",
+        "Tuberculosis (TB)",
+        "Typhoid",
+        "Tetanus"
+      ],
+      "options_te": [
+        "కలరా",
+        "క్షయ వ్యాధి (Tuberculosis - TB)",
+        "టైఫాయిడ్",
+        "ధనుర్వాతం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Tuberculosis is an infectious bacterial disease primarily affecting lungs, diagnosed by sputum smear and GeneXpert tests.",
+      "explanation_te": "మైకోబాక్టీరియం ట్యూబర్‌క్యులోసిస్ వల్ల ప్రధానంగా ఊపిరితిత్తులకు సోకే సాంక్రమిక వ్యాధి క్షయ (TB)."
+    },
+    {
+      "id": 112,
+      "qNumber": 112,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which metal is liquid at ordinary room temperature (25°C)?",
+      "question_te": "సాధారణ గది ఉష్ణోగ్రత వద్ద ద్రవ రూపంలో ఉండే లోహం ఏది?",
+      "options_en": [
+        "Mercury (Hg)",
+        "Bromine (Br)",
+        "Gallium (Ga)",
+        "Sodium (Na)"
+      ],
+      "options_te": [
+        "పాదరసం (Mercury - Hg)",
+        "బ్రోమిన్",
+        "గాలియం",
+        "సోడియం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mercury (Hg) has a freezing point of -38.8°C and is the only pure metal in liquid state at standard room conditions. (Bromine is a non-metal).",
+      "explanation_te": "గది ఉష్ణోగ్రత వద్ద ద్రవ రూపంలో ఉండే ఏకైక లోహం పాదరసం (Hg). బ్రోమిన్ అలోహం."
+    },
+    {
+      "id": 113,
+      "qNumber": 113,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which hormone secreted by the beta cells of the islets of Langerhans in the pancreas regulates glucose levels in blood?",
+      "question_te": "క్లోమ గ్రంథిలోని లాంగర్‌హాన్స్ పుటికల బీటా కణాలు స్రవించే ఏ హార్మోన్ రక్తంలో గ్లూకోజ్ స్థాయిలను నియంత్రిస్తుంది?",
+      "options_en": [
+        "Glucagon",
+        "Insulin",
+        "Thyroxine",
+        "Adrenaline"
+      ],
+      "options_te": [
+        "గ్లూకగాన్",
+        "ఇన్సులిన్ (Insulin)",
+        "థైరాక్సిన్",
+        "అడ్రినలిన్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Insulin lowers blood glucose by facilitating cellular glucose uptake. Deficiency causes Diabetes Mellitus.",
+      "explanation_te": "రక్తంలోని గ్లూకోజ్ స్థాయిని తగ్గించడానికి క్లోమం ఇన్సులిన్ హార్మోన్‌ను ఉత్పత్తి చేస్తుంది. దీని లోపం మధుమేహానికి దారితీస్తుంది."
+    },
+    {
+      "id": 114,
+      "qNumber": 114,
+      "section": "General Studies",
+      "topic": "General Science & Everyday Technology",
+      "question_en": "Which unit is used to measure the intensity or loudness of sound?",
+      "question_te": "ధ్వని తీవ్రతను కొలవడానికి ఉపయోగించే ప్రామాణిక ప్రమాణం ఏది?",
+      "options_en": [
+        "Hertz (Hz)",
+        "Decibel (dB)",
+        "Joule (J)",
+        "Watt (W)"
+      ],
+      "options_te": [
+        "హెర్ట్జ్ (Hz)",
+        "డెసిబెల్ (Decibel - dB)",
+        "జౌల్",
+        "వాట్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Decibel (dB) is a logarithmic unit used to express the ratio of acoustic pressure, measuring sound loudness.",
+      "explanation_te": "ధ్వని తీవ్రతను డెసిబెల్ (dB) లలో కొలుస్తారు."
+    },
+    {
+      "id": 115,
       "section": "General Studies",
       "topic": "Current Affairs - Judicial Appointments 2026",
       "question_en": "Who assumed office as the 53rd Chief Justice of India (CJI) in 2026, succeeding Justice Sanjiv Khanna?",
@@ -2348,10 +2643,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "Justice Surya Kant took the oath of office as the 53rd Chief Justice of India administered by President Droupadi Murmu.",
-      "explanation_te": "రాష్ట్రపతి ద్రౌపది ముర్ము చేతుల మీదుగా జస్టిస్ సూర్య కాంత్ భారత 53వ ప్రధాన న్యాయమూర్తిగా ప్రమాణ స్వీకారం చేశారు."
+      "explanation_te": "రాష్ట్రపతి ద్రౌపది ముర్ము చేతుల మీదుగా జస్టిస్ సూర్య కాంత్ భారత 53వ ప్రధాన న్యాయమూర్తిగా ప్రమాణ స్వీకారం చేశారు.",
+      "qNumber": 115
     },
     {
-      "id": 102,
+      "id": 116,
       "section": "General Studies",
       "topic": "Current Affairs - Defence Appointments 2026",
       "question_en": "Who was appointed as the Chief of Defence Staff (CDS) of the Indian Armed Forces in 2026?",
@@ -2370,10 +2666,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "Lt. Gen. N.S. Raja Subramani was appointed as the Chief of Defence Staff (CDS) to lead the integration and theaterisation of India's armed forces.",
-      "explanation_te": "భారత త్రివిధ దళాల సమన్వయం మరియు థియేటరైజేషన్ ప్రక్రియను వేగవంతం చేయడానికి లెఫ్టినెంట్ జనరల్ ఎన్.ఎస్. రాజా సుబ్రమణి CDS గా నియమితులయ్యారు."
+      "explanation_te": "భారత త్రివిధ దళాల సమన్వయం మరియు థియేటరైజేషన్ ప్రక్రియను వేగవంతం చేయడానికి లెఫ్టినెంట్ జనరల్ ఎన్.ఎస్. రాజా సుబ్రమణి CDS గా నియమితులయ్యారు.",
+      "qNumber": 116
     },
     {
-      "id": 103,
+      "id": 117,
       "section": "General Studies",
       "topic": "Telangana Current Affairs & Governance - Science & Tech - IIT Hyderabad ANUJA Program",
       "question_en": "The pioneering Industry-Academia Nuclear Technology Orientation Program named 'ANUJA' was inaugurated at which premier institution in Telangana?",
@@ -2392,10 +2689,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "IIT Hyderabad launched 'ANUJA' in collaboration with the Bhabha Atomic Research Centre (BARC) and Nuclear Power Corporation of India (NPCIL) to develop indigenous engineering manpower for advanced atomic energy reactors.",
-      "explanation_te": "అధునాతన అణు విద్యుత్ రియాక్టర్ల పరిశోధన మరియు యువ ఇంజనీర్లకు శిక్షణ ఇవ్వడానికి BARC మరియు NPCIL సహకారంతో ఐఐటీ హైదరాబాద్‌లో 'అనూజా' కార్యక్రమాన్ని ప్రారంభించారు."
+      "explanation_te": "అధునాతన అణు విద్యుత్ రియాక్టర్ల పరిశోధన మరియు యువ ఇంజనీర్లకు శిక్షణ ఇవ్వడానికి BARC మరియు NPCIL సహకారంతో ఐఐటీ హైదరాబాద్‌లో 'అనూజా' కార్యక్రమాన్ని ప్రారంభించారు.",
+      "qNumber": 117
     },
     {
-      "id": 104,
+      "id": 118,
       "section": "General Studies",
       "topic": "Telangana Current Affairs & Governance - Socio-Economic Planning - Comprehensive Caste Survey",
       "question_en": "Consider the following statements regarding the Comprehensive Socio-Economic, Educational, Employment, Caste and Living Survey (సామాజిక, ఆర్థిక, విద్య, ఉపాధి, రాజకీయ మరియు కుల సర్వే) conducted in Telangana:\n1. It was conducted on the basis of a statutory resolution unanimously adopted by the Telangana State Legislature.\n2. The Planning Department of Telangana served as the nodal coordinating agency with designated enumerators visiting every household across all 33 districts.\nWhich of the statements given above is/are correct?",
@@ -2414,10 +2712,11 @@
       ],
       "correct_option": 2,
       "explanation_en": "Both statements are correct. Telangana became one of the pioneering states in India to conduct an extensive door-to-door empirical caste and socio-economic census aimed at equitable budgetary allocations and reservation recalibration.",
-      "explanation_te": "రెండు ప్రకటనలూ సరైనవే. శాసనసభ తీర్మానం మేరకు ప్రణాళికా శాఖ ఆధ్వర్యంలో 33 జిల్లాల్లో ఎన్యూమరేటర్లు ప్రతి ఇంటినీ సందర్శించి సామాజిక, ఆర్థిక, విద్య, ఉద్యోగ మరియు కుల వివరాలను సేకరించారు."
+      "explanation_te": "రెండు ప్రకటనలూ సరైనవే. శాసనసభ తీర్మానం మేరకు ప్రణాళికా శాఖ ఆధ్వర్యంలో 33 జిల్లాల్లో ఎన్యూమరేటర్లు ప్రతి ఇంటినీ సందర్శించి సామాజిక, ఆర్థిక, విద్య, ఉద్యోగ మరియు కుల వివరాలను సేకరించారు.",
+      "qNumber": 118
     },
     {
-      "id": 105,
+      "id": 119,
       "section": "General Studies",
       "topic": "Current Affairs - Digital Judiciary 2026",
       "question_en": "Which premier constitutional institution launched the 'One Case One Data' digital registry initiative and 'Su Sahay' AI assistance chatbot in 2026?",
@@ -2436,10 +2735,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "The Supreme Court of India rolled out 'One Case One Data' to integrate electronic case files across all High Courts and District Courts with AI legal assistance.",
-      "explanation_te": "దేశవ్యాప్తంగా అన్ని హైకోర్టులు మరియు జిల్లా కోర్టుల కేసుల డేటాను ఏకీకృతం చేయడానికి మరియు న్యాయ సేవలను సులభతరం చేయడానికి సుప్రీంకోర్టు ఈ ప్రాజెక్టును ప్రారంభించింది."
+      "explanation_te": "దేశవ్యాప్తంగా అన్ని హైకోర్టులు మరియు జిల్లా కోర్టుల కేసుల డేటాను ఏకీకృతం చేయడానికి మరియు న్యాయ సేవలను సులభతరం చేయడానికి సుప్రీంకోర్టు ఈ ప్రాజెక్టును ప్రారంభించింది.",
+      "qNumber": 119
     },
     {
-      "id": 106,
+      "id": 120,
       "section": "General Studies",
       "topic": "Current Affairs - Defence Day Themes 2026",
       "question_en": "What was the official theme for Indian Army Day celebrated on 15 January 2026?",
@@ -2458,10 +2758,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "The Indian Army observed the year 2026 under the central theme 'Year of Networking and Data Centricity' to modernize battlefield communication and digital command systems.",
-      "explanation_te": "యుద్ధరంగంలో డిజిటల్ కమ్యూనికేషన్ మరియు ఆధునిక డేటా వ్యవస్థల వినియోగాన్ని పెంపొందించడానికి ఆర్మీ డే 2026 నినాదంగా దీనిని ప్రకటించారు."
+      "explanation_te": "యుద్ధరంగంలో డిజిటల్ కమ్యూనికేషన్ మరియు ఆధునిక డేటా వ్యవస్థల వినియోగాన్ని పెంపొందించడానికి ఆర్మీ డే 2026 నినాదంగా దీనిని ప్రకటించారు.",
+      "qNumber": 120
     },
     {
-      "id": 107,
+      "id": 121,
       "section": "General Studies",
       "topic": "Current Affairs - Science & Technology 2026",
       "question_en": "India’s first indigenous high-performance Micro GPU semiconductor chip was designed and taped out in 2026 by researchers at which institution?",
@@ -2480,164 +2781,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "Researchers at IIT Delhi successfully designed and taped out India's first indigenous Micro GPU tailored for energy-efficient edge AI processing and graphics rendering.",
-      "explanation_te": "ఎడ్జ్ AI మరియు గ్రాఫిక్స్ ప్రాసెసింగ్ కోసం భారతదేశపు తొలి స్వదేశీ మైక్రో GPU చిప్‌ను IIT ఢిల్లీ బృందం అభివృద్ధి చేసింది."
+      "explanation_te": "ఎడ్జ్ AI మరియు గ్రాఫిక్స్ ప్రాసెసింగ్ కోసం భారతదేశపు తొలి స్వదేశీ మైక్రో GPU చిప్‌ను IIT ఢిల్లీ బృందం అభివృద్ధి చేసింది.",
+      "qNumber": 121
     },
     {
-      "id": 108,
-      "section": "General Studies",
-      "topic": "Current Affairs - Quantum Technology 2026",
-      "question_en": "India’s first indigenous 20 milli-Kelvin (20 mK) ultra-low temperature Dilution Refrigerator essential for superconducting quantum computers was developed by DRDO in collaboration with which entity?",
-      "question_te": "సూపర్‌కండక్టింగ్ క్వాంటం కంప్యూటర్ల నిర్వహణకు కీలకమైన భారతదేశపు తొలి స్వదేశీ 20 మిల్లీ-కెల్విన్ (20 mK) డైల్యూషన్ రిఫ్రిజిరేటర్‌ను DRDO ఏ సంస్థతో కలిసి అభివృద్ధి చేసింది?",
-      "options_en": [
-        "ZeroMK Cryogenics",
-        "ISRO Cryogenic Centre",
-        "BARC Mumbai",
-        "BHEL Hyderabad"
-      ],
-      "options_te": [
-        "జీరో ఎంకే క్రయోజెనిక్స్ (ZeroMK)",
-        "ఇస్రో క్రయోజెనిక్ సెంటర్",
-        "బార్క్ ముంబై",
-        "భెల్ హైదరాబాద్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "DRDO and deep-tech startup ZeroMK co-developed the indigenous 20 mK dilution refrigerator, breaking reliance on Western cryo-cooling imports for India's National Quantum Mission.",
-      "explanation_te": "జాతీయ క్వాంటం మిషన్‌లో భాగంగా విదేశీ క్రయో-కూలింగ్ పరికరాలపై ఆధారపడటాన్ని తగ్గించడానికి DRDO మరియు ZeroMK కలిసి ఈ అల్ట్రా-లో టెంపరేచర్ కూలింగ్ వ్యవస్థను రూపొందించాయి."
-    },
-    {
-      "id": 109,
-      "section": "General Studies",
-      "topic": "Current Affairs - Quantum Tech & Regional Hubs 2026",
-      "question_en": "The foundation stone for the mega 'Amaravati Quantum & AI Campus' was laid in 2026 in which state in strategic partnership with global tech giants?",
-      "question_te": "ప్రపంచ సాంకేతిక సంస్థల భాగస్వామ్యంతో 'అమరావతి క్వాంటం & AI క్యాంపస్' మెగా ప్రాజెక్టుకు 2026లో ఏ రాష్ట్రంలో శంకుస్థాపన జరిగింది?",
-      "options_en": [
-        "Andhra Pradesh",
-        "Telangana",
-        "Karnataka",
-        "Tamil Nadu"
-      ],
-      "options_te": [
-        "ఆంధ్రప్రదేశ్",
-        "తెలంగాణ",
-        "కర్ణాటక",
-        "తమిళనాడు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Andhra Pradesh laid the foundation stone for the Amaravati Quantum & AI City hub partnering with Tata Group and global computing leaders to build quantum research infrastructure.",
-      "explanation_te": "ఆంధ్రప్రదేశ్ రాజధాని అమరావతిలో అత్యాధునిక క్వాంటం కంప్యూటింగ్ మరియు ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ హబ్‌కు శంకుస్థాపన చేశారు."
-    },
-    {
-      "id": 110,
-      "section": "General Studies",
-      "topic": "Current Affairs - Health & Vaccines 2026",
-      "question_en": "The Central Drugs Standard Control Organisation (CDSCO) approved which innovative live-attenuated tetravalent dengue vaccine in 2026 for clinical use in India?",
-      "question_te": "భారత ఔషధ నియంత్రణ సంస్థ (CDSCO) 2026లో ఏ వినూత్న టెట్రావాలెంట్ డెంగ్యూ వ్యాక్సిన్‌కు దేశంలో క్లినికల్ వినియోగానికి ఆమోదం తెలిపింది?",
-      "options_en": [
-        "Qdenga",
-        "Dengvaxia",
-        "ZyCoV-D",
-        "Mosquirix"
-      ],
-      "options_te": [
-        "క్యూడెంగా (Qdenga)",
-        "డెంగ్వాక్సియా",
-        "జైకోవ్-డి",
-        "మోస్కిరిక్స్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "CDSCO approved Takeda's Qdenga, a four-serotype tetravalent dengue vaccine shown to significantly reduce hospitalizations from severe dengue fever.",
-      "explanation_te": "తీవ్రమైన డెంగ్యూ జ్వరాన్ని మరియు ఆసుపత్రి చేరికలను సమర్థవంతంగా అరికట్టే టకెడా వారి 'క్యూడెంగా' టెట్రావాలెంట్ వ్యాక్సిన్‌కు భారతదేశంలో ఆమోదం లభించింది."
-    },
-    {
-      "id": 111,
-      "section": "General Studies",
-      "topic": "Current Affairs - Medical Technology 2026",
-      "question_en": "India’s first indigenously developed 1.5 Tesla superconducting MRI scanner was rolled out for clinical adoption under the leadership of which research agency?",
-      "question_te": "భారతదేశపు మొట్టమొదటి స్వదేశీ 1.5 టెస్లా సూపర్ కండక్టింగ్ MRI స్కానర్‌ను ఏ పరిశోధనా సంస్థ ఆధ్వర్యంలో రూపొందించి విడుదల చేశారు?",
-      "options_en": [
-        "SAMEER (Society for Applied Microwave Electronics)",
-        "CSIR-NCL",
-        "DRDO-INMAS",
-        "ICMR"
-      ],
-      "options_te": [
-        "సమీర్ (SAMEER)",
-        "సిఎస్ఐఆర్ - ఎన్సీఎల్",
-        "డిఆర్డిఓ - ఇన్మాస్",
-        "ఐసీఎంఆర్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "SAMEER under the Ministry of Electronics and Information Technology developed India's first 1.5T MRI machine to drastically cut diagnostic imaging costs across government hospitals.",
-      "explanation_te": "కేంద్ర ఎలక్ట్రానిక్స్ & ఐటీ శాఖ పరిధిలోని 'సమీర్' (SAMEER) దేశీయంగా 1.5 టెస్లా MRI స్కానర్‌ను అభివృద్ధి చేసి వైద్య పరికరాల రంగంలో స్వయం సమృద్ధిని సాధించింది."
-    },
-    {
-      "id": 112,
-      "section": "General Studies",
-      "topic": "Current Affairs - Biotechnology & Cancer 2026",
-      "question_en": "India’s first commercially approved indigenous CAR-T cell gene therapy for cancer treatment ('NexCAR19') was pioneered by which premier institution?",
-      "question_te": "క్యాన్సర్ చికిత్స కోసం భారతదేశపు మొట్టమొదటి స్వదేశీ CAR-T సెల్ జన్యు చికిత్స ('NexCAR19') ను ఏ ప్రముఖ విద్యాసంస్థ పరిశోధకులు రూపొందించారు?",
-      "options_en": [
-        "IIT Bombay and Tata Memorial Hospital",
-        "IIT Delhi and AIIMS",
-        "IISc Bengaluru and Kidwai",
-        "CSIR-CCMB Hyderabad"
-      ],
-      "options_te": [
-        "IIT బాంబే మరియు టాటా మెమోరియల్ హాస్పిటల్",
-        "IIT ఢిల్లీ మరియు ఎయిమ్స్",
-        "IISc బెంగళూరు మరియు కిద్వాయ్",
-        "CSIR-CCMB హైదరాబాద్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "NexCAR19, an affordable indigenous CAR-T cell therapy for lymphoma and leukemia, was innovated jointly by IIT Bombay, Tata Memorial Hospital, and ImmunoACT.",
-      "explanation_te": "బ్లడ్ క్యాన్సర్ బాధితులకు తక్కువ ఖర్చుతో అత్యున్నత జీన్ థెరపీ అందించడానికి IIT బాంబే మరియు టాటా మెమోరియల్ హాస్పిటల్ సంయుక్తంగా NexCAR19 ను అభివృద్ధి చేశాయి."
-    },
-    {
-      "id": 113,
-      "section": "General Studies",
-      "topic": "Current Affairs - Deep Tech Wearables 2026",
-      "question_en": "India’s first aerospace-grade titanium health smart ring 'Ring One', featuring clinical ECG and NFC contactless payments, was designed by which IIT-incubated startup?",
-      "question_te": "క్లినికల్ ఈసీజీ (ECG) మరియు ఎన్‌ఎఫ్‌సీ కాంటాక్ట్‌లెస్ చెల్లింపుల సదుపాయం గల భారతదేశపు తొలి టైటానియం స్మార్ట్ రింగ్ 'రింగ్ వన్' (Ring One) ను ఏ ఐఐటీ ఇంక్యుబేటెడ్ స్టార్టప్ రూపొందించింది?",
-      "options_en": [
-        "Muse Wearables (IIT Madras)",
-        "Ultrahuman (IIT Delhi)",
-        "Noise Labs (IIT Kanpur)",
-        "Agnikul (IIT Madras)"
-      ],
-      "options_te": [
-        "మ్యూజ్ వేరబుల్స్ (IIT మద్రాస్)",
-        "అల్ట్రాహ్యూమన్ (IIT ఢిల్లీ)",
-        "నాయిస్ ల్యాబ్స్ (IIT కాన్పూర్)",
-        "అగ్నికుల్ (IIT మద్రాస్)"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Muse Wearables, incubated at IIT Madras, developed 'Ring One' – India's indigenous smart ring providing continuous BP trend monitoring, medical ECG, and secure payments.",
-      "explanation_te": "IIT మద్రాస్ ఇంక్యుబేటెడ్ డీప్‌టెక్ స్టార్టప్ 'మ్యూజ్ వేరబుల్స్' ప్రపంచ స్థాయి హెల్త్ ట్రాకింగ్ మరియు చెల్లింపుల ఫీచర్లతో రింగ్ వన్‌ను ఆవిష్కరించింది."
-    },
-    {
-      "id": 114,
-      "section": "General Studies",
-      "topic": "Current Affairs - Clean Energy & Manufacturing 2026",
-      "question_en": "In 2026, ground was broken for a 20 GWh advanced Lithium-ion cell and battery giga-factory at which coastal industrial hub in Andhra Pradesh?",
-      "question_te": "2026లో 20 GWh అత్యాధునిక లిథియం-అయాన్ బ్యాటరీ సెల్ గిగా-ఫ్యాక్టరీ నిర్మాణానికి ఆంధ్రప్రదేశ్‌లోని ఏ తీరప్రాంత పారిశ్రామిక హబ్‌లో శంకుస్థాపన జరిగింది?",
-      "options_en": [
-        "Rambilli (Visakhapatnam)",
-        "Sri City (Tirupati)",
-        "Kakinada SEZ",
-        "Machilipatnam"
-      ],
-      "options_te": [
-        "రాంబిల్లి (విశాఖపట్నం)",
-        "శ్రీసిటీ (తిరుపతి)",
-        "కాకినాడ సెజ్",
-        "మచిలీపట్నం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Energy giants broke ground for a 20 GWh integrated battery cell giga-factory at Rambilli near Visakhapatnam to power electric vehicles and grid energy storage.",
-      "explanation_te": "ఎలక్ట్రిక్ వాహనాలు మరియు గ్రిడ్ ఇంధన నిల్వ కోసం విశాఖపట్నం సమీపంలోని రాంబిల్లిలో 20 GWh మెగా లిథియం-అయాన్ గిగా-ఫ్యాక్టరీ పనులను ప్రారంభించారు."
-    },
-    {
-      "id": 115,
+      "id": 122,
       "section": "General Studies",
       "topic": "Current Affairs - Green Ammonia Projects 2026",
       "question_en": "The world’s largest green ammonia and hydrogen export bunkering facility is being developed at which port region in Andhra Pradesh?",
@@ -2656,32 +2804,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "Kakinada in Andhra Pradesh was selected as the hub for developing one of the world's largest commercial-scale green ammonia export facilities powered by renewable energy.",
-      "explanation_te": "ఆంధ్రప్రదేశ్‌లోని కాకినాడ పోర్టు పరిసరాల్లో పునరుత్పాదక ఇంధనంతో పనిచేసే ప్రపంచ స్థాయి భారీ గ్రీన్ అమ్మోనియా ఉత్పత్తి మరియు ఎగుమతి హబ్‌ను ఏర్పాటు చేస్తున్నారు."
+      "explanation_te": "ఆంధ్రప్రదేశ్‌లోని కాకినాడ పోర్టు పరిసరాల్లో పునరుత్పాదక ఇంధనంతో పనిచేసే ప్రపంచ స్థాయి భారీ గ్రీన్ అమ్మోనియా ఉత్పత్తి మరియు ఎగుమతి హబ్‌ను ఏర్పాటు చేస్తున్నారు.",
+      "qNumber": 122
     },
     {
-      "id": 116,
-      "section": "General Studies",
-      "topic": "Current Affairs - Inland Waterways 2026",
-      "question_en": "India’s first indigenous zero-emission Hydrogen Fuel Cell passenger catamaran ferry was deployed for commercial pilgrim and tourist transport at which sacred river city?",
-      "question_te": "భారతదేశపు మొట్టమొదటి జీరో-ఎమిషన్ హైడ్రోజన్ ఫ్యూయల్ సెల్ ప్యాసింజర్ ఫెర్రీ పడవ ఏ పవిత్ర నదీ నగరంలో తీర్థయాత్రికులు మరియు పర్యాటకుల రవాణా కోసం ప్రారంభించబడింది?",
-      "options_en": [
-        "Varanasi / Prayagraj (Ganga)",
-        "Kolkata (Hooghly)",
-        "Haridwar (Ganga)",
-        "Guwahati (Brahmaputra)"
-      ],
-      "options_te": [
-        "వారణాసి / ప్రయాగ్‌రాజ్ (గంగా నది)",
-        "కోల్‌కతా (హూగ్లీ)",
-        "హరిద్వార్ (గంగా)",
-        "గౌహతి (బ్రహ్మపుత్ర)"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Built by Cochin Shipyard, India's first indigenous hydrogen fuel cell catamaran passenger ferry was launched on the National Waterway-1 at Varanasi/Prayagraj.",
-      "explanation_te": "కొచ్చిన్ షిప్‌యార్డ్ నిర్మించిన దేశపు మొట్టమొదటి హైడ్రోజన్ ఫ్యూయల్ సెల్ క్యాటమరాన్ బోటును గంగా నదిలో వారణాసి మరియు ప్రయాగ్‌రాజ్ ఘాట్ల వద్ద ప్రవేశపెట్టారు."
-    },
-    {
-      "id": 117,
+      "id": 123,
       "section": "General Studies",
       "topic": "Current Affairs - Urban Water Sustainability 2026",
       "question_en": "Which metropolitan city became India’s first large city (population over 7 million) to be officially certified as 'Water Positive' in 2026?",
@@ -2700,10 +2827,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "Mumbai became India's first mega-city with over 7 million population to achieve certified Water Positive status through extensive wastewater recycling and rainwater recharge.",
-      "explanation_te": "మురుగునీటి పునర్వినియోగం మరియు విస్తృత వర్షపు నీటి సంరక్షణ ద్వారా 70 లక్షలకు పైగా జనాభా ఉన్న నగరాల్లో ముంబై తొలి వాటర్ పాజిటివ్ నగరంగా నిలిచింది."
+      "explanation_te": "మురుగునీటి పునర్వినియోగం మరియు విస్తృత వర్షపు నీటి సంరక్షణ ద్వారా 70 లక్షలకు పైగా జనాభా ఉన్న నగరాల్లో ముంబై తొలి వాటర్ పాజిటివ్ నగరంగా నిలిచింది.",
+      "qNumber": 123
     },
     {
-      "id": 118,
+      "id": 124,
       "section": "General Studies",
       "topic": "Current Affairs - Deep Ocean Mission 2026",
       "question_en": "Under India’s flagship Deep Ocean Mission, the indigenous human submersible developed to carry 3 humans to a depth of 6,000 meters in the Indian Ocean is named:",
@@ -2722,10 +2850,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "MATSYA 6000, developed by the National Institute of Ocean Technology (NIOT), Chennai, underwent wet harbor and sea trials in 2026 to explore deep-sea polymetallic nodules.",
-      "explanation_te": "చెన్నైలోని జాతీయ సముద్ర సాంకేతిక సంస్థ (NIOT) అభివృద్ధి చేసిన 'మత్స్య 6000' సముద్ర గర్భంలో లోతైన వనరుల అన్వేషణకు కీలకమైన మానవ సహిత సబ్‌మెర్సిబుల్."
+      "explanation_te": "చెన్నైలోని జాతీయ సముద్ర సాంకేతిక సంస్థ (NIOT) అభివృద్ధి చేసిన 'మత్స్య 6000' సముద్ర గర్భంలో లోతైన వనరుల అన్వేషణకు కీలకమైన మానవ సహిత సబ్‌మెర్సిబుల్.",
+      "qNumber": 124
     },
     {
-      "id": 119,
+      "id": 125,
       "section": "General Studies",
       "topic": "Current Affairs - Aerospace Innovation 2026",
       "question_en": "Which private Indian space-tech startup successfully launched India's second private rocket powered by a single-piece 3D-printed semi-cryogenic engine ('Agnilet')?",
@@ -2744,10 +2873,11 @@
       ],
       "correct_option": 0,
       "explanation_en": "IIT Madras-incubated Agnikul Cosmos achieved the orbital-class flight of Agnibaan powered by the world's first single-piece 3D-printed rocket engine Agnilet.",
-      "explanation_te": "IIT మద్రాస్ ఇంక్యుబేటెడ్ అగ్నికుల్ కాస్మోస్ ప్రపంచంలోనే తొలిసారిగా సింగిల్-పీస్ 3D ప్రింటెడ్ ఇంజిన్ గల 'అగ్నిబాణ్' రాకెట్‌ను విజయవంతంగా ప్రయోగించింది."
+      "explanation_te": "IIT మద్రాస్ ఇంక్యుబేటెడ్ అగ్నికుల్ కాస్మోస్ ప్రపంచంలోనే తొలిసారిగా సింగిల్-పీస్ 3D ప్రింటెడ్ ఇంజిన్ గల 'అగ్నిబాణ్' రాకెట్‌ను విజయవంతంగా ప్రయోగించింది.",
+      "qNumber": 125
     },
     {
-      "id": 120,
+      "id": 126,
       "section": "General Studies",
       "topic": "Current Affairs - Railway Modernization 2026",
       "question_en": "The prototype of India’s first indigenously designed and manufactured Vande Bharat Sleeper Train for long-distance overnight travel was rolled out from:",
@@ -2766,80 +2896,12 @@
       ],
       "correct_option": 0,
       "explanation_en": "The prototype 16-coach Vande Bharat Sleeper train designed for 160 km/h overnight operations was manufactured and rolled out by BEML in Bengaluru.",
-      "explanation_te": "బెంగళూరులోని భారత్ ఎర్త్ మూవర్స్ లిమిటెడ్ (BEML) కర్మాగారం నుండి అత్యాధునిక ప్రపంచ స్థాయి సౌకర్యాలతో కూడిన తొలి వందే భారత్ స్లీపర్ రైలును విడుదల చేశారు."
+      "explanation_te": "బెంగళూరులోని భారత్ ఎర్త్ మూవర్స్ లిమిటెడ్ (BEML) కర్మాగారం నుండి అత్యాధునిక ప్రపంచ స్థాయి సౌకర్యాలతో కూడిన తొలి వందే భారత్ స్లీపర్ రైలును విడుదల చేశారు.",
+      "qNumber": 126
     },
     {
-      "id": 121,
-      "qNumber": 121,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The Reserve Bank of India set-up a Committee headed by Y.H. Malegam to study and\nadvise on :",
-      "question_te": "దిగువ తెలిపిన వాటిలో దేని గురించి అధ్యయనం చేసి సూచనలు ఇవ్వడానికి, భారత రిజర్వ్ బ్యాంకు Y.H.\nమాలేగం అధ్యక్షతన ఒక కమిటీని నియమించింది ?",
-      "options_en": [
-        "Self Help Groups and Banking Linkages",
-        "Micro Finance Sector",
-        "Pradhan Mantri Jan Dhan Yojana.",
-        "Jan Dhan, Aadhaar and Mobile."
-      ],
-      "options_te": [
-        "స్వయం సహాయక బృందాలు – బ్యాంకు",
-        "సూక్ష్మపరపతి రంగం.",
-        "ప్రధానమంత్రి జన్ ధన్ యోజన.",
-        "జన్ ధన్, ఆధార్ మొబైల్."
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Jan Dhan, Aadhaar and Mobile..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): జన్ ధన్, ఆధార్ మొబైల్.."
-    },
-    {
-      "id": 122,
-      "qNumber": 122,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which of the following studies stated that, 53.3 per cent of India's population i.e., (64.2\ncrore people) are suffering from multidimensional poverty ?",
-      "question_te": "భారతదేశ జనాభాలో 53.3 శాతం (64.2 కోట్ల మంది) బహుళరూప పేదరికం (multidimensional poverty)\nతో బాధపడుచున్నారని దిగువ వాటిలో ఏ అధ్యయనం తెలియపరిచింది ?",
-      "options_en": [
-        "Tendulkar Committee Report - 2009",
-        "Rangarajan Committee Report - 2014",
-        "Planning Commission Report - 1998",
-        "Human Development Report - 2016"
-      ],
-      "options_te": [
-        "టెండూల్కర్ కమిటీ నివేదిక - 2009",
-        "రంగరాజన్ కమిటీ నివేదిక - 2014",
-        "ప్రణాళికా సంఘం నివేదిక - 1998",
-        "మానవ అభివృద్ధి నివేదిక - 2016"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Rangarajan Committee Report - 2014.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): రంగరాజన్ కమిటీ నివేదిక - 2014."
-    },
-    {
-      "id": 123,
-      "qNumber": 123,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which one of the following industries is not exempted from the compulsory licencing ?",
-      "question_te": "కింద తెలిపిన పరిశ్రమలలో ఏ పరిశ్రమ తప్పనిసరి లైసెన్సింగ్ నుంచి మినహాయించబడలేదు ?",
-      "options_en": [
-        "Glass Industry",
-        "Paper Industry",
-        "Paint and Allied Products",
-        "Cigarette Industry"
-      ],
-      "options_te": [
-        "గ్లా స్/గాజు పరిశ్రమ",
-        "కాగిత పరిశ్రమ",
-        "పెయింట్ మరియు అనుబంధ వస్తు వులు",
-        "సిగరెట్ పరిశ్రమ"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Cigarette Industry.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): సిగరెట్ పరిశ్రమ."
-    },
-    {
-      "id": 124,
-      "qNumber": 124,
+      "id": 127,
+      "qNumber": 127,
       "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Assertion (A) : SAMADHAN scheme is meant for one time settlement of dues of small\nscale sick industrial units. Reason (R) : Sick units are required to make one time payment\n\n including interest not more than double of the loan amount. Choose the correct answer :",
@@ -2861,96 +2923,27 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): సరైనది కాదు, (R) సరైనది.."
     },
     {
-      "id": 125,
-      "qNumber": 125,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The President of India doesn't have which one of the following veto powers ?",
-      "question_te": "క్రింది వానిలో భారత రాష్ట్రపతికి లేని వీటో అధికారము ఏది ?",
-      "options_en": [
-        "Suspensive veto",
-        "Pocket veto",
-        "Absolute veto",
-        "Qualified veto"
-      ],
-      "options_te": [
-        "తాత్కాలిక నిలుపదల వీటో",
-        "జేబులో వీటో",
-        "నిరపేక్ష వీటో అధికారము",
-        "అర్హతలతో కూడిన వీటో అధికారము"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Qualified veto.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): అర్హతలతో కూడిన వీటో అధికారము."
-    },
-    {
-      "id": 126,
-      "qNumber": 126,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "During which Lok Sabha's tenure the tradition of giving the post of Deputy Speaker to the\nnominee of opposition party began ?",
-      "question_te": "ఉపసభాపతి పదవిని ప్రతిపక్ష పార్టీ అభ్యర్థికి ఇచ్చే సంప్రదాయము, మొదలైనది క్రింద తెల్పిన ఏ లోకసభ\nకాలంలో ?",
-      "options_en": [
-        "Lok Sabha11",
-        "Lok Sabha12",
-        "Lok Sabha9",
-        "Lok Sabha10"
-      ],
-      "options_te": [
-        "వ లోక సభ",
-        "వ లోక సభ",
-        "వ లోక సభ",
-        "వ లోక సభ"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Lok Sabha12.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): వ లోక సభ."
-    },
-    {
-      "id": 127,
-      "qNumber": 127,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which one of following type of legislation can be made without the prior sanction or\nrecommendation of the President ?",
-      "question_te": "క్రింది వానిలో ఏ విధమైన చట్ట రచన రాష్ట్రపతి ముందస్తు అనుమతి లేక సిఫారసు లేకుండా చేయవచ్చును ?",
-      "options_en": [
-        "A bill which varies the definition of Agricultural income.",
-        "A bill which affects the freedom of trade of commerce with other countries.",
-        "Alteration of boundaries of an existing state.",
-        "A bill which is money bill."
-      ],
-      "options_te": [
-        "వ్యవసాయ ఆదాయ",
-        "ఇతర",
-        "రాష్ట్రము యొక్కఉన్న సరిహద్దు లను",
-        "ఆర్థిక బిల్లు గా పిలువబడే బిల్లు ."
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): A bill which is money bill..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): ఆర్థిక బిల్లు గా పిలువబడే బిల్లు .."
-    },
-    {
       "id": 128,
       "qNumber": 128,
       "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Consider the following statements with regard to the State Legislature. i. An ordinary bill\ncan originate in any of the Houses. ii. Legislative Council can delay ordinary bill only for a\nperiod of three months in the first instance. iii. Legislative Council in the second instance\ncan hold ordinary bill for fifteen days. iv. Legislative Council can only delay a money bill for\ntwenty days. Choose the correct answer among the following :",
-      "question_te": "రాష్ట్ర శాసన శాఖకు సంబంధించి క్రింది ప్రకటనలను పరిగణించుము. i. సాధారణ బిల్లు ను ఏ సభలోనైనా\nప్రవేశపెట్టవచ్చును. ii. మొదటిసారి శాసన మండలి సాధారణ బిల్లు ను మూడు నెలల వరకు ఆలస్యము\nచేయవచ్చును. iii. రెండవసారి శాసన మండలి సాధారణ బిల్లు ను పదిహేను రోజుల వరకు ఆలస్యము\nచేయవచ్చును. iv. శాసన మండలి సాధారణ బిల్లు ను ఇరవై రోజుల వరకు ఆలస్యము చేయవచ్చును. క్రింది\nవాటిలో సరియైన జవాబును సూచింపుము :",
+      "topic": "Advanced Telangana Movement - Final Phase",
+      "question_en": "On which historic date did the Union Home Minister P. Chidambaram make the announcement that 'the process of forming the state of Telangana will be initiated'?",
+      "question_te": "కేంద్ర హోంమంత్రి పి. చిదంబరం 'ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటు ప్రక్రియను ప్రారంభిస్తున్నాం' అని చారిత్రాత్మక ప్రకటన ఏ రోజు రాత్రి చేశారు?",
       "options_en": [
-        "i, ii, iii, iv",
-        "i & ii",
-        "i, ii & iii",
-        "i, ii, iv"
+        "9 December 2009",
+        "29 November 2009",
+        "23 December 2009",
+        "2 June 2014"
       ],
       "options_te": [
-        "i, ii, iii, iv",
-        "i & ii",
-        "i, ii & iii",
-        "i, ii, iv"
+        "9 డిసెంబర్ 2009 (9 December 2009)",
+        "29 నవంబర్ 2009",
+        "23 డిసెంబర్ 2009",
+        "2 జూన్ 2014"
       ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): i & ii.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): i & ii."
+      "correct_option": 0,
+      "explanation_en": "Following K. Chandrashekar Rao's 11-day fast-unto-death and massive statewide student mobilization, Union Home Minister P. Chidambaram announced the statehood decision on midnight of 9 December 2009.",
+      "explanation_te": "కెసిఆర్ చేపట్టిన ఆమరణ నిరాహార దీక్షకు మద్దతుగా ఉద్యమం ఉధృతమవడంతో 2009 డిసెంబర్ 9 అర్ధరాత్రి కేంద్ర ప్రభుత్వం తెలంగాణ ప్రక్రియను ప్రారంభిస్తున్నట్లు ప్రకటించింది."
     },
     {
       "id": 129,
@@ -3002,6 +2995,719 @@
       "id": 131,
       "qNumber": 131,
       "section": "General Studies",
+      "topic": "Geography - Drainage Systems of India",
+      "question_en": "Which of the following rivers is the only perennial river in Peninsular India that receives rainfall from both South-West and North-East monsoons?",
+      "question_te": "దక్షిణ ద్వీపకల్ప భారతదేశంలో నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి నుండి వర్షపాతాన్ని పొందుతూ జీవనదిగా ప్రవహించే నది ఏది?",
+      "options_en": [
+        "Godavari River",
+        "Krishna River",
+        "Cauvery River (Kaveri)",
+        "Mahanadi River"
+      ],
+      "options_te": [
+        "గోదావరి నది",
+        "కృష్ణా నది",
+        "కావేరి నది (Cauvery)",
+        "మహానది"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The Cauvery basin receives summer rainfall from SW monsoon in upper reaches (Coorg) and winter rainfall from NE monsoon in lower reaches (Tamil Nadu), making it almost perennial.",
+      "explanation_te": "కావేరి నది ఎగువ ప్రాంతంలో నైరుతి రుతుపవనాల వల్ల, దిగువ ప్రాంతంలో ఈశాన్య రుతుపవనాల వల్ల వర్షం పొంది దాదాపు జీవనదిగా ప్రవహిస్తుంది."
+    },
+    {
+      "id": 132,
+      "qNumber": 132,
+      "section": "General Studies",
+      "topic": "Geography - Physiography of India",
+      "question_en": "Which gap or pass in the Western Ghats connects Palakkad in Kerala with Coimbatore in Tamil Nadu?",
+      "question_te": "పశ్చిమ కనుమలలో కేరళలోని పాలక్కాడ్‌ను తమిళనాడులోని కోయంబత్తూరుతో కలిపే ప్రముఖ కనుమ ఏది?",
+      "options_en": [
+        "Thal Ghat",
+        "Bhor Ghat",
+        "Palghat Gap (Palakkad Gap)",
+        "Shencottah Gap"
+      ],
+      "options_te": [
+        "థాల్ ఘాట్",
+        "భోర్ ఘాట్",
+        "పాల్ఘాట్ కనుమ (Palghat Gap)",
+        "షెంకోట్టా కనుమ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Palghat Gap is a major low mountain pass (around 30 km wide) in the Western Ghats between Nilgiri Hills and Anaimalai Hills.",
+      "explanation_te": "నీలగిరి మరియు ఆనైమలై కొండల మధ్య పశ్చిమ కనుమలలో విస్తరించి కేరళ, తమిళనాడులను కలిపే ముఖ్యమైన కనుమ పాల్ఘాట్."
+    },
+    {
+      "id": 133,
+      "qNumber": 133,
+      "section": "General Studies",
+      "topic": "Geography - Soils of India",
+      "question_en": "Which soil type in India develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan Plateau and turns yellow when hydrated?",
+      "question_te": "దక్కన్ పీఠభూమిలోని తక్కువ వర్షపాతం గల ప్రాంతాలలో స్పటికాకార అగ్నిశిలల నుండి ఏర్పడి, నీటిని గ్రహించినప్పుడు పసుపు రంగులోకి మారే నేలలు ఏవి?",
+      "options_en": [
+        "Laterite Soils",
+        "Red and Yellow Soils",
+        "Alluvial Soils",
+        "Saline Soils"
+      ],
+      "options_te": [
+        "లాటరైట్ నేలలు",
+        "ఎర్ర మరియు పసుపు నేలలు (Red and Yellow Soils)",
+        "ఒండ్రు నేలలు",
+        "చౌడు నేలలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Red soils develop a reddish color due to a wide diffusion of iron in crystalline and metamorphic rocks and look yellow in a hydrated form.",
+      "explanation_te": "ఐరన్ (ఇనుము) విస్తరణ వల్ల ఎరుపు రంగులోను, తేమను గ్రహించినప్పుడు పసుపు రంగులోను కనిపించేవి ఎర్ర నేలలు."
+    },
+    {
+      "id": 134,
+      "qNumber": 134,
+      "section": "General Studies",
+      "topic": "Geography - Biosphere Reserves & Ecology",
+      "question_en": "Which of the following was designated as India's very first National Park in 1936, originally named Hailey National Park?",
+      "question_te": "1936 లో 'హైలీ నేషనల్ పార్క్' పేరుతో స్థాపించబడిన భారతదేశపు మొట్టమొదటి జాతీయ ఉద్యానవనం ఏది?",
+      "options_en": [
+        "Kaziranga National Park",
+        "Jim Corbett National Park",
+        "Gir National Park",
+        "Kanha National Park"
+      ],
+      "options_te": [
+        "కాజిరంగా జాతీయ ఉద్యానవనం",
+        "జిమ్ కార్బెట్ జాతీయ ఉద్యానవనం (Jim Corbett)",
+        "గిర్ జాతీయ ఉద్యానవనం",
+        "కన్హా జాతీయ ఉద్యానవనం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Jim Corbett National Park in Nainital/Pauri Garhwal district of Uttarakhand was established in 1936 as Hailey National Park.",
+      "explanation_te": "ఉత్తరాఖండ్‌లో 1936 లో ఏర్పాటైన భారతదేశ తొలి జాతీయ ఉద్యానవనం జిమ్ కార్బెట్ నేషనల్ పార్క్."
+    },
+    {
+      "id": 135,
+      "qNumber": 135,
+      "section": "General Studies",
+      "topic": "Geography - Water Resources & Dams",
+      "question_en": "The Hirakud Dam, one of the longest earthen dams in the world, is constructed across which river in Odisha?",
+      "question_te": "ప్రపంచంలోనే అతి పొడవైన మట్టి ఆనకట్టలలో ఒకటైన హీరాకుడ్ డ్యామ్ ఒడిశాలోని ఏ నదిపై నిర్మించబడింది?",
+      "options_en": [
+        "Mahanadi River",
+        "Brahmani River",
+        "Baitarani River",
+        "Subarnarekha River"
+      ],
+      "options_te": [
+        "మహానది (Mahanadi)",
+        "బ్రాహ్మణి నది",
+        "బైతరణి నది",
+        "సువర్ణరేఖ నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Hirakud Dam was built across the Mahanadi River near Sambalpur in Odisha, commissioned in 1957.",
+      "explanation_te": "ఒడిశాలోని సంబల్‌పూర్ వద్ద మహానదిపై హీరాకుడ్ బహుళార్థసాధక ప్రాజెక్టు నిర్మించబడింది."
+    },
+    {
+      "id": 136,
+      "qNumber": 136,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Rivers & Drainage",
+      "question_en": "The Pranahita river, the largest tributary of the Godavari river in terms of water discharge, is formed by the confluence of which two rivers?",
+      "question_te": "గోదావరి నదికి అత్యధిక నీటిని అందించే అతిపెద్ద ఉపనది అయిన ప్రాణహిత ఏ రెండు నదుల సంగమం వల్ల ఏర్పడుతుంది?",
+      "options_en": [
+        "Wardha and Penganga",
+        "Wainganga and Wardha",
+        "Manjeera and Kadam",
+        "Indravati and Sabari"
+      ],
+      "options_te": [
+        "వార్ధా మరియు పెన్‌గంగ",
+        "వైన్‌గంగా మరియు వార్ధా (Wainganga & Wardha)",
+        "మంజీర మరియు కడెం",
+        "ఇంద్రావతి మరియు శబరి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "River Pranahita is formed by the combined waters of Penganga/Wardha and Wainganga at the Maharashtra-Telangana border.",
+      "explanation_te": "వార్ధా (పెన్‌గంగతో కలిసినది) మరియు వైన్‌గంగా నదులు సంగమించి ప్రాణహిత నదిగా ఏర్పడి కాళేశ్వరం వద్ద గోదావరిలో కలుస్తాయి."
+    },
+    {
+      "id": 137,
+      "qNumber": 137,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Rivers & Confluences",
+      "question_en": "At which historic pilgrim town in Telangana does the River Krishna receive its major tributary, the Tungabhadra?",
+      "question_te": "తెలంగాణలోని ఏ చారిత్రక పుణ్యక్షేత్రం వద్ద కృష్ణా నదిలో దాని ప్రధాన ఉపనది అయిన తుంగభద్ర సంగమిస్తుంది?",
+      "options_en": [
+        "Alampur (Jogulamba Gadwal district)",
+        "Beechupalli",
+        "Somashila",
+        "Nagarjuna Sagar"
+      ],
+      "options_te": [
+        "ఆలంపూర్ (జోగులాంబ గద్వాల జిల్లా)",
+        "బీచుపల్లి",
+        "సోమశిల",
+        "నాగార్జున సాగర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The confluence of Krishna and Tungabhadra takes place near Alampur (Dakshina Kashi) in Jogulamba Gadwal district.",
+      "explanation_te": "జోగులాంబ గద్వాల జిల్లాలోని దక్షిణ కాశీగా ప్రసిద్ధి చెందిన ఆలంపూర్ సమీపంలో కృష్ణా-తుంగభద్ర నదుల సంగమం జరుగుతుంది."
+    },
+    {
+      "id": 138,
+      "qNumber": 138,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Irrigation Projects",
+      "question_en": "The historic 'Nizam Sagar' project, constructed in 1931 across the Manjeera river, is located in which district of Telangana?",
+      "question_te": "1931 లో మంజీర నదిపై నిర్మించబడిన చారిత్రక 'నిజాం సాగర్' ప్రాజెక్టు తెలంగాణలోని ఏ జిల్లాలో ఉంది?",
+      "options_en": [
+        "Kamareddy district",
+        "Sangareddy district",
+        "Medak district",
+        "Nizamabad district"
+      ],
+      "options_te": [
+        "కామారెడ్డి జిల్లా (Kamareddy)",
+        "సంగారెడ్డి జిల్లా",
+        "మెదక్ జిల్లా",
+        "నిజామాబాద్ జిల్లా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nizam Sagar dam was constructed across the Manjeera river at Achampet in present Kamareddy district.",
+      "explanation_te": "నిజాం సాగర్ ప్రాజెక్టు ప్రస్తుత కామారెడ్డి జిల్లాలోని మంజీర నదిపై నిర్మించబడింది."
+    },
+    {
+      "id": 139,
+      "qNumber": 139,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Forests & Wildlife",
+      "question_en": "The 'Kawal Tiger Reserve' is situated in which of the following regions of northern Telangana?",
+      "question_te": "తెలంగాణ ఉత్తర భాగంలో ఉన్న 'కవ్వాల్ టైగర్ రిజర్వ్' ఏ పూర్వ అవిభక్త జిల్లా పరిధిలో విస్తరించి ఉంది?",
+      "options_en": [
+        "Adilabad / Mancherial / Nirmal",
+        "Khammam / Kothagudem",
+        "Warangal / Mulugu",
+        "Mahabubnagar / Nagarkurnool"
+      ],
+      "options_te": [
+        "ఆదిలాబాద్ / మంచిర్యాల / నిర్మల్",
+        "ఖమ్మం / కొత్తగూడెం",
+        "వరంగల్ / ములుగు",
+        "మహబూబ్‌నగర్ / నాగర్‌కర్నూల్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kawal Wildlife Sanctuary was declared a Tiger Reserve in 2012, situated in the catchment of Kadam and Godavari in Adilabad/Mancherial/Nirmal.",
+      "explanation_te": "కవ్వాల్ పులుల అభయారణ్యం పూర్వ ఆదిలాబాద్ (మంచిర్యాల, నిర్మల్) జిల్లా పరిధిలో విస్తరించి ఉంది."
+    },
+    {
+      "id": 140,
+      "qNumber": 140,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Plateaus & Hills",
+      "question_en": "The 'Ananthagiri Hills', which give rise to the River Musi, are located in which district of Telangana?",
+      "question_te": "మూసీ నది జన్మస్థానమైన 'అనంతగిరి కొండలు' తెలంగాణలోని ఏ జిల్లాలో ఉన్నాయి?",
+      "options_en": [
+        "Vikarabad district",
+        "Ranga Reddy district",
+        "Mahabubnagar district",
+        "Medak district"
+      ],
+      "options_te": [
+        "వికారాబాద్ జిల్లా (Vikarabad)",
+        "రంగారెడ్డి జిల్లా",
+        "మహబూబ్‌నగర్ జిల్లా",
+        "మెదక్ జిల్లా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ananthagiri Hills in Vikarabad district are densely forested hills where River Musi originates.",
+      "explanation_te": "వికారాబాద్ జిల్లాలోని అనంతగిరి కొండల్లో మూసీ నది జన్మిస్తుంది."
+    },
+    {
+      "id": 141,
+      "qNumber": 141,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Mineral Resources",
+      "question_en": "Extensive high-grade limestone deposits that feed major cement manufacturing clusters in Telangana are concentrated in which district?",
+      "question_te": "తెలంగాణలో భారీ సిమెంట్ కర్మాగారాలకు ముడిసరుకును అందించే సున్నపురాయి (లైమ్‌స్టోన్) నిల్వలు ఏ జిల్లాలో అత్యధికంగా కేంద్రీకృతమై ఉన్నాయి?",
+      "options_en": [
+        "Suryapet / Nalgonda",
+        "Bhadradri Kothagudem",
+        "Jogulamba Gadwal",
+        "Medchal Malkajgiri"
+      ],
+      "options_te": [
+        "సూర్యాపేట / నల్గొండ (Suryapet/Nalgonda)",
+        "భద్రాద్రి కొత్తగూడెం",
+        "జోగులాంబ గద్వాల",
+        "మేడ్చల్ మల్కాజిగిరి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Palnadu limestone basin extends across Suryapet (Mellacheruvu, Mattampally, Kodad) and Nalgonda, making it a cement hub.",
+      "explanation_te": "సూర్యాపేట మరియు నల్గొండ జిల్లాల్లోని సున్నపురాయి నిల్వల ఆధారంగా అనేక సిమెంట్ పరిశ్రమలు ఏర్పాటయ్యాయి."
+    },
+    {
+      "id": 142,
+      "qNumber": 142,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Administrative Geography",
+      "question_en": "Which of the following is the only district in Telangana that shares boundaries with three neighboring Indian states (Maharashtra, Karnataka, and Chhattisgarh)?",
+      "question_te": "తెలంగాణలోని ఏ జిల్లా మూడు పొరుగు రాష్ట్రాలతో సరిహద్దును పంచుకుంటుంది లేదా అంతర్రాష్ట్ర సరిహద్దు లక్షణాన్ని కలిగి ఉంది?",
+      "options_en": [
+        "None (No single district touches 3 states)",
+        "Kumuram Bheem Asifabad",
+        "Jashupur",
+        "Bhadradri Kothagudem"
+      ],
+      "options_te": [
+        "ఏ జిల్లా కూడా మూడు రాష్ట్రాలను తాకదు (No single district touches 3 states)",
+        "కుమురం భీమ్ ఆసిఫాబాద్",
+        "జాషుపూర్",
+        "భద్రాద్రి కొత్తగూడెం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "No single district in Telangana shares borders with 3 states. Bhadradri touches AP and Chhattisgarh; Kamareddy touches Maharashtra and Karnataka.",
+      "explanation_te": "తెలంగాణలో ఏ ఒక్క జిల్లా కూడా ఒకేసారి 3 రాష్ట్రాలతో సరిహద్దును కలిగి లేదు."
+    },
+    {
+      "id": 143,
+      "qNumber": 143,
+      "section": "General Studies",
+      "topic": "Geography - Indian Climate & Monsoons",
+      "question_en": "The phenomenon of 'Western Disturbances' that brings winter precipitation to North-West India originates over which body of water?",
+      "question_te": "వాయవ్య భారతదేశంలో శీతాకాలంలో వర్షపాతాన్ని కలిగించే 'పశ్చిమ అలజడులు' (Western Disturbances) ఏ సముద్రం మీదుగా ఉద్భవిస్తాయి?",
+      "options_en": [
+        "Mediterranean Sea",
+        "Arabian Sea",
+        "Red Sea",
+        "Bay of Bengal"
+      ],
+      "options_te": [
+        "మధ్యధరా సముద్రం (Mediterranean Sea)",
+        "అరేబియా సముద్రం",
+        "ఎర్ర సముద్రం",
+        "బంగాళాఖాతం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Western disturbances are extra-tropical cyclones originating over the Mediterranean Sea, carried by westerly jet streams to Punjab and Haryana.",
+      "explanation_te": "మధ్యధరా సముద్రంపై ఉద్భవించే పశ్చిమ అలజడులు జెట్ ప్రవాహాల ద్వారా భారతదేశ వాయవ్య ప్రాంతానికి శీతాకాలపు వర్షాన్ని తెస్తాయి."
+    },
+    {
+      "id": 144,
+      "qNumber": 144,
+      "section": "General Studies",
+      "topic": "Geography - Transport & Major Ports of India",
+      "question_en": "Which of the following is a major tidal port located in the Gulf of Kutch in Gujarat, known as Deendayal Port?",
+      "question_te": "గుజరాత్‌లోని కచ్ సింధుశాఖలో ఉన్న ప్రముఖ టైడల్ పోర్ట్ (దీన్‌దయాళ్ పోర్ట్) ఏది?",
+      "options_en": [
+        "Kandla Port",
+        "Mundra Port",
+        "Pipavav Port",
+        "Dahej Port"
+      ],
+      "options_te": [
+        "కాండ్లా పోర్ట్ (Kandla)",
+        "ముంద్రా పోర్ట్",
+        "పిపావావ్ పోర్ట్",
+        "దహేజ్ పోర్ట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kandla Port in Gujarat was developed post-independence to replace Karachi port and was renamed Deendayal Port Trust.",
+      "explanation_te": "కచ్ సింధుశాఖలోని కాండ్లా పోర్టును దీన్‌దయాళ్ పోర్ట్ అని పిలుస్తారు."
+    },
+    {
+      "id": 145,
+      "qNumber": 145,
+      "section": "General Studies",
+      "topic": "Indian Economy - Monetary Policy & Banking",
+      "question_en": "What is the 'Repo Rate' in the Indian financial system?",
+      "question_te": "భారతీయ ఆర్థిక వ్యవస్థలో 'రెపో రేటు' (Repo Rate) అనగా ఏమిటి?",
+      "options_en": [
+        "The interest rate at which commercial banks borrow short-term funds from the RBI against government securities",
+        "The rate at which RBI borrows from commercial banks",
+        "The lending rate charged by commercial banks to their prime corporate borrowers",
+        "The discount rate on export bills of exchange"
+      ],
+      "options_te": [
+        "ప్రభుత్వ సెక్యూరిటీల హామీతో వాణిజ్య బ్యాంకులు రిజర్వ్ బ్యాంకు నుండి స్వల్పకాలిక రుణాలు పొందే వడ్డీ రేటు",
+        "వాణిజ్య బ్యాంకుల నుండి ఆర్బీఐ అప్పు తీసుకునే రేటు",
+        "బ్యాంకులు తమ ఉత్తమ కస్టమర్లకు ఇచ్చే రుణాల వడ్డీ రేటు",
+        "ఎగుమతి బిల్లులపై డిస్కౌంట్ రేటు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Repo (Repurchase Option) rate is the key policy rate at which the RBI lends liquidity to commercial banks against eligible collateral.",
+      "explanation_te": "వాణిజ్య బ్యాంకులు తమ స్వల్పకాలిక ద్రవ్య అవసరాల కోసం ఆర్బీఐ వద్ద ప్రభుత్వ బాండ్లను తాకట్టు పెట్టి రుణాలు పొందే రేటును రెపో రేటు అంటారు."
+    },
+    {
+      "id": 146,
+      "qNumber": 146,
+      "section": "General Studies",
+      "topic": "Indian Economy - National Income Concepts",
+      "question_en": "How is 'Gross National Product at Market Prices' (GNP_MP) derived from Gross Domestic Product (GDP_MP)?",
+      "question_te": "స్థూల దేశీయోత్పత్తి (GDP_MP) నుండి 'స్థూల జాతీయోత్పత్తి' (GNP_MP) ని ఏ విధంగా లెక్కిస్తారు?",
+      "options_en": [
+        "GNP_MP = GDP_MP + Net Factor Income from Abroad (NFIA)",
+        "GNP_MP = GDP_MP - Depreciation",
+        "GNP_MP = GDP_MP + Indirect Taxes - Subsidies",
+        "GNP_MP = GDP_MP - Net Factor Income from Abroad"
+      ],
+      "options_te": [
+        "GNP_MP = GDP_MP + విదేశాల నుండి నికర కారక ఆదాయం (NFIA)",
+        "GNP_MP = GDP_MP - తరుగుదల",
+        "GNP_MP = GDP_MP + పరోక్ష పన్నులు - రాయితీలు",
+        "GNP_MP = GDP_MP - NFIA"
+      ],
+      "correct_option": 0,
+      "explanation_en": "GNP includes total value generated by residents of a country: GNP = GDP + Net Factor Income from Abroad (NFIA).",
+      "explanation_te": "దేశ పౌరులు దేశంలో మరియు విదేశాలలో సంపాదించిన మొత్తం ఆదాయాన్ని GNP అంటారు: GDP + విదేశాల నుండి నికర కారక ఆదాయం (NFIA)."
+    },
+    {
+      "id": 147,
+      "qNumber": 147,
+      "section": "General Studies",
+      "topic": "Indian Economy - Inflation & Price Indices",
+      "question_en": "What distinguishes 'Core Inflation' from 'Headline Inflation' in economic analysis?",
+      "question_te": "ఆర్థిక విశ్లేషణలో 'కోర్ ద్రవ్యోల్బణం' (Core Inflation) కు మరియు 'హెడ్‌లైన్ ద్రవ్యోల్బణం' కు గల ప్రధాన తేడా ఏమిటి?",
+      "options_en": [
+        "Core inflation excludes volatile food and fuel energy prices from the headline index",
+        "Core inflation includes only wholesale industrial raw materials",
+        "Core inflation is computed only for rural unorganized sectors",
+        "Core inflation measures only asset and stock market prices"
+      ],
+      "options_te": [
+        "హెడ్‌లైన్ సూచీ నుండి తీవ్ర ఒడిదుడుకులు ఉండే ఆహార మరియు ఇంధన ధరలను మినహాయించి కోర్ ద్రవ్యోల్బణాన్ని లెక్కిస్తారు",
+        "కోర్ ద్రవ్యోల్బణం పారిశ్రామిక ముడిసరుకును మాత్రమే లెక్కిస్తుంది",
+        "ఇది గ్రామీణ అసంఘటిత రంగానికి మాత్రమే వర్తిస్తుంది",
+        "ఇది కేవలం షేర్ మార్కెట్ ధరలను లెక్కిస్తుంది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Core inflation excludes volatile food and energy components to reflect the persistent, underlying trend in consumer price inflation.",
+      "explanation_te": "ఆహార, ఇంధన ధరలలో హెచ్చుతగ్గులు ఎక్కువగా ఉండటం వలన వాటిని మినహాయించి లెక్కించే స్థిరమైన ద్రవ్యోల్బణాన్ని కోర్ ద్రవ్యోల్బణం అంటారు."
+    },
+    {
+      "id": 148,
+      "qNumber": 148,
+      "section": "General Studies",
+      "topic": "Indian Economy - Public Finance & Deficits",
+      "question_en": "What does a 'Revenue Deficit' in a government budget indicate?",
+      "question_te": "ప్రభుత్వ బడ్జెట్‌లో 'రెవెన్యూ లోటు' (Revenue Deficit) దేనిని సూచిస్తుంది?",
+      "options_en": [
+        "Excess of government revenue expenditure over revenue receipts",
+        "Excess of total budget expenditure over total tax receipts",
+        "Total borrowing from the Reserve Bank of India",
+        "Difference between exports and imports"
+      ],
+      "options_te": [
+        "ప్రభుత్వ రెవెన్యూ రాబడుల కంటే రెవెన్యూ వ్యయం అధికంగా ఉండటం",
+        "మొత్తం బడ్జెట్ వ్యయం పన్ను రాబడుల కంటే మించడం",
+        "ఆర్బీఐ నుండి ప్రభుత్వం తీసుకున్న మొత్తం రుణం",
+        "ఎగుమతులు మరియు దిగుమతుల మధ్య వ్యత్యాసం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Revenue Deficit occurs when government's routine operational expenditures exceed its routine revenue receipts (taxes + non-tax fees).",
+      "explanation_te": "ప్రభుత్వ సాధారణ రోజువారీ పరిపాలనా ఖర్చులు (జీతాలు, వడ్డీలు) దాని రెవెన్యూ ఆదాయం కంటే మించిపోవడాన్ని రెవెన్యూ లోటు అంటారు."
+    },
+    {
+      "id": 149,
+      "qNumber": 149,
+      "section": "General Studies",
+      "topic": "Indian Economy - Banking & Non-Performing Assets",
+      "question_en": "According to Reserve Bank of India guidelines, an advance or loan is classified as a 'Non-Performing Asset' (NPA) when interest or principal remains overdue for a period of more than:",
+      "question_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా నిబంధనల ప్రకారం, రుణంపై అసలు లేదా వడ్డీ ఎన్ని రోజులకు మించి చెల్లించకుండా బకాయి ఉంటే దానిని 'నిరర్థక ఆస్తి' (NPA) గా వర్గీకరిస్తారు?",
+      "options_en": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
+      ],
+      "options_te": [
+        "30 రోజులు",
+        "60 రోజులు",
+        "90 రోజులు (90 days)",
+        "180 రోజులు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "An asset becomes an NPA when it ceases to generate income for the bank, with interest or principal installment overdue for over 90 days.",
+      "explanation_te": "వడ్డీ లేదా అసలు వాయిదా 90 రోజులకు పైగా చెల్లించబడకుండా నిలిచిపోతే ఆ రుణాన్ని నిరర్థక ఆస్తి (NPA) గా గుర్తిస్తారు."
+    },
+    {
+      "id": 150,
+      "qNumber": 150,
+      "section": "General Studies",
+      "topic": "Indian Economy - Balance of Payments",
+      "question_en": "The difference between the total monetary value of a nation's merchandise exports and merchandise imports is termed as:",
+      "question_te": "ఒక దేశం యొక్క వస్తు ఎగుమతులు మరియు వస్తు దిగుమతుల మొత్తం విలువల మధ్య గల తేడాను ఏమంటారు?",
+      "options_en": [
+        "Balance of Trade (Trade Balance)",
+        "Current Account Balance",
+        "Capital Account Balance",
+        "Balance of Invisible Payments"
+      ],
+      "options_te": [
+        "వర్తక సమతౌల్యం (Balance of Trade)",
+        "కరెంట్ ఖాతా బ్యాలెన్స్",
+        "మూలధన ఖాతా బ్యాలెన్స్",
+        "అదృశ్య లావాదేవీల బ్యాలెన్స్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Balance of Trade = Merchandise Exports - Merchandise Imports. It covers only visible physical goods.",
+      "explanation_te": "భౌతిక వస్తువుల ఎగుమతులు మరియు దిగుమతుల మధ్య గల తేడాను వర్తక సమతౌల్యం (Balance of Trade) అంటారు."
+    },
+    {
+      "id": 151,
+      "qNumber": 151,
+      "section": "General Studies",
+      "topic": "Telangana Economy - State Socio-Economic Outlook",
+      "question_en": "According to the Telangana Socio-Economic Outlook, which sector contributes the highest share to the Gross State Value Added (GSVA) of Telangana?",
+      "question_te": "తెలంగాణ సామాజిక ఆర్థిక సర్వే ప్రకారం, రాష్ట్ర స్థూల విలువ జోడింపు (GSVA) లో అత్యధిక వాటాను కలిగి ఉన్న రంగం ఏది?",
+      "options_en": [
+        "Services Sector",
+        "Industrial Sector",
+        "Agricultural and Allied Sector",
+        "Mining and Quarrying Sector"
+      ],
+      "options_te": [
+        "సేవా రంగం (Services Sector)",
+        "పారిశ్రామిక రంగం",
+        "వ్యవసాయ మరియు అనుబంధ రంగాలు",
+        "గనుల రంగం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Services sector (IT, finance, trade, hospitality) contributes around 64% of Telangana's GSVA.",
+      "explanation_te": "తెలంగాణ ఆర్థిక వ్యవస్థలో ఐటీ, రియల్ ఎస్టేట్, బ్యాంకింగ్ రంగాలతో కూడిన సేవా రంగం సుమారు 64% వాటాతో అగ్రస్థానంలో ఉంది."
+    },
+    {
+      "id": 152,
+      "qNumber": 152,
+      "section": "General Studies",
+      "topic": "Telangana Economy - Agriculture & Irrigation",
+      "question_en": "The flagship irrigation program 'Mission Kakatiya' was undertaken by the Government of Telangana with the objective of:",
+      "question_te": "తెలంగాణ ప్రభుత్వం ప్రతిష్టాత్మకంగా చేపట్టిన 'మిషన్ కాకతీయ' పథకం యొక్క ప్రధాన లక్ష్యం ఏమిటి?",
+      "options_en": [
+        "Restoration and desiltation of 46,500 minor irrigation tanks across the state",
+        "Construction of thermal power stations",
+        "Distribution of drip irrigation kits to small farmers",
+        "Digging of new borewells in drought mandals"
+      ],
+      "options_te": [
+        "రాష్ట్రంలోని 46,500 గొలుసుకట్టు చెరువుల పునరుద్ధరణ మరియు పూడికతీత",
+        "థర్మల్ విద్యుత్ కేంద్రాల నిర్మాణం",
+        "బిందు సేద్యం కిట్ల పంపిణీ",
+        "కరువు మండలాల్లో కొత్త బోర్ల తవ్వకం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mission Kakatiya aimed to restore minor irrigation chain tanks to revive traditional decentralized water harvesting.",
+      "explanation_te": "కాకతీయుల నాటి గొలుసుకట్టు చెరువుల పూడికతీత, మరమ్మతుల ద్వారా భూగర్భ జలాలను పెంచడానికి మిషన్ కాకతీయ చేపట్టారు."
+    },
+    {
+      "id": 153,
+      "qNumber": 153,
+      "section": "General Studies",
+      "topic": "Telangana Economy - Industrial Infrastructure",
+      "question_en": "'T-Works' set up by the Telangana Government in Hyderabad is celebrated as:",
+      "question_te": "హైదరాబాద్‌లో తెలంగాణ ప్రభుత్వం ఏర్పాటు చేసిన 'టి-వర్క్స్' (T-Works) దేనికి ప్రసిద్ధి చెందింది?",
+      "options_en": [
+        "India's largest prototyping center for hardware and electronics innovation",
+        "Software coding academy for rural youth",
+        "State commercial tax grievance tribunal",
+        "Apparel export processing zone"
+      ],
+      "options_te": [
+        "హార్డ్‌వేర్ మరియు ఎలక్ట్రానిక్స్ ఆవిష్కరణల కోసం భారతదేశంలోనే అతిపెద్ద ప్రోటోటైపింగ్ కేంద్రం",
+        "గ్రామీణ యువతకు సాఫ్ట్‌వేర్ శిక్షణా కేంద్రం",
+        "వాణిజ్య పన్నుల పరిష్కార ట్రైబ్యునల్",
+        "వస్త్ర ఎగుమతి ప్రాసెసింగ్ జోన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "T-Works is an 78,000 sq.ft prototyping facility enabling innovators and hardware startups to build physical prototypes.",
+      "explanation_te": "హార్డ్‌వేర్ ఉత్పత్తులు, ఎలక్ట్రానిక్స్ రంగంలో నూతన ఆవిష్కరణలను ప్రోత్సహించడానికి టి-వర్క్స్ ను ప్రోటోటైపింగ్ కేంద్రంగా తీర్చిదిద్దారు."
+    },
+    {
+      "id": 154,
+      "qNumber": 154,
+      "section": "General Studies",
+      "topic": "Telangana Economy - Social Welfare Guarantees",
+      "question_en": "Under the 'Cheyutha' pension guarantee in Telangana, what is the enhanced monthly financial assistance intended for eligible elderly and disabled persons?",
+      "question_te": "తెలంగాణలో 'చేయూత' సంక్షేమ హామీ క్రింద అర్హులైన వృద్ధులు, వితంతువులకు అందించేందుకు ఉద్దేశించిన నెలవారీ పెన్షన్ మొత్తం ఎంత?",
+      "options_en": [
+        "₹2,016 per month",
+        "₹3,016 per month",
+        "₹4,000 per month",
+        "₹5,000 per month"
+      ],
+      "options_te": [
+        "నెలకు ₹2,016",
+        "నెలకు ₹3,016",
+        "నెలకు ₹4,000 (₹4,000 per month)",
+        "నెలకు ₹5,000"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Under the Six Guarantees, the Cheyutha scheme aims to provide ₹4,000 monthly social security pension to beneficiaries.",
+      "explanation_te": "ఆరు గ్యారెంటీలలోని చేయూత పథకం క్రింద ఆసరా లబ్ధిదారులకు నెలకు ₹4,000 పెన్షన్ అందించే ప్రతిపాదన ఉంది."
+    },
+    {
+      "id": 155,
+      "qNumber": 155,
+      "section": "General Studies",
+      "topic": "Indian Economy - Taxation & Fiscal Policy",
+      "question_en": "Which of the following is categorized as a 'Direct Tax' levied by the Central Government in India?",
+      "question_te": "భారతదేశంలో కేంద్ర ప్రభుత్వం విధించే పన్నులలో 'ప్రత్యక్ష పన్ను' (Direct Tax) క్రింది వాటిలో ఏది?",
+      "options_en": [
+        "Goods and Services Tax (GST)",
+        "Customs Duty",
+        "Corporation Tax (Corporate Income Tax)",
+        "Central Excise Duty on Petroleum"
+      ],
+      "options_te": [
+        "వస్తు సేవల పన్ను (GST)",
+        "కస్టమ్స్ డ్యూటీ",
+        "కార్పొరేషన్ పన్ను (కంపెనీల ఆదాయపు పన్ను)",
+        "కేంద్ర ఎక్సైజ్ డ్యూటీ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Corporation Tax and Personal Income Tax are direct taxes whose liability cannot be shifted to another person.",
+      "explanation_te": "కార్పొరేషన్ పన్ను మరియు వ్యక్తిగత ఆదాయపు పన్నులు ప్రత్యక్ష పన్నులు, వీటి భారాన్ని ఇతరులపైకి బదిలీ చేయలేము."
+    },
+    {
+      "id": 156,
+      "qNumber": 156,
+      "section": "General Studies",
+      "topic": "Telangana Economy - IT & Service Exports",
+      "question_en": "Telangana contributes approximately what proportion of India's total Information Technology (IT) service exports?",
+      "question_te": "భారతదేశ మొత్తం ఐటీ (IT) సేవల ఎగుమతులలో తెలంగాణ రాష్ట్రం సుమారు ఎంత శాతం వాటాను కలిగి ఉంది?",
+      "options_en": [
+        "Around 5%",
+        "Around 10%",
+        "Around one-third (approx. 33%)",
+        "Over 60%"
+      ],
+      "options_te": [
+        "సుమారు 5%",
+        "సుమారు 10%",
+        "సుమారు మూడో వంతు (సుమారు 33%)",
+        "60% కి పైగా"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Telangana's IT exports exceeded ₹2.41 lakh crore, accounting for nearly one-third of the net national IT employment and export additions.",
+      "explanation_te": "దేశీయ ఐటీ రంగంలో నికర ఉద్యోగ కల్పన మరియు ఎగుమతులలో తెలంగాణ సుమారు మూడో వంతు వాటాను అందిస్తోంది."
+    },
+    {
+      "id": 157,
+      "qNumber": 157,
+      "section": "General Studies",
+      "topic": "Indian Economy - Money Supply Aggregates",
+      "question_en": "In the Reserve Bank of India's monetary statistics, which measure is officially designated as 'Broad Money'?",
+      "question_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ద్రవ్య కొలమానాలలో 'విశాల ద్రవ్యం' (Broad Money) గా దేనిని వ్యవహరిస్తారు?",
+      "options_en": [
+        "M1",
+        "M2",
+        "M3",
+        "M4"
+      ],
+      "options_te": [
+        "M1",
+        "M2",
+        "M3 (M3 Aggregate)",
+        "M4"
+      ],
+      "correct_option": 2,
+      "explanation_en": "M3 = Currency with public + Demand deposits + Time deposits with banks, representing Broad Money.",
+      "explanation_te": "కరెన్సీ + డిమాండ్ డిపాజిట్లు + కాలపరిమితి (ఫిక్స్‌డ్) డిపాజిట్లతో కూడిన M3 ని విశాల ద్రవ్యం అంటారు."
+    },
+    {
+      "id": 158,
+      "qNumber": 158,
+      "section": "General Studies",
+      "topic": "Indian Economy - Economic Planning & NITI Aayog",
+      "question_en": "Who serves as the ex-officio Chairperson of the Governing Council of NITI Aayog?",
+      "question_te": "నీతి ఆయోగ్ గవర్నింగ్ కౌన్సిల్‌కు ఎక్స్-అఫీషియో ఛైర్‌పర్సన్‌గా వ్యవహరించేది ఎవరు?",
+      "options_en": [
+        "President of India",
+        "Prime Minister of India",
+        "Union Finance Minister",
+        "Vice Chairman of NITI Aayog"
+      ],
+      "options_te": [
+        "భారత రాష్ట్రపతి",
+        "భారత ప్రధానమంత్రి (Prime Minister)",
+        "కేంద్ర ఆర్థిక మంత్రి",
+        "నీతి ఆయోగ్ ఉపాధ్యక్షుడు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Prime Minister of India is the Chairperson of NITI Aayog and heads its Governing Council comprising all Chief Ministers and Lt. Governors.",
+      "explanation_te": "నీతి ఆయోగ్ కు ప్రధానమంత్రి ఛైర్మన్‌గా వ్యవహరిస్తారు."
+    },
+    {
+      "id": 159,
+      "qNumber": 159,
+      "section": "General Studies",
+      "topic": "Advanced General Studies & State Policies",
+      "question_en": "The President of India doesn't have which one of the following veto powers ?",
+      "question_te": "క్రింది వానిలో భారత రాష్ట్రపతికి లేని వీటో అధికారము ఏది ?",
+      "options_en": [
+        "Suspensive veto",
+        "Pocket veto",
+        "Absolute veto",
+        "Qualified veto"
+      ],
+      "options_te": [
+        "తాత్కాలిక నిలుపదల వీటో",
+        "జేబులో వీటో",
+        "నిరపేక్ష వీటో అధికారము",
+        "అర్హతలతో కూడిన వీటో అధికారము"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Qualified veto.",
+      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): అర్హతలతో కూడిన వీటో అధికారము."
+    },
+    {
+      "id": 160,
+      "qNumber": 160,
+      "section": "General Studies",
+      "topic": "Advanced General Studies & State Policies",
+      "question_en": "During which Lok Sabha's tenure the tradition of giving the post of Deputy Speaker to the\nnominee of opposition party began ?",
+      "question_te": "ఉపసభాపతి పదవిని ప్రతిపక్ష పార్టీ అభ్యర్థికి ఇచ్చే సంప్రదాయము, మొదలైనది క్రింద తెల్పిన ఏ లోకసభ\nకాలంలో ?",
+      "options_en": [
+        "Lok Sabha11",
+        "Lok Sabha12",
+        "Lok Sabha9",
+        "Lok Sabha10"
+      ],
+      "options_te": [
+        "వ లోక సభ",
+        "వ లోక సభ",
+        "వ లోక సభ",
+        "వ లోక సభ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Lok Sabha12.",
+      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): వ లోక సభ."
+    },
+    {
+      "id": 161,
+      "qNumber": 161,
+      "section": "General Studies",
+      "topic": "Advanced General Studies & State Policies",
+      "question_en": "Which one of following type of legislation can be made without the prior sanction or\nrecommendation of the President ?",
+      "question_te": "క్రింది వానిలో ఏ విధమైన చట్ట రచన రాష్ట్రపతి ముందస్తు అనుమతి లేక సిఫారసు లేకుండా చేయవచ్చును ?",
+      "options_en": [
+        "A bill which varies the definition of Agricultural income.",
+        "A bill which affects the freedom of trade of commerce with other countries.",
+        "Alteration of boundaries of an existing state.",
+        "A bill which is money bill."
+      ],
+      "options_te": [
+        "వ్యవసాయ ఆదాయ",
+        "ఇతర",
+        "రాష్ట్రము యొక్కఉన్న సరిహద్దు లను",
+        "ఆర్థిక బిల్లు గా పిలువబడే బిల్లు ."
+      ],
+      "correct_option": 3,
+      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): A bill which is money bill..",
+      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): ఆర్థిక బిల్లు గా పిలువబడే బిల్లు .."
+    },
+    {
+      "id": 162,
+      "qNumber": 162,
+      "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Which Amendment of Indian constitution implicitly says that fundamental rights are\namendable under the procedure laid down in Article 368 ?",
       "question_te": "ఏ రాజ్యాంగ సవరణ అధికరణము 368 లో పొందుపరిచిన విధముగా ప్రా థమిక హక్కులను\nసవరించవచ్చునని సూచనగా/పరోక్షంగా చెప్పినది ?",
@@ -3022,54 +3728,8 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): వది."
     },
     {
-      "id": 132,
-      "qNumber": 132,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Who among the following is authorized to decide the applicability of any Particular Act of\nParliament to a Scheduled Area ?",
-      "question_te": "క్రింది వారిలో ఎవరికి ఒక ప్రత్యేక పార్లమెంట్ చట్టము షెడ్యూల్డ్ ప్రాంతాలకు వర్తిస్తుందా లేదా అని నిర్ధయించు\nఅధికారము కలదు ?",
-      "options_en": [
-        "Union Tribal Affairs Minster",
-        "Prime Minister",
-        "President",
-        "Governor"
-      ],
-      "options_te": [
-        "కేంద్ర గిరిజన శాఖ వ్యవహారాల శాఖ మంత్రి",
-        "ప్రధానమంత్రి",
-        "రాష్ట్రపతి",
-        "గవర్నర్"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Prime Minister.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): ప్రధానమంత్రి."
-    },
-    {
-      "id": 133,
-      "qNumber": 133,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Match the following :",
-      "question_te": "జతపరచుము :\nList-I (Committee)జాబితా-I (కమిటీ)\n\na. Balwant Rai Mehtaa.\n\nబల్వంతరాయ్ మెహతా\nb. Ashok Mehtab. అశోక్ మెహతా\nc. K. Santhanamc. కె. సంతానం\nd. L.M. Singhvid. ఎల్.ఎమ్ సింఘ్వి\n\nList-II (Recommendation)జాబితా-II (సిఫారసు)\n\ni. Zilla Parishad should be executive bodyi. జిల్లా పరిషత్తు\n\nకార్యనిర్వాహక సంఘ\n\nii. Nyaya Panchayatsii. న్యాయ పంచాయితీలు\niii. Zilla Parishad should be advisory bodyiii. జిల్లా\n\nపరిషత్తు సలహా సంఘ\n\niv. Panchayati Raj Finance Corporationiv. పంచాయితీ రాజ్\n\nఫైనాన్స్ కార్పొరేషన్",
-      "options_en": [
-        "a-ii, b-i, c-iv, d-iii",
-        "a-i, b-iii, c-iv, d-ii",
-        "a-iii, b-i, c-iv, d-ii",
-        "a-iii, b-ii, c-i, d-iv"
-      ],
-      "options_te": [
-        "a-ii, b-i, c-iv, d-iii",
-        "a-i, b-iii, c-iv, d-ii",
-        "a-iii, b-i, c-iv, d-ii",
-        "a-iii, b-ii, c-i, d-iv"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): a-iii, b-ii, c-i, d-iv.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): a-iii, b-ii, c-i, d-iv."
-    },
-    {
-      "id": 134,
-      "qNumber": 134,
+      "id": 163,
+      "qNumber": 163,
       "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Which Article of Indian constitution provides for making any special provision for women\nand children ?",
@@ -3091,468 +3751,8 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): 15(1)."
     },
     {
-      "id": 135,
-      "qNumber": 135,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which of the following is/are the objective(s) of Ministry of Skill Development and\nEntrepreneurship (MSDE) ? a. To fulfil the vision of Skill India Programme b. To maintain\nsupply-side skilled labour force statistics c. To fill the gap between demand and supply of\nskilled manpower The correct answer is :",
-      "question_te": "క్రింది వాటిలో ఏది/ఏవి నైపుణ్య అభివృద్ధి మరియు వ్యవస్థా పకత మంత్రిత్వశాఖ (Ministry of Skill\nDevelopment and Entrepreneurship (MSDE) లక్ష్యం/లక్ష్యాలు ? a. Skill India పథకపు దార్శనికత\n(vision) ను పూర్తి చేయుట. b. సప్లయ్ వైపునకు సంబంధించి నైపుణ్యంగల శ్రా మిక శక్తి గణాంకాలను\nనిర్వహించుట. c. నైపుణ్యం గల శ్రా మిక శక్తి డిమాండ్-సప్లయిల మధ్య ఉండే అంతరాన్ని పూరించుట. సరైన\nసమాధానం :",
-      "options_en": [
-        "b and c only are correct.b",
-        "a and c only are correct.a",
-        "a, b and c are correct.a, b",
-        "a and b only are correct.a"
-      ],
-      "options_te": [
-        "మరియు c మాత్రమే సరైనవి",
-        "మరియు c మాత్రమే సరైనవి",
-        "మరియు c సరైనవి",
-        "మరియు b మాత్రమే సరైనవి"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): a and b only are correct.a.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మరియు b మాత్రమే సరైనవి."
-    },
-    {
-      "id": 136,
-      "qNumber": 136,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "In the Constituent Assembly, the 'Objectives Resolution' was passed on :\n'",
-      "question_te": "ఉద్దేశ్యముల తీర్మానము' రాజ్యాంగ చట్టసభలో ఎప్పుడు ఆమోదింపబడినది ?",
-      "options_en": [
-        "January, 194724",
-        "January, 194725",
-        "January, 194726",
-        "January, 194722"
-      ],
-      "options_te": [
-        "జనవరి, 1947",
-        "జనవరి, 1947",
-        "జనవరి, 1947",
-        "జనవరి, 1947"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): January, 194725.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): జనవరి, 1947."
-    },
-    {
-      "id": 137,
-      "qNumber": 137,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which one of the following statement is correct with regard to parliamentary committees ?",
-      "question_te": "పార్లమెంటరీ కమిటీలకు సంబంధించి క్రింది వానిలో సరియైన ప్రకటన ఏది ?",
-      "options_en": [
-        "The members of the Estimates Committees are elected by Lok Shabha.",
-        "Public Accounts Committee consists of 30 members.",
-        "Committee on Empowerment of women is a departmentally related\ncommittee.",
-        "Committee on Home affairs is a Joint Parliamentary Committee."
-      ],
-      "options_te": [
-        "అంచనాల",
-        "ప్రజా పద్దు ల కమిటీ సభ్యుల సంఖ్య",
-        "మహిళా సాధికారత, కమిటీ విభాగ సంబంధిత స్టాండింగ్ కమిటీ.",
-        "హోమ్ శాఖ"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Committee on Home affairs is a Joint Parliamentary Committee..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): హోమ్ శాఖ."
-    },
-    {
-      "id": 138,
-      "qNumber": 138,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "From among the following, which Committee's recommendations were accepted by RBI to\nswitch to consumer prices from wholesale prices in setting its inflation target and making\nmonetary policy?",
-      "question_te": "ద్రవ్య విధాన రూప కల్పనలో ద్రవ్యోల్బణ లక్ష్య (inflation target) నిర్దేశానికి టోకు ధరల (wholesale prices)\nస్థా నంలో వినియోగ వస్తు ధరలు ఉపయోగించాలని ఈ క్రింది వాటిలో ఏ కమిటీ చేసిన సిఫారసును RBI\nఅంగీకరించింది ?",
-      "options_en": [
-        "Y.V. Reddy Committee",
-        "Bimal Jalan Committee",
-        "Raghuram Rajan Committee",
-        "Urjit Patel Committee"
-      ],
-      "options_te": [
-        "వై.వి. రెడ్డి కమిటీ",
-        "బిమల్ జలాన్ కమిటీ",
-        "రఘురాం రాజన్ కమిటీ",
-        "ఊర్జిత్ పచేల్ కమిటీ"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Bimal Jalan Committee.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): బిమల్ జలాన్ కమిటీ."
-    },
-    {
-      "id": 139,
-      "qNumber": 139,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Assertion (A) : Workers – population ratio in India is low in contrast to that in developed\ncountries. Reason (R) : Rapid growth of population, low female worker population rate and\nomission of unpaid family workers lead to low worker-population ratio. Choose the correct\nanswer :",
-      "question_te": "ప్రతిపాదన (A) : అభివృద్ధి చెందిన దేశాలతో పోల్చినప్పుడు భారతదేశంలో 'శ్రా మికులు – జనాభా నిష్పత్తి '\nతక్కువ. కారణం (R) : జనాభాలో శీఘ్రతర వృద్ధి , జనాభాలో మహిళా శ్రా మికుల రేటు తక్కువగా ఉండడం,\n\n వేతన చెల్లింపు లేని గృహరంగ శ్రా మికులను లెక్కింపులోకి తీసుకోకపోవడం వంటివి, శ్రా మికులు – జనాభా\nనిష్పత్తిలో తగ్గు దలను సూచించును. సరియైన సమాధానాన్ని గుర్తించండి :",
-      "options_en": [
-        "(A) is true, but (R) is false.(A)",
-        "(A) is false, but (R) is true.(A)",
-        "Both (A) and (R) are true, but (R) is not a correct explanation of (A).(A)",
-        "Both (A) and (R) are true, and (R) is the correct explanation of (A).(A)"
-      ],
-      "options_te": [
-        "సరైనది, కాగా (R) సరైనది కాదు.",
-        "సరైనది కాదు, కాగా (R) సరైనది.",
-        "మరియు (R)",
-        "మరియు (R)"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Both (A) and (R) are true, and (R) is the correct explanation of (A).(A).",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మరియు (R)."
-    },
-    {
-      "id": 140,
-      "qNumber": 140,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The important geographical divisions in India are",
-      "question_te": "భారతదేశంలో ప్రధాన భౌగోళిక విభజనలు :",
-      "options_en": [
-        "Himalayas and Deserts",
-        "29 States only29",
-        "Himalayas, Ganga-Sindhu River Plain, Coastal Areas, Peninsular Plateau, Deserts\nand Islands.",
-        "Forests, Rivers, Mountains and Sea coasts"
-      ],
-      "options_te": [
-        "హిమాలయాలు మరియు ఎడారులు",
-        "రాష్ట్రాలు మాత్రమే",
-        "హిమాలయాలు, గంగా-సింధూనది మైదానం, ద్వీపకల్ప పీఠభూమి, తీరప్రాంత",
-        "అడవులు, నదులు, పర్వతాలు మరియు"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): 29 States only29.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): రాష్ట్రాలు మాత్రమే."
-    },
-    {
-      "id": 141,
-      "qNumber": 141,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which of the following is the key factor in social studies ?",
-      "question_te": "సాంఘిక శాస్త్రంలో చాలా కీలకమైన అంశం క్రింది వాటిలో ఏది ?",
-      "options_en": [
-        "Forests",
-        "Technical problems",
-        "Development in Medical Sciences",
-        "Population"
-      ],
-      "options_te": [
-        "అడవులు",
-        "సాంకేతిక సమస్యలు",
-        "వైద్య శాస్త్రములో అభివృద్ధి",
-        "జనాభా"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Population.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): జనాభా."
-    },
-    {
-      "id": 142,
-      "qNumber": 142,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The main reason for \"Globalization\" is\n\"",
-      "question_te": "ప్రపంచీకరణ ప్రక్రియ\" కు ప్రధాన కారణము :",
-      "options_en": [
-        "Gap between the rich and the poor",
-        "Political parties",
-        "Message-oriented films",
-        "Fast growing technological knowledge"
-      ],
-      "options_te": [
-        "ధనికులు మరియు పేదవారికి మధ్య ఉన్న అంతర్యం",
-        "రాజకీయ పార్టీలు",
-        "సందేశాత్మక సినిమాలు",
-        "వేగంగా అభివృద్ధి చెందుతున్న సాంకేతిక పరిజ్ఞా నం"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Political parties.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): రాజకీయ పార్టీలు."
-    },
-    {
-      "id": 143,
-      "qNumber": 143,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "What is the name of the system, developed by Richard Bandler and John Grinder, that\nseeks to educate people in self-awareness and effective communication, and to change\ntheir patterns of mental and emotional behaviour?\n'",
-      "question_te": "స్వీయ అవగాహన మరియు సమర్థవంతమైన భావ ప్రసరణ కోసం, మానసిక మరియు భావోద్వేగ ప్రవర్తనా\nసరళులలో సరియైన అవగాహనను ప్రజలలో కల్పించుట కోసం' రిచర్డ్ బ్యాండ్‌లర్ మరియు జాన్ గ్రిండర్\n\nపెంపొందించిన సిస్టమ్ యొక్క పేరు ఏమిటి?",
-      "options_en": [
-        "The power of positive thinking",
-        "Stress-reduction programme",
-        "Perspectives on personality",
-        "Neuro-Linguistic programming"
-      ],
-      "options_te": [
-        "సానుకూల ఆలోచన శక్తి",
-        "వత్తిడిని తగ్గించే కార్యక్రమం",
-        "వ్యక్తిత్వము యొక్క దృక్కోణాలు",
-        "న్యూరో లింగ్విస్టిక్ ప్రో గ్రా మింగ్"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Neuro-Linguistic programming.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): న్యూరో లింగ్విస్టిక్ ప్రో గ్రా మింగ్."
-    },
-    {
-      "id": 144,
-      "qNumber": 144,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "\"An average level of Intelligence Quotient (IQ) and high level of Emotional Intelligence is a\nformula for personal success\". Who proposed this?\n\"",
-      "question_te": "ఒక వ్యక్తి విజయానికి ప్రజ్ఞా లబ్ధి (IQ) సగటు (సాధారణ) స్థా యిలో, భావోద్వేగ ప్రజ్ఞ హెచ్చు (ఉన్నత) స్థా యిలో\nఉండాలనే సూత్రా న్ని\" (ఫార్ములా) ఎవరు ప్రతిపాదించారు?",
-      "options_en": [
-        "William Bell",
-        "Thurston",
-        "Peter James",
-        "Daniel Goleman"
-      ],
-      "options_te": [
-        "విలియం బెల్",
-        "థర్స్టన్",
-        "పీటర్ జేమ్స్",
-        "డేనియల్ గోల్‌మాన్"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Thurston.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): థర్స్టన్."
-    },
-    {
-      "id": 145,
-      "qNumber": 145,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Read the following statements: (a) The ability to recognize one's own feelings and those of\nothers. (b) The inability to understand abstract concepts. (c) The ability to understand\nmathematical formulas. (d) The inability to understand technology. Which of the above\nstatement(s) is/are related to having 'Emotional Intelligence'?",
-      "question_te": "ఈ క్రింది వ్యాఖ్యలను చదవండి: (a) మన స్వీయ భావనలను, ఇతరుల భావనలను గుర్తించే సామర్థ్యం కలిగి\nఉండటం. (b) అమూర్తీకృత భావనలను అవగాహన చేసుకోలేని అసమర్థత. (c) గణిత సూత్రా లను అవగాహన\nచేసుకోగలిగే సామర్థ్యత. (d) సాంకేతికతను అవగాహన చేసుకోలేని అసమర్థత. పైన చెప్పబడిన వ్యాఖ్యలలో\nఏది/ఏవి 'భావోద్వేగ ప్రజ్ఞ' కలిగి ఉండటానికి సంబంధించినది?",
-      "options_en": [
-        "(a) and (d)(a)",
-        "(d) only(d)",
-        "(a) only(a)",
-        "(b) and (c)(b)"
-      ],
-      "options_te": [
-        "మరియు (d)",
-        "మాత్రమే",
-        "మాత్రమే",
-        "మరియు (c)"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): (b) and (c)(b).",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మరియు (c)."
-    },
-    {
-      "id": 146,
-      "qNumber": 146,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which one of the following skills is important for a satisfactory personal and professional\nlife?",
-      "question_te": "సంతృప్తికరమైన వ్యక్తిగత మరియు వృత్తి జీవనానికి క్రింది నైపుణ్యములలో ఏది అవసరము?",
-      "options_en": [
-        "Professional skills",
-        "Technical skills",
-        "Educational skills",
-        "Social skills"
-      ],
-      "options_te": [
-        "వృత్తి నైపుణ్యము",
-        "సాంకేతిక నైపుణ్యము",
-        "విద్యా నైపుణ్యము",
-        "సాంఘిక నైపుణ్యము"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Technical skills.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): సాంకేతిక నైపుణ్యము."
-    },
-    {
-      "id": 147,
-      "qNumber": 147,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Read the following statements : a. Personal values define our character. b. To love and to\nbe loved is a basic need for humans. c. The value system would never help people to be\nsuccessful. d. With spiritual values, we love the entire human race and care for them. Which\nof the above statement(s) is / are correct?",
-      "question_te": "ఈ క్రింది వాక్యములను చదవండి. a. వ్యక్తిగత విలువలు మన యొక్క వ్యక్తిత్వాన్ని నిర్ధయిస్తా యి. b.\nప్రేమించటం మరియు ప్రేమించబడటము అనేవి మానవుల ప్రా థమిక అవసరము. c. విలువల వ్యవస్థ అనేది\nఎప్పుడూ కూడా మనుష్యులు విజయవంతము అవటానికి ఉపయోగపడదు. d. ఆధ్యాత్మికత విలువల వలన\nమనము మొత్తం మానవ జాతిని ప్రేమించి వారి బాగోగుల గురించి పాటుబడతాము. పైన చెప్పబడిన\nవాక్యములలో ఏది/ఏవి నిజము?",
-      "options_en": [
-        "a, c and da, c",
-        "b and cb",
-        "a and ca",
-        "a, b and da, b"
-      ],
-      "options_te": [
-        "మరియు d",
-        "మరియు c",
-        "మరియు c",
-        "మరియు d"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): a, b and da, b.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మరియు d."
-    },
-    {
-      "id": 148,
-      "qNumber": 148,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Which of the following comes under professional ethics?",
-      "question_te": "ఈ క్రింది వాటిలో ఏది వృత్తి ధర్మము క్రిందకు వస్తుంది?",
-      "options_en": [
-        "Always supporting the employer only.",
-        "Always supporting the co-workers only.",
-        "Giving much importance to personal benefits.",
-        "Having a sense of commitment to the job."
-      ],
-      "options_te": [
-        "యజమానికి ఎల్లప్పుడూ మద్ధతు నివ్వడం మాత్రమే.",
-        "తోటి ఉద్యోగులకు సదా మద్ధతు నివ్వడం మాత్రమే.",
-        "స్వలాభాలకి ఎక్కువ ప్రా ధాన్యత ఇవ్వటం.",
-        "ఉద్యోగము పట్ల నిబద్ధత కలిగి ఉండటం."
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Always supporting the co-workers only..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): తోటి ఉద్యోగులకు సదా మద్ధతు నివ్వడం మాత్రమే.."
-    },
-    {
-      "id": 149,
-      "qNumber": 149,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "What is the difference between sympathy and empathy?",
-      "question_te": "సానుభూతికి మరియు పరానుభూతికి ఉన్న తేడా ఏమి?",
-      "options_en": [
-        "Sympathy means feelings of pity and sorrow for other's misfortune; Empathy means\nthe ability to understand and share the feelings of another.",
-        "Sympathy is a verb and Empathy is a conjunction.",
-        "Sympathy is positive whereas Empathy is negative.",
-        "Sympathy means the ability to understand and share the feelings of another;\nEmpathy means feelings of pity and sorrow for other's misfortune."
-      ],
-      "options_te": [
-        "సానుభూతి అంటే వేరే వాళ్ళ",
-        "సానుభూతి క్రియ మరియు పరానుభూతి",
-        "సానుభూతి అనుకూలమైనది;",
-        "సానుభూతి అంటే"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Sympathy means the ability to understand and share the feelings of another;\nEmpathy means feelings of pity and sorrow for other's misfortune..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): సానుభూతి అంటే."
-    },
-    {
-      "id": 150,
-      "qNumber": 150,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "In our traditional family system, sons are preferred over daughters by many people because\nof one of the following reasons:",
-      "question_te": "ఈ క్రింది వారిలో ఏ కారణముల వలన సాంప్రదాయ కుటుంబ వ్యవస్థలో అమ్మాయిలకంటే అబ్బాయిలే కావాలి\nఅని ఎక్కువమంది కోరుకుంటారు?",
-      "options_en": [
-        "Dowry might have to be given to daughters.",
-        "Daughters pave the way to heaven.",
-        "It is a government policy.",
-        "Sons are handsome than daughters."
-      ],
-      "options_te": [
-        "కూతుళ్ళకు వరకట్నాలు ఇవ్వాల్సి వస్తుందని.",
-        "కూతుళ్ళు స్వర్గా నికి మార్గా లు వేస్తా రు.",
-        "ప్రభుత్వ విధానాలు కారణంగా.",
-        "కొడుకులు కూతుళ్ళకన్న అందంగా ఉంటారని."
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Daughters pave the way to heaven..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): కూతుళ్ళు స్వర్గా నికి మార్గా లు వేస్తా రు.."
-    },
-    {
-      "id": 151,
-      "qNumber": 151,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "'Vertical Social Mobility' refers to:\n'",
-      "question_te": "వర్టికల్ సోషల్ మొబిలిటి' అంటే ______.",
-      "options_en": [
-        "an agitation against caste system",
-        "the movement of an individual or people or groups from one status to another",
-        "people's migration",
-        "conversion of religions"
-      ],
-      "options_te": [
-        "కుల వ్యవస్థకు వ్యతిరేకంగా పోరాటము",
-        "వ్యక్తి,",
-        "ప్రజల యొక్క వలసలు",
-        "మత మార్పిడి"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): conversion of religions.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మత మార్పిడి."
-    },
-    {
-      "id": 152,
-      "qNumber": 152,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The Untouchability (Offences) Act, 1955 was renamed as \"The Protection of Civil Rights\nAct\" in which year ?",
-      "question_te": "అస్పృశ్యతా నివారణ చట్టం, 1955 ను \"పౌరహక్కుల సంరక్షణ చట్టము\" గా పేరు మార్చబడిన సంవత్సరము\nఏది ?",
-      "options_en": [
-        "1966",
-        "1976",
-        "1967",
-        "1956"
-      ],
-      "options_te": [
-        "1966",
-        "1976",
-        "1967",
-        "1956"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): 1976.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): 1976."
-    },
-    {
-      "id": 153,
-      "qNumber": 153,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Who among the following Greek Philosophers considered ethics a practical rather than a\ntheoretical subject ?",
-      "question_te": "ఈ క్రింది గ్రీకు వేదాంతులలో ఎవరు నైతిక విలువలను సిద్ధాంతపరమైనది గాకుండా ప్రయోగాత్మకమైన\nవిషయముగా భావించారు ?",
-      "options_en": [
-        "Aristotle",
-        "Epicurus",
-        "Pleny",
-        "Socrates"
-      ],
-      "options_te": [
-        "అరిష్టా టిల్",
-        "ఎపిక్యూరస",
-        "ప్లిని",
-        "సోక్రటీసు"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (4): Socrates.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): సోక్రటీసు."
-    },
-    {
-      "id": 154,
-      "qNumber": 154,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The name of the Act, introduced to check atrocities against SCs and STs :\nSC",
-      "question_te": "లు మరియు STల మీద దౌర్జన్యమునకు వ్యతిరేకంగా ప్రవేశపెట్టబడిన చట్టము పేరు :",
-      "options_en": [
-        "SC & ST Communities Act, 1962",
-        "Prevention of Atrocities Act, 2000",
-        "Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
-        "Protection of SCs and STs Act, 1950"
-      ],
-      "options_te": [
-        "ఎస్.సి. మరియు ఎస్.టి. కమ్యూనిటీస్ చట్టం, 1962",
-        "ప్రివెన్షన్ ఆఫ్ ఎట్రా సిటీస్ చట్టం, 2000",
-        "షెడ్యూల్డ్",
-        "ప్రొ టక్షన్ ఆఫ్ ఎస్.సి. లు మరియు ఎస్.టి. ల చట్టం,"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Prevention of Atrocities Act, 2000.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): ప్రివెన్షన్ ఆఫ్ ఎట్రా సిటీస్ చట్టం, 2000."
-    },
-    {
-      "id": 155,
-      "qNumber": 155,
+      "id": 164,
+      "qNumber": 164,
       "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Read the following statements : a. Article 15 of Indian Constitution provides equal rights\nand opportunities to all the citizens without any discrimination. b. Under Article 91(6), the\ntribals can own property and enjoy it in any part of the country. c. Reservation in\nemployment is made for the tribals under Article 61(4), 230(5) and 353. d. Article 338\nempowers the President of India to appoint a Commissioner to look after the tribal welfare\nactivities. Which of the above statement(s) are correct ?",
@@ -3574,8 +3774,8 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మరియు d మాత్రమే."
     },
     {
-      "id": 156,
-      "qNumber": 156,
+      "id": 165,
+      "qNumber": 165,
       "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Majority of the SCs are not able to make use of the constitutional provisions guaranteed to\nthem because they are still :",
@@ -3597,8 +3797,8 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): ఖర్మ సిద్ధాంతాన్ని నమ్ముకునేవారు.."
     },
     {
-      "id": 157,
-      "qNumber": 157,
+      "id": 166,
+      "qNumber": 166,
       "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Reservations as per 73rd and 74th Constitutional Amendment have facilitated",
@@ -3620,31 +3820,8 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): స్త్రీ ల అక్షరాస్యత రేటులో పెరుగుదల.."
     },
     {
-      "id": 158,
-      "qNumber": 158,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "Who among the following tribes in Telangana celebrates the festival of Theej?",
-      "question_te": "తెలంగాణలో ఏ గిరిజన తెగవారు తీజ్ పండుగను జరుపుకొందురు?",
-      "options_en": [
-        "Banjaras",
-        "Koyas",
-        "Gonds",
-        "Kolams"
-      ],
-      "options_te": [
-        "బంజారాలు",
-        "కోయలు",
-        "గోండులు",
-        "కోలంలు"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): Koyas.",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): కోయలు."
-    },
-    {
-      "id": 159,
-      "qNumber": 159,
+      "id": 167,
+      "qNumber": 167,
       "section": "General Studies",
       "topic": "Advanced General Studies & State Policies",
       "question_en": "Assertion (A): The people of Andhra region started \"Jai Andhra Movement\" as they thought\nMulki rules were against them. Reason (R): In 1972 the Supreme Court upheld the Mulki\nrules as constitutional. The correct answer is:",
@@ -3666,31 +3843,8 @@
       "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (4): మరియు (R)."
     },
     {
-      "id": 160,
-      "qNumber": 160,
-      "section": "General Studies",
-      "topic": "Advanced General Studies & State Policies",
-      "question_en": "The Parakala massacre that occurred on September 1947 is often said to be another\nJallianwala Bagh incident. What was the aim of the protestors at Parakala?\n1947",
-      "question_te": "సెప్టెంబరు 2 వ తేదీ జరిగిన పరకాల మారణహోమం జలియన్ వాలాబాగ్ ఉదంతంతో పోల్చబడింది.\n\nపరకాల ఉద్యమకారుల ధ్యేయమేమి ?",
-      "options_en": [
-        "To hoist the National Flag.",
-        "To boycott the foreign cloth.",
-        "To protest against the Nizam.",
-        "To protest against the British dominance."
-      ],
-      "options_te": [
-        "జాతీయ పతాకాన్ని ఆవిష్కరించడం.",
-        "విదేశీ బట్టలు బహిష్కరించడం",
-        "నిజాం పాలనకు వ్యతిరేకత తెల్పడం.",
-        "బ్రిటిషువారి ఆధిపత్యాన్ని నిరసించడం."
-      ],
-      "correct_option": 1,
-      "explanation_en": "Advanced multi-statement question. Official analysis confirms option (2): To boycott the foreign cloth..",
-      "explanation_te": "విశ్లేషణాత్మక ప్రవచనాల ప్రశ్న. సమగ్ర అధికారిక వివరణ ప్రకారం సరైన ఎంపిక (2): విదేశీ బట్టలు బహిష్కరించడం."
-    },
-    {
-      "id": 161,
-      "qNumber": 161,
+      "id": 168,
+      "qNumber": 168,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Directive Principles (DPSP)",
       "question_en": "The Directive Principles of State Policy (DPSP) contained in Part IV of the Indian Constitution were borrowed from which country's constitution?",
@@ -3712,8 +3866,8 @@
       "explanation_te": "భారత రాజ్యాంగ నిర్మాతలు ఆదేశిక సూత్రాల భావనను ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి స్వీకరించారు."
     },
     {
-      "id": 162,
-      "qNumber": 162,
+      "id": 169,
+      "qNumber": 169,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - President",
       "question_en": "Under which Article of the Indian Constitution can the President grant pardons, reprieves, respites, or remissions of punishment to convicted persons?",
@@ -3735,8 +3889,8 @@
       "explanation_te": "రాజ్యాంగంలోని 72వ అధికరణం రాష్ట్రపతికి శిక్షలను తగ్గించే, రద్దు చేసే లేదా క్షమాభిక్ష పెట్టే అధికారాన్ని కల్పిస్తుంది."
     },
     {
-      "id": 163,
-      "qNumber": 163,
+      "id": 170,
+      "qNumber": 170,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Parliament & Money Bill",
       "question_en": "Who has the final constitutional authority to certify whether a particular legislative bill is a 'Money Bill' or not?",
@@ -3758,8 +3912,8 @@
       "explanation_te": "110(3) అధికరణం ప్రకారం ఒక బిల్లు ద్రవ్య బిల్లా కాదా అని నిర్ణయించే అంతిమ అధికారం లోక్‌సభ స్పీకర్‌కు మాత్రమే ఉంటుంది."
     },
     {
-      "id": 164,
-      "qNumber": 164,
+      "id": 171,
+      "qNumber": 171,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Rajya Sabha",
       "question_en": "What is the term of office of a member of the Rajya Sabha, and what fraction of its members retire every two years?",
@@ -3781,8 +3935,8 @@
       "explanation_te": "రాజ్యసభ శాశ్వత సభ. దీని సభ్యుల పదవీకాలం 6 సంవత్సరాలు. ప్రతి రెండేళ్లకు మూడో వంతు (1/3) సభ్యులు పదవీ విరమణ పొందుతారు."
     },
     {
-      "id": 165,
-      "qNumber": 165,
+      "id": 172,
+      "qNumber": 172,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Judiciary",
       "question_en": "By which constitutional writ can the Supreme Court or High Courts quash an illegal appointment of an individual to a public office?",
@@ -3804,8 +3958,8 @@
       "explanation_te": "'ఏ అధికారంతో' ఈ పదవిలో ఉన్నారో తెలపాలని ప్రశ్నిస్తూ ప్రభుత్వ పదవుల దురాక్రమణను నిరోధించే రిట్ 'కో-వారెంటో'."
     },
     {
-      "id": 166,
-      "qNumber": 166,
+      "id": 173,
+      "qNumber": 173,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Constitutional Bodies",
       "question_en": "The Comptroller and Auditor General of India (CAG) is appointed under which Article of the Constitution?",
@@ -3827,8 +3981,8 @@
       "explanation_te": "148వ అధికరణం ప్రకారం భారత రాష్ట్రపతి కాగ్‌ను నియమిస్తారు. ప్రభుత్వ ఆదాయ వ్యయాల ఆడిటింగ్‌ను ఇది పర్యవేక్షిస్తుంది."
     },
     {
-      "id": 167,
-      "qNumber": 167,
+      "id": 174,
+      "qNumber": 174,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Panchayati Raj",
       "question_en": "The 73rd Constitutional Amendment Act, 1992 added which Schedule to the Indian Constitution containing 29 functional subjects for Panchayats?",
@@ -3850,8 +4004,8 @@
       "explanation_te": "73వ సవరణ ద్వారా గ్రామీణ స్థానిక సంస్థలకు (పంచాయతీలకు) 29 అంశాలతో కూడిన 11వ షెడ్యూల్‌ను చేర్చారు."
     },
     {
-      "id": 168,
-      "qNumber": 168,
+      "id": 175,
+      "qNumber": 175,
       "section": "General Studies",
       "topic": "Advanced Indian Polity - Anti-Defection",
       "question_en": "The Anti-Defection Law was introduced into the Constitution by which Amendment Act under the 10th Schedule?",
@@ -3873,214 +4027,307 @@
       "explanation_te": "1985 లో 52వ రాజ్యాంగ సవరణ చట్టం ద్వారా రాజకీయ పార్టీల ఫిరాయింపులను అరికట్టడానికి 10వ షెడ్యూల్‌ను రాజ్యాంగంలో చేర్చారు."
     },
     {
-      "id": 169,
-      "qNumber": 169,
-      "section": "General Studies",
-      "topic": "Advanced Indian Polity - Emergency Provisions",
-      "question_en": "Financial Emergency under Article 360 of the Indian Constitution has been proclaimed in India how many times so far?",
-      "question_te": "భారత రాజ్యాంగంలోని 360వ నిబంధన క్రింద ఆర్థిక అత్యవసర పరిస్థితి (Financial Emergency) దేశంలో ఇప్పటివరకు ఎన్నిసార్లు విధించబడింది?",
-      "options_en": [
-        "Once (1991)",
-        "Never (0 times)",
-        "Twice",
-        "Three times"
-      ],
-      "options_te": [
-        "ఒకసారి (1991 లో)",
-        "ఎన్నడూ విధించలేదు (0 సార్లు)",
-        "రెండు సార్లు",
-        "మూడు సార్లు"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Financial Emergency under Article 360 has never been declared in India so far, even during the severe balance-of-payments economic crisis of 1991.",
-      "explanation_te": "భారతదేశంలో 360వ ఆర్టికల్ ప్రకారం ఆర్థిక అత్యవసర పరిస్థితిని ఇప్పటివరకు ఒక్కసారి కూడా విధించలేదు."
-    },
-    {
-      "id": 170,
-      "qNumber": 170,
-      "section": "General Studies",
-      "topic": "Advanced Indian Polity - State Legislature",
-      "question_en": "Under Article 169 of the Constitution, what is the procedure required to create or abolish a Legislative Council (Vidhan Parishad) in a state?",
-      "question_te": "169వ నిబంధన ప్రకారం ఒక రాష్ట్రంలో శాసనమండలి (విధాన పరిషత్) ను రద్దు చేయడానికి లేదా ఏర్పాటు చేయడానికి అవసరమైన ప్రక్రియ ఏమిటి?",
-      "options_en": [
-        "State Assembly passes resolution by special majority, followed by simple majority Act of Parliament",
-        "Governor's ordinance alone",
-        "Presidential notification without Parliament",
-        "Resolution by Rajya Sabha alone"
-      ],
-      "options_te": [
-        "రాష్ట్ర అసెంబ్లీ ప్రత్యేక మెజారిటీతో తీర్మానం చేసి పంపిన తర్వాత, పార్లమెంట్ సాధారణ మెజారిటీతో చట్టం చేయడం",
-        "గవర్నర్ ఆర్డినెన్స్ ద్వారా మాత్రమే",
-        "పార్లమెంట్‌తో సంబంధం లేకుండా రాష్ట్రపతి ఉత్తర్వు",
-        "రాజ్యసభ సాధారణ తీర్మానం ద్వారా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The State Legislative Assembly must pass a resolution by a majority of total membership and not less than two-thirds of members present and voting, after which Parliament may pass a simple majority law.",
-      "explanation_te": "శాసనసభ ప్రత్యేక మెజారిటీతో (2/3 హాజరైన సభ్యులు) తీర్మానం చేయాలి, ఆపై పార్లమెంటు సాధారణ మెజారిటీతో చట్టం చేసి శాసనమండలిని రద్దు లేదా ఏర్పాటు చేస్తుంది."
-    },
-    {
-      "id": 171,
-      "section": "General Studies",
-      "topic": "Indian Polity - Inter-State River Water Disputes - Article 262",
-      "question_en": "Consider the following statements regarding Article 262 of the Constitution of India and Inter-State River Water Disputes:\n1. Parliament may by law provide for the adjudication of any dispute relating to the use, distribution, or control of waters of any inter-state river or river valley.\n2. Parliament may by law exclude the jurisdiction of the Supreme Court and all other courts in respect of such water disputes.\nWhich of the statements given above is/are correct?",
-      "question_te": "భారత రాజ్యాంగంలోని అధికరణ 262 మరియు అంతర్రాష్ట్ర నదీ జలాల వివాదాలకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. అంతర్రాష్ట్ర నదీ జలాల వినియోగం, పంపిణీ లేదా నియంత్రణపై తలెత్తే వివాదాల పరిష్కారం కోసం చట్టం చేసే అధికారం పార్లమెంటుకు ఉంటుంది.\n2. అటువంటి నదీ జల వివాదాల్లో సుప్రీంకోర్టుతో సహా ఏ ఇతర న్యాయస్థానాలకూ జోక్యం చేసుకునే పరిధి లేకుండా పార్లమెంటు చట్టం ద్వారా నిరోధించవచ్చు.\nపై ప్రకటనలలో సరైనది/వి ఏది/వి?",
-      "options_en": [
-        "1 only",
-        "2 only",
-        "Both 1 and 2",
-        "Neither 1 nor 2"
-      ],
-      "options_te": [
-        "1 మాత్రమే",
-        "2 మాత్రమే",
-        "1 మరియు 2 రెండూ",
-        "ఏదీ కాదు"
-      ],
-      "correct_option": 2,
-      "explanation_en": "Both statements are correct. Under Article 262(2), Parliament enacted the Inter-State River Water Disputes Act, 1956, which bars the Supreme Court and High Courts from entertaining any suit/dispute referred to a Water Disputes Tribunal.",
-      "explanation_te": "రెండు ప్రకటనలూ సరైనవే. ఆర్టికల్ 262(2) కింద పార్లమెంట్ 1956లో చేసిన అంతర్రాష్ట్ర నదీ జలాల వివాద చట్టం ద్వారా ట్రిబ్యునల్ పరిధిలోని జల వివాదాలపై సాధారణ కోర్టులకు మరియు సుప్రీంకోర్టుకు విచారణాధికారం లేకుండా నిరోధించారు."
-    },
-    {
-      "id": 172,
-      "qNumber": 172,
-      "section": "General Studies",
-      "topic": "Advanced Indian Economy - Inflation",
-      "question_en": "Which index is officially adopted by the RBI's Monetary Policy Committee (MPC) as the primary headline measure to target retail inflation in India?",
-      "question_te": "భారతదేశంలో ద్రవ్యోల్బణాన్ని నియంత్రించడానికి రిజర్వ్ బ్యాంక్ ద్రవ్య విధాన కమిటీ (MPC) ప్రామాణికంగా తీసుకునే సూచిక ఏది?",
-      "options_en": [
-        "Index of Industrial Production (IIP)",
-        "Wholesale Price Index (WPI)",
-        "Consumer Price Index (CPI - Combined)",
-        "GDP Deflator"
-      ],
-      "options_te": [
-        "పారిశ్రామికోత్పత్తి సూచిక (IIP)",
-        "హోల్‌సేల్ ధరల సూచిక (WPI)",
-        "వినియోగదారుల ధరల సూచిక (CPI - Combined)",
-        "జీడీపీ డిఫ్లేటర్"
-      ],
-      "correct_option": 2,
-      "explanation_en": "Following the Urjit Patel Committee recommendations, the RBI adopted the All-India Consumer Price Index (CPI-Combined) for headline inflation targeting (4% +/- 2%).",
-      "explanation_te": "ఆర్‌బీఐ వినియోగదారుల స్థాయిలోని చిల్లర ద్రవ్యోల్బణాన్ని కొలవడానికి 'కన్స్యూమర్ ప్రైస్ ఇండెక్స్ (CPI)' ని అధికారిక కొలమానంగా ఉపయోగిస్తుంది."
-    },
-    {
-      "id": 173,
-      "qNumber": 173,
-      "section": "General Studies",
-      "topic": "Advanced Indian Economy - National Income",
-      "question_en": "Gross Domestic Product (GDP) is defined as the total market value of:",
-      "question_te": "స్థూల దేశీయోత్పత్తి (GDP) అనగా ఒక నిర్దిష్ట కాలంలో:",
-      "options_en": [
-        "All intermediate goods produced by multinational corporations",
-        "All final goods and services produced within the domestic territory of a country in a year",
-        "Total assets owned by Indian citizens living abroad",
-        "Net profit generated exclusively by government public sector units"
-      ],
-      "options_te": [
-        "బహుళజాతి సంస్థలు ఉత్పత్తి చేసిన మధ్యంతర వస్తువుల విలువ",
-        "ఒక సంవత్సర కాలంలో దేశ భౌగోళిక సరిహద్దుల లోపల ఉత్పత్తి చేయబడిన అన్ని అంతిమ వస్తువులు మరియు సేవల మార్కెట్ విలువ",
-        "విదేశాల్లో నివసించే భారతీయుల ఆస్తుల మొత్తం",
-        "ప్రభుత్వ రంగ సంస్థలు ఆర్జించిన నికర లాభం మాత్రమే"
-      ],
-      "correct_option": 1,
-      "explanation_en": "GDP measures the monetary value of all final goods and services produced within a nation's geographical boundaries during a specified time period (usually 1 year).",
-      "explanation_te": "ఒక ఆర్థిక సంవత్సరంలో దేశ సరిహద్దులలో ఉత్పత్తి అయిన మొత్తం అంతిమ వస్తు, సేవల ద్రవ్య విలువే స్థూల దేశీయోత్పత్తి (GDP)."
-    },
-    {
-      "id": 174,
-      "qNumber": 174,
-      "section": "General Studies",
-      "topic": "Advanced Indian Economy - Fiscal Policy",
-      "question_en": "What is 'Fiscal Deficit' in the Union or State Budget?",
-      "question_te": "ప్రభుత్వ బడ్జెట్‌లో 'ద్రవ్య లోటు' (Fiscal Deficit) అనగా ఏమిటి?",
-      "options_en": [
-        "Total Expenditure minus Total Receipts (excluding borrowings)",
-        "Total Revenue Expenditure minus Revenue Receipts",
-        "Monetary deficit printed by RBI",
-        "Difference between exports and imports"
-      ],
-      "options_te": [
-        "రుణాలు మినహాయించి మొత్తం వ్యయం నుండి మొత్తం ఆదాయాన్ని తీసివేయగా వచ్చే లోటు (ప్రభుత్వ నికర అప్పుల మొత్తం)",
-        "రెవెన్యూ వ్యయం నుండి రెవెన్యూ ఆదాయం తీసివేయగా వచ్చేది",
-        "ఆర్‌బీఐ ముద్రించిన కొత్త కరెన్సీ పరిమాణం",
-        "ఎగుమతులు మరియు దిగుమతుల మధ్య తేడా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Fiscal Deficit = Total Expenditure - (Revenue Receipts + Non-debt Capital Receipts). It reflects the total borrowing requirements of the government from all sources.",
-      "explanation_te": "ప్రభుత్వం బడ్జెట్ అవసరాల కోసం ఆ సంవత్సరంలో చేయవలసిన మొత్తం రుణాల పరిమాణాన్నే ద్రవ్య లోటు అంటారు."
-    },
-    {
-      "id": 175,
-      "qNumber": 175,
-      "section": "General Studies",
-      "topic": "Advanced Indian Economy - GST",
-      "question_en": "Goods and Services Tax (GST) in India, implemented on 1 July 2017, is what type of tax?",
-      "question_te": "2017 జూలై 1 నుండి దేశవ్యాప్తంగా అమల్లోకి వచ్చిన వస్తు మరియు సేవల పన్ను (GST) ఏ రకమైన పన్ను?",
-      "options_en": [
-        "Progressive wealth tax",
-        "Direct income tax on corporate profits",
-        "Origin-based manufacturing excise duty",
-        "Comprehensive destination-based indirect consumption tax"
-      ],
-      "options_te": [
-        "వ్యక్తిగత సంపద పన్ను",
-        "కార్పొరేట్ లాభాలపై ప్రత్యక్ష పన్ను",
-        "ఉత్పత్తి ఆధారిత ఎక్సైజ్ సుంకం",
-        "గమ్యస్థాన ఆధారిత సమగ్ర పరోక్ష వినియోగ పన్ను (Destination-based Indirect Tax)"
-      ],
-      "correct_option": 3,
-      "explanation_en": "GST is a comprehensive, multi-stage, destination-based indirect tax levied on value addition at each stage of supply of goods and services.",
-      "explanation_te": "GST అనేది వస్తువులు మరియు సేవల సరఫరాపై విధించే గమ్యస్థాన ఆధారిత (Destination-based) బహుళ అంచెల పరోక్ష పన్ను."
-    },
-    {
       "id": 176,
       "qNumber": 176,
       "section": "General Studies",
-      "topic": "Advanced Telangana Economy - Industrial Sector",
-      "question_en": "Telangana accounts for approximately what fraction of India's total pharmaceutical exports, earning Hyderabad the title 'Pharma Capital of India'?",
-      "question_te": "భారతదేశం నుండి ఎగుమతి అయ్యే ఔషధాలలో (Pharma exports) సుమారుగా ఎంత భాగం వాటాను తెలంగాణ కలిగి ఉంది?",
+      "topic": "Indian History - Indus Valley Civilization",
+      "question_en": "At which Indus Valley site was an ancient tidal dockyard discovered, indicating active maritime trade with Mesopotamia?",
+      "question_te": "మెసపొటేమియాతో సముద్ర వాణిజ్యాన్ని సూచించే ప్రాచీన నౌకాశ్రయం (డాక్‌యార్డ్) ఏ సింధు నాగరికత నగరంలో బయల్పడింది?",
       "options_en": [
-        "65% to 70%",
-        "5% to 10%",
-        "One-third (approx. 33% - 35%)",
-        "Less than 2%"
+        "Kalibangan",
+        "Lothal (Gujarat)",
+        "Banawali",
+        "Rakhigarhi"
       ],
       "options_te": [
-        "65% నుండి 70%",
-        "5% నుండి 10% మాత్రమే",
-        "మూడింట ఒక వంతు (సుమారు 33% - 35%)",
-        "2% కంటే తక్కువ"
+        "కాలిబంగన్",
+        "లోథాల్ (Lothal - Gujarat)",
+        "బనవాలి",
+        "రాఖీగర్హి"
       ],
-      "correct_option": 2,
-      "explanation_en": "Telangana accounts for over 35% of national pharmaceutical production and about one-third of the country's bulk drug exports.",
-      "explanation_te": "దేశవ్యాప్తంగా తయారయ్యే బల్క్ డ్రగ్స్ మరియు ఔషధ ఎగుమతులలో మూడో వంతుకు పైగా (35%) వాటాను తెలంగాణ అందిస్తూ ఔషధ రాజధానిగా నిలిచింది."
+      "correct_option": 1,
+      "explanation_en": "Lothal situated on the Bhogava river in Gujarat had a massive brick tidal dockyard connected to the Arabian Sea.",
+      "explanation_te": "గుజరాత్‌లోని భోగావా నదీ తీరాన గల లోథాల్‌లో ప్రపంచంలోనే అత్యంత పురాతన టైడల్ డాక్‌యార్డ్ బయల్పడింది."
     },
     {
       "id": 177,
       "qNumber": 177,
       "section": "General Studies",
-      "topic": "Advanced Telangana Economy - IT Sector",
-      "question_en": "Which premier industrial corridor in western Hyderabad serves as the primary hub for IT/ITeS services and software exports from Telangana?",
-      "question_te": "తెలంగాణ సాఫ్ట్‌వేర్ ఎగుమతులు మరియు ఐటీ రంగానికి ప్రధాన కేంద్రంగా ఉన్న హైదరాబాద్‌లోని ప్రముఖ ఐటీ కారిడార్ ఏది?",
+      "topic": "Indian History - Mauryan Empire",
+      "question_en": "Who was the Greek ambassador sent by Seleucus I Nicator to the royal court of Chandragupta Maurya at Pataliputra?",
+      "question_te": "పాటలీపుత్రంలోని చంద్రగుప్త మౌర్యుని ఆస్థానానికి సెల్యూకస్ నికేటర్ పంపిన గ్రీకు రాయబారి ఎవరు?",
       "options_en": [
-        "Maheswaram Hardware Park",
-        "HITEC City (Madhapur - Gachibowli cluster)",
-        "Cherlapally Industrial Estate",
-        "Nacharam Industrial Area"
+        "Megasthenes",
+        "Deimachus",
+        "Dionysius",
+        "Fa-Hien"
       ],
       "options_te": [
-        "మహేశ్వరం హార్డ్‌వేర్ పార్క్",
-        "హైటెక్ సిటీ (మాదాపూర్ - గచ్చిబౌలి క్లస్టర్)",
-        "చర్లపల్లి ఇండస్ట్రియల్ ఎస్టేట్",
-        "నాచారం పారిశ్రామిక వాడ"
+        "మెగస్తనీస్ (Megasthenes)",
+        "డైమాకస్",
+        "డయోనిసియస్",
+        "ఫాహియాన్"
       ],
-      "correct_option": 1,
-      "explanation_en": "HITEC City and the Financial District (Gachibowli-Madhapur) form the core of Telangana's IT exports, employing over 900,000 technology professionals.",
-      "explanation_te": "హైటెక్ సిటీ మరియు ఫైనాన్షియల్ డిస్ట్రిక్ట్ తెలంగాణ రాష్ట్ర ఐటీ ఎగుమతులకు అంతర్జాతీయ వేదికగా నిలుస్తున్నాయి."
+      "correct_option": 0,
+      "explanation_en": "Megasthenes lived at Pataliputra and authored 'Indica', providing a vivid account of Mauryan administration and society.",
+      "explanation_te": "మౌర్య సామ్రాజ్య పరిపాలనను వివరిస్తూ 'ఇండికా' గ్రంథాన్ని రచించిన గ్రీకు రాయబారి మెగస్తనీస్."
     },
     {
       "id": 178,
       "qNumber": 178,
+      "section": "General Studies",
+      "topic": "Indian History - Gupta Dynasty",
+      "question_en": "The renowned iron pillar which has resisted rusting for over 1600 years at Mehrauli, Delhi was erected during the reign of:",
+      "question_te": "ఢిల్లీలోని మెహ్రౌలీ వద్ద 1600 సంవత్సరాలుగా తుప్పు పట్టకుండా నిలిచిన ప్రసిద్ధ ఇనుప స్తంభం ఏ గుప్త రాజు కాలంలో నిర్మించబడింది?",
+      "options_en": [
+        "Samudragupta",
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I",
+        "Skandagupta"
+      ],
+      "options_te": [
+        "సముద్రగుప్తుడు",
+        "రెండవ చంద్రగుప్తుడు (Chandragupta II)",
+        "మొదటి కుమారగుప్తుడు",
+        "స్కందగుప్తుడు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Mehrauli iron pillar bears an inscription mentioning King 'Chandra', identified as Chandragupta II Vikramaditya.",
+      "explanation_te": "మెహ్రౌలీ ఇనుప స్తంభం రెండవ చంద్రగుప్తుని (విక్రమాదిత్యుని) ఘనతను చాటుతూ నిర్మించబడింది."
+    },
+    {
+      "id": 179,
+      "qNumber": 179,
+      "section": "General Studies",
+      "topic": "Indian History - Medieval Delhi Sultanate",
+      "question_en": "Who among the following was the first and only woman monarch to rule the Delhi Sultanate (1236–1240 AD)?",
+      "question_te": "ఢిల్లీ సుల్తానేట్‌ను పరిపాలించిన మొట్టమొదటి మరియు ఏకైక మహిళా పాలకురాలు ఎవరు?",
+      "options_en": [
+        "Nur Jahan",
+        "Razia Sultana",
+        "Chand Bibi",
+        "Mumtaz Mahal"
+      ],
+      "options_te": [
+        "నూర్జహాన్",
+        "రజియా సుల్తానా (Razia Sultana)",
+        "చాంద్ బీబీ",
+        "ముంతాజ్ మహల్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Razia Sultana, daughter of Iltutmish, ruled the Delhi Sultanate from 1236 to 1240 AD.",
+      "explanation_te": "ఇల్తుత్‌మిష్ కుమార్తె రజియా సుల్తానా ఢిల్లీ పీఠాన్ని అధిరోహించిన ఏకైక మహిళా సుల్తాన్."
+    },
+    {
+      "id": 180,
+      "qNumber": 180,
+      "section": "General Studies",
+      "topic": "Indian History - Vijayanagara Empire",
+      "question_en": "The greatest monarch of the Vijayanagara Empire, Sri Krishnadevaraya (1509–1529 AD), belonged to which dynasty?",
+      "question_te": "విజయనగర సామ్రాజ్య చక్రవర్తులలో అగ్రగణ్యుడైన శ్రీకృష్ణదేవరాయలు (1509–1529) ఏ రాజవంశానికి చెందినవారు?",
+      "options_en": [
+        "Sangama Dynasty",
+        "Saluva Dynasty",
+        "Tuluva Dynasty",
+        "Aravidu Dynasty"
+      ],
+      "options_te": [
+        "సంగమ వంశం",
+        "సాళువ వంశం",
+        "తుళువ వంశం (Tuluva Dynasty)",
+        "ఆరవీడు వంశం"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Sri Krishnadevaraya belonged to the Tuluva dynasty, which succeeded the Saluva dynasty.",
+      "explanation_te": "శ్రీకృష్ణదేవరాయలు విజయనగర సామ్రాజ్యాన్ని పాలించిన తుళువ వంశానికి చెందినవారు."
+    },
+    {
+      "id": 181,
+      "qNumber": 181,
+      "section": "General Studies",
+      "topic": "Indian History - 1857 Revolt",
+      "question_en": "Which British military commander recaptured Delhi from the rebel soldiers in September 1857?",
+      "question_te": "సెప్టెంబర్ 1857 లో తిరుగుబాటుదారుల నుండి ఢిల్లీని తిరిగి స్వాధీనం చేసుకున్న బ్రిటిష్ సైన్యాధికారి ఎవరు?",
+      "options_en": [
+        "John Nicholson",
+        "Colin Campbell",
+        "Hugh Rose",
+        "James Outram"
+      ],
+      "options_te": [
+        "జాన్ నికల్సన్ (John Nicholson)",
+        "కోలిన్ క్యాంప్‌బెల్",
+        "హ్యూగ్ రోజ్",
+        "జేమ్స్ ఔట్రామ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Brigadier-General John Nicholson led the storming of Delhi in September 1857, dying of wounds during the assault.",
+      "explanation_te": "1857 తిరుగుబాటు సమయంలో ఢిల్లీని తిరిగి స్వాధీనం చేసుకునే పోరులో జాన్ నికల్సన్ మరణించాడు."
+    },
+    {
+      "id": 182,
+      "qNumber": 182,
+      "section": "General Studies",
+      "topic": "Indian History - Socio-Religious Reform",
+      "question_en": "Who established the 'Satyashodhak Samaj' in Maharashtra in 1873 to eradicate untouchability and promote women's education?",
+      "question_te": "1873 లో మహారాష్ట్రలో అణగారిన వర్గాల విముక్తి మరియు మహిళా విద్య కోసం 'సత్యశోధక్ సమాజ్' ను స్థాపించిన సంస్కర్త ఎవరు?",
+      "options_en": [
+        "Jyotirao Govindrao Phule (Jyotiba Phule)",
+        "B.R. Ambedkar",
+        "Gopal Krishna Gokhale",
+        "Mahadev Govind Ranade"
+      ],
+      "options_te": [
+        "జ్యోతిరావ్ గోవిందరావ్ ఫూలే (Jyotiba Phule)",
+        "బి.ఆర్. అంబేద్కర్",
+        "గోపాలకృష్ణ గోఖలే",
+        "మహదేవ్ గోవింద్ రనడే"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mahatma Jyotiba Phule founded Satyashodhak Samaj in Pune in 1873 and authored 'Gulamgiri'.",
+      "explanation_te": "జ్యోతిబా ఫూలే 1873 లో పూణేలో సత్యశోధక్ సమాజాన్ని స్థాపించి బహుజనుల విద్య, హక్కుల కోసం పోరాడారు."
+    },
+    {
+      "id": 183,
+      "qNumber": 183,
+      "section": "General Studies",
+      "topic": "Indian History - Indian National Congress",
+      "question_en": "Who presided over the historic 1929 Lahore Session of the Indian National Congress where the resolution for 'Purna Swaraj' (Complete Independence) was adopted?",
+      "question_te": "1929 లో 'పూర్ణ స్వరాజ్' (సంపూర్ణ స్వాతంత్ర్యం) తీర్మానాన్ని ఆమోదించిన చారిత్రక లాహోర్ కాంగ్రెస్ సమావేశానికి ఎవరు అధ్యక్షత వహించారు?",
+      "options_en": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "options_te": [
+        "మహాత్మా గాంధీ",
+        "జవహర్‌లాల్ నెహ్రూ (Jawaharlal Nehru)",
+        "సుభాష్ చంద్రబోస్",
+        "సర్దార్ వల్లభభాయ్ పటేల్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Jawaharlal Nehru presided over the Lahore session in December 1929, unfurling the tricolor on the banks of River Ravi on 31 Dec 1929.",
+      "explanation_te": "1929 లాహోర్ సమావేశానికి జవహర్‌లాల్ నెహ్రూ అధ్యక్షత వహించి పూర్ణ స్వరాజ్ లక్ష్యాన్ని ప్రకటించారు."
+    },
+    {
+      "id": 184,
+      "qNumber": 184,
+      "section": "General Studies",
+      "topic": "Indian History - Swadeshi Movement",
+      "question_en": "The inspiring national patriotic song 'Vande Mataram' was originally composed by Bankim Chandra Chattopadhyay in which famous novel?",
+      "question_te": "భారత స్వాతంత్ర్య సమరంలో జాతిని జాగృతం చేసిన జాతీయ గేయం 'వందేమాతరం' బంకించంద్ర ఛటర్జీ ఏ నవలలో రాశారు?",
+      "options_en": [
+        "Durgeshnandini",
+        "Anandamath (ఆనందమఠం)",
+        "Kapalkundala",
+        "Devi Chaudhurani"
+      ],
+      "options_te": [
+        "దుర్గేశనందిని",
+        "ఆనందమఠం (Anandamath)",
+        "కపాలకుండల",
+        "దేవి చౌధురాణి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Vande Mataram was written in 1875 and included in Bankim Chandra's Bengali novel Anandamath published in 1882.",
+      "explanation_te": "బంకించంద్ర ఛటర్జీ 1882 లో ప్రచురించిన 'ఆనందమఠం' నవలలో వందేమాతరం గేయం అంతర్భాగంగా ఉంది."
+    },
+    {
+      "id": 185,
+      "qNumber": 185,
+      "section": "General Studies",
+      "topic": "Indian History - Revolutionary Movement",
+      "question_en": "Who founded the revolutionary association 'Abhinav Bharat Society' in 1904?",
+      "question_te": "1904 లో 'అభినవ్ భారత్ సొసైటీ' అనే రహస్య విప్లవ సంస్థను స్థాపించినది ఎవరు?",
+      "options_en": [
+        "Vinayak Damodar Savarkar (V.D. Savarkar)",
+        "Bhagat Singh",
+        "Barindra Kumar Ghosh",
+        "Rash Behari Bose"
+      ],
+      "options_te": [
+        "వినాయక్ దామోదర్ సావర్కర్ (V.D. Savarkar)",
+        "భగత్ సింగ్",
+        "బరీంద్ర కుమార్ ఘోష్",
+        "రాష్ బిహారీ బోస్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "V.D. Savarkar and his brother Ganesh Savarkar founded the Abhinav Bharat Society in Nashik in 1904.",
+      "explanation_te": "వీడీ సావర్కర్ 1904 లో నాసిక్‌లో అభినవ్ భారత్ విప్లవ సంస్థను స్థాపించారు."
+    },
+    {
+      "id": 186,
+      "qNumber": 186,
+      "section": "General Studies",
+      "topic": "Indian History - British Administration",
+      "question_en": "Which British Governor-General introduced the controversial 'Doctrine of Lapse' in India?",
+      "question_te": "భారతదేశంలో వివాదాస్పద 'రాజ్య సంక్రమణ సిద్ధాంతాన్ని' (Doctrine of Lapse) అమలు చేసిన బ్రిటిష్ గవర్నర్ జనరల్ ఎవరు?",
+      "options_en": [
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Cornwallis",
+        "Lord Hastings"
+      ],
+      "options_te": [
+        "లార్డ్ వెల్లెస్లీ",
+        "లార్డ్ డల్హౌసీ (Lord Dalhousie)",
+        "లార్డ్ కారన్‌వాలీస్",
+        "లార్డ్ హేస్టింగ్స్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Lord Dalhousie annexed Satara (1848), Sambalpur, Jhansi, and Nagpur under the Doctrine of Lapse.",
+      "explanation_te": "లార్డ్ డల్హౌసీ రాజ్య సంక్రమణ సిద్ధాంతం ద్వారా ఝాన్సీ, సతారా, నాగ్‌పూర్ మొదలైన స్వదేశీ సంస్థానాలను ఆక్రమించాడు."
+    },
+    {
+      "id": 187,
+      "qNumber": 187,
+      "section": "General Studies",
+      "topic": "Indian History - Round Table Conferences",
+      "question_en": "Mahatma Gandhi attended which of the three Round Table Conferences held in London as the sole representative of the Indian National Congress?",
+      "question_te": "లండన్‌లో జరిగిన మూడు రౌండ్ టేబుల్ సమావేశాలలో మహాత్మా గాంధీ కాంగ్రెస్ ఏకైక ప్రతినిధిగా ఏ సమావేశానికి హాజరయ్యారు?",
+      "options_en": [
+        "First Round Table Conference (1930)",
+        "Second Round Table Conference (1931)",
+        "Third Round Table Conference (1932)",
+        "All three conferences"
+      ],
+      "options_te": [
+        "మొదటి రౌండ్ టేబుల్ సమావేశం (1930)",
+        "రెండవ రౌండ్ టేబుల్ సమావేశం (1931)",
+        "మూడవ రౌండ్ టేబుల్ సమావేశం (1932)",
+        "మూడు సమావేశాలకూ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Under the Gandhi-Irwin Pact (1931), Gandhiji suspended Civil Disobedience and attended the Second Round Table Conference in London.",
+      "explanation_te": "గాంధీ-ఇర్విన్ ఒడంబడిక ప్రకారం 1931 లో లండన్‌లో జరిగిన రెండవ రౌండ్ టేబుల్ సమావేశానికి గాంధీజీ హాజరయ్యారు."
+    },
+    {
+      "id": 188,
+      "qNumber": 188,
+      "section": "General Studies",
+      "topic": "Indian History - INA",
+      "question_en": "Netaji Subhas Chandra Bose established the Provisional Government of Free India ('Azad Hind') in October 1943 in:",
+      "question_te": "అక్టోబర్ 1943 లో నేతాజీ సుభాష్ చంద్రబోస్ 'ఆజాద్ హింద్' స్వతంత్ర ప్రభుత్వాన్ని ఎక్కడ ఏర్పాటు చేశారు?",
+      "options_en": [
+        "Tokyo (Japan)",
+        "Singapore",
+        "Rangoon (Burma)",
+        "Berlin (Germany)"
+      ],
+      "options_te": [
+        "టోక్యో",
+        "సింగపూర్ (Singapore)",
+        "రంగూన్",
+        "బెర్లిన్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Netaji Subhas Chandra Bose proclaimed the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) in Singapore on 21 October 1943.",
+      "explanation_te": "21 అక్టోబర్ 1943న సింగపూర్‌లో నేతాజీ ఆజాద్ హింద్ తాత్కాలిక ప్రభుత్వాన్ని ప్రకటించారు."
+    },
+    {
+      "id": 189,
+      "qNumber": 189,
       "section": "General Studies",
       "topic": "Advanced Telangana Economy - Agriculture & Irrigation",
       "question_en": "The flagship programme 'Mission Kakatiya' was undertaken by the Government of Telangana for the restoration of:",
@@ -4102,54 +4349,8 @@
       "explanation_te": "కాకతీయుల కాలం నాటి గొలుసుకట్టు చెరువుల్లో పూడికతీసి, భూగర్భ జలాల పెంపునకు చేపట్టిన బృహత్తర పథకమే 'మిషన్ కాకతీయ'."
     },
     {
-      "id": 179,
-      "qNumber": 179,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Economy - Drinking Water",
-      "question_en": "Which project was implemented in Telangana to provide safe treated surface drinking water via tap connection to every rural household?",
-      "question_te": "తెలంగాణలోని ప్రతి గ్రామీణ గృహానికి నల్లా ద్వారా స్వచ్ఛమైన శుద్ధి చేసిన తాగునీటిని అందించడానికి చేపట్టిన ప్రాజెక్టు ఏది?",
-      "options_en": [
-        "Palamuru Lift Irrigation",
-        "Mission Kakatiya",
-        "Jal Jeevan Telangana",
-        "Mission Bhagiratha"
-      ],
-      "options_te": [
-        "పాలమూరు ఎత్తిపోతల",
-        "మిషన్ కాకతీయ",
-        "జల్ జీవన్ తెలంగాణ",
-        "మిషన్ భగీరథ (Mission Bhagiratha)"
-      ],
-      "correct_option": 3,
-      "explanation_en": "Mission Bhagiratha is a dedicated drinking water grid project providing piped potable drinking water from Godavari and Krishna reservoirs to every household.",
-      "explanation_te": "గోదావరి, కృష్ణా నదుల జలాలను శుద్ధి చేసి పైప్‌లైన్ల గ్రిడ్ ద్వారా ప్రతి ఇంటికీ తాగునీరు అందించే పథకమే 'మిషన్ భగీరథ'."
-    },
-    {
-      "id": 180,
-      "qNumber": 180,
-      "section": "General Studies",
-      "topic": "Advanced Indian Economy - Planning & NITI Aayog",
-      "question_en": "NITI Aayog (National Institution for Transforming India) replaced the Planning Commission on which date?",
-      "question_te": "భారత ప్రణాళికా సంఘం (Planning Commission) స్థానంలో 'నీతి ఆయోగ్' (NITI Aayog) ఎప్పుడు ఏర్పాటయింది?",
-      "options_en": [
-        "1 April 2016",
-        "15 August 2014",
-        "1 January 2015",
-        "26 January 2015"
-      ],
-      "options_te": [
-        "1 ఏప్రిల్ 2016",
-        "15 ఆగస్టు 2014",
-        "1 జనవరి 2015 (1 January 2015)",
-        "26 జనవరి 2015"
-      ],
-      "correct_option": 2,
-      "explanation_en": "NITI Aayog was formed on 1 January 2015 via a Union Cabinet resolution, serving as the premier policy think tank for cooperative federalism.",
-      "explanation_te": "కేంద్ర కేబినెట్ తీర్మానం ద్వారా పాత ప్రణాళికా సంఘం స్థానంలో 2015 జనవరి 1వ తేదీన నీతి ఆయోగ్ ఏర్పాటయింది."
-    },
-    {
-      "id": 181,
-      "qNumber": 181,
+      "id": 190,
+      "qNumber": 190,
       "section": "General Studies",
       "topic": "Advanced Telangana History - Satavahanas",
       "question_en": "The early capital of the Satavahana dynasty, where Roman coins and coins of King Chimuka were excavated, is located at:",
@@ -4171,8 +4372,8 @@
       "explanation_te": "జగిత్యాల జిల్లా గోదావరి తీరాన ఉన్న కోటిలింగాల వద్ద శాతవాహన వంశ స్థాపకుడైన శ్రీముఖుని నాణేలు లభించాయి. ఇది వారి తొలి రాజధాని."
     },
     {
-      "id": 182,
-      "qNumber": 182,
+      "id": 191,
+      "qNumber": 191,
       "section": "General Studies",
       "topic": "Advanced Telangana History - Kakatiyas",
       "question_en": "Which famous Italian traveler visited the Kakatiya kingdom during the reign of Queen Rudrama Devi and lavishly praised her governance and Warangal's prosperity?",
@@ -4194,8 +4395,8 @@
       "explanation_te": "ఇటలీకి చెందిన వెనీస్ యాత్రికుడు మార్కో పోలో మోటుపల్లి రేవు ద్వారా కాకతీయ రాజ్యాన్ని సందర్శించి రాణి రుద్రమదేవి పాలనను కొనియాడారు."
     },
     {
-      "id": 183,
-      "qNumber": 183,
+      "id": 192,
+      "qNumber": 192,
       "section": "General Studies",
       "topic": "Advanced Telangana History - Qutb Shahis",
       "question_en": "The iconic monument 'Charminar' in Hyderabad was constructed in 1591 CE by which Qutb Shahi Sultan to commemorate the eradication of plague?",
@@ -4217,8 +4418,8 @@
       "explanation_te": "హైదరాబాద్ నగర నిర్మాత అయిన 5వ కుతుబ్‌షాహీ సుల్తాన్ మహ్మద్ కులీ కుతుబ్ షా 1591 లో చార్మినార్‌ను నిర్మించారు."
     },
     {
-      "id": 184,
-      "qNumber": 184,
+      "id": 193,
+      "qNumber": 193,
       "section": "General Studies",
       "topic": "Advanced Telangana History - Asaf Jahis",
       "question_en": "Who established the premier higher educational institution 'Osmania University' in Hyderabad in 1917?",
@@ -4240,8 +4441,8 @@
       "explanation_te": "హైదరాబాద్ 7వ నిజాం అయిన మీర్ ఉస్మాన్ అలీ ఖాన్ 1917 లో జారీ చేసిన ఫర్మానా ద్వారా ఉస్మానియా విశ్వవిద్యాలయం ఏర్పాటయింది."
     },
     {
-      "id": 185,
-      "qNumber": 185,
+      "id": 194,
+      "qNumber": 194,
       "section": "General Studies",
       "topic": "Advanced Telangana Culture - Festivals",
       "question_en": "The floral festival 'Bathukamma', the cultural identity of Telangana women, is celebrated primarily during which Hindu lunar festival season?",
@@ -4263,7 +4464,7 @@
       "explanation_te": "భాద్రపద అమావాస్య (ఎంగిలిపూల బతుకమ్మ) నుండి ఆశ్వయుజ అష్టమి (సద్దుల బతుకమ్మ) వరకు 9 రోజుల పాటు ప్రకృతిని, గౌరమ్మను పూజిస్తూ బతుకమ్మను జరుపుకుంటారు."
     },
     {
-      "id": 186,
+      "id": 195,
       "section": "General Studies",
       "topic": "Telangana History & Movement - Gentlemen's Agreement 1956 - Safeguards",
       "question_en": "Which of the following leaders represented the Telangana region in signing the historic 'Gentlemen's Agreement' on February 20, 1956 at Hyderabad House, New Delhi?",
@@ -4282,11 +4483,12 @@
       ],
       "correct_option": 0,
       "explanation_en": "The four Telangana signatories were Chief Minister Burgula Ramakrishna Rao, K.V. Ranga Reddy, Dr. M. Chenna Reddy, and Hyderabad PCC President J.V. Narsing Rao. (The other four from Andhra were N. Sanjiva Reddy, B. Gopala Reddy, A.S. Raju, and G. Latchanna).",
-      "explanation_te": "తెలంగాణ తరఫున బూర్గుల రామకృష్ణారావు, కె.వి. రంగా రెడ్డి, మర్రి చెన్నారెడ్డి, జె.వి. నర్సింగరావు సంతకాలు చేశారు. ఆంధ్రా ప్రాంతం నుంచి నీలం సంజీవరెడ్డి, బెజవాడ గోపాలరెడ్డి, అల్లూరి సత్యనారాయణ రాజు, గౌతు లచ్చన్న సంతకాలు చేశారు."
+      "explanation_te": "తెలంగాణ తరఫున బూర్గుల రామకృష్ణారావు, కె.వి. రంగా రెడ్డి, మర్రి చెన్నారెడ్డి, జె.వి. నర్సింగరావు సంతకాలు చేశారు. ఆంధ్రా ప్రాంతం నుంచి నీలం సంజీవరెడ్డి, బెజవాడ గోపాలరెడ్డి, అల్లూరి సత్యనారాయణ రాజు, గౌతు లచ్చన్న సంతకాలు చేశారు.",
+      "qNumber": 195
     },
     {
-      "id": 187,
-      "qNumber": 187,
+      "id": 196,
+      "qNumber": 196,
       "section": "General Studies",
       "topic": "Advanced Telangana Arts - Dance",
       "question_en": "Which ancient martial dance form of the Kakatiya warrior era, revived by Nataraja Ramakrishna, is known as the warrior dance of Telangana?",
@@ -4308,77 +4510,8 @@
       "explanation_te": "రామప్ప శిల్పాల ఆధారంగా డాక్టర్ నటరాజ రామకృష్ణ పునరుద్ధరించిన కాకతీయుల కాలం నాటి పురుషుల వీర నృత్యమే 'పేరిణి శివతాండవం'."
     },
     {
-      "id": 188,
-      "qNumber": 188,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Literature - Great Poets",
-      "question_en": "Who penned the inspiring revolutionary line: 'నా తెలంగాణ కోటి రతనాల వీణ' (Na Telangana Koti Rathanala Veena)?",
-      "question_te": "'నా తెలంగాణ కోటి రతనాల వీణ' అనే చారిత్రాత్మక విప్లవ నినాదాత్మక గేయాన్ని రచించిన తెలంగాణ మహాకవి ఎవరు?",
-      "options_en": [
-        "Vattikota Alwarswamy",
-        "Kaloji Narayana Rao",
-        "Dasarathi Krishnamacharyulu",
-        "Suravaram Pratapa Reddy"
-      ],
-      "options_te": [
-        "వట్టికోట ఆళ్వారుస్వామి",
-        "కాళోజీ నారాయణరావు",
-        "దాశరథి కృష్ణమాచార్యులు (Dasarathi)",
-        "సురవరం ప్రతాపరెడ్డి"
-      ],
-      "correct_option": 2,
-      "explanation_en": "Mahakavi Dasarathi Krishnamacharyulu wrote 'Na Telangana Koti Rathanala Veena' in Nizam's prison at Indur (Nizamabad) fort.",
-      "explanation_te": "నిజాం జైలు గోడలపై బొగ్గుతో 'నా తెలంగాణ కోటి రతనాల వీణ' అని రాసిన విప్లవ కవి దాశరథి కృష్ణమాచార్యులు."
-    },
-    {
-      "id": 189,
-      "qNumber": 189,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Literature - Praja Kavi",
-      "question_en": "The birth anniversary of which renowned people's poet ('Praja Kavi') on September 9 is celebrated as 'Telangana Bhasha Dinotsavam' (Language Day)?",
-      "question_te": "సెప్టెంబర్ 9వ తేదీన ఎవరి జయంతిని పురస్కరించుకుని తెలంగాణ ప్రభుత్వం 'తెలంగాణ భాషా దినోత్సవం' గా అధికారికంగా నిర్వహిస్తుంది?",
-      "options_en": [
-        "Bammera Pothana",
-        "Kaloji Narayana Rao",
-        "Palgukuriki Somanatha",
-        "C. Narayana Reddy"
-      ],
-      "options_te": [
-        "బమ్మెర పోతన",
-        "కాళోజీ నారాయణరావు (Kaloji)",
-        "పాల్కురికి సోమనాథుడు",
-        "సి. నారాయణ రెడ్డి"
-      ],
-      "correct_option": 1,
-      "explanation_en": "The birth anniversary of Padma Vibhushan Kaloji Narayana Rao on 9 September is celebrated as Telangana Language Day in honor of his literary and democratic contribution.",
-      "explanation_te": "'పుట్టుక నీది చావు నీది బతుకంతా దేశానిది' అని చాటిన ప్రజాకవి కాళోజీ నారాయణరావు జన్మదినమైన సెప్టెంబర్ 9ని 'తెలంగాణ భాషా దినోత్సవం' గా జరుపుకుంటారు."
-    },
-    {
-      "id": 190,
-      "qNumber": 190,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Heritage - GI Tags",
-      "question_en": "Which famous tie-and-dye weaving cluster of Yadadri Bhuvanagiri district earned the first Geographical Indication (GI) tag in Telangana for its geometric design sarees?",
-      "question_te": "ప్రత్యేకమైన 'టై అండ్ డై' (ఇక్కత్) పద్ధతిలో తయారయ్యే నేత చీరలకు తెలంగాణ నుండి తొలిసారిగా భౌగోళిక గుర్తింపు (GI Tag) పొందిన ప్రసిద్ధ పట్టణం ఏది?",
-      "options_en": [
-        "Pochampally (Pochampally Ikat)",
-        "Gadwal",
-        "Narayanpet",
-        "Siddipet Gollabhama"
-      ],
-      "options_te": [
-        "పోచంపల్లి ఇక్కత్ (Pochampally)",
-        "గద్వాల",
-        "నారాయణపేట",
-        "సిద్దిపేట గొల్లభామ"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Pochampally Ikat received India's first textile Geographical Indication (GI) status in 2004 for its traditional double ikat geometric designs.",
-      "explanation_te": "యాదాద్రి భువనగిరి జిల్లాలోని భూదాన్ పోచంపల్లి ఇక్కత్ వస్త్రాలకు 2004 లో మొట్టమొదటి భౌగోళిక గుర్తింపు (GI Tag) లభించింది."
-    },
-    {
-      "id": 191,
-      "qNumber": 191,
+      "id": 197,
+      "qNumber": 197,
       "section": "General Studies",
       "topic": "Advanced Telangana Movement - Integration",
       "question_en": "The Indian military action codenamed 'Operation Polo' that led to the accession of Hyderabad State into the Indian Union concluded on which date?",
@@ -4400,8 +4533,8 @@
       "explanation_te": "1948 సెప్టెంబర్ 13న ప్రారంభమైన ఆపరేషన్ పోలో పోలీస్ చర్య సెప్టెంబర్ 17న నిజాం సైన్యం లొంగిపోవడంతో ముగిసింది. ఆ రోజున హైదరాబాద్ సంస్థానం భారత్‌లో విలీనమైంది."
     },
     {
-      "id": 192,
-      "qNumber": 192,
+      "id": 198,
+      "qNumber": 198,
       "section": "General Studies",
       "topic": "Advanced Telangana Movement - 1952 Mulki Agitation",
       "question_en": "During the 1952 Mulki agitation in Hyderabad against the appointment of non-locals, four protesters were killed in police firing at which iconic educational institution on 3 September 1952?",
@@ -4423,31 +4556,8 @@
       "explanation_te": "1952 సెప్టెంబర్ 3న సిటీ కాలేజీ వద్ద నిరసన తెలుపుతున్న వారిపై పోలీసులు జరిపిన కాల్పుల్లో నలుగురు విద్యార్థులు మరణించారు. దీనిపై జస్టిస్ జగన్మోహన్ రెడ్డి కమిషన్ ఏర్పాటయింది."
     },
     {
-      "id": 193,
-      "qNumber": 193,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Movement - States Reorganisation Commission",
-      "question_en": "What did the States Reorganisation Commission (SRC / Fazal Ali Commission) recommend in 1955 regarding Telangana?",
-      "question_te": "1955 లో ఫజల్ అలీ నేతృత్వంలోని రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ (SRC) తెలంగాణ ప్రాంతం గురించి ఏ సిఫార్సు చేసింది?",
-      "options_en": [
-        "Immediate unconditional merger with Andhra State",
-        "Telangana should be maintained as a separate State (Hyderabad State) initially for at least 5 years",
-        "Division of Telangana among neighbouring four states",
-        "Creation of a Union Territory"
-      ],
-      "options_te": [
-        "ఎటువంటి షరతులు లేకుండా వెంటనే ఆంధ్రతో కలపాలి",
-        "తెలంగాణను కనీసం 5 సంవత్సరాల పాటు ప్రత్యేక రాష్ట్రంగా కొనసాగించాలి, ఆపై 2/3 మెజారిటీ ఉంటేనే విలీనం చేయాలి",
-        "తెలంగాణను నాలుగు పొరుగు రాష్ట్రాలకు పంచాలి",
-        "కేంద్రపాలిత ప్రాంతంగా మార్చాలి"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Paragraphs 386–389 of the SRC Report explicitly cautioned against immediate merger and recommended Telangana remain a separate state for at least 5 years.",
-      "explanation_te": "ఫజల్ అలీ కమిషన్ తెలంగాణ ఆర్థికంగా స్వయం సమృద్ధి కలిగి ఉందని, కనీసం 5 ఏళ్లపాటు ప్రత్యేక హైదరాబాద్ రాష్ట్రంగానే ఉంచి శాసనసభ 2/3 వంతు కోరితేనే విలీనం చేయాలని సిఫార్సు చేసింది."
-    },
-    {
-      "id": 194,
-      "qNumber": 194,
+      "id": 199,
+      "qNumber": 199,
       "section": "General Studies",
       "topic": "Advanced Telangana Movement - Gentlemen's Agreement",
       "question_en": "The 'Gentlemen's Agreement' safeguarding Telangana's interests prior to the formation of Andhra Pradesh was signed on 20 February 1956 at which venue?",
@@ -4469,8 +4579,8 @@
       "explanation_te": "1956 ఫిబ్రవరి 20న ఢిల్లీలోని హైదరాబాద్ హౌస్‌లో తెలంగాణ మరియు ఆంధ్ర ప్రాంతాల నుండి నలుగురేసి చొప్పున మొత్తం 8 మంది పెద్దమనుషులు ఈ ఒప్పందంపై సంతకాలు చేశారు."
     },
     {
-      "id": 195,
-      "qNumber": 195,
+      "id": 200,
+      "qNumber": 200,
       "section": "General Studies",
       "topic": "Advanced Telangana Movement - 1969 Agitation",
       "question_en": "The 1969 separate Telangana agitation started in January 1969 with an indefinite hunger strike undertaken by student Ravindranath at which town?",
@@ -4490,121 +4600,6 @@
       "correct_option": 3,
       "explanation_en": "On 8 January 1969, an undergraduate student named Annabathula Ravindranath went on a fast-unto-death in Khammam demanding implementation of Telangana safeguards.",
       "explanation_te": "1969 జనవరి 8న ఖమ్మం గాంధీ చౌక్ వద్ద అన్నాబత్తుల రవీంద్రనాథ్ తెలంగాణ రక్షణల అమలు కోరుతూ ఆమరణ నిరాహార దీక్ష ప్రారంభించడంతో 1969 ఉద్యమం మొదలైంది."
-    },
-    {
-      "id": 196,
-      "qNumber": 196,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Movement - Political Phase",
-      "question_en": "In the 1971 parliamentary general elections, the Telangana Praja Samithi (TPS) led by Dr. M. Channa Reddy contested on a separate Telangana plank and won how many Lok Sabha seats?",
-      "question_te": "1971 లోక్‌సభ ఎన్నికల్లో ప్రత్యేక తెలంగాణే ధ్యేయంగా పోటీ చేసిన డాక్టర్ మర్రి చెన్నారెడ్డి నేతృత్వంలోని 'తెలంగాణ ప్రజా సమితి' (TPS) ఎన్ని సీట్లు గెలుచుకుంది?",
-      "options_en": [
-        "14 out of 14 seats",
-        "5 out of 14 seats",
-        "10 out of 14 seats",
-        "2 out of 14 seats"
-      ],
-      "options_te": [
-        "14 స్థానాలు",
-        "5 స్థానాలు",
-        "14 లో 10 లోక్‌సభ స్థానాలు (10 out of 14 seats)",
-        "2 స్థానాలు"
-      ],
-      "correct_option": 2,
-      "explanation_en": "The Telangana Praja Samithi swept the 1971 elections by winning 10 out of the total 14 Lok Sabha seats in the Telangana region, demonstrating overwhelming mass support.",
-      "explanation_te": "తెలంగాణలోని మొత్తం 14 లోక్‌సభ స్థానాల్లో 10 స్థానాలను తెలంగాణ ప్రజా సమితి భారీ మెజారిటీతో కైవసం చేసుకుని తెలంగాణ ప్రజాభిప్రాయాన్ని చాటిచెప్పింది."
-    },
-    {
-      "id": 197,
-      "qNumber": 197,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Movement - Presidential Order",
-      "question_en": "Which Article was inserted into the Constitution of India via the 32nd Amendment Act in 1973 to implement the Six-Point Formula in Andhra Pradesh?",
-      "question_te": "1973 లో ఆరు సూత్రాల పథకం (Six-Point Formula) అమలు కోసం 32వ రాజ్యాంగ సవరణ ద్వారా భారత రాజ్యాంగంలో చేర్చబడిన ఆర్టికల్ ఏది?",
-      "options_en": [
-        "Article 370",
-        "Article 371-D",
-        "Article 371-A",
-        "Article 356"
-      ],
-      "options_te": [
-        "ఆర్టికల్ 370",
-        "ఆర్టికల్ 371-D (Article 371-D)",
-        "ఆర్టికల్ 371-A",
-        "ఆర్టికల్ 356"
-      ],
-      "correct_option": 1,
-      "explanation_en": "Article 371-D provided special provisions for equitable opportunities in public employment and education across different regions of Andhra Pradesh, leading to the 1975 Presidential Order.",
-      "explanation_te": "ఆరు సూత్రాల పథకం అమలు కోసం 371-D అధికరణాన్ని రాజ్యాంగంలో చేర్చారు. దీని ఆధారంగానే 1975 రాష్ట్రపతి ఉత్తర్వులు (జోనల్ వ్యవస్థ) జారీ అయ్యాయి."
-    },
-    {
-      "id": 198,
-      "qNumber": 198,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Movement - Final Phase",
-      "question_en": "On which historic date did the Union Home Minister P. Chidambaram make the announcement that 'the process of forming the state of Telangana will be initiated'?",
-      "question_te": "కేంద్ర హోంమంత్రి పి. చిదంబరం 'ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటు ప్రక్రియను ప్రారంభిస్తున్నాం' అని చారిత్రాత్మక ప్రకటన ఏ రోజు రాత్రి చేశారు?",
-      "options_en": [
-        "9 December 2009",
-        "29 November 2009",
-        "23 December 2009",
-        "2 June 2014"
-      ],
-      "options_te": [
-        "9 డిసెంబర్ 2009 (9 December 2009)",
-        "29 నవంబర్ 2009",
-        "23 డిసెంబర్ 2009",
-        "2 జూన్ 2014"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Following K. Chandrashekar Rao's 11-day fast-unto-death and massive statewide student mobilization, Union Home Minister P. Chidambaram announced the statehood decision on midnight of 9 December 2009.",
-      "explanation_te": "కెసిఆర్ చేపట్టిన ఆమరణ నిరాహార దీక్షకు మద్దతుగా ఉద్యమం ఉధృతమవడంతో 2009 డిసెంబర్ 9 అర్ధరాత్రి కేంద్ర ప్రభుత్వం తెలంగాణ ప్రక్రియను ప్రారంభిస్తున్నట్లు ప్రకటించింది."
-    },
-    {
-      "id": 199,
-      "qNumber": 199,
-      "section": "General Studies",
-      "topic": "Advanced Telangana Movement - Mass Agitations",
-      "question_en": "The historic 'Million March' organized by the Telangana Joint Action Committee (TJAC) on Tank Bund in Hyderabad took place on:",
-      "question_te": "తెలంగాణ జేఏసీ (TJAC) ఆధ్వర్యంలో హైదరాబాద్ ట్యాంక్ బండ్ పై నిర్వహించిన చారిత్రాత్మక 'మిలియన్ మార్చ్' ఏ రోజున జరిగింది?",
-      "options_en": [
-        "19 October 2013",
-        "9 December 2009",
-        "30 September 2012",
-        "10 March 2011"
-      ],
-      "options_te": [
-        "19 అక్టోబర్ 2013",
-        "9 డిసెంబర్ 2009",
-        "30 సెప్టెంబర్ 2012",
-        "10 మార్చి 2011 (10 March 2011)"
-      ],
-      "correct_option": 3,
-      "explanation_en": "The Million March (inspired by Cairo's Tahrir Square) was held on 10 March 2011 on Tank Bund, defying police barricades and curfew.",
-      "explanation_te": "ఈజిప్ట్ విప్లవం స్ఫూర్తితో 2011 మార్చి 10వ తేదీన లక్షలాది మంది ప్రజలు ఆంక్షలను ఛేదించి ట్యాంక్ బండ్‌పై 'మిలియన్ మార్చ్' నిర్వహించారు."
-    },
-    {
-      "id": 200,
-      "qNumber": 200,
-      "section": "General Studies",
-      "topic": "Advanced Telangana State Formation - Appointed Day",
-      "question_en": "On which 'Appointed Day' did Telangana officially come into existence as the 29th State of the Republic of India?",
-      "question_te": "భారత గణతంత్రంలో 29వ రాష్ట్రంగా తెలంగాణ అధికారికంగా ఆవిర్భవించిన 'నియమిత దినం' (Appointed Day) ఏది?",
-      "options_en": [
-        "1 March 2014",
-        "18 February 2014",
-        "2 June 2014",
-        "15 August 2014"
-      ],
-      "options_te": [
-        "1 మార్చి 2014",
-        "18 ఫిబ్రవరి 2014",
-        "2 జూన్ 2014 (2 June 2014)",
-        "15 ఆగస్టు 2014"
-      ],
-      "correct_option": 2,
-      "explanation_en": "Under the Andhra Pradesh Reorganisation Act, 2014, the central government notified 2 June 2014 as the 'Appointed Day' marking the official birth of Telangana state.",
-      "explanation_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం 2014 ప్రకారం కేంద్ర ప్రభుత్వం 2014 జూన్ 2వ తేదీని నియమిత దినంగా ప్రకటించడంతో తెలంగాణ నూతన రాష్ట్రంగా ఆవిర్భవించింది."
     }
   ]
 }

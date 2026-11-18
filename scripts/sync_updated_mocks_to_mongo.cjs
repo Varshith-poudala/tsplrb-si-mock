@@ -45,10 +45,13 @@ async function sync() {
   const Question = mongoose.models.Question || mongoose.model('Question', QuestionSchema);
 
   const testsToSync = [
+    { testId: 'tsplrb-si-mock-full-200', file: 'mock_test_full_200.json' },
+    { testId: 'tsplrb-si-mock-full-200-2', file: 'mock_test_full_200_2.json' },
     { testId: 'tsplrb-si-mock-full-200-3', file: 'mock_test_full_200_3.json' },
     { testId: 'tsplrb-si-mock-full-200-4', file: 'mock_test_full_200_4.json' },
     { testId: 'tsplrb-si-mock-full-200-5', file: 'mock_test_full_200_5.json' },
     { testId: 'tsplrb-si-mock-full-200-6', file: 'mock_test_full_200_6.json' },
+    { testId: 'tsplrb-si-mock-full-200-7', file: 'mock_test_full_200_7.json' },
     { testId: 'tsplrb-si-mock-full-200-8', file: 'mock_test_full_200_8.json' },
     { testId: 'tsplrb-si-mock-full-200-9', file: 'mock_test_full_200_9.json' },
   ];

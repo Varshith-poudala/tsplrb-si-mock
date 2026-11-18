@@ -1,38 +1,5 @@
 {
   "testId": "tsplrb-si-mock-full-200-8",
-  "title": "TSPLRB SI Mock Test 8 (Medium • Official Standard PWT)",
-  "title_te": "తెలంగాణ ఎస్సై మాక్ టెస్ట్ 8 (మధ్యస్థం • అధికారిక ప్రామాణిక PWT)",
-  "exam": "Telangana State Police Sub-Inspector (SI) Preliminary Written Test (PWT)",
-  "paper": "Official 200Q Standard Blueprint: 50 Arithmetic + 50 Reasoning + 100 General Studies & Telangana Movement",
-  "difficulty": "Medium",
-  "totalQuestions": 200,
-  "totalMarks": 200,
-  "durationMinutes": 180,
-  "marksPerQuestion": 1.0,
-  "negativeMarking": 0.2,
-  "sections": [
-    {
-      "id": "arithmetic",
-      "name": "Part A: Arithmetic & Number Ability",
-      "start": 1,
-      "end": 50,
-      "count": 50
-    },
-    {
-      "id": "reasoning",
-      "name": "Part B: Reasoning & Mental Ability",
-      "start": 51,
-      "end": 100,
-      "count": 50
-    },
-    {
-      "id": "general_studies",
-      "name": "Part C: General Studies & Telangana Movement",
-      "start": 101,
-      "end": 200,
-      "count": 100
-    }
-  ],
   "questions": [
     {
       "id": 1,
@@ -2660,374 +2627,6 @@
       "id": 115,
       "qNumber": 115,
       "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What is the commercial unit of electrical energy consumed in households?",
-      "question_te": "గృహాలలో వినియోగించే విద్యుత్ శక్తి యొక్క వాణిజ్య ప్రమాణం ఏది?",
-      "options_en": [
-        "Kilowatt-hour (kWh)",
-        "Joule per second",
-        "Watt",
-        "Volt-Ampere"
-      ],
-      "options_te": [
-        "కిలోవాట్-అవర్ (kWh లేదా యూనిట్)",
-        "జౌల్ పర్ సెకన్",
-        "వాట్",
-        "వోల్ట్-ఆంపియర్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "1 unit of electricity equals 1 Kilowatt-hour (kWh), which equals 3.6 × 10^6 Joules.",
-      "explanation_te": "1 యూనిట్ విద్యుత్ = 1 కిలోవాట్-గంట (1 kWh) = 3.6 × 10^6 జౌల్స్."
-    },
-    {
-      "id": 116,
-      "qNumber": 116,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What is the escape velocity from the surface of planet Earth?",
-      "question_te": "భూమి ఉపరితలం నుండి పలాయన వేగం (Escape velocity) సుమారుగా ఎంత?",
-      "options_en": [
-        "11.2 km/s",
-        "9.8 km/s",
-        "7.9 km/s",
-        "15.0 km/s"
-      ],
-      "options_te": [
-        "11.2 కి.మీ/సెకన్",
-        "9.8 కి.మీ/సెకన్",
-        "7.9 కి.మీ/సెకన్",
-        "15.0 కి.మీ/సెకన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Escape velocity from Earth is ve = √(2gR) ≈ 11.2 km/s (approx 40,320 km/h).",
-      "explanation_te": "భూ గురుత్వాకర్షణ బలాన్ని దాటి రోదసిలోకి వెళ్లడానికి అవసరమైన కనీస వేగం 11.2 కి.మీ/సెకను."
-    },
-    {
-      "id": 117,
-      "qNumber": 117,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What is the normal pH value of human blood?",
-      "question_te": "ఆరోగ్యవంతమైన మానవ రక్తం యొక్క సాధారణ pH విలువ ఎంత?",
-      "options_en": [
-        "7.35 to 7.45",
-        "6.20 to 6.80",
-        "7.80 to 8.40",
-        "5.50 to 6.00"
-      ],
-      "options_te": [
-        "7.35 నుండి 7.45",
-        "6.20 నుండి 6.80",
-        "7.80 నుండి 8.40",
-        "5.50 నుండి 6.00"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Human blood is slightly alkaline with a tightly buffered normal physiological pH range of 7.35 to 7.45.",
-      "explanation_te": "మానవ రక్తం కొద్దిగా క్షార స్వభావం కలిగి ఉండి, దాని pH విలువ 7.35 నుండి 7.45 మధ్య ఉంటుంది."
-    },
-    {
-      "id": 118,
-      "qNumber": 118,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "Which two environmental factors are essential for the rusting of iron?",
-      "question_te": "ఇనుము తుప్పు పట్టడానికి తప్పనిసరిగా అవసరమైన రెండు అంశాలు ఏవి?",
-      "options_en": [
-        "Oxygen and Moisture (Water)",
-        "Nitrogen and Carbon dioxide",
-        "Oxygen and Carbon monoxide",
-        "Hydrogen and Moisture"
-      ],
-      "options_te": [
-        "ఆక్సిజన్ మరియు తేమ (నీరు)",
-        "నైట్రోజన్ మరియు కార్బన్ డయాక్సైడ్",
-        "ఆక్సిజన్ మరియు కార్బన్ మోనాక్సైడ్",
-        "హైడ్రోజన్ మరియు తేమ"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Rusting is an electrochemical process forming hydrated iron(III) oxide (Fe2O3·xH2O) requiring both oxygen and water.",
-      "explanation_te": "ఇనుము ఆక్సిజన్ మరియు నీటి తేమతో చర్య జరిపి హైడ్రేటెడ్ ఐరన్ ఆక్సైడ్ (తుప్పు) ఏర్పరుస్తుంది."
-    },
-    {
-      "id": 119,
-      "qNumber": 119,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What is the chemical composition of Brass?",
-      "question_te": "ఇత్తడి (Brass) ఏ లోహాల మిశ్రమం?",
-      "options_en": [
-        "Copper and Zinc",
-        "Copper and Tin",
-        "Copper and Nickel",
-        "Lead and Tin"
-      ],
-      "options_te": [
-        "రాగి (Copper) మరియు జింక్ (Zinc)",
-        "రాగి మరియు తగరం (Tin)",
-        "రాగి మరియు నికెల్",
-        "సీసం మరియు తగరం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Brass is a non-ferrous alloy of copper and zinc. Bronze is an alloy of copper and tin.",
-      "explanation_te": "ఇత్తడి అనేది రాగి (Copper) మరియు జింక్ (Zinc) ల మిశ్రమ లోహం."
-    },
-    {
-      "id": 120,
-      "qNumber": 120,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What is the chemical name and formula of 'Plaster of Paris'?",
-      "question_te": "'ప్లాస్టర్ ఆఫ్ ప్యారిస్' యొక్క రసాయన నామం మరియు ఫార్ములా ఏది?",
-      "options_en": [
-        "Calcium sulphate hemihydrate (CaSO4 · 1/2 H2O)",
-        "Calcium sulphate dihydrate (CaSO4 · 2H2O)",
-        "Calcium carbonate (CaCO3)",
-        "Calcium oxychloride (CaOCl2)"
-      ],
-      "options_te": [
-        "కాల్షియం సల్ఫేట్ హెమీహైడ్రేట్ (CaSO4 · 1/2 H2O)",
-        "కాల్షియం సల్ఫేట్ డైహైడ్రేట్ (CaSO4 · 2H2O)",
-        "కాల్షియం కార్బోనేట్",
-        "కాల్షియం ఆక్సీక్లోరైడ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Plaster of Paris is calcium sulphate hemihydrate (CaSO4 · 0.5 H2O) prepared by heating gypsum (CaSO4 · 2H2O) to 373 K.",
-      "explanation_te": "జిప్సంను వేడి చేయడం ద్వారా ప్లాస్టర్ ఆఫ్ ప్యారిస్ (CaSO4 · 1/2 H2O) లభిస్తుంది."
-    },
-    {
-      "id": 121,
-      "qNumber": 121,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "In which layer of Earth's atmosphere is the protective Ozone Layer located?",
-      "question_te": "భూమి వాతావరణంలో హానికరమైన అతినీలలోహిత (UV) కిరణాల నుండి రక్షించే ఓజోన్ పొర ఏ ఆవరణంలో ఉంది?",
-      "options_en": [
-        "Stratosphere",
-        "Troposphere",
-        "Mesosphere",
-        "Ionosphere"
-      ],
-      "options_te": [
-        "స్ట్రాటోస్ఫియర్ (Stratosphere)",
-        "ట్రోపోస్ఫియర్",
-        "మెసోస్ఫియర్",
-        "అయానోస్ఫియర్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The ozone layer is concentrated in the Stratosphere between 15 and 35 km above Earth's surface.",
-      "explanation_te": "ఓజోన్ పొర స్ట్రాటోస్ఫియర్‌లో ఉండి సూర్యుని నుండి వచ్చే ప్రమాదకర UV-B కిరణాలను శోషిస్తుంది."
-    },
-    {
-      "id": 122,
-      "qNumber": 122,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What name was officially designated to the landing site of Chandrayaan-3's Vikram lander on the Moon?",
-      "question_te": "చంద్రయాన్-3 యొక్క విక్రమ్ ల్యాండర్ చంద్రుని దక్షిణ ధ్రువంపై దిగిన ప్రదేశానికి అధికారికంగా ఏ పేరు పెట్టారు?",
-      "options_en": [
-        "Shiv Shakti Point",
-        "Tiranga Point",
-        "Jawahar Point",
-        "Atal Point"
-      ],
-      "options_te": [
-        "శివశక్తి పాయింట్ (Shiv Shakti Point)",
-        "తిరంగా పాయింట్",
-        "జవహర్ పాయింట్",
-        "అటల్ పాయింట్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The landing site of Chandrayaan-3 was named 'Shiv Shakti Point' by Prime Minister Narendra Modi on August 26, 2023.",
-      "explanation_te": "చంద్రయాన్-3 విజయవంతంగా దిగిన ప్రదేశాన్ని 'శివశక్తి పాయింట్' గా నామకరణం చేశారు."
-    },
-    {
-      "id": 123,
-      "qNumber": 123,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "At which Lagrange Point is ISRO's Aditya-L1 solar observatory satellite placed?",
-      "question_te": "ఇస్రో ప్రయోగించిన ఆదిత్య-L1 సౌర పరిశీలన ఉపగ్రహం ఏ లాగ్రాంజ్ పాయింట్ వద్ద స్థిరపరచబడింది?",
-      "options_en": [
-        "Lagrange Point 1 (L1)",
-        "Lagrange Point 2 (L2)",
-        "Lagrange Point 4 (L4)",
-        "Lagrange Point 5 (L5)"
-      ],
-      "options_te": [
-        "లాగ్రాంజ్ పాయింట్ 1 (L1)",
-        "లాగ్రాంజ్ పాయింట్ 2 (L2)",
-        "లాగ్రాంజ్ పాయింట్ 4 (L4)",
-        "లాగ్రాంజ్ పాయింట్ 5 (L5)"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Aditya-L1 was inserted into a halo orbit around Lagrange Point 1 (L1), 1.5 million km from Earth, to continuously observe the Sun without eclipses.",
-      "explanation_te": "ఆదిత్య-L1 భూమి నుండి 15 లక్షల కి.మీ దూరంలోని L1 బిందువు చుట్టూ ఉన్న హాలో కక్ష్యలో ప్రవేశపెట్టబడింది."
-    },
-    {
-      "id": 124,
-      "qNumber": 124,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "Which gas is predominantly present in Biogas and Compressed Natural Gas (CNG)?",
-      "question_te": "బయోగ్యాస్ (గోబర్ గ్యాస్) మరియు కంప్రెస్డ్ నేచురల్ గ్యాస్ (CNG) లో ప్రధానంగా ఉండే వాయువు ఏది?",
-      "options_en": [
-        "Methane (CH4)",
-        "Propane (C3H8)",
-        "Butane (C4H10)",
-        "Carbon monoxide (CO)"
-      ],
-      "options_te": [
-        "మీథేన్ (Methane - CH4)",
-        "ప్రొపేన్",
-        "బ్యూటేన్",
-        "కార్బన్ మోనాక్సైడ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Methane constitutes about 55-75% of Biogas and over 85-95% of CNG.",
-      "explanation_te": "బయోగ్యాస్ మరియు CNG లలో 75% నుండి 95% వరకు ప్రధానంగా మీథేన్ వాయువు ఉంటుంది."
-    },
-    {
-      "id": 125,
-      "qNumber": 125,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "Which inert gas is filled inside filament electric bulbs to prevent the oxidation of the tungsten filament?",
-      "question_te": "టంగ్‌స్టన్ ఫిలమెంట్‌ను ఆక్సీకరణం చెందకుండా కాపాడేందుకు విద్యుత్ బల్బులలో నింపే జడ వాయువు ఏది?",
-      "options_en": [
-        "Argon",
-        "Helium",
-        "Neon",
-        "Hydrogen"
-      ],
-      "options_te": [
-        "ఆర్గాన్ (Argon)",
-        "హీలియం",
-        "నియాన్",
-        "హైడ్రోజన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Argon (often mixed with nitrogen) is an unreactive noble gas used to prevent tungsten filament evaporation and combustion.",
-      "explanation_te": "విద్యుత్ బల్బులలో టంగ్‌స్టన్ ఫిలమెంట్ ఆవిరి కాకుండా ఆర్గాన్ లేదా నైట్రోజన్ వాయువును నింపుతారు."
-    },
-    {
-      "id": 126,
-      "qNumber": 126,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "Which acid is present in the sting of ants and honeybees, causing burning pain and itching?",
-      "question_te": "చీమలు మరియు తేనెటీగలు కుట్టినప్పుడు మంట మరియు దురదను కలిగించే ఆమ్లం ఏది?",
-      "options_en": [
-        "Formic acid (Methanoic acid)",
-        "Acetic acid",
-        "Tartaric acid",
-        "Oxalic acid"
-      ],
-      "options_te": [
-        "ఫార్మిక్ ఆమ్లం (మిథనోయిక్ ఆమ్లం)",
-        "ఎసిటిక్ ఆమ్లం",
-        "టార్టారిక్ ఆమ్లం",
-        "ఆక్సాలిక్ ఆమ్లం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Ants inject formic acid (methanoic acid, HCOOH) into the skin, which can be neutralised using mild bases like baking soda.",
-      "explanation_te": "చీమలు కుట్టినప్పుడు ఫార్మిక్ ఆమ్లం (మిథనోయిక్ ఆమ్లం) విడుదలవుతుంది."
-    },
-    {
-      "id": 127,
-      "qNumber": 127,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What is the main ore of Aluminium used for its commercial extraction?",
-      "question_te": "అల్యూమినియంను వాణిజ్యపరంగా సంగ్రహించడానికి ఉపయోగించే ప్రధాన ముడి ఖనిజం (Ore) ఏది?",
-      "options_en": [
-        "Bauxite",
-        "Haematite",
-        "Galena",
-        "Calamine"
-      ],
-      "options_te": [
-        "బాక్సైట్ (Bauxite)",
-        "హెమటైట్",
-        "గలీనా",
-        "కాలమైన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Bauxite (hydrated aluminium oxide, Al2O3·2H2O) is the primary source ore for metallic aluminium production.",
-      "explanation_te": "బాక్సైట్ అనేది అల్యూమినియం యొక్క ప్రధాన ముడి ఖనిజం."
-    },
-    {
-      "id": 128,
-      "qNumber": 128,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "Which radioactive isotope is commonly used in radiation therapy for the treatment of cancer?",
-      "question_te": "క్యాన్సర్ చికిత్సలో రేడియేషన్ థెరపీ కోసం ఉపయోగించే రేడియోధార్మిక ఐసోటోప్ ఏది?",
-      "options_en": [
-        "Cobalt-60",
-        "Iodine-131",
-        "Carbon-14",
-        "Sodium-24"
-      ],
-      "options_te": [
-        "కోబాల్ట్-60 (Cobalt-60)",
-        "అయోడిన్-131",
-        "కార్బన్-14",
-        "సోడియం-24"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Cobalt-60 emits high-energy gamma rays utilized in radiotherapy to destroy cancerous tumor cells.",
-      "explanation_te": "కోబాల్ట్-60 విడుదల చేసే గామా కిరణాలను క్యాన్సర్ కణాలను నాశనం చేయడానికి ఉపయోగిస్తారు."
-    },
-    {
-      "id": 129,
-      "qNumber": 129,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "What type of mirror is used as a rear-view mirror in motor vehicles?",
-      "question_te": "మోటారు వాహనాలలో వెనుక దృశ్యాలను చూడటానికి (Rear-view mirror) ఉపయోగించే అద్దం ఏది?",
-      "options_en": [
-        "Convex mirror",
-        "Concave mirror",
-        "Plane mirror",
-        "Parabolic mirror"
-      ],
-      "options_te": [
-        "కుంభాకార దర్పణం (Convex mirror)",
-        "పుటాకార దర్పణం (Concave mirror)",
-        "సమతల దర్పణం",
-        "పారాబొలిక్ దర్పణం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Convex mirrors form diminished, virtual, and erect images, providing a wide field of view for drivers.",
-      "explanation_te": "కుంభాకార దర్పణాలు ఎల్లప్పుడూ చిన్నవైన, నిటారైన ప్రతిబింబాలను ఏర్పరుస్తూ విస్తృత దృశ్య క్షేత్రాన్ని (Wide field of view) అందిస్తాయి."
-    },
-    {
-      "id": 130,
-      "qNumber": 130,
-      "section": "General Studies",
-      "topic": "General Science (Biology, Physics, Chemistry, S&T)",
-      "question_en": "Which Indian missile is a supersonic cruise missile developed as a joint venture between India (DRDO) and Russia (NPO Mashinostroyeniya)?",
-      "question_te": "భారతదేశం (DRDO) మరియు రష్యా సంయుక్త భాగస్వామ్యంతో అభివృద్ధి చేసిన ప్రపంచ ప్రసిద్ధ సూపర్‌సోనిక్ క్రూయిజ్ క్షిపణి ఏది?",
-      "options_en": [
-        "BrahMos",
-        "Agni-V",
-        "Prithvi-II",
-        "Akash"
-      ],
-      "options_te": [
-        "బ్రహ్మోస్ (BrahMos)",
-        "అగ్ని-V",
-        "పృథ్వీ-II",
-        "ఆకాశ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "BrahMos, named after Brahmaputra and Moskva rivers, is the world's fastest operational supersonic cruise missile.",
-      "explanation_te": "బ్రహ్మపుత్ర మరియు మాస్క్వా నదుల పేర్లతో రూపొందించిన బ్రహ్మోస్ అత్యంత వేగవంతమైన సూపర్‌సోనిక్ క్రూయిజ్ క్షిపణి."
-    },
-    {
-      "id": 131,
-      "qNumber": 131,
-      "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who was conferred the prestigious Bharat Ratna, India's highest civilian honour, posthumously in 2024 for his seminal contribution to social justice as Bihar's former Chief Minister?",
       "question_te": "సామాజిక న్యాయానికి విశేష కృషి చేసిన బీహార్ మాజీ ముఖ్యమంత్రికి 2024 లో మరణానంతరం భారతరత్న పురస్కారం ప్రకటించారు. ఆ మహనీయుడు ఎవరు?",
@@ -3048,8 +2647,8 @@
       "explanation_te": "'జన్ నాయక్' గా ప్రసిద్ధి చెందిన కర్పూరీ ఠాకూర్ గారికి 2024 లో కేంద్ర ప్రభుత్వం భారతరత్న బహుకరించింది."
     },
     {
-      "id": 132,
-      "qNumber": 132,
+      "id": 116,
+      "qNumber": 116,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who assumed office as the Chief Election Commissioner (CEC) of India?",
@@ -3071,8 +2670,8 @@
       "explanation_te": "భారత ఎన్నికల సంఘానికి 25వ ప్రధాన ఎన్నికల కమిషనర్‌గా రాజీవ్ కుమార్ బాధ్యతలు నిర్వర్తించారు."
     },
     {
-      "id": 133,
-      "qNumber": 133,
+      "id": 117,
+      "qNumber": 117,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Which nation won the ICC Men's T20 World Cup 2024 held in the West Indies and USA?",
@@ -3094,8 +2693,8 @@
       "explanation_te": "బార్బడోస్‌లో జరిగిన ఉత్కంఠభరిత ఫైనల్లో దక్షిణాఫ్రికాను 7 పరుగుల తేడాతో ఓడించి భారత్ 2024 T20 ప్రపంచకప్‌ను గెలుచుకుంది."
     },
     {
-      "id": 134,
-      "qNumber": 134,
+      "id": 118,
+      "qNumber": 118,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Where was the 33rd Summer Olympic Games (Olympics 2024) officially hosted?",
@@ -3117,8 +2716,8 @@
       "explanation_te": "ఫ్రాన్స్ రాజధాని పారిస్ నగరం 2024 ఒలింపిక్ క్రీడలకు ఆతిథ్యమిచ్చింది."
     },
     {
-      "id": 135,
-      "qNumber": 135,
+      "id": 119,
+      "qNumber": 119,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who is the current Governor of the Reserve Bank of India (RBI)?",
@@ -3140,8 +2739,8 @@
       "explanation_te": "శక్తికాంత దాస్ భారతీయ రిజర్వ్ బ్యాంక్ 25వ గవర్నర్‌గా బాధ్యతలు నిర్వర్తిస్తున్నారు."
     },
     {
-      "id": 136,
-      "qNumber": 136,
+      "id": 120,
+      "qNumber": 120,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "What is the primary objective of the Central Government's 'PM Surya Ghar: Muft Bijli Yojana' launched in 2024?",
@@ -3163,8 +2762,8 @@
       "explanation_te": "1 కోటి కుటుంబాల ఇళ్లపై సోలార్ ప్యానెల్స్ ఏర్పాటు చేసి నెలకు 300 యూనిట్ల వరకు ఉచిత విద్యుత్ అందించడమే ఈ పథకం లక్ష్యం."
     },
     {
-      "id": 137,
-      "qNumber": 137,
+      "id": 121,
+      "qNumber": 121,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Which country held the presidency of the G20 in 2024 following India's successful 2023 presidency?",
@@ -3186,8 +2785,8 @@
       "explanation_te": "భారత్ తర్వాత 2024 లో బ్రెజిల్ దేశం G20 కూటమికి అధ్యక్షత వహించింది."
     },
     {
-      "id": 138,
-      "qNumber": 138,
+      "id": 122,
+      "qNumber": 122,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who won the Nobel Peace Prize for 2024 for efforts to achieve a world free of nuclear weapons?",
@@ -3209,8 +2808,8 @@
       "explanation_te": "హిరోషిమా, నాగసాకి అణుబాంబు బాధితుల జపనీస్ సంస్థ 'నిహోన్ హిడాన్క్యో' కు 2024 నోబెల్ శాంతి బహుమతి లభించింది."
     },
     {
-      "id": 139,
-      "qNumber": 139,
+      "id": 123,
+      "qNumber": 123,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Which film won the Best Feature Film award at the 70th National Film Awards declared in 2024?",
@@ -3232,8 +2831,8 @@
       "explanation_te": "ఆనంద్ ఏకార్షి దర్శకత్వం వహించిన మలయాళ చిత్రం 'ఆట్టమ్' 70వ జాతీయ చలనచిత్ర అవార్డులలో ఉత్తమ చిత్రంగా నిలిచింది."
     },
     {
-      "id": 140,
-      "qNumber": 140,
+      "id": 124,
+      "qNumber": 124,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who was honoured with the 53rd Dadasaheb Phalke Lifetime Achievement Award?",
@@ -3255,8 +2854,8 @@
       "explanation_te": "లెజెండరీ నటి వహీదా రెహమాన్‌కు 53వ దాదాసాహెబ్ ఫాల్కే పురస్కారం ప్రదానం చేయబడింది."
     },
     {
-      "id": 141,
-      "qNumber": 141,
+      "id": 125,
+      "qNumber": 125,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "What is the rank of India in the Global Hunger Index (GHI) 2024 released by Welthungerhilfe?",
@@ -3278,8 +2877,8 @@
       "explanation_te": "గ్లోబల్ హంగర్ ఇండెక్స్ 2024 లో 127 దేశాల జాబితాలో భారతదేశం 105వ ర్యాంక్ సాధించింది."
     },
     {
-      "id": 142,
-      "qNumber": 142,
+      "id": 126,
+      "qNumber": 126,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Which state in India emerged at the top rank in the NITI Aayog Sustainable Development Goals (SDG) India Index 2023-24?",
@@ -3301,8 +2900,8 @@
       "explanation_te": "నీతి ఆయోగ్ SDG ఇండియా ఇండెక్స్‌లో కేరళ రాష్ట్రం 79 స్కోర్‌తో దేశంలోనే అగ్రస్థానంలో నిలిచింది."
     },
     {
-      "id": 143,
-      "qNumber": 143,
+      "id": 127,
+      "qNumber": 127,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who is the current Chief Justice of India (CJI)?",
@@ -3324,8 +2923,8 @@
       "explanation_te": "జస్టిస్ సంజీవ్ ఖన్నా 2024 నవంబర్‌లో భారత 51వ ప్రధాన న్యాయమూర్తిగా ప్రమాణ స్వీకారం చేశారు."
     },
     {
-      "id": 144,
-      "qNumber": 144,
+      "id": 128,
+      "qNumber": 128,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Which Indian athlete won the Silver Medal in Men's Javelin Throw at the Paris Olympics 2024?",
@@ -3347,8 +2946,8 @@
       "explanation_te": "నీరజ్ చోప్రా 89.45 మీటర్ల త్రోతో రజతం సాధించి వరుస ఒలింపిక్స్‌లో పతకాలు సాధించిన రికార్డు సృష్టించాడు."
     },
     {
-      "id": 145,
-      "qNumber": 145,
+      "id": 129,
+      "qNumber": 129,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Who won the Men's Singles title at the Wimbledon Championships 2024?",
@@ -3370,8 +2969,8 @@
       "explanation_te": "స్పెయిన్ స్టార్ కార్లోస్ అల్కరాజ్ వరుస సెట్లలో జొకోవిచ్‌ను ఓడించి 2024 వింబుల్డన్ పురుషుల సింగిల్స్ టైటిల్‌ను నిలబెట్టుకున్నాడు."
     },
     {
-      "id": 146,
-      "qNumber": 146,
+      "id": 130,
+      "qNumber": 130,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events",
       "question_en": "Which state government launched the 'Mahalakshmi Scheme' providing free travel for women in state-run RTC buses?",
@@ -3393,813 +2992,652 @@
       "explanation_te": "తెలంగాణ ప్రభుత్వం 2023 డిసెంబర్ 9న మహాలక్ష్మి పథకం ద్వారా రాష్ట్రవ్యాప్తంగా ఆర్టీసీ బస్సుల్లో మహిళలకు ఉచిత ప్రయాణాన్ని ప్రారంభించింది."
     },
     {
+      "id": 131,
+      "qNumber": 131,
+      "section": "General Studies",
+      "topic": "Geography - Drainage Systems of India",
+      "question_en": "Which of the following rivers is the only perennial river in Peninsular India that receives rainfall from both South-West and North-East monsoons?",
+      "question_te": "దక్షిణ ద్వీపకల్ప భారతదేశంలో నైరుతి మరియు ఈశాన్య రుతుపవనాలు రెండింటి నుండి వర్షపాతాన్ని పొందుతూ జీవనదిగా ప్రవహించే నది ఏది?",
+      "options_en": [
+        "Godavari River",
+        "Krishna River",
+        "Cauvery River (Kaveri)",
+        "Mahanadi River"
+      ],
+      "options_te": [
+        "గోదావరి నది",
+        "కృష్ణా నది",
+        "కావేరి నది (Cauvery)",
+        "మహానది"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The Cauvery basin receives summer rainfall from SW monsoon in upper reaches (Coorg) and winter rainfall from NE monsoon in lower reaches (Tamil Nadu), making it almost perennial.",
+      "explanation_te": "కావేరి నది ఎగువ ప్రాంతంలో నైరుతి రుతుపవనాల వల్ల, దిగువ ప్రాంతంలో ఈశాన్య రుతుపవనాల వల్ల వర్షం పొంది దాదాపు జీవనదిగా ప్రవహిస్తుంది."
+    },
+    {
+      "id": 132,
+      "qNumber": 132,
+      "section": "General Studies",
+      "topic": "Geography - Physiography of India",
+      "question_en": "Which gap or pass in the Western Ghats connects Palakkad in Kerala with Coimbatore in Tamil Nadu?",
+      "question_te": "పశ్చిమ కనుమలలో కేరళలోని పాలక్కాడ్‌ను తమిళనాడులోని కోయంబత్తూరుతో కలిపే ప్రముఖ కనుమ ఏది?",
+      "options_en": [
+        "Thal Ghat",
+        "Bhor Ghat",
+        "Palghat Gap (Palakkad Gap)",
+        "Shencottah Gap"
+      ],
+      "options_te": [
+        "థాల్ ఘాట్",
+        "భోర్ ఘాట్",
+        "పాల్ఘాట్ కనుమ (Palghat Gap)",
+        "షెంకోట్టా కనుమ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Palghat Gap is a major low mountain pass (around 30 km wide) in the Western Ghats between Nilgiri Hills and Anaimalai Hills.",
+      "explanation_te": "నీలగిరి మరియు ఆనైమలై కొండల మధ్య పశ్చిమ కనుమలలో విస్తరించి కేరళ, తమిళనాడులను కలిపే ముఖ్యమైన కనుమ పాల్ఘాట్."
+    },
+    {
+      "id": 133,
+      "qNumber": 133,
+      "section": "General Studies",
+      "topic": "Geography - Soils of India",
+      "question_en": "Which soil type in India develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern parts of the Deccan Plateau and turns yellow when hydrated?",
+      "question_te": "దక్కన్ పీఠభూమిలోని తక్కువ వర్షపాతం గల ప్రాంతాలలో స్పటికాకార అగ్నిశిలల నుండి ఏర్పడి, నీటిని గ్రహించినప్పుడు పసుపు రంగులోకి మారే నేలలు ఏవి?",
+      "options_en": [
+        "Laterite Soils",
+        "Red and Yellow Soils",
+        "Alluvial Soils",
+        "Saline Soils"
+      ],
+      "options_te": [
+        "లాటరైట్ నేలలు",
+        "ఎర్ర మరియు పసుపు నేలలు (Red and Yellow Soils)",
+        "ఒండ్రు నేలలు",
+        "చౌడు నేలలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Red soils develop a reddish color due to a wide diffusion of iron in crystalline and metamorphic rocks and look yellow in a hydrated form.",
+      "explanation_te": "ఐరన్ (ఇనుము) విస్తరణ వల్ల ఎరుపు రంగులోను, తేమను గ్రహించినప్పుడు పసుపు రంగులోను కనిపించేవి ఎర్ర నేలలు."
+    },
+    {
+      "id": 134,
+      "qNumber": 134,
+      "section": "General Studies",
+      "topic": "Geography - Biosphere Reserves & Ecology",
+      "question_en": "Which of the following was designated as India's very first National Park in 1936, originally named Hailey National Park?",
+      "question_te": "1936 లో 'హైలీ నేషనల్ పార్క్' పేరుతో స్థాపించబడిన భారతదేశపు మొట్టమొదటి జాతీయ ఉద్యానవనం ఏది?",
+      "options_en": [
+        "Kaziranga National Park",
+        "Jim Corbett National Park",
+        "Gir National Park",
+        "Kanha National Park"
+      ],
+      "options_te": [
+        "కాజిరంగా జాతీయ ఉద్యానవనం",
+        "జిమ్ కార్బెట్ జాతీయ ఉద్యానవనం (Jim Corbett)",
+        "గిర్ జాతీయ ఉద్యానవనం",
+        "కన్హా జాతీయ ఉద్యానవనం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Jim Corbett National Park in Nainital/Pauri Garhwal district of Uttarakhand was established in 1936 as Hailey National Park.",
+      "explanation_te": "ఉత్తరాఖండ్‌లో 1936 లో ఏర్పాటైన భారతదేశ తొలి జాతీయ ఉద్యానవనం జిమ్ కార్బెట్ నేషనల్ పార్క్."
+    },
+    {
+      "id": 135,
+      "qNumber": 135,
+      "section": "General Studies",
+      "topic": "Geography - Water Resources & Dams",
+      "question_en": "The Hirakud Dam, one of the longest earthen dams in the world, is constructed across which river in Odisha?",
+      "question_te": "ప్రపంచంలోనే అతి పొడవైన మట్టి ఆనకట్టలలో ఒకటైన హీరాకుడ్ డ్యామ్ ఒడిశాలోని ఏ నదిపై నిర్మించబడింది?",
+      "options_en": [
+        "Mahanadi River",
+        "Brahmani River",
+        "Baitarani River",
+        "Subarnarekha River"
+      ],
+      "options_te": [
+        "మహానది (Mahanadi)",
+        "బ్రాహ్మణి నది",
+        "బైతరణి నది",
+        "సువర్ణరేఖ నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Hirakud Dam was built across the Mahanadi River near Sambalpur in Odisha, commissioned in 1957.",
+      "explanation_te": "ఒడిశాలోని సంబల్‌పూర్ వద్ద మహానదిపై హీరాకుడ్ బహుళార్థసాధక ప్రాజెక్టు నిర్మించబడింది."
+    },
+    {
+      "id": 136,
+      "qNumber": 136,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Rivers & Drainage",
+      "question_en": "The Pranahita river, the largest tributary of the Godavari river in terms of water discharge, is formed by the confluence of which two rivers?",
+      "question_te": "గోదావరి నదికి అత్యధిక నీటిని అందించే అతిపెద్ద ఉపనది అయిన ప్రాణహిత ఏ రెండు నదుల సంగమం వల్ల ఏర్పడుతుంది?",
+      "options_en": [
+        "Wardha and Penganga",
+        "Wainganga and Wardha",
+        "Manjeera and Kadam",
+        "Indravati and Sabari"
+      ],
+      "options_te": [
+        "వార్ధా మరియు పెన్‌గంగ",
+        "వైన్‌గంగా మరియు వార్ధా (Wainganga & Wardha)",
+        "మంజీర మరియు కడెం",
+        "ఇంద్రావతి మరియు శబరి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "River Pranahita is formed by the combined waters of Penganga/Wardha and Wainganga at the Maharashtra-Telangana border.",
+      "explanation_te": "వార్ధా (పెన్‌గంగతో కలిసినది) మరియు వైన్‌గంగా నదులు సంగమించి ప్రాణహిత నదిగా ఏర్పడి కాళేశ్వరం వద్ద గోదావరిలో కలుస్తాయి."
+    },
+    {
+      "id": 137,
+      "qNumber": 137,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Rivers & Confluences",
+      "question_en": "At which historic pilgrim town in Telangana does the River Krishna receive its major tributary, the Tungabhadra?",
+      "question_te": "తెలంగాణలోని ఏ చారిత్రక పుణ్యక్షేత్రం వద్ద కృష్ణా నదిలో దాని ప్రధాన ఉపనది అయిన తుంగభద్ర సంగమిస్తుంది?",
+      "options_en": [
+        "Alampur (Jogulamba Gadwal district)",
+        "Beechupalli",
+        "Somashila",
+        "Nagarjuna Sagar"
+      ],
+      "options_te": [
+        "ఆలంపూర్ (జోగులాంబ గద్వాల జిల్లా)",
+        "బీచుపల్లి",
+        "సోమశిల",
+        "నాగార్జున సాగర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The confluence of Krishna and Tungabhadra takes place near Alampur (Dakshina Kashi) in Jogulamba Gadwal district.",
+      "explanation_te": "జోగులాంబ గద్వాల జిల్లాలోని దక్షిణ కాశీగా ప్రసిద్ధి చెందిన ఆలంపూర్ సమీపంలో కృష్ణా-తుంగభద్ర నదుల సంగమం జరుగుతుంది."
+    },
+    {
+      "id": 138,
+      "qNumber": 138,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Irrigation Projects",
+      "question_en": "The historic 'Nizam Sagar' project, constructed in 1931 across the Manjeera river, is located in which district of Telangana?",
+      "question_te": "1931 లో మంజీర నదిపై నిర్మించబడిన చారిత్రక 'నిజాం సాగర్' ప్రాజెక్టు తెలంగాణలోని ఏ జిల్లాలో ఉంది?",
+      "options_en": [
+        "Kamareddy district",
+        "Sangareddy district",
+        "Medak district",
+        "Nizamabad district"
+      ],
+      "options_te": [
+        "కామారెడ్డి జిల్లా (Kamareddy)",
+        "సంగారెడ్డి జిల్లా",
+        "మెదక్ జిల్లా",
+        "నిజామాబాద్ జిల్లా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nizam Sagar dam was constructed across the Manjeera river at Achampet in present Kamareddy district.",
+      "explanation_te": "నిజాం సాగర్ ప్రాజెక్టు ప్రస్తుత కామారెడ్డి జిల్లాలోని మంజీర నదిపై నిర్మించబడింది."
+    },
+    {
+      "id": 139,
+      "qNumber": 139,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Forests & Wildlife",
+      "question_en": "The 'Kawal Tiger Reserve' is situated in which of the following regions of northern Telangana?",
+      "question_te": "తెలంగాణ ఉత్తర భాగంలో ఉన్న 'కవ్వాల్ టైగర్ రిజర్వ్' ఏ పూర్వ అవిభక్త జిల్లా పరిధిలో విస్తరించి ఉంది?",
+      "options_en": [
+        "Adilabad / Mancherial / Nirmal",
+        "Khammam / Kothagudem",
+        "Warangal / Mulugu",
+        "Mahabubnagar / Nagarkurnool"
+      ],
+      "options_te": [
+        "ఆదిలాబాద్ / మంచిర్యాల / నిర్మల్",
+        "ఖమ్మం / కొత్తగూడెం",
+        "వరంగల్ / ములుగు",
+        "మహబూబ్‌నగర్ / నాగర్‌కర్నూల్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kawal Wildlife Sanctuary was declared a Tiger Reserve in 2012, situated in the catchment of Kadam and Godavari in Adilabad/Mancherial/Nirmal.",
+      "explanation_te": "కవ్వాల్ పులుల అభయారణ్యం పూర్వ ఆదిలాబాద్ (మంచిర్యాల, నిర్మల్) జిల్లా పరిధిలో విస్తరించి ఉంది."
+    },
+    {
+      "id": 140,
+      "qNumber": 140,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Plateaus & Hills",
+      "question_en": "The 'Ananthagiri Hills', which give rise to the River Musi, are located in which district of Telangana?",
+      "question_te": "మూసీ నది జన్మస్థానమైన 'అనంతగిరి కొండలు' తెలంగాణలోని ఏ జిల్లాలో ఉన్నాయి?",
+      "options_en": [
+        "Vikarabad district",
+        "Ranga Reddy district",
+        "Mahabubnagar district",
+        "Medak district"
+      ],
+      "options_te": [
+        "వికారాబాద్ జిల్లా (Vikarabad)",
+        "రంగారెడ్డి జిల్లా",
+        "మహబూబ్‌నగర్ జిల్లా",
+        "మెదక్ జిల్లా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ananthagiri Hills in Vikarabad district are densely forested hills where River Musi originates.",
+      "explanation_te": "వికారాబాద్ జిల్లాలోని అనంతగిరి కొండల్లో మూసీ నది జన్మిస్తుంది."
+    },
+    {
+      "id": 141,
+      "qNumber": 141,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Mineral Resources",
+      "question_en": "Extensive high-grade limestone deposits that feed major cement manufacturing clusters in Telangana are concentrated in which district?",
+      "question_te": "తెలంగాణలో భారీ సిమెంట్ కర్మాగారాలకు ముడిసరుకును అందించే సున్నపురాయి (లైమ్‌స్టోన్) నిల్వలు ఏ జిల్లాలో అత్యధికంగా కేంద్రీకృతమై ఉన్నాయి?",
+      "options_en": [
+        "Suryapet / Nalgonda",
+        "Bhadradri Kothagudem",
+        "Jogulamba Gadwal",
+        "Medchal Malkajgiri"
+      ],
+      "options_te": [
+        "సూర్యాపేట / నల్గొండ (Suryapet/Nalgonda)",
+        "భద్రాద్రి కొత్తగూడెం",
+        "జోగులాంబ గద్వాల",
+        "మేడ్చల్ మల్కాజిగిరి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Palnadu limestone basin extends across Suryapet (Mellacheruvu, Mattampally, Kodad) and Nalgonda, making it a cement hub.",
+      "explanation_te": "సూర్యాపేట మరియు నల్గొండ జిల్లాల్లోని సున్నపురాయి నిల్వల ఆధారంగా అనేక సిమెంట్ పరిశ్రమలు ఏర్పాటయ్యాయి."
+    },
+    {
+      "id": 142,
+      "qNumber": 142,
+      "section": "General Studies",
+      "topic": "Geography - Telangana Administrative Geography",
+      "question_en": "Which of the following is the only district in Telangana that shares boundaries with three neighboring Indian states (Maharashtra, Karnataka, and Chhattisgarh)?",
+      "question_te": "తెలంగాణలోని ఏ జిల్లా మూడు పొరుగు రాష్ట్రాలతో సరిహద్దును పంచుకుంటుంది లేదా అంతర్రాష్ట్ర సరిహద్దు లక్షణాన్ని కలిగి ఉంది?",
+      "options_en": [
+        "None (No single district touches 3 states)",
+        "Kumuram Bheem Asifabad",
+        "Jashupur",
+        "Bhadradri Kothagudem"
+      ],
+      "options_te": [
+        "ఏ జిల్లా కూడా మూడు రాష్ట్రాలను తాకదు (No single district touches 3 states)",
+        "కుమురం భీమ్ ఆసిఫాబాద్",
+        "జాషుపూర్",
+        "భద్రాద్రి కొత్తగూడెం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "No single district in Telangana shares borders with 3 states. Bhadradri touches AP and Chhattisgarh; Kamareddy touches Maharashtra and Karnataka.",
+      "explanation_te": "తెలంగాణలో ఏ ఒక్క జిల్లా కూడా ఒకేసారి 3 రాష్ట్రాలతో సరిహద్దును కలిగి లేదు."
+    },
+    {
+      "id": 143,
+      "qNumber": 143,
+      "section": "General Studies",
+      "topic": "Geography - Indian Climate & Monsoons",
+      "question_en": "The phenomenon of 'Western Disturbances' that brings winter precipitation to North-West India originates over which body of water?",
+      "question_te": "వాయవ్య భారతదేశంలో శీతాకాలంలో వర్షపాతాన్ని కలిగించే 'పశ్చిమ అలజడులు' (Western Disturbances) ఏ సముద్రం మీదుగా ఉద్భవిస్తాయి?",
+      "options_en": [
+        "Mediterranean Sea",
+        "Arabian Sea",
+        "Red Sea",
+        "Bay of Bengal"
+      ],
+      "options_te": [
+        "మధ్యధరా సముద్రం (Mediterranean Sea)",
+        "అరేబియా సముద్రం",
+        "ఎర్ర సముద్రం",
+        "బంగాళాఖాతం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Western disturbances are extra-tropical cyclones originating over the Mediterranean Sea, carried by westerly jet streams to Punjab and Haryana.",
+      "explanation_te": "మధ్యధరా సముద్రంపై ఉద్భవించే పశ్చిమ అలజడులు జెట్ ప్రవాహాల ద్వారా భారతదేశ వాయవ్య ప్రాంతానికి శీతాకాలపు వర్షాన్ని తెస్తాయి."
+    },
+    {
+      "id": 144,
+      "qNumber": 144,
+      "section": "General Studies",
+      "topic": "Geography - Transport & Major Ports of India",
+      "question_en": "Which of the following is a major tidal port located in the Gulf of Kutch in Gujarat, known as Deendayal Port?",
+      "question_te": "గుజరాత్‌లోని కచ్ సింధుశాఖలో ఉన్న ప్రముఖ టైడల్ పోర్ట్ (దీన్‌దయాళ్ పోర్ట్) ఏది?",
+      "options_en": [
+        "Kandla Port",
+        "Mundra Port",
+        "Pipavav Port",
+        "Dahej Port"
+      ],
+      "options_te": [
+        "కాండ్లా పోర్ట్ (Kandla)",
+        "ముంద్రా పోర్ట్",
+        "పిపావావ్ పోర్ట్",
+        "దహేజ్ పోర్ట్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kandla Port in Gujarat was developed post-independence to replace Karachi port and was renamed Deendayal Port Trust.",
+      "explanation_te": "కచ్ సింధుశాఖలోని కాండ్లా పోర్టును దీన్‌దయాళ్ పోర్ట్ అని పిలుస్తారు."
+    },
+    {
+      "id": 145,
+      "qNumber": 145,
+      "section": "General Studies",
+      "topic": "Indian Economy - Monetary Policy & Banking",
+      "question_en": "What is the 'Repo Rate' in the Indian financial system?",
+      "question_te": "భారతీయ ఆర్థిక వ్యవస్థలో 'రెపో రేటు' (Repo Rate) అనగా ఏమిటి?",
+      "options_en": [
+        "The interest rate at which commercial banks borrow short-term funds from the RBI against government securities",
+        "The rate at which RBI borrows from commercial banks",
+        "The lending rate charged by commercial banks to their prime corporate borrowers",
+        "The discount rate on export bills of exchange"
+      ],
+      "options_te": [
+        "ప్రభుత్వ సెక్యూరిటీల హామీతో వాణిజ్య బ్యాంకులు రిజర్వ్ బ్యాంకు నుండి స్వల్పకాలిక రుణాలు పొందే వడ్డీ రేటు",
+        "వాణిజ్య బ్యాంకుల నుండి ఆర్బీఐ అప్పు తీసుకునే రేటు",
+        "బ్యాంకులు తమ ఉత్తమ కస్టమర్లకు ఇచ్చే రుణాల వడ్డీ రేటు",
+        "ఎగుమతి బిల్లులపై డిస్కౌంట్ రేటు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Repo (Repurchase Option) rate is the key policy rate at which the RBI lends liquidity to commercial banks against eligible collateral.",
+      "explanation_te": "వాణిజ్య బ్యాంకులు తమ స్వల్పకాలిక ద్రవ్య అవసరాల కోసం ఆర్బీఐ వద్ద ప్రభుత్వ బాండ్లను తాకట్టు పెట్టి రుణాలు పొందే రేటును రెపో రేటు అంటారు."
+    },
+    {
+      "id": 146,
+      "qNumber": 146,
+      "section": "General Studies",
+      "topic": "Indian Economy - National Income Concepts",
+      "question_en": "How is 'Gross National Product at Market Prices' (GNP_MP) derived from Gross Domestic Product (GDP_MP)?",
+      "question_te": "స్థూల దేశీయోత్పత్తి (GDP_MP) నుండి 'స్థూల జాతీయోత్పత్తి' (GNP_MP) ని ఏ విధంగా లెక్కిస్తారు?",
+      "options_en": [
+        "GNP_MP = GDP_MP + Net Factor Income from Abroad (NFIA)",
+        "GNP_MP = GDP_MP - Depreciation",
+        "GNP_MP = GDP_MP + Indirect Taxes - Subsidies",
+        "GNP_MP = GDP_MP - Net Factor Income from Abroad"
+      ],
+      "options_te": [
+        "GNP_MP = GDP_MP + విదేశాల నుండి నికర కారక ఆదాయం (NFIA)",
+        "GNP_MP = GDP_MP - తరుగుదల",
+        "GNP_MP = GDP_MP + పరోక్ష పన్నులు - రాయితీలు",
+        "GNP_MP = GDP_MP - NFIA"
+      ],
+      "correct_option": 0,
+      "explanation_en": "GNP includes total value generated by residents of a country: GNP = GDP + Net Factor Income from Abroad (NFIA).",
+      "explanation_te": "దేశ పౌరులు దేశంలో మరియు విదేశాలలో సంపాదించిన మొత్తం ఆదాయాన్ని GNP అంటారు: GDP + విదేశాల నుండి నికర కారక ఆదాయం (NFIA)."
+    },
+    {
       "id": 147,
       "qNumber": 147,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "What is the name of the comprehensive caste survey initiated by the Government of Telangana in November 2024?",
-      "question_te": "2024 నవంబర్‌లో తెలంగాణ ప్రభుత్వం ప్రారంభించిన సమగ్ర ఇంటింటి సర్వే యొక్క అధికారిక పేరు ఏమిటి?",
+      "topic": "Indian Economy - Inflation & Price Indices",
+      "question_en": "What distinguishes 'Core Inflation' from 'Headline Inflation' in economic analysis?",
+      "question_te": "ఆర్థిక విశ్లేషణలో 'కోర్ ద్రవ్యోల్బణం' (Core Inflation) కు మరియు 'హెడ్‌లైన్ ద్రవ్యోల్బణం' కు గల ప్రధాన తేడా ఏమిటి?",
       "options_en": [
-        "Social, Economic, Educational, Employment, Political and Caste Survey (SEEEPC Survey)",
-        "Rythu Survey",
-        "Prajavani Survey",
-        "Kutumba Census"
+        "Core inflation excludes volatile food and fuel energy prices from the headline index",
+        "Core inflation includes only wholesale industrial raw materials",
+        "Core inflation is computed only for rural unorganized sectors",
+        "Core inflation measures only asset and stock market prices"
       ],
       "options_te": [
-        "సామాజిక, ఆర్థిక, విద్య, ఉపాధి, రాజకీయ మరియు కుల సర్వే",
-        "రైతు సర్వే",
-        "ప్రజావాణి సర్వే",
-        "కుటుంబ జనాభా లెక్కలు"
+        "హెడ్‌లైన్ సూచీ నుండి తీవ్ర ఒడిదుడుకులు ఉండే ఆహార మరియు ఇంధన ధరలను మినహాయించి కోర్ ద్రవ్యోల్బణాన్ని లెక్కిస్తారు",
+        "కోర్ ద్రవ్యోల్బణం పారిశ్రామిక ముడిసరుకును మాత్రమే లెక్కిస్తుంది",
+        "ఇది గ్రామీణ అసంఘటిత రంగానికి మాత్రమే వర్తిస్తుంది",
+        "ఇది కేవలం షేర్ మార్కెట్ ధరలను లెక్కిస్తుంది"
       ],
       "correct_option": 0,
-      "explanation_en": "The Telangana State Government initiated the comprehensive socio-economic and caste survey across 1.17 crore households in November 2024.",
-      "explanation_te": "తెలంగాణ ప్రభుత్వం రాష్ట్రవ్యాప్తంగా 1.17 కోట్ల కుటుంబాల సమగ్ర సామాజిక, ఆర్థిక, విద్యా, ఉపాధి మరియు కుల సర్వేను చేపట్టింది."
+      "explanation_en": "Core inflation excludes volatile food and energy components to reflect the persistent, underlying trend in consumer price inflation.",
+      "explanation_te": "ఆహార, ఇంధన ధరలలో హెచ్చుతగ్గులు ఎక్కువగా ఉండటం వలన వాటిని మినహాయించి లెక్కించే స్థిరమైన ద్రవ్యోల్బణాన్ని కోర్ ద్రవ్యోల్బణం అంటారు."
     },
     {
       "id": 148,
       "qNumber": 148,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Who is the current Chief of the Army Staff (COAS) of the Indian Army?",
-      "question_te": "భారత సైన్యం (Indian Army) ప్రస్తుత చీఫ్ ఆఫ్ ఆర్మీ స్టాఫ్ ఎవరు?",
+      "topic": "Indian Economy - Public Finance & Deficits",
+      "question_en": "What does a 'Revenue Deficit' in a government budget indicate?",
+      "question_te": "ప్రభుత్వ బడ్జెట్‌లో 'రెవెన్యూ లోటు' (Revenue Deficit) దేనిని సూచిస్తుంది?",
       "options_en": [
-        "General Upendra Dwivedi",
-        "General Manoj Pande",
-        "General Anil Chauhan",
-        "General M.M. Naravane"
+        "Excess of government revenue expenditure over revenue receipts",
+        "Excess of total budget expenditure over total tax receipts",
+        "Total borrowing from the Reserve Bank of India",
+        "Difference between exports and imports"
       ],
       "options_te": [
-        "జనరల్ ఉపేంద్ర ద్వివేది",
-        "జనరల్ మనోజ్ పాండే",
-        "జనరల్ అనిల్ చౌహాన్",
-        "జనరల్ ఎం.ఎం. నరవణే"
+        "ప్రభుత్వ రెవెన్యూ రాబడుల కంటే రెవెన్యూ వ్యయం అధికంగా ఉండటం",
+        "మొత్తం బడ్జెట్ వ్యయం పన్ను రాబడుల కంటే మించడం",
+        "ఆర్బీఐ నుండి ప్రభుత్వం తీసుకున్న మొత్తం రుణం",
+        "ఎగుమతులు మరియు దిగుమతుల మధ్య వ్యత్యాసం"
       ],
       "correct_option": 0,
-      "explanation_en": "General Upendra Dwivedi assumed charge as the 30th Chief of the Army Staff on 30 June 2024.",
-      "explanation_te": "జనరల్ ఉపేంద్ర ద్వివేది 2024 జూన్ 30న భారత 30వ ఆర్మీ చీఫ్‌గా బాధ్యతలు స్వీకరించారు."
+      "explanation_en": "Revenue Deficit occurs when government's routine operational expenditures exceed its routine revenue receipts (taxes + non-tax fees).",
+      "explanation_te": "ప్రభుత్వ సాధారణ రోజువారీ పరిపాలనా ఖర్చులు (జీతాలు, వడ్డీలు) దాని రెవెన్యూ ఆదాయం కంటే మించిపోవడాన్ని రెవెన్యూ లోటు అంటారు."
     },
     {
       "id": 149,
       "qNumber": 149,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which country officially joined the NATO alliance as its 32nd member state in March 2024?",
-      "question_te": "2024 మార్చిలో నాటో (NATO) రక్షణ కూటమిలో 32వ సభ్యదేశంగా అధికారికంగా చేరిన దేశం ఏది?",
+      "topic": "Indian Economy - Banking & Non-Performing Assets",
+      "question_en": "According to Reserve Bank of India guidelines, an advance or loan is classified as a 'Non-Performing Asset' (NPA) when interest or principal remains overdue for a period of more than:",
+      "question_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా నిబంధనల ప్రకారం, రుణంపై అసలు లేదా వడ్డీ ఎన్ని రోజులకు మించి చెల్లించకుండా బకాయి ఉంటే దానిని 'నిరర్థక ఆస్తి' (NPA) గా వర్గీకరిస్తారు?",
       "options_en": [
-        "Sweden",
-        "Finland",
-        "Ukraine",
-        "Georgia"
+        "30 days",
+        "60 days",
+        "90 days",
+        "180 days"
       ],
       "options_te": [
-        "స్వీడన్ (Sweden)",
-        "ఫిన్లాండ్",
-        "ఉక్రెయిన్",
-        "జార్జియా"
+        "30 రోజులు",
+        "60 రోజులు",
+        "90 రోజులు (90 days)",
+        "180 రోజులు"
       ],
-      "correct_option": 0,
-      "explanation_en": "Sweden officially joined NATO on March 7, 2024, ending over two centuries of military non-alignment.",
-      "explanation_te": "స్వీడన్ 2024 మార్చి 7న నాటో కూటమిలో 32వ సభ్యదేశంగా అధికారికంగా చేరింది (31వ దేశం ఫిన్లాండ్)."
+      "correct_option": 2,
+      "explanation_en": "An asset becomes an NPA when it ceases to generate income for the bank, with interest or principal installment overdue for over 90 days.",
+      "explanation_te": "వడ్డీ లేదా అసలు వాయిదా 90 రోజులకు పైగా చెల్లించబడకుండా నిలిచిపోతే ఆ రుణాన్ని నిరర్థక ఆస్తి (NPA) గా గుర్తిస్తారు."
     },
     {
       "id": 150,
       "qNumber": 150,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which team won the Indian Premier League (IPL) 2024 trophy?",
-      "question_te": "ఇండియన్ ప్రీమియర్ లీగ్ (IPL) 2024 ట్రోఫీని గెలుచుకున్న జట్టు ఏది?",
+      "topic": "Indian Economy - Balance of Payments",
+      "question_en": "The difference between the total monetary value of a nation's merchandise exports and merchandise imports is termed as:",
+      "question_te": "ఒక దేశం యొక్క వస్తు ఎగుమతులు మరియు వస్తు దిగుమతుల మొత్తం విలువల మధ్య గల తేడాను ఏమంటారు?",
       "options_en": [
-        "Kolkata Knight Riders (KKR)",
-        "Sunrisers Hyderabad (SRH)",
-        "Rajasthan Royals (RR)",
-        "Royal Challengers Bengaluru (RCB)"
+        "Balance of Trade (Trade Balance)",
+        "Current Account Balance",
+        "Capital Account Balance",
+        "Balance of Invisible Payments"
       ],
       "options_te": [
-        "కోల్‌కతా నైట్ రైడర్స్ (KKR)",
-        "సన్‌రైజర్స్ హైదరాబాద్ (SRH)",
-        "రాజస్థాన్ రాయల్స్",
-        "రాయల్ ఛాలెంజర్స్ బెంగళూరు"
+        "వర్తక సమతౌల్యం (Balance of Trade)",
+        "కరెంట్ ఖాతా బ్యాలెన్స్",
+        "మూలధన ఖాతా బ్యాలెన్స్",
+        "అదృశ్య లావాదేవీల బ్యాలెన్స్"
       ],
       "correct_option": 0,
-      "explanation_en": "Kolkata Knight Riders (KKR) captained by Shreyas Iyer defeated Sunrisers Hyderabad in Chennai to win IPL 2024.",
-      "explanation_te": "చెన్నైలో జరిగిన ఫైనల్లో సన్‌రైజర్స్ హైదరాబాద్‌ను ఓడించి కోల్‌కతా నైట్ రైడర్స్ (KKR) IPL 2024 విజేతగా నిలిచింది."
+      "explanation_en": "Balance of Trade = Merchandise Exports - Merchandise Imports. It covers only visible physical goods.",
+      "explanation_te": "భౌతిక వస్తువుల ఎగుమతులు మరియు దిగుమతుల మధ్య గల తేడాను వర్తక సమతౌల్యం (Balance of Trade) అంటారు."
     },
     {
       "id": 151,
       "qNumber": 151,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Where was the 29th UN Climate Change Conference (COP29) held in November 2024?",
-      "question_te": "2024 నవంబర్‌లో 29వ ఐక్యరాజ్యసమితి వాతావరణ మార్పుల సదస్సు (COP29) ఎక్కడ జరిగింది?",
+      "topic": "Telangana Economy - State Socio-Economic Outlook",
+      "question_en": "According to the Telangana Socio-Economic Outlook, which sector contributes the highest share to the Gross State Value Added (GSVA) of Telangana?",
+      "question_te": "తెలంగాణ సామాజిక ఆర్థిక సర్వే ప్రకారం, రాష్ట్ర స్థూల విలువ జోడింపు (GSVA) లో అత్యధిక వాటాను కలిగి ఉన్న రంగం ఏది?",
       "options_en": [
-        "Baku, Azerbaijan",
-        "Dubai, UAE",
-        "Belem, Brazil",
-        "Bonn, Germany"
+        "Services Sector",
+        "Industrial Sector",
+        "Agricultural and Allied Sector",
+        "Mining and Quarrying Sector"
       ],
       "options_te": [
-        "బాకూ, అజర్‌బైజాన్ (Baku, Azerbaijan)",
-        "దుబాయ్, యూఏఈ",
-        "బెలెం, బ్రెజిల్",
-        "బాన్, జర్మనీ"
+        "సేవా రంగం (Services Sector)",
+        "పారిశ్రామిక రంగం",
+        "వ్యవసాయ మరియు అనుబంధ రంగాలు",
+        "గనుల రంగం"
       ],
       "correct_option": 0,
-      "explanation_en": "COP29 was hosted in Baku, Azerbaijan with a primary focus on the New Collective Quantified Goal (NCQG) for climate finance.",
-      "explanation_te": "అజర్‌బైజాన్ రాజధాని బాకూ నగరంలో COP29 వాతావరణ సదస్సు నిర్వహించబడింది."
+      "explanation_en": "The Services sector (IT, finance, trade, hospitality) contributes around 64% of Telangana's GSVA.",
+      "explanation_te": "తెలంగాణ ఆర్థిక వ్యవస్థలో ఐటీ, రియల్ ఎస్టేట్, బ్యాంకింగ్ రంగాలతో కూడిన సేవా రంగం సుమారు 64% వాటాతో అగ్రస్థానంలో ఉంది."
     },
     {
       "id": 152,
       "qNumber": 152,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which Indian space startup successfully launched the 'Agnibaan SOrTeD' sub-orbital rocket powered by a 3D-printed semi-cryogenic engine in May 2024?",
-      "question_te": "మే 2024 లో ప్రపంచంలోనే మొట్టమొదటి 3D-ప్రింటెడ్ సెమీ-క్రయోజెనిక్ ఇంజిన్‌తో 'అగ్నిబాణ్ SOrTeD' రాకెట్‌ను విజయవంతంగా ప్రయోగించిన భారతీయ స్పేస్ స్టార్టప్ ఏది?",
+      "topic": "Telangana Economy - Agriculture & Irrigation",
+      "question_en": "The flagship irrigation program 'Mission Kakatiya' was undertaken by the Government of Telangana with the objective of:",
+      "question_te": "తెలంగాణ ప్రభుత్వం ప్రతిష్టాత్మకంగా చేపట్టిన 'మిషన్ కాకతీయ' పథకం యొక్క ప్రధాన లక్ష్యం ఏమిటి?",
       "options_en": [
-        "Agnikul Cosmos",
-        "Skyroot Aerospace",
-        "Pixxel",
-        "Bellatrix Aerospace"
+        "Restoration and desiltation of 46,500 minor irrigation tanks across the state",
+        "Construction of thermal power stations",
+        "Distribution of drip irrigation kits to small farmers",
+        "Digging of new borewells in drought mandals"
       ],
       "options_te": [
-        "అగ్నికుల్ కాస్మోస్ (Agnikul Cosmos)",
-        "స్కైరూట్ ఏరోస్పేస్",
-        "పిక్సెల్",
-        "బెల్లాట్రిక్స్"
+        "రాష్ట్రంలోని 46,500 గొలుసుకట్టు చెరువుల పునరుద్ధరణ మరియు పూడికతీత",
+        "థర్మల్ విద్యుత్ కేంద్రాల నిర్మాణం",
+        "బిందు సేద్యం కిట్ల పంపిణీ",
+        "కరువు మండలాల్లో కొత్త బోర్ల తవ్వకం"
       ],
       "correct_option": 0,
-      "explanation_en": "Chennai-based Agnikul Cosmos achieved history by launching Agnibaan powered by the single-piece 3D-printed Agnilet engine from Sriharikota.",
-      "explanation_te": "చెన్నైకి చెందిన అగ్నికుల్ కాస్మోస్ సంస్థ 3D ప్రింటెడ్ సెమీ-క్రయోజెనిక్ ఇంజిన్‌తో అగ్నిబాణ్ రాకెట్‌ను విజయవంతంగా పరీక్షించింది."
+      "explanation_en": "Mission Kakatiya aimed to restore minor irrigation chain tanks to revive traditional decentralized water harvesting.",
+      "explanation_te": "కాకతీయుల నాటి గొలుసుకట్టు చెరువుల పూడికతీత, మరమ్మతుల ద్వారా భూగర్భ జలాలను పెంచడానికి మిషన్ కాకతీయ చేపట్టారు."
     },
     {
       "id": 153,
       "qNumber": 153,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Who is the current Director General of the World Health Organization (WHO)?",
-      "question_te": "ప్రపంచ ఆరోగ్య సంస్థ (WHO) ప్రస్తుత డైరెక్టర్ జనరల్ ఎవరు?",
+      "topic": "Telangana Economy - Industrial Infrastructure",
+      "question_en": "'T-Works' set up by the Telangana Government in Hyderabad is celebrated as:",
+      "question_te": "హైదరాబాద్‌లో తెలంగాణ ప్రభుత్వం ఏర్పాటు చేసిన 'టి-వర్క్స్' (T-Works) దేనికి ప్రసిద్ధి చెందింది?",
       "options_en": [
-        "Dr. Tedros Adhanom Ghebreyesus",
-        "Ngozi Okonjo-Iweala",
-        "Antonio Guterres",
-        "Soumya Swaminathan"
+        "India's largest prototyping center for hardware and electronics innovation",
+        "Software coding academy for rural youth",
+        "State commercial tax grievance tribunal",
+        "Apparel export processing zone"
       ],
       "options_te": [
-        "డాక్టర్ టెడ్రోస్ అధనామ్ గెబ్రియేసస్",
-        "న్గోజీ ఒకోంజో-ఇవేలా",
-        "ఆంటోనియో గుటెర్రెస్",
-        "సౌమ్య స్వామినాథన్"
+        "హార్డ్‌వేర్ మరియు ఎలక్ట్రానిక్స్ ఆవిష్కరణల కోసం భారతదేశంలోనే అతిపెద్ద ప్రోటోటైపింగ్ కేంద్రం",
+        "గ్రామీణ యువతకు సాఫ్ట్‌వేర్ శిక్షణా కేంద్రం",
+        "వాణిజ్య పన్నుల పరిష్కార ట్రైబ్యునల్",
+        "వస్త్ర ఎగుమతి ప్రాసెసింగ్ జోన్"
       ],
       "correct_option": 0,
-      "explanation_en": "Dr. Tedros Adhanom Ghebreyesus from Ethiopia is serving as Director-General of WHO.",
-      "explanation_te": "ఇథియోపియాకు చెందిన డాక్టర్ టెడ్రోస్ అధనామ్ ప్రపంచ ఆరోగ్య సంస్థ (WHO) డైరెక్టర్ జనరల్‌గా బాధ్యతలు నిర్వర్తిస్తున్నారు."
+      "explanation_en": "T-Works is an 78,000 sq.ft prototyping facility enabling innovators and hardware startups to build physical prototypes.",
+      "explanation_te": "హార్డ్‌వేర్ ఉత్పత్తులు, ఎలక్ట్రానిక్స్ రంగంలో నూతన ఆవిష్కరణలను ప్రోత్సహించడానికి టి-వర్క్స్ ను ప్రోటోటైపింగ్ కేంద్రంగా తీర్చిదిద్దారు."
     },
     {
       "id": 154,
       "qNumber": 154,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which historic temple city was declared the cultural and tourism capital of the Shanghai Cooperation Organisation (SCO) for 2024?",
-      "question_te": "2024 లో షాంఘై సహకార సంస్థ (SCO) యొక్క సాంస్కృతిక మరియు పర్యాటక రాజధానిగా ఏ నగరం ఎంపికైంది?",
+      "topic": "Telangana Economy - Social Welfare Guarantees",
+      "question_en": "Under the 'Cheyutha' pension guarantee in Telangana, what is the enhanced monthly financial assistance intended for eligible elderly and disabled persons?",
+      "question_te": "తెలంగాణలో 'చేయూత' సంక్షేమ హామీ క్రింద అర్హులైన వృద్ధులు, వితంతువులకు అందించేందుకు ఉద్దేశించిన నెలవారీ పెన్షన్ మొత్తం ఎంత?",
       "options_en": [
-        "Almaty, Kazakhstan",
-        "Varanasi, India",
-        "Samarkand, Uzbekistan",
-        "Dushanbe, Tajikistan"
+        "₹2,016 per month",
+        "₹3,016 per month",
+        "₹4,000 per month",
+        "₹5,000 per month"
       ],
       "options_te": [
-        "అల్మాటీ, కజకిస్తాన్ (Almaty)",
-        "వారణాసి, భారతదేశం",
-        "సమర్‌కండ్, ఉజ్బెకిస్తాన్",
-        "దుషాంబే, తజికిస్తాన్"
+        "నెలకు ₹2,016",
+        "నెలకు ₹3,016",
+        "నెలకు ₹4,000 (₹4,000 per month)",
+        "నెలకు ₹5,000"
       ],
-      "correct_option": 0,
-      "explanation_en": "Almaty in Kazakhstan was named the SCO tourism and cultural capital for 2023-2024.",
-      "explanation_te": "కజకిస్తాన్‌లోని అల్మాటీ నగరం SCO సాంస్కృతిక రాజధానిగా ఎంపికైంది."
+      "correct_option": 2,
+      "explanation_en": "Under the Six Guarantees, the Cheyutha scheme aims to provide ₹4,000 monthly social security pension to beneficiaries.",
+      "explanation_te": "ఆరు గ్యారెంటీలలోని చేయూత పథకం క్రింద ఆసరా లబ్ధిదారులకు నెలకు ₹4,000 పెన్షన్ అందించే ప్రతిపాదన ఉంది."
     },
     {
       "id": 155,
       "qNumber": 155,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Who is the current Chairperson of the Securities and Exchange Board of India (SEBI)?",
-      "question_te": "సెక్యూరిటీస్ అండ్ ఎక్స్ఛేంజ్ బోర్డ్ ఆఫ్ ఇండియా (SEBI) కు నాయకత్వం వహిస్తున్న మొదటి మహిళా చైర్‌పర్సన్ ఎవరు?",
+      "topic": "Indian Economy - Taxation & Fiscal Policy",
+      "question_en": "Which of the following is categorized as a 'Direct Tax' levied by the Central Government in India?",
+      "question_te": "భారతదేశంలో కేంద్ర ప్రభుత్వం విధించే పన్నులలో 'ప్రత్యక్ష పన్ను' (Direct Tax) క్రింది వాటిలో ఏది?",
       "options_en": [
-        "Madhabi Puri Buch",
-        "Nirmala Sitharaman",
-        "Arundhati Bhattacharya",
-        "Usha Thorat"
+        "Goods and Services Tax (GST)",
+        "Customs Duty",
+        "Corporation Tax (Corporate Income Tax)",
+        "Central Excise Duty on Petroleum"
       ],
       "options_te": [
-        "మాధబి పురి బుచ్ (Madhabi Puri Buch)",
-        "నిర్మలా సీతారామన్",
-        "అరుంధతి భట్టాచార్య",
-        "ఉషా థోరట్"
+        "వస్తు సేవల పన్ను (GST)",
+        "కస్టమ్స్ డ్యూటీ",
+        "కార్పొరేషన్ పన్ను (కంపెనీల ఆదాయపు పన్ను)",
+        "కేంద్ర ఎక్సైజ్ డ్యూటీ"
       ],
-      "correct_option": 0,
-      "explanation_en": "Madhabi Puri Buch is the first woman chairperson of SEBI, appointed in March 2022.",
-      "explanation_te": "SEBI సంస్థకు మొట్టమొదటి మహిళా చైర్‌పర్సన్‌గా మాధబి పురి బుచ్ బాధ్యతలు నిర్వర్తిస్తున్నారు."
+      "correct_option": 2,
+      "explanation_en": "Corporation Tax and Personal Income Tax are direct taxes whose liability cannot be shifted to another person.",
+      "explanation_te": "కార్పొరేషన్ పన్ను మరియు వ్యక్తిగత ఆదాయపు పన్నులు ప్రత్యక్ష పన్నులు, వీటి భారాన్ని ఇతరులపైకి బదిలీ చేయలేము."
     },
     {
       "id": 156,
       "qNumber": 156,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "What is the rank of India in the World Press Freedom Index 2024 released by Reporters Without Borders (RSF)?",
-      "question_te": "రిపోర్టర్స్ వితౌట్ బార్డర్స్ (RSF) విడుదల చేసిన వరల్డ్ ప్రెస్ ఫ్రీడమ్ ఇండెక్స్ 2024 లో భారతదేశం యొక్క ర్యాంక్ ఎంత?",
+      "topic": "Telangana Economy - IT & Service Exports",
+      "question_en": "Telangana contributes approximately what proportion of India's total Information Technology (IT) service exports?",
+      "question_te": "భారతదేశ మొత్తం ఐటీ (IT) సేవల ఎగుమతులలో తెలంగాణ రాష్ట్రం సుమారు ఎంత శాతం వాటాను కలిగి ఉంది?",
       "options_en": [
-        "159th",
-        "161st",
-        "150th",
-        "142nd"
+        "Around 5%",
+        "Around 10%",
+        "Around one-third (approx. 33%)",
+        "Over 60%"
       ],
       "options_te": [
-        "159వ",
-        "161వ",
-        "150వ",
-        "142వ"
+        "సుమారు 5%",
+        "సుమారు 10%",
+        "సుమారు మూడో వంతు (సుమారు 33%)",
+        "60% కి పైగా"
       ],
-      "correct_option": 0,
-      "explanation_en": "India was placed at 159th position out of 180 countries in the World Press Freedom Index 2024.",
-      "explanation_te": "వరల్డ్ ప్రెస్ ఫ్రీడమ్ ఇండెక్స్ 2024 లో మొత్తం 180 దేశాలలో భారతదేశం 159వ స్థానంలో నిలిచింది."
+      "correct_option": 2,
+      "explanation_en": "Telangana's IT exports exceeded ₹2.41 lakh crore, accounting for nearly one-third of the net national IT employment and export additions.",
+      "explanation_te": "దేశీయ ఐటీ రంగంలో నికర ఉద్యోగ కల్పన మరియు ఎగుమతులలో తెలంగాణ సుమారు మూడో వంతు వాటాను అందిస్తోంది."
     },
     {
       "id": 157,
       "qNumber": 157,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which state in India officially achieved the milestone of becoming the first 'Fully Digital Banking State'?",
-      "question_te": "భారతదేశంలో 'పూర్తి డిజిటల్ బ్యాంకింగ్ రాష్ట్రం' (First Fully Digital Banking State) గా గుర్తింపు పొందిన మొదటి రాష్ట్రం ఏది?",
+      "topic": "Indian Economy - Money Supply Aggregates",
+      "question_en": "In the Reserve Bank of India's monetary statistics, which measure is officially designated as 'Broad Money'?",
+      "question_te": "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ద్రవ్య కొలమానాలలో 'విశాల ద్రవ్యం' (Broad Money) గా దేనిని వ్యవహరిస్తారు?",
       "options_en": [
-        "Kerala",
-        "Telangana",
-        "Goa",
-        "Gujarat"
+        "M1",
+        "M2",
+        "M3",
+        "M4"
       ],
       "options_te": [
-        "కేరళ (Kerala)",
-        "తెలంగాణ",
-        "గోవా",
-        "గుజరాత్"
+        "M1",
+        "M2",
+        "M3 (M3 Aggregate)",
+        "M4"
       ],
-      "correct_option": 0,
-      "explanation_en": "Kerala became the first state in India to enable digital banking across all eligible savings and current accounts in all districts.",
-      "explanation_te": "అన్ని జిల్లాల్లోనూ డిజిటల్ బ్యాంకింగ్ సేవలను పూర్తిస్థాయిలో అందుబాటులోకి తెచ్చిన తొలి రాష్ట్రంగా కేరళ నిలిచింది."
+      "correct_option": 2,
+      "explanation_en": "M3 = Currency with public + Demand deposits + Time deposits with banks, representing Broad Money.",
+      "explanation_te": "కరెన్సీ + డిమాండ్ డిపాజిట్లు + కాలపరిమితి (ఫిక్స్‌డ్) డిపాజిట్లతో కూడిన M3 ని విశాల ద్రవ్యం అంటారు."
     },
     {
       "id": 158,
       "qNumber": 158,
       "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which country hosted the BRICS Summit 2024 in the city of Kazan, featuring newly admitted member nations?",
-      "question_te": "కొత్తగా చేరిన సభ్యదేశాలతో సహా కజాన్ నగరంలో 16వ బ్రిక్స్ (BRICS) శిఖరాగ్ర సదస్సు 2024 ను విజయవంతంగా నిర్వహించిన దేశం ఏది?",
+      "topic": "Indian Economy - Economic Planning & NITI Aayog",
+      "question_en": "Who serves as the ex-officio Chairperson of the Governing Council of NITI Aayog?",
+      "question_te": "నీతి ఆయోగ్ గవర్నింగ్ కౌన్సిల్‌కు ఎక్స్-అఫీషియో ఛైర్‌పర్సన్‌గా వ్యవహరించేది ఎవరు?",
       "options_en": [
-        "Russia",
-        "South Africa",
-        "China",
-        "India"
+        "President of India",
+        "Prime Minister of India",
+        "Union Finance Minister",
+        "Vice Chairman of NITI Aayog"
       ],
       "options_te": [
-        "రష్యా (Russia)",
-        "దక్షిణాఫ్రికా",
-        "చైనా",
-        "భారతదేశం"
+        "భారత రాష్ట్రపతి",
+        "భారత ప్రధానమంత్రి (Prime Minister)",
+        "కేంద్ర ఆర్థిక మంత్రి",
+        "నీతి ఆయోగ్ ఉపాధ్యక్షుడు"
       ],
-      "correct_option": 0,
-      "explanation_en": "Russia hosted the 16th BRICS Summit in Kazan from 22-24 October 2024 with newly inducted nations including Egypt, Ethiopia, Iran, and UAE.",
-      "explanation_te": "రష్యాలోని కజాన్ నగరంలో 2024 అక్టోబర్‌లో 16వ బ్రిక్స్ సదస్సు జరిగింది."
+      "correct_option": 1,
+      "explanation_en": "The Prime Minister of India is the Chairperson of NITI Aayog and heads its Governing Council comprising all Chief Ministers and Lt. Governors.",
+      "explanation_te": "నీతి ఆయోగ్ కు ప్రధానమంత్రి ఛైర్మన్‌గా వ్యవహరిస్తారు."
     },
     {
       "id": 159,
       "qNumber": 159,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which Indian public sector enterprise was granted the prestigious 'Navratna' status in 2024, expanding its investment autonomy in renewable energy?",
-      "question_te": "పునరుత్పాదక ఇంధన ప్రాజెక్టులకు నిధులు సమకూర్చే ఏ ప్రభుత్వ రంగ సంస్థకు 2024 లో 'నవరత్న' (Navratna) హోదా లభించింది?",
-      "options_en": [
-        "IREDA (Indian Renewable Energy Development Agency)",
-        "BHEL",
-        "HAL",
-        "Coal India"
-      ],
-      "options_te": [
-        "ఇరెడా (IREDA)",
-        "భెల్ (BHEL)",
-        "హెచ్ఏఎల్ (HAL)",
-        "కోల్ ఇండియా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "IREDA was upgraded to Navratna status by the Ministry of Finance in April 2024.",
-      "explanation_te": "ఇండియన్ రెన్యూవబుల్ ఎనర్జీ డెవలప్‌మెంట్ ఏజెన్సీ (IREDA) కి కేంద్ర ప్రభుత్వం నవరత్న హోదాను కల్పించింది."
-    },
-    {
-      "id": 160,
-      "qNumber": 160,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Who is the current Prime Minister of the United Kingdom, who took office following the July 2024 General Election victory of the Labour Party?",
-      "question_te": "2024 జూలై లో లేబర్ పార్టీ చారిత్రక విజయం తర్వాత యునైటెడ్ కింగ్‌డమ్ (UK) ప్రధానమంత్రిగా బాధ్యతలు స్వీకరించినది ఎవరు?",
-      "options_en": [
-        "Keir Starmer",
-        "Rishi Sunak",
-        "Boris Johnson",
-        "David Cameron"
-      ],
-      "options_te": [
-        "కీర్ స్టార్మర్ (Keir Starmer)",
-        "రిషి సునాక్",
-        "బోరిస్ జాన్సన్",
-        "డేవిడ్ కామెరాన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Sir Keir Starmer became the Prime Minister of the UK on 5 July 2024 following the Labour Party landslide victory.",
-      "explanation_te": "లేబర్ పార్టీ నేత కీర్ స్టార్మర్ 2024 జూలైలో రిషి సునాక్ తర్వాత బ్రిటన్ ప్రధానమంత్రిగా బాధ్యతలు చేపట్టారు."
-    },
-    {
-      "id": 161,
-      "qNumber": 161,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which sanctuary in Assam is globally renowned as the premier habitat for the Greater One-horned Rhinoceros?",
-      "question_te": "ఒంటికొమ్ము ఖడ్గమృగాలకు (One-horned Rhinoceros) ప్రపంచ ప్రసిద్ధి చెందిన అసోంలోని జాతీయ ఉద్యానవనం ఏది?",
-      "options_en": [
-        "Kaziranga National Park",
-        "Manas National Park",
-        "Jim Corbett National Park",
-        "Gir National Park"
-      ],
-      "options_te": [
-        "కాజిరంగా జాతీయ ఉద్యానవనం (Kaziranga)",
-        "మానస్ జాతీయ ఉద్యానవనం",
-        "జిమ్ కార్బెట్",
-        "గిర్ జాతీయ ఉద్యానవనం"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Kaziranga National Park in Assam holds about two-thirds of the world's great one-horned rhinoceroses and is a UNESCO World Heritage site.",
-      "explanation_te": "అసోంలోని కాజిరంగా నేషనల్ పార్క్ ప్రపంచంలోని మూడింట రెండు వంతుల ఒంటికొమ్ము ఖడ్గమృగాలకు నిలయం."
-    },
-    {
-      "id": 162,
-      "qNumber": 162,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "What is the name of the deep-sea human submersible vehicle being developed by India under the 'Samudrayaan Mission'?",
-      "question_te": "భారతదేశ 'సముద్రయాన్ ప్రాజెక్ట్' కింద లోతైన సముద్ర పరిశోధనల కోసం అభివృద్ధి చేస్తున్న మానవ సహిత సబ్‌మెర్సిబుల్ పేరు ఏమిటి?",
-      "options_en": [
-        "Matsya 6000",
-        "Varunastra",
-        "Vikrant",
-        "Sindhuraj"
-      ],
-      "options_te": [
-        "మత్స్య 6000 (Matsya 6000)",
-        "వరుణాస్త్ర",
-        "విక్రాంత్",
-        "సింధురాజ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Matsya 6000 is being built by the National Institute of Ocean Technology (NIOT) to carry three humans to a depth of 6,000 metres.",
-      "explanation_te": "సముద్రంలో 6,000 మీటర్ల లోతుకు ముగ్గురు శాస్త్రవేత్తలను తీసుకెళ్లడానికి NIOT 'మత్స్య 6000' సబ్‌మెర్సిబుల్‌ను అభివృద్ధి చేస్తోంది."
-    },
-    {
-      "id": 163,
-      "qNumber": 163,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which country won the ICC Men's Cricket World Cup 2023 held in India?",
-      "question_te": "భారతదేశంలో జరిగిన ICC పురుషుల వన్డే క్రికెట్ ప్రపంచకప్ 2023 విజేతగా నిలిచిన దేశం ఏది?",
-      "options_en": [
-        "Australia",
-        "India",
-        "South Africa",
-        "New Zealand"
-      ],
-      "options_te": [
-        "ఆస్ట్రేలియా (Australia)",
-        "భారతదేశం",
-        "దక్షిణాఫ్రికా",
-        "న్యూజిలాండ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Australia defeated India by 6 wickets in the final at Ahmedabad on 19 November 2023 to claim their record 6th World Cup title.",
-      "explanation_te": "అహ్మదాబాద్‌లో జరిగిన ఫైనల్లో భారత్‌ను ఓడించి ఆస్ట్రేలియా 6వ సారి వన్డే ప్రపంచకప్‌ను కైవసం చేసుకుంది."
-    },
-    {
-      "id": 164,
-      "qNumber": 164,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Which village in Gujarat was awarded the 'Best Tourism Village' by the United Nations World Tourism Organization (UNWTO)?",
-      "question_te": "ఐక్యరాజ్యసమితి ప్రపంచ పర్యాటక సంస్థ (UNWTO) చేత 'ఉత్తమ పర్యాటక గ్రామం' (Best Tourism Village) గా అవార్డు పొందిన గుజరాత్‌లోని గ్రామం ఏది?",
-      "options_en": [
-        "Dhordo",
-        "Pochampally",
-        "Kutch",
-        "Modhera"
-      ],
-      "options_te": [
-        "ధోర్డో (Dhordo)",
-        "పోచంపల్లి",
-        "కచ్",
-        "మోధేరా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Dhordo village in the Rann of Kutch, famous for the annual Rann Utsav, was recognised as a Best Tourism Village by UNWTO.",
-      "explanation_te": "కచ్ ప్రాంతంలోని రణ్ ఉత్సవాలకు ప్రసిద్ధి చెందిన ధోర్డో గ్రామానికి UNWTO అంతర్జాతీయ పర్యాటక అవార్డును అందించింది."
-    },
-    {
-      "id": 165,
-      "qNumber": 165,
-      "section": "General Studies",
-      "topic": "Current Affairs & Contemporary Events",
-      "question_en": "Who won the 2024 Men's Ballon d'Or award presented by France Football?",
-      "question_te": "ఫ్రాన్స్ ఫుట్‌బాల్ సంస్థ ప్రదానం చేసే ప్రతిష్టాత్మక పురుషుల 'బాలన్ డి ఓర్' (Ballon d'Or) 2024 అవార్డు విజేత ఎవరు?",
-      "options_en": [
-        "Rodri (Rodrigo Hernandez)",
-        "Vinicius Junior",
-        "Jude Bellingham",
-        "Kylian Mbappe"
-      ],
-      "options_te": [
-        "రోడ్రి (Rodri - స్పెయిన్ / మాంచెస్టర్ సిటీ)",
-        "వినిసియస్ జూనియర్",
-        "జూడ్ బెల్లింగ్‌హామ్",
-        "కిలియన్ ఎంబాపే"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Manchester City and Spain defensive midfielder Rodri won the 2024 Men's Ballon d'Or after winning the Premier League and Euro 2024.",
-      "explanation_te": "మాంచెస్టర్ సిటీ మరియు స్పెయిన్ మిడ్‌ఫీల్డర్ రోడ్రి 2024 బాలన్ డి ఓర్ అవార్డును గెలుచుకున్నాడు."
-    },
-    {
-      "id": 166,
-      "qNumber": 166,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who was the founder of the powerful Satavahana Dynasty which ruled the Deccan region from Kotilingala in Telangana?",
-      "question_te": "తెలంగాణలోని కోటిలింగాల కేంద్రంగా దక్కన్ ప్రాంతాన్ని పరిపాలించిన శాతవాహన వంశ స్థాపకుడు ఎవరు?",
-      "options_en": [
-        "Simukha (Srimukha)",
-        "Gautamiputra Satakarni",
-        "Pulomavi",
-        "Hala"
-      ],
-      "options_te": [
-        "శ్రీముఖుడు / సిముఖుడు (Simukha)",
-        "గౌతమీపుత్ర శాతకర్ణి",
-        "పులోమావి",
-        "హాలుడు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Simukha (also called Srimukha or Chhimuka) was the founder of the Satavahana dynasty with early coins discovered at Kotilingala in Karimnagar (Jagtial).",
-      "explanation_te": "శాతవాహన సామ్రాజ్య స్థాపకుడు శ్రీముఖుడు; ఆయన తొలి నాణేలు కరీంనగర్/జగిత్యాల లోని కోటిలింగాలలో లభ్యమయ్యాయి."
-    },
-    {
-      "id": 167,
-      "qNumber": 167,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which Satavahana ruler authored the famous Prakrit poetic anthology 'Gatha Saptasati'?",
-      "question_te": "ప్రాకృత భాషలో సుప్రసిద్ధ శృంగార కవితా సంకలనం 'గాథా సప్తశతి' ని రచించిన శాతవాహన చక్రవర్తి ఎవరు?",
-      "options_en": [
-        "Hala",
-        "Gautamiputra Satakarni",
-        "Yajna Sri Satakarni",
-        "Satakarni I"
-      ],
-      "options_te": [
-        "హాలుడు (Hala)",
-        "గౌతమీపుత్ర శాతకర్ణి",
-        "యజ్ఞశ్రీ శాతకర్ణి",
-        "మొదటి శాతకర్ణి"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The 17th Satavahana monarch, King Hala, compiled 700 erotic and folk verses in Maharashtri Prakrit titled Gatha Saptasati.",
-      "explanation_te": "17వ శాతవాహన రాజు హాలుడు 700 ప్రాకృత పద్యాలతో కూడిన 'గాథా సప్తశతి' గ్రంథాన్ని సంకలనం చేశాడు."
-    },
-    {
-      "id": 168,
-      "qNumber": 168,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "The famous Thousand Pillar Temple (Rudreshwara Temple) at Hanamkonda was commissioned in 1163 AD by which Kakatiya monarch?",
-      "question_te": "క్రీ.శ. 1163 లో హనుమకొండ లోని ప్రసిద్ధ వేయి స్తంభాల గుడి (రుద్రేశ్వరాలయం) ఏ కాకతీయ పాలకుని చేత నిర్మించబడింది?",
-      "options_en": [
-        "Prataparudra I (Rudradeva)",
-        "Ganapati Deva",
-        "Prola II",
-        "Beta II"
-      ],
-      "options_te": [
-        "మొదటి ప్రతాపరుద్రుడు (రుద్రదేవుడు)",
-        "గణపతి దేవుడు",
-        "రెండవ ప్రోలరాజు",
-        "రెండవ బేతరాజు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Rudradeva (Prataparudra I) constructed the iconic Trikuta Thousand Pillar Temple dedicated to Shiva, Vishnu, and Surya in 1163 AD.",
-      "explanation_te": "క్రీ.శ. 1163 లో కాకతీయ చక్రవర్తి రుద్రదేవుడు (మొదటి ప్రతాపరుద్రుడు) హనుమకొండలో త్రికూటాలయంగా వేయి స్తంభాల గుడిని నిర్మించాడు."
-    },
-    {
-      "id": 169,
-      "qNumber": 169,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which famous Persian general of Alauddin Khalji invaded Warangal in 1309-1310 AD and forced Prataparudra II to surrender the Koh-i-Noor diamond?",
-      "question_te": "క్రీ.శ. 1309-1310 లో ఓరుగల్లుపై దాడి చేసి రెండవ ప్రతాపరుద్రుడిని సంధికి ఒప్పించి, కోహినూర్ వజ్రాన్ని ఢిల్లీకి తరలించిన అల్లావుద్దీన్ ఖిల్జీ సేనాని ఎవరు?",
-      "options_en": [
-        "Malik Kafur",
-        "Ulugh Khan",
-        "Zafar Khan",
-        "Ghiyasuddin Tughlaq"
-      ],
-      "options_te": [
-        "మాలిక్ కాఫూర్ (Malik Kafur)",
-        "ఉలుఘ్ ఖాన్",
-        "జాఫర్ ఖాన్",
-        "గియాసుద్దీన్ తుగ్లక్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Malik Kafur laid siege to Warangal fort in 1309-1310. Prataparudra II negotiated peace and surrendered vast treasures including the Koh-i-Noor diamond.",
-      "explanation_te": "అల్లావుద్దీన్ ఖిల్జీ సేనాని మాలిక్ కాఫూర్ 1309-10 లో కాకతీయ రాజ్యంపై దాడి చేసి ప్రతాపరుద్రుడి నుండి కోహినూర్ వజ్రం సహా అపార సంపదను పొందాడు."
-    },
-    {
-      "id": 170,
-      "qNumber": 170,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who laid the foundation of Hyderabad city on the banks of river Musi in 1591 AD?",
-      "question_te": "క్రీ.శ. 1591 లో మూసీ నది ఒడ్డున భాగ్యనగరం/హైదరాబాద్ నగరానికి పునాది వేసిన కుతుబ్‌షాహీ సుల్తాన్ ఎవరు?",
-      "options_en": [
-        "Muhammad Quli Qutb Shah",
-        "Sultan Quli Qutb-ul-Mulk",
-        "Ibrahim Qutb Shah",
-        "Abdullah Qutb Shah"
-      ],
-      "options_te": [
-        "మహమ్మద్ కులీ కుతుబ్ షా",
-        "సుల్తాన్ కులీ కుతుబ్-ఉల్-ముల్క్",
-        "ఇబ్రహీం కుతుబ్ షా",
-        "అబ్దుల్లా కుతుబ్ షా"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Muhammad Quli Qutb Shah, the 5th Sultan of the Qutb Shahi dynasty, founded Hyderabad in 1591 and built the Charminar.",
-      "explanation_te": "5వ కుతుబ్‌షాహీ పాలకుడైన మహమ్మద్ కులీ కుతుబ్ షా 1591 లో హైదరాబాద్ నగరాన్ని స్థాపించి చార్మినార్‌ను నిర్మించాడు."
-    },
-    {
-      "id": 171,
-      "qNumber": 171,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Mir Qamar-ud-din Khan established the independent Asaf Jahi Dynasty of Hyderabad in 1724 AD under which royal title?",
-      "question_te": "క్రీ.శ. 1724 లో మీర్ ఖమరుద్దీన్ ఖాన్ ఏ రాజరిక బిరుదుతో హైదరాబాద్ స్వతంత్ర అసఫ్‌జాహీ రాజవంశాన్ని స్థాపించాడు?",
-      "options_en": [
-        "Nizam-ul-Mulk",
-        "Nizam Ali Khan",
-        "Mir Osman Ali Khan",
-        "Nasir Jung"
-      ],
-      "options_te": [
-        "నిజాం-ఉల్-ముల్క్ (Nizam-ul-Mulk)",
-        "నిజాం అలీ ఖాన్",
-        "మీర్ ఉస్మాన్ అలీ ఖాన్",
-        "నాసిర్ జంగ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Mir Qamar-ud-din Khan defeated Mubariz Khan at the Battle of Shakar Kheda in 1724 and ruled as Nizam-ul-Mulk Asaf Jah I.",
-      "explanation_te": "1724 లో శఖర్‌ఖేడా యుద్ధంలో విజయం సాధించిన మీర్ ఖమరుద్దీన్ ఖాన్ 'నిజాం-ఉల్-ముల్క్ అసఫ్ జా I' బిరుదుతో పాలన ప్రారంభించాడు."
-    },
-    {
-      "id": 172,
-      "qNumber": 172,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which famous Prime Minister of Hyderabad State introduced administrative divisions (Zillabandi) and modern civil governance reforms between 1853 and 1883?",
-      "question_te": "1853 నుండి 1883 మధ్య హైదరాబాద్ రాజ్యంలో జిల్లాబందీ (Zillabandi) విధానాన్ని ప్రవేశపెట్టి పరిపాలనా, ఆర్థిక సంస్కరణలను అమలు చేసిన ప్రధాని ఎవరు?",
-      "options_en": [
-        "Salar Jung I (Mir Turab Ali Khan)",
-        "Salar Jung II",
-        "Salar Jung III",
-        "Kishen Pershad"
-      ],
-      "options_te": [
-        "మొదటి సాలార్ జంగ్ (మీర్ తురాబ్ అలీ ఖాన్)",
-        "రెండవ సాలార్ జంగ్",
-        "మూడవ సాలార్ జంగ్",
-        "కిషన్ ప్రసాద్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Mir Turab Ali Khan (Salar Jung I) carried out historic land revenue, judicial, transport, and police reforms during the reigns of Afzal-ud-Daula and Mahbub Ali Khan.",
-      "explanation_te": "మొదటి సాలార్ జంగ్ (మీర్ తురాబ్ అలీ ఖాన్) హైదరాబాద్ రాజ్యంలో ఆధునిక పరిపాలన, రెవెన్యూ, విద్య మరియు రైల్వే సంస్కరణలకు ఆద్యుడు."
-    },
-    {
-      "id": 173,
-      "qNumber": 173,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "On 4th July 1946, whose martyrdom at Kadavendi village in Jangaon sparked the historic Telangana Peasant Armed Struggle (Telangana Sayudha Poratam)?",
-      "question_te": "1946 జూలై 4న జనగామ తాలూకా కడవెండి గ్రామంలో ఎవరి అమరత్వం చారిత్రక తెలంగాణ రైతాంగ సాయుధ పోరాటానికి నాంది పలికింది?",
-      "options_en": [
-        "Doddi Komaraiah",
-        "Chakali Ilamma",
-        "Bandi Yadagiri",
-        "Shoebullah Khan"
-      ],
-      "options_te": [
-        "దొడ్డి కొమరయ్య (Doddi Komaraiah)",
-        "చాకలి ఐలమ్మ",
-        "బండి యాదగిరి",
-        "షోయబుల్లా ఖాన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Doddi Komaraiah was shot dead by Visnoor Deshmukh's goons while leading a protest of Andhra Mahasabha, triggering the armed struggle.",
-      "explanation_te": "విస్నూరు దేశ్‌ముఖ్ గూండాల తూటాలకు దొడ్డి కొమరయ్య కడవెండిలో బలికావడం తెలంగాణ రైతాంగ సాయుధ పోరాటానికి నాంది అయింది."
-    },
-    {
-      "id": 174,
-      "qNumber": 174,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which courageous woman heroically resisted the eviction attempts of Visnoor Deshmukh Ramachandra Reddy to defend her four acres of agricultural land at Palakurthi?",
-      "question_te": "పాలకుర్తిలో తన నాలుగు ఎకరాల భూమిని కాపాడుకోవడానికి విస్నూరు దేశ్‌ముఖ్ రామచంద్రారెడ్డి దౌర్జన్యాలకు వ్యతిరేకంగా వీరోచితంగా పోరాడిన ధీర వనిత ఎవరు?",
-      "options_en": [
-        "Chakali Ilamma",
-        "Mallu Swarajyam",
-        "Arundhati Roy",
-        "Rani Shankaramma"
-      ],
-      "options_te": [
-        "చాకలి ఐలమ్మ (Chakali Ilamma)",
-        "మల్లు స్వరాజ్యం",
-        "అరుంధతి రాయ్",
-        "రాణి శంకరమ్మ"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Chakali (Chityala) Ilamma stood steadfast with Andhra Mahasabha against the oppressive feudal landlord of Visnoor.",
-      "explanation_te": "చాకలి (చిట్యాల) ఐలమ్మ దొరల గడీల అరాచకాలపై ఎర్రజెండా అండతో భూపోరాటం చేసి ఉద్యమ స్ఫూర్తిగా నిలిచింది."
-    },
-    {
-      "id": 175,
-      "qNumber": 175,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "What was the codename of the military action launched by the Indian Army on 13 September 1948 that integrated Hyderabad State into the Indian Union?",
-      "question_te": "1948 సెప్టెంబర్ 13న భారత సైన్యం హైదరాబాద్ సంస్థానాన్ని భారత యూనియన్‌లో విలీనం చేయడానికి చేపట్టిన సైనిక చర్య యొక్క కోడ్‌నేమ్ ఏమిటి?",
-      "options_en": [
-        "Operation Polo",
-        "Operation Vijay",
-        "Operation Blue Star",
-        "Operation Meghdoot"
-      ],
-      "options_te": [
-        "ఆపరేషన్ పోలో (Operation Polo)",
-        "ఆపరేషన్ విజయ్",
-        "ఆపరేషన్ బ్లూ స్టార్",
-        "ఆపరేషన్ మేఘదూత్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Operation Polo (also called Police Action) was commanded by Major General J.N. Chaudhuri, culminating in the Nizam's unconditional surrender on 17 September 1948.",
-      "explanation_te": "1948 సెప్టెంబర్ 13న ప్రారంభమైన 'ఆపరేషన్ పోలో' ద్వారా సెప్టెంబర్ 17న హైదరాబాద్ సంస్థానం భారతదేశంలో విలీనమైంది."
-    },
-    {
-      "id": 176,
-      "qNumber": 176,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who headed the military administration of Hyderabad State immediately following the surrender of the 7th Nizam in September 1948?",
-      "question_te": "1948 సెప్టెంబర్‌లో నిజాం లొంగుబాటు తర్వాత హైదరాబాద్ రాష్ట్ర సైనిక గవర్నర్‌గా బాధ్యతలు చేపట్టిన సైనికాధికారి ఎవరు?",
-      "options_en": [
-        "Major General J.N. Chaudhuri",
-        "M.K. Vellodi",
-        "K.M. Munshi",
-        "General K.S. Thimayya"
-      ],
-      "options_te": [
-        "మేజర్ జనరల్ జె.ఎన్. చౌధురి",
-        "ఎం.కె. వెల్లోడి",
-        "కె.ఎం. మున్షీ",
-        "జనరల్ కె.ఎస్. తిమ్మయ్య"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Major General J.N. Chaudhuri served as the Military Governor of Hyderabad from September 1948 to December 1949.",
-      "explanation_te": "హైదరాబాద్ సైనిక గవర్నర్‌గా మేజర్ జనరల్ జె.ఎన్. చౌధురి బాధ్యతలు నిర్వర్తించారు; కె.ఎం. మున్షీ భారత ఏజెంట్ జనరల్‌గా ఉన్నారు."
-    },
-    {
-      "id": 177,
-      "qNumber": 177,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "The 1952 'Non-Mulki Agitation' (Idli Sambar Go Back movement) began principally in which historic educational institution of Hyderabad on 3 September 1952?",
-      "question_te": "1952 లో 'నాన్-ముల్కీ గో బ్యాక్' (ఇడ్లీ సాంబార్ గో బ్యాక్) ఉద్యమం 1952 సెప్టెంబర్ 3న ప్రధానంగా హైదరాబాద్‌లోని ఏ విద్యాసంస్థలో రాజుకుంది?",
-      "options_en": [
-        "City College, Hyderabad",
-        "Nizam College",
-        "Osmania Arts College",
-        "Vivek Vardhini College"
-      ],
-      "options_te": [
-        "సిటీ కాలేజ్, హైదరాబాద్ (City College)",
-        "నిజాం కాలేజ్",
-        "ఉస్మానియా ఆర్ట్స్ కాలేజ్",
-        "వివేక్ వర్ధిని కాలేజ్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Police firing on students at City College on 3-4 September 1952 killed four persons and intensified the 1952 Mulki movement.",
-      "explanation_te": "1952 సెప్టెంబర్ 3, 4 తేదీలలో సిటీ కాలేజీ వద్ద విద్యార్థులపై జరిగిన పోలీసు కాల్పుల ఘటన ముల్కీ ఉద్యమాన్ని తీవ్రతరం చేసింది."
-    },
-    {
-      "id": 178,
-      "qNumber": 178,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which judicial commission was constituted by the Hyderabad State Government to inquire into the 1952 City College police firing incidents?",
-      "question_te": "1952 సిటీ కాలేజీ పోలీసు కాల్పుల ఘటనలపై విచారణ జరిపేందుకు హైదరాబాద్ రాష్ట్ర ప్రభుత్వం ఏ న్యాయ కమిషన్‌ను నియమించింది?",
-      "options_en": [
-        "Justice Pingali Jaganmohan Reddy Commission",
-        "Justice Bhargava Commission",
-        "Justice Wanchoo Commission",
-        "Justice Sarkaria Commission"
-      ],
-      "options_te": [
-        "జస్టిస్ పింగళి జగన్మోహన్ రెడ్డి కమిషన్",
-        "జస్టిస్ భార్గవ కమిషన్",
-        "జస్టిస్ వాంచూ కమిషన్",
-        "జస్టిస్ సర్కారియా కమిషన్"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Justice Pingali Jaganmohan Reddy Commission probed the tragic City College police firings of September 1952.",
-      "explanation_te": "సిటీ కాలేజీ కాల్పుల ఘటనపై విచారణకు జస్టిస్ పింగళి జగన్మోహన్ రెడ్డి కమిషన్‌ను నియమించారు."
-    },
-    {
-      "id": 179,
-      "qNumber": 179,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "The historic 'Gentlemen's Agreement' (పెద్దమనుషుల ఒప్పందం) was signed between Telangana and Andhra leaders on 20 February 1956 at which venue?",
-      "question_te": "1956 ఫిబ్రవరి 20న తెలంగాణ మరియు ఆంధ్ర ప్రాంత నాయకుల మధ్య చారిత్రక 'పెద్దమనుషుల ఒప్పందం' ఎక్కడ కుదిరింది?",
-      "options_en": [
-        "Hyderabad House, New Delhi",
-        "Rashtrapati Bhavan, New Delhi",
-        "Jubilee Hall, Hyderabad",
-        "Town Hall, Kurnool"
-      ],
-      "options_te": [
-        "హైదరాబాద్ హౌస్, న్యూఢిల్లీ",
-        "రాష్ట్రపతి భవన్",
-        "జూబ్లీ హాల్, హైదరాబాద్",
-        "టౌన్ హాల్, కర్నూలు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The agreement was signed at Hyderabad House in New Delhi by 8 representatives (4 from Telangana, 4 from Andhra) to safeguard Telangana interests upon merger.",
-      "explanation_te": "న్యూఢిల్లీ లోని హైదరాబాద్ హౌస్‌లో 8 మంది నాయకుల సమక్షంలో తెలంగాణ రక్షణల కోసం పెద్దమనుషుల ఒప్పందం కుదిరింది."
-    },
-    {
-      "id": 180,
-      "qNumber": 180,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who among the following was NOT a signatory to the Gentlemen's Agreement of 1956 representing the Telangana region?",
-      "question_te": "1956 పెద్దమనుషుల ఒప్పందంపై తెలంగాణ ప్రాంతం తరఫున సంతకం చేయని నాయకుడు ఎవరు?",
-      "options_en": [
-        "Kasani Narayana",
-        "Burgula Ramakrishna Rao",
-        "K.V. Ranga Reddy",
-        "Dr. M. Chenna Reddy"
-      ],
-      "options_te": [
-        "కసాని నారాయణ (Kasani Narayana)",
-        "బూర్గుల రామకృష్ణారావు",
-        "కె.వి. రంగా రెడ్డి",
-        "డాక్టర్ మర్రి చెన్నారెడ్డి"
-      ],
-      "correct_option": 0,
-      "explanation_en": "The 4 Telangana signatories were: Burgula Ramakrishna Rao, K.V. Ranga Reddy, J.V. Narsing Rao, and Dr. M. Chenna Reddy.",
-      "explanation_te": "తెలంగాణ తరఫున సంతకాలు చేసిన నలుగురు: బూర్గుల రామకృష్ణారావు, కె.వి. రంగారెడ్డి, జె.వి. నర్సింగరావు, మర్రి చెన్నారెడ్డి."
-    },
-    {
-      "id": 181,
-      "qNumber": 181,
-      "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "In January 1969, who undertook an indefinite hunger strike at Palvancha in Khammam demanding implementation of Telangana safeguards, sparking the 1969 Telangana Agitation?",
-      "question_te": "1969 జనవరిలో ఖమ్మం జిల్లా పాల్వంచలో తెలంగాణ రక్షణల అమలుకై ఆమరణ నిరాహార దీక్ష చేపట్టి 1969 ప్రత్యేక తెలంగాణ ఉద్యమానికి నాంది పలికిన విద్యార్థి నాయకుడు ఎవరు?",
-      "options_en": [
-        "Ravindranath",
-        "Mallikarjun",
-        "Kollu Satyanarayana",
-        "Madapati Hanumantha Rao"
-      ],
-      "options_te": [
-        "రవీంద్రనాథ్ (Ravindranath)",
-        "మల్లికార్జున్",
-        "కొల్లు సత్యనారాయణ",
-        "మాడపాటి హనుమంతరావు"
-      ],
-      "correct_option": 0,
-      "explanation_en": "Ravindranath, a student of Kothagudem/Palvancha, went on an indefinite hunger strike on 8 January 1969.",
-      "explanation_te": "1969 జనవరి 8న పాల్వంచలో రవీంద్రనాథ్ ఆమరణ నిరాహార దీక్ష చేపట్టడంతో 1969 ఉద్యమం ఊపందుకుంది."
-    },
-    {
-      "id": 182,
-      "qNumber": 182,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
       "question_en": "Who founded the political party 'Telangana Praja Samithi' (TPS) in 1969 that won 10 out of 14 Lok Sabha seats in the 1971 General Elections?",
@@ -4221,418 +3659,955 @@
       "explanation_te": "తెలంగాణ ప్రజా సమితి (TPS) కి డాక్టర్ మర్రి చెన్నారెడ్డి నాయకత్వం వహించి 1971 లో 10 ఎంపీ సీట్లు గెలిచారు."
     },
     {
+      "section": "General Studies",
+      "topic": "Indian Polity - Fundamental Rights",
+      "question_en": "Which Fundamental Right guaranteed under Article 19(1)(a) of the Indian Constitution has been interpreted by the Supreme Court to include the 'Right to Information' and 'Freedom of the Press'?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణం 19(1)(a) క్రింద హామీ ఇవ్వబడిన ఏ ప్రాథమిక హక్కులో 'సమాచార హక్కు' మరియు 'పత్రికా స్వేచ్ఛ' అంతర్భాగంగా ఉన్నాయని సుప్రీంకోర్టు తీర్పునిచ్చింది?",
+      "options_en": [
+        "Freedom of speech and expression",
+        "Right to assemble peaceably without arms",
+        "Right to form associations or unions",
+        "Right to practice any profession or trade"
+      ],
+      "options_te": [
+        "వాక్ మరియు భావ ప్రకటన స్వేచ్ఛ (Freedom of Speech and Expression)",
+        "శాంతియుతంగా సమావేశమయ్యే హక్కు",
+        "సంఘాలు ఏర్పరచుకునే హక్కు",
+        "వృత్తి లేదా వ్యాపారం చేసుకునే హక్కు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Article 19(1)(a) guarantees freedom of speech and expression, which includes freedom of press, commercial speech, and right to receive information.",
+      "explanation_te": "అధికరణం 19(1)(a) లోని భావ ప్రకటన స్వేచ్ఛలోనే పత్రికా స్వేచ్ఛ, సమాచార హక్కులు ఇమిడి ఉన్నాయని సుప్రీంకోర్టు స్పష్టం చేసింది.",
+      "id": 160,
+      "qNumber": 160
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Constitutional Bodies & CAG",
+      "question_en": "The Comptroller and Auditor General of India (CAG) is appointed by the President of India under which Article of the Constitution?",
+      "question_te": "భారత కంప్ట్రోలర్ అండ్ ఆడిటర్ జనరల్ (CAG) ను రాజ్యాంగంలోని ఏ అధికరణం క్రింద రాష్ట్రపతి నియమిస్తారు?",
+      "options_en": [
+        "Article 76",
+        "Article 148",
+        "Article 280",
+        "Article 324"
+      ],
+      "options_te": [
+        "అధికరణం 76",
+        "అధికరణం 148 (Article 148)",
+        "అధికరణం 280",
+        "అధికరణం 324"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Article 148 provides for an independent Comptroller and Auditor General of India appointed by warrant under President's hand and seal.",
+      "explanation_te": "రాజ్యాంగంలోని అధికరణం 148 ప్రకారం కాగ్ (CAG) ని రాష్ట్రపతి నియమిస్తారు.",
+      "id": 161,
+      "qNumber": 161
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Parliament & Rajya Sabha",
+      "question_en": "Under Article 312 of the Constitution of India, which House of Parliament possesses the exclusive constitutional power to initiate the creation of one or more 'All India Services'?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణం 312 క్రింద నూతన 'అఖిల భారత సర్వీసులను' (All India Services) ఏర్పాటు చేసేందుకు చొరవ తీసుకునే ప్రత్యేక అధికారం పార్లమెంటులోని ఏ సభకు ఉంది?",
+      "options_en": [
+        "Lok Sabha",
+        "Rajya Sabha (Council of States)",
+        "Joint Session of Parliament",
+        "Supreme Court of India"
+      ],
+      "options_te": [
+        "లోక్‌సభ",
+        "రాజ్యసభ (Rajya Sabha)",
+        "పార్లమెంట్ ఉభయ సభల సంయుక్త సమావేశం",
+        "సుప్రీంకోర్టు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Article 312 empowers the Rajya Sabha to pass a resolution supported by not less than two-thirds majority to create new All India Services.",
+      "explanation_te": "అధికరణం 312 ప్రకారం రాజ్యసభ 2/3 వంతు మెజారిటీతో తీర్మానం ఆమోదిస్తేనే పార్లమెంటు నూతన అఖిల భారత సర్వీసులను ఏర్పాటు చేయగలదు.",
+      "id": 162,
+      "qNumber": 162
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Judicial Review & Writs",
+      "question_en": "Under which Article of the Constitution can a citizen directly approach the High Court of a State for the enforcement of Fundamental Rights and for any other legal right?",
+      "question_te": "ప్రాథమిక హక్కుల ఉల్లంఘన జరిగినప్పుడు లేదా చట్టపరమైన హక్కుల రక్షణ కోసం పౌరులు ఏ అధికరణం ప్రకారం రాష్ట్ర హైకోర్టును ఆశ్రయించవచ్చు?",
+      "options_en": [
+        "Article 32",
+        "Article 136",
+        "Article 226",
+        "Article 227"
+      ],
+      "options_te": [
+        "అధికరణం 32",
+        "అధికరణం 136",
+        "అధికరణం 226 (Article 226)",
+        "అధికరణం 227"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Article 226 empowers High Courts to issue writs for the enforcement of fundamental rights and for 'any other purpose' (legal rights). Article 32 is for Supreme Court.",
+      "explanation_te": "అధికరణం 226 క్రింద హైకోర్టులు ప్రాథమిక హక్కులతో పాటు ఇతర చట్టబద్ధ హక్కుల అమలు కోసం కూడా రిట్లను జారీ చేయవచ్చును.",
+      "id": 163,
+      "qNumber": 163
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Panchayati Raj & Constitutional Amendments",
+      "question_en": "Which committee's landmark recommendations in 1957 led to the establishment of the democratic three-tier Panchayati Raj system in India?",
+      "question_te": "1957 లో ఏ కమిటీ చేసిన చారిత్రక సిఫార్సుల ఆధారంగా భారతదేశంలో మూడంచెల పంచాయతీరాజ్ వ్యవస్థ ఏర్పాటయింది?",
+      "options_en": [
+        "Balwant Rai Mehta Committee",
+        "Ashok Mehta Committee",
+        "L.M. Singhvi Committee",
+        "G.V.K. Rao Committee"
+      ],
+      "options_te": [
+        "బల్వంత్‌రాయ్ మెహతా కమిటీ (Balwant Rai Mehta)",
+        "అశోక్ మెహతా కమిటీ",
+        "ఎల్.ఎం. సింఘ్వి కమిటీ",
+        "జి.వి.కె. రావు కమిటీ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Balwant Rai Mehta Committee (1957) recommended a 3-tier Panchayati Raj system: Gram Panchayat, Panchayat Samiti, and Zilla Parishad.",
+      "explanation_te": "బల్వంత్‌రాయ్ మెహతా కమిటీ సిఫార్సుల మేరకు మూడంచెల ప్రజాస్వామ్య వికేంద్రీకరణ (పంచాయతీరాజ్) వ్యవస్థ ఏర్పాటయింది.",
+      "id": 164,
+      "qNumber": 164
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Union Executive & President",
+      "question_en": "The electoral college that elects the President of India under Article 54 of the Constitution consists of:",
+      "question_te": "రాజ్యాంగంలోని అధికరణం 54 ప్రకారం భారత రాష్ట్రపతిని ఎన్నుకునే ఎలక్టోరల్ కాలేజీలో సభ్యులు ఎవరు?",
+      "options_en": [
+        "Elected members of both Houses of Parliament and elected members of the Legislative Assemblies of States (including Delhi and Puducherry)",
+        "All members of both Houses of Parliament and State Assemblies",
+        "Elected members of Parliament only",
+        "Members of Parliament and State Legislative Councils"
+      ],
+      "options_te": [
+        "పార్లమెంటు ఉభయ సభల ఎన్నికైన సభ్యులు మరియు రాష్ట్రాల శాసనసభల ఎన్నికైన సభ్యులు (ఢిల్లీ, పుదుచ్చేరిలతో సహా)",
+        "పార్లమెంటు మరియు అసెంబ్లీల సభ్యులందరూ",
+        "పార్లమెంటులోని ఎన్నికైన సభ్యులు మాత్రమే",
+        "పార్లమెంట్ సభ్యులు మరియు శాసనమండలి సభ్యులు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Article 54 provides that the Electoral College consists of elected members of Lok Sabha, Rajya Sabha, and State Legislative Assemblies (including Delhi and Puducherry). Nominated members cannot vote.",
+      "explanation_te": "రాష్ట్రపతి ఎన్నికల్లో పార్లమెంటు మరియు రాష్ట్ర శాసనసభలలోని ఎన్నికైన సభ్యులు మాత్రమే ఓటు వేస్తారు; నామినేటెడ్ సభ్యులకు ఓటు హక్కు ఉండదు.",
+      "id": 165,
+      "qNumber": 165
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Federalism & Inter-State Relations",
+      "question_en": "Under Article 263 of the Constitution, who is empowered to establish an 'Inter-State Council' to investigate and discuss subjects of common interest?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణం 263 క్రింద రాష్ట్రాల మధ్య సమన్వయం కోసం 'అంతర్రాష్ట్ర మండలి' (Inter-State Council) ని ఏర్పాటు చేసే అధికారం ఎవరికి కలదు?",
+      "options_en": [
+        "Parliament of India",
+        "President of India",
+        "Prime Minister of India",
+        "Chief Justice of India"
+      ],
+      "options_te": [
+        "భారత పార్లమెంటు",
+        "భారత రాష్ట్రపతి (President of India)",
+        "భారత ప్రధానమంత్రి",
+        "సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Article 263 empowers the President to establish an Inter-State Council if it appears that public interests would be served.",
+      "explanation_te": "అధికరణం 263 ప్రకారం అంతర్రాష్ట్ర మండలిని ఏర్పాటు చేసే అధికారం రాష్ట్రపతికి ఉంది.",
+      "id": 166,
+      "qNumber": 166
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Constitutional Amendments",
+      "question_en": "The 106th Constitutional Amendment Act (Nari Shakti Vandan Adhiniyam) provides for what percentage of reservation for women in the Lok Sabha and State Legislative Assemblies?",
+      "question_te": "106వ రాజ్యాంగ సవరణ చట్టం (నారీ శక్తి వందన్ అధినియమ్) లోక్‌సభ మరియు రాష్ట్ర శాసనసభలలో మహిళలకు ఎంత శాతం రిజర్వేషన్ కల్పిస్తుంది?",
+      "options_en": [
+        "25%",
+        "33% (One-third)",
+        "50%",
+        "30%"
+      ],
+      "options_te": [
+        "25%",
+        "33% (మూడో వంతు - One-third)",
+        "50%",
+        "30%"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The 106th Amendment Act reserves one-third (33%) of seats for women in Lok Sabha, State Legislative Assemblies, and NCT of Delhi for 15 years.",
+      "explanation_te": "106వ రాజ్యాంగ సవరణ ద్వారా లోక్‌సభ మరియు శాసనసభలలో మహిళలకు 33% (మూడో వంతు) స్థానాలు రిజర్వ్ చేయబడ్డాయి.",
+      "id": 167,
+      "qNumber": 167
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Emergency Provisions",
+      "question_en": "The proclamation of President's Rule in a State under Article 356 must be approved by both Houses of Parliament within what time limit?",
+      "question_te": "అధికరణం 356 క్రింద ఒక రాష్ట్రంలో విధించిన రాష్ట్రపతి పాలనను పార్లమెంటు ఉభయ సభలు ఎంత కాల వ్యవధిలోపు ఆమోదించాలి?",
+      "options_en": [
+        "Within one month",
+        "Within two months",
+        "Within six months",
+        "Within fourteen days"
+      ],
+      "options_te": [
+        "ఒక నెలలోపు",
+        "రెండు నెలలలోపు (Within 2 months)",
+        "ఆరు నెలలలోపు",
+        "14 రోజులలోపు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "A proclamation under Article 356 ceases to operate at the expiration of two months unless approved by resolutions of both Houses of Parliament.",
+      "explanation_te": "రాష్ట్రపతి పాలన ప్రకటనను పార్లమెంటు ఉభయ సభలు 2 నెలల లోపు ఆమోదించాలి (జాతీయ అత్యవసర పరిస్థితికి 1 నెల).",
+      "id": 168,
+      "qNumber": 168
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Fundamental Duties",
+      "question_en": "Fundamental Duties were incorporated into Part IV-A (Article 51A) of the Constitution on the recommendations of which committee?",
+      "question_te": "భారత రాజ్యాంగంలో 4-A భాగంలో (అధికరణం 51A) ప్రాథమిక విధులను ఏ కమిటీ సిఫార్సుల మేరకు చేర్చారు?",
+      "options_en": [
+        "Swaran Singh Committee",
+        "Sarkaria Commission",
+        "Verma Committee",
+        "Kothari Commission"
+      ],
+      "options_te": [
+        "స్వరణ్ సింగ్ కమిటీ (Swaran Singh Committee)",
+        "సర్కారియా కమిషన్",
+        "వర్మ కమిటీ",
+        "కొఠారి కమిషన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Swaran Singh Committee (1976) recommended the inclusion of Fundamental Duties, incorporated by the 42nd Amendment.",
+      "explanation_te": "స్వరణ్ సింగ్ కమిటీ సిఫార్సుల మేరకు 42వ రాజ్యాంగ సవరణ చట్టం, 1976 ద్వారా ప్రాథమిక విధులను రాజ్యాంగంలో చేర్చారు.",
+      "id": 169,
+      "qNumber": 169
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Constitutional Status of Right to Property",
+      "question_en": "The Right to Property ceased to be a Fundamental Right and became a Constitutional Legal Right under Article 300A by which Amendment?",
+      "question_te": "ఆస్తి హక్కు ప్రాథమిక హక్కుల జాబితా నుండి తొలగించబడి, అధికరణం 300A క్రింద ఒక సాధారణ రాజ్యాంగ చట్టబద్ధ హక్కుగా ఏ సవరణ ద్వారా మార్చబడింది?",
+      "options_en": [
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "52nd Amendment Act, 1985",
+        "86th Amendment Act, 2002"
+      ],
+      "options_te": [
+        "42వ రాజ్యాంగ సవరణ చట్టం, 1976",
+        "44వ రాజ్యాంగ సవరణ చట్టం, 1978 (44th Amendment)",
+        "52వ సవరణ చట్టం",
+        "86వ సవరణ చట్టం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The 44th Constitutional Amendment Act of 1978 deleted Article 31 and inserted Article 300A in Part XII, making right to property a legal right.",
+      "explanation_te": "1978 లోని 44వ రాజ్యాంగ సవరణ ద్వారా ఆస్తి హక్కును ప్రాథమిక హక్కుల నుండి తొలగించి అధికరణం 300A లో చట్టబద్ధ హక్కుగా చేర్చారు.",
+      "id": 170,
+      "qNumber": 170
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Attorney General",
+      "question_en": "Who is the highest law officer in the Government of India, appointed under Article 76 of the Constitution?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణం 76 ప్రకారం నియమించబడే కేంద్ర ప్రభుత్వపు అత్యున్నత న్యాయాధికారి ఎవరు?",
+      "options_en": [
+        "Solicitor General of India",
+        "Attorney General for India",
+        "Advocate General",
+        "Union Law Secretary"
+      ],
+      "options_te": [
+        "సాలిసిటర్ జనరల్",
+        "అటార్నీ జనరల్ (Attorney General for India)",
+        "అడ్వొకేట్ జనరల్",
+        "కేంద్ర న్యాయశాఖ కార్యదర్శి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Article 76 provides for the Attorney General for India, who has the right of audience in all courts in India.",
+      "explanation_te": "అధికరణం 76 ప్రకారం నియమితులయ్యే అటార్నీ జనరల్ భారత ప్రభుత్వ అత్యున్నత న్యాయాధికారి.",
+      "id": 171,
+      "qNumber": 171
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Joint Sitting of Parliament",
+      "question_en": "Who presides over a Joint Sitting of both Houses of Parliament summoned under Article 108 of the Constitution to resolve a legislative deadlock?",
+      "question_te": "పార్లమెంటు ఉభయ సభల మధ్య ప్రతిష్టంభనను తొలగించడానికి అధికరణం 108 క్రింద నిర్వహించే సంయుక్త సమావేశానికి ఎవరు అధ్యక్షత వహిస్తారు?",
+      "options_en": [
+        "President of India",
+        "Chairman of Rajya Sabha",
+        "Speaker of Lok Sabha",
+        "Prime Minister of India"
+      ],
+      "options_te": [
+        "భారత రాష్ట్రపతి",
+        "రాజ్యసభ ఛైర్మన్",
+        "లోక్‌సభ స్పీకర్ (Speaker of Lok Sabha)",
+        "భారత ప్రధానమంత్రి"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Under Article 118(4), the Speaker of the Lok Sabha (or in his absence, the Deputy Speaker) presides over joint sittings.",
+      "explanation_te": "అధికరణం 118(4) ప్రకారం ఉభయ సభల సంయుక్త సమావేశానికి లోక్‌సభ స్పీకర్ అధ్యక్షత వహిస్తారు.",
+      "id": 172,
+      "qNumber": 172
+    },
+    {
+      "section": "General Studies",
+      "topic": "Indian Polity - Delimitation Commission",
+      "question_en": "Under Article 82 of the Indian Constitution, the allocation of seats in the Lok Sabha to the States is frozen based on the 1971 Census until which year?",
+      "question_te": "రాజ్యాంగంలోని అధికరణం 82 ప్రకారం లోక్‌సభలో రాష్ట్రాల వారీ సీట్ల సంఖ్యను 1971 జనాభా లెక్కల ఆధారంగా ఏ సంవత్సరం వరకు స్తంభింపజేశారు?",
+      "options_en": [
+        "2024",
+        "2026",
+        "2031",
+        "2036"
+      ],
+      "options_te": [
+        "2024",
+        "2026 (Year 2026)",
+        "2031",
+        "2036"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The 84th Constitutional Amendment Act, 2001 extended the freeze on the total number of Lok Sabha seats to states until the first census after 2026.",
+      "explanation_te": "84వ రాజ్యాంగ సవరణ ద్వారా లోక్‌సభ స్థానాల పునర్విభజనను 2026 తర్వాత జరిగే తొలి జనాభా లెక్కల వరకు నిలిపివేశారు.",
+      "id": 173,
+      "qNumber": 173
+    },
+    {
+      "id": 174,
+      "subject": "Indian Polity",
+      "topic": "Parliament - Removal of Lok Sabha Speaker (Article 94)",
+      "source_channel": "CSB IAS Academy / Polity Marathon (YouTube)",
+      "raw_educator_point": "లోక్సభ స్పీకర్ కు వ్యతిరేకంగా రాజ్యాంగంలోని ఏ అధికరణ కింద నోటీసు ఇస్తారు? ఆన్సర్: ఆర్టికల్ 94(సి).",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the constitutional procedure for the removal of the Speaker of the Lok Sabha under Article 94(c):\n1. A resolution for removal can be moved only after giving at least 14 days' advance notice.\n2. While such a resolution is under consideration, the Speaker cannot preside over the sitting of the House.\n3. The Speaker has the right to speak and participate in the proceedings, but cannot vote in the first instance.\nWhich of the statements given above are correct?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణ 94(సి) మరియు 96 ప్రకారం లోక్‌సభ స్పీకర్‌ను పదవి నుంచి తొలగించే ప్రక్రియకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. స్పీకర్‌ను తొలగించే తీర్మానాన్ని ప్రవేశపెట్టడానికి కనీసం 14 రోజుల ముందస్తు నోటీసు తప్పనిసరిగా ఇవ్వాలి.\n2. అటువంటి తీర్మానం సభ పరిశీలనలో ఉన్నప్పుడు స్పీకర్ సభాధ్యక్షతను వహించరాదు.\n3. సభా చర్యల్లో మాట్లాడే మరియు పాల్గొనే హక్కు స్పీకర్‌కు ఉంటుంది, కానీ మొదటి రౌండ్ ఓటింగ్‌లో ఓటు వేసే హక్కు ఉండదు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Statements 1 and 2 are correct. Statement 3 is incorrect: Under Article 96(2), when a removal resolution is under consideration, the Speaker HAS the right to vote in the FIRST instance (like an ordinary MP), but CANNOT exercise a casting vote in case of an equality of votes.",
+      "explanation_te": "1 మరియు 2 సరైనవి; 3 తప్పు. ఆర్టికల్ 96(2) ప్రకారం తొలగింపు తీర్మానం నడుస్తున్నప్పుడు స్పీకర్ సాధారణ ఎంపీ వలె 'మొదటి రౌండ్‌లోనే ఓటు వేయవచ్చు', కానీ సమాన ఓట్లు వచ్చినప్పుడు నిర్ణాయక ఓటు (Casting Vote) వేయలేరు.",
+      "qNumber": 174,
+      "section": "General Studies"
+    },
+    {
+      "id": 175,
+      "subject": "Indian Polity",
+      "topic": "Constitutional Amendments - 106th Amendment Act",
+      "source_channel": "CSB IAS Academy / StudyIQ Polity Video",
+      "raw_educator_point": "నారీ శక్తి వందన్ అధినియం (106వ రాజ్యాంగ సవరణ చట్టం) ద్వారా ఏ అధికరణలు చేర్చబడ్డాయి?",
+      "question_type": "Direct Conceptual",
+      "question_en": "Which of the following new Articles were inserted into the Constitution of India by the 106th Constitutional Amendment Act (Nari Shakti Vandan Adhiniyam) to provide 33% reservation for women?",
+      "question_te": "లోక్‌సభ మరియు రాష్ట్ర శాసనసభలలో మహిళలకు 33% రిజర్వేషన్ కల్పించేందుకు 'నారీ శక్తి వందన్ అధినియం' (106వ రాజ్యాంగ సవరణ చట్టం) ద్వారా భారత రాజ్యాంగంలో చేర్చబడిన నూతన అధికరణలు ఏవి?",
+      "options_en": [
+        "Articles 330A, 332A, and 334A",
+        "Articles 243D, 243T, and 243W",
+        "Articles 15(4), 16(4), and 19(2)",
+        "Articles 338, 338A, and 338B"
+      ],
+      "options_te": [
+        "అధికరణలు 330A, 332A మరియు 334A",
+        "అధికరణలు 243D, 243T మరియు 243W",
+        "అధికరణలు 15(4), 16(4) మరియు 19(2)",
+        "అధికరణలు 338, 338A మరియు 338B"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The 106th Constitutional Amendment Act added Article 330A (women reservation in Lok Sabha), Article 332A (in State Legislative Assemblies), Article 239AA(2)(ba) (in Delhi Assembly), and Article 334A (sunset clause of 15 years post-delimitation).",
+      "explanation_te": "106వ సవరణ ద్వారా ఆర్టికల్ 330A (లోక్‌సభలో మహిళా రిజర్వేషన్), 332A (శాసనసభలలో), మరియు 334A (డీలిమిటేషన్ ప్రక్రియ తర్వాత 15 ఏళ్ల కాలపరిమితితో అమలులోకి వచ్చే నిబంధన) చేర్చబడ్డాయి.",
+      "qNumber": 175,
+      "section": "General Studies"
+    },
+    {
+      "id": 176,
+      "qNumber": 176,
+      "section": "General Studies",
+      "topic": "Indian History - Indus Valley Civilization",
+      "question_en": "At which Indus Valley site was an ancient tidal dockyard discovered, indicating active maritime trade with Mesopotamia?",
+      "question_te": "మెసపొటేమియాతో సముద్ర వాణిజ్యాన్ని సూచించే ప్రాచీన నౌకాశ్రయం (డాక్‌యార్డ్) ఏ సింధు నాగరికత నగరంలో బయల్పడింది?",
+      "options_en": [
+        "Kalibangan",
+        "Lothal (Gujarat)",
+        "Banawali",
+        "Rakhigarhi"
+      ],
+      "options_te": [
+        "కాలిబంగన్",
+        "లోథాల్ (Lothal - Gujarat)",
+        "బనవాలి",
+        "రాఖీగర్హి"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Lothal situated on the Bhogava river in Gujarat had a massive brick tidal dockyard connected to the Arabian Sea.",
+      "explanation_te": "గుజరాత్‌లోని భోగావా నదీ తీరాన గల లోథాల్‌లో ప్రపంచంలోనే అత్యంత పురాతన టైడల్ డాక్‌యార్డ్ బయల్పడింది."
+    },
+    {
+      "id": 177,
+      "qNumber": 177,
+      "section": "General Studies",
+      "topic": "Indian History - Mauryan Empire",
+      "question_en": "Who was the Greek ambassador sent by Seleucus I Nicator to the royal court of Chandragupta Maurya at Pataliputra?",
+      "question_te": "పాటలీపుత్రంలోని చంద్రగుప్త మౌర్యుని ఆస్థానానికి సెల్యూకస్ నికేటర్ పంపిన గ్రీకు రాయబారి ఎవరు?",
+      "options_en": [
+        "Megasthenes",
+        "Deimachus",
+        "Dionysius",
+        "Fa-Hien"
+      ],
+      "options_te": [
+        "మెగస్తనీస్ (Megasthenes)",
+        "డైమాకస్",
+        "డయోనిసియస్",
+        "ఫాహియాన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Megasthenes lived at Pataliputra and authored 'Indica', providing a vivid account of Mauryan administration and society.",
+      "explanation_te": "మౌర్య సామ్రాజ్య పరిపాలనను వివరిస్తూ 'ఇండికా' గ్రంథాన్ని రచించిన గ్రీకు రాయబారి మెగస్తనీస్."
+    },
+    {
+      "id": 178,
+      "qNumber": 178,
+      "section": "General Studies",
+      "topic": "Indian History - Gupta Dynasty",
+      "question_en": "The renowned iron pillar which has resisted rusting for over 1600 years at Mehrauli, Delhi was erected during the reign of:",
+      "question_te": "ఢిల్లీలోని మెహ్రౌలీ వద్ద 1600 సంవత్సరాలుగా తుప్పు పట్టకుండా నిలిచిన ప్రసిద్ధ ఇనుప స్తంభం ఏ గుప్త రాజు కాలంలో నిర్మించబడింది?",
+      "options_en": [
+        "Samudragupta",
+        "Chandragupta II (Vikramaditya)",
+        "Kumaragupta I",
+        "Skandagupta"
+      ],
+      "options_te": [
+        "సముద్రగుప్తుడు",
+        "రెండవ చంద్రగుప్తుడు (Chandragupta II)",
+        "మొదటి కుమారగుప్తుడు",
+        "స్కందగుప్తుడు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Mehrauli iron pillar bears an inscription mentioning King 'Chandra', identified as Chandragupta II Vikramaditya.",
+      "explanation_te": "మెహ్రౌలీ ఇనుప స్తంభం రెండవ చంద్రగుప్తుని (విక్రమాదిత్యుని) ఘనతను చాటుతూ నిర్మించబడింది."
+    },
+    {
+      "id": 179,
+      "qNumber": 179,
+      "section": "General Studies",
+      "topic": "Indian History - Medieval Delhi Sultanate",
+      "question_en": "Who among the following was the first and only woman monarch to rule the Delhi Sultanate (1236–1240 AD)?",
+      "question_te": "ఢిల్లీ సుల్తానేట్‌ను పరిపాలించిన మొట్టమొదటి మరియు ఏకైక మహిళా పాలకురాలు ఎవరు?",
+      "options_en": [
+        "Nur Jahan",
+        "Razia Sultana",
+        "Chand Bibi",
+        "Mumtaz Mahal"
+      ],
+      "options_te": [
+        "నూర్జహాన్",
+        "రజియా సుల్తానా (Razia Sultana)",
+        "చాంద్ బీబీ",
+        "ముంతాజ్ మహల్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Razia Sultana, daughter of Iltutmish, ruled the Delhi Sultanate from 1236 to 1240 AD.",
+      "explanation_te": "ఇల్తుత్‌మిష్ కుమార్తె రజియా సుల్తానా ఢిల్లీ పీఠాన్ని అధిరోహించిన ఏకైక మహిళా సుల్తాన్."
+    },
+    {
+      "id": 180,
+      "qNumber": 180,
+      "section": "General Studies",
+      "topic": "Indian History - Vijayanagara Empire",
+      "question_en": "The greatest monarch of the Vijayanagara Empire, Sri Krishnadevaraya (1509–1529 AD), belonged to which dynasty?",
+      "question_te": "విజయనగర సామ్రాజ్య చక్రవర్తులలో అగ్రగణ్యుడైన శ్రీకృష్ణదేవరాయలు (1509–1529) ఏ రాజవంశానికి చెందినవారు?",
+      "options_en": [
+        "Sangama Dynasty",
+        "Saluva Dynasty",
+        "Tuluva Dynasty",
+        "Aravidu Dynasty"
+      ],
+      "options_te": [
+        "సంగమ వంశం",
+        "సాళువ వంశం",
+        "తుళువ వంశం (Tuluva Dynasty)",
+        "ఆరవీడు వంశం"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Sri Krishnadevaraya belonged to the Tuluva dynasty, which succeeded the Saluva dynasty.",
+      "explanation_te": "శ్రీకృష్ణదేవరాయలు విజయనగర సామ్రాజ్యాన్ని పాలించిన తుళువ వంశానికి చెందినవారు."
+    },
+    {
+      "id": 181,
+      "qNumber": 181,
+      "section": "General Studies",
+      "topic": "Indian History - 1857 Revolt",
+      "question_en": "Which British military commander recaptured Delhi from the rebel soldiers in September 1857?",
+      "question_te": "సెప్టెంబర్ 1857 లో తిరుగుబాటుదారుల నుండి ఢిల్లీని తిరిగి స్వాధీనం చేసుకున్న బ్రిటిష్ సైన్యాధికారి ఎవరు?",
+      "options_en": [
+        "John Nicholson",
+        "Colin Campbell",
+        "Hugh Rose",
+        "James Outram"
+      ],
+      "options_te": [
+        "జాన్ నికల్సన్ (John Nicholson)",
+        "కోలిన్ క్యాంప్‌బెల్",
+        "హ్యూగ్ రోజ్",
+        "జేమ్స్ ఔట్రామ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Brigadier-General John Nicholson led the storming of Delhi in September 1857, dying of wounds during the assault.",
+      "explanation_te": "1857 తిరుగుబాటు సమయంలో ఢిల్లీని తిరిగి స్వాధీనం చేసుకునే పోరులో జాన్ నికల్సన్ మరణించాడు."
+    },
+    {
+      "id": 182,
+      "qNumber": 182,
+      "section": "General Studies",
+      "topic": "Indian History - Socio-Religious Reform",
+      "question_en": "Who established the 'Satyashodhak Samaj' in Maharashtra in 1873 to eradicate untouchability and promote women's education?",
+      "question_te": "1873 లో మహారాష్ట్రలో అణగారిన వర్గాల విముక్తి మరియు మహిళా విద్య కోసం 'సత్యశోధక్ సమాజ్' ను స్థాపించిన సంస్కర్త ఎవరు?",
+      "options_en": [
+        "Jyotirao Govindrao Phule (Jyotiba Phule)",
+        "B.R. Ambedkar",
+        "Gopal Krishna Gokhale",
+        "Mahadev Govind Ranade"
+      ],
+      "options_te": [
+        "జ్యోతిరావ్ గోవిందరావ్ ఫూలే (Jyotiba Phule)",
+        "బి.ఆర్. అంబేద్కర్",
+        "గోపాలకృష్ణ గోఖలే",
+        "మహదేవ్ గోవింద్ రనడే"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mahatma Jyotiba Phule founded Satyashodhak Samaj in Pune in 1873 and authored 'Gulamgiri'.",
+      "explanation_te": "జ్యోతిబా ఫూలే 1873 లో పూణేలో సత్యశోధక్ సమాజాన్ని స్థాపించి బహుజనుల విద్య, హక్కుల కోసం పోరాడారు."
+    },
+    {
       "id": 183,
       "qNumber": 183,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who was the renowned sculptor that designed the iconic Telangana Martyrs Memorial (Gun Park Amaraveerula Sthoopam) opposite the Public Gardens, Hyderabad?",
-      "question_te": "హైదరాబాద్ పబ్లిక్ గార్డెన్స్ ఎదురుగా గల గన్ పార్క్ లోని ప్రసిద్ధ తెలంగాణ అమరవీరుల స్తూపాన్ని తీర్చిదిద్దిన శిల్పి ఎవరు?",
+      "topic": "Indian History - Indian National Congress",
+      "question_en": "Who presided over the historic 1929 Lahore Session of the Indian National Congress where the resolution for 'Purna Swaraj' (Complete Independence) was adopted?",
+      "question_te": "1929 లో 'పూర్ణ స్వరాజ్' (సంపూర్ణ స్వాతంత్ర్యం) తీర్మానాన్ని ఆమోదించిన చారిత్రక లాహోర్ కాంగ్రెస్ సమావేశానికి ఎవరు అధ్యక్షత వహించారు?",
       "options_en": [
-        "Aekka Yadagiri Rao",
-        "Chawla",
-        "B.V.R. Chari",
-        "Ravinder Reddy"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
       ],
       "options_te": [
-        "ఎక్కా యాదగిరి రావు (Aekka Yadagiri Rao)",
-        "చావ్లా",
-        "బి.వి.ఆర్. చారి",
-        "రవీందర్ రెడ్డి"
+        "మహాత్మా గాంధీ",
+        "జవహర్‌లాల్ నెహ్రూ (Jawaharlal Nehru)",
+        "సుభాష్ చంద్రబోస్",
+        "సర్దార్ వల్లభభాయ్ పటేల్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Prof. Aekka Yadagiri Rao sculpted the historic black granite memorial commemorating the 369 martyrs of the 1969 agitation.",
-      "explanation_te": "1969 ఉద్యమంలో ప్రాణాలర్పించిన 369 మంది అమరుల స్మారకంగా గన్ పార్క్ స్తూపాన్ని శిల్పి ఎక్కా యాదగిరి రావు రూపొందించారు."
+      "correct_option": 1,
+      "explanation_en": "Jawaharlal Nehru presided over the Lahore session in December 1929, unfurling the tricolor on the banks of River Ravi on 31 Dec 1929.",
+      "explanation_te": "1929 లాహోర్ సమావేశానికి జవహర్‌లాల్ నెహ్రూ అధ్యక్షత వహించి పూర్ణ స్వరాజ్ లక్ష్యాన్ని ప్రకటించారు."
     },
     {
       "id": 184,
       "qNumber": 184,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which government order was issued in December 1985 by the N.T. Rama Rao government to repatriate non-local employees illegally appointed in Telangana zones back to Andhra?",
-      "question_te": "తెలంగాణ జోన్లలో నిబంధనలకు విరుద్ధంగా నియమితులైన గైర్-ముల్కీ ఉద్యోగులను వెనక్కి పంపడానికి 1985 డిసెంబర్‌లో ఎన్.టి. రామారావు ప్రభుత్వం జారీ చేసిన ఉత్తర్వు ఏది?",
+      "topic": "Indian History - Swadeshi Movement",
+      "question_en": "The inspiring national patriotic song 'Vande Mataram' was originally composed by Bankim Chandra Chattopadhyay in which famous novel?",
+      "question_te": "భారత స్వాతంత్ర్య సమరంలో జాతిని జాగృతం చేసిన జాతీయ గేయం 'వందేమాతరం' బంకించంద్ర ఛటర్జీ ఏ నవలలో రాశారు?",
       "options_en": [
-        "G.O. 610",
-        "G.O. 36",
-        "G.O. 16",
-        "G.O. 674"
+        "Durgeshnandini",
+        "Anandamath (ఆనందమఠం)",
+        "Kapalkundala",
+        "Devi Chaudhurani"
       ],
       "options_te": [
-        "జి.ఓ. 610 (G.O. 610)",
-        "జి.ఓ. 36",
-        "జి.ఓ. 16",
-        "జి.ఓ. 674"
+        "దుర్గేశనందిని",
+        "ఆనందమఠం (Anandamath)",
+        "కపాలకుండల",
+        "దేవి చౌధురాణి"
       ],
-      "correct_option": 0,
-      "explanation_en": "G.O. 610 was issued based on the recommendations of the Jayabharat Reddy Committee to correct deviations from the Presidential Order 1975.",
-      "explanation_te": "జయభారత్ రెడ్డి కమిటీ సిఫార్సుల మేరకు 1985 లో జారీ చేసిన G.O. 610 స్థానిక ఉద్యోగాల రక్షణను నిర్దేశించింది."
+      "correct_option": 1,
+      "explanation_en": "Vande Mataram was written in 1875 and included in Bankim Chandra's Bengali novel Anandamath published in 1882.",
+      "explanation_te": "బంకించంద్ర ఛటర్జీ 1882 లో ప్రచురించిన 'ఆనందమఠం' నవలలో వందేమాతరం గేయం అంతర్భాగంగా ఉంది."
     },
     {
       "id": 185,
       "qNumber": 185,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "On which date did K. Chandrashekar Rao launch the Telangana Rashtra Samithi (TRS) at Jala Drushyam in Hyderabad?",
-      "question_te": "హైదరాబాద్ లోని జలదృశ్యంలో కె. చంద్రశేఖర రావు ఏ రోజున తెలంగాణ రాష్ట్ర సమితి (TRS) పార్టీని స్థాపించారు?",
+      "topic": "Indian History - Revolutionary Movement",
+      "question_en": "Who founded the revolutionary association 'Abhinav Bharat Society' in 1904?",
+      "question_te": "1904 లో 'అభినవ్ భారత్ సొసైటీ' అనే రహస్య విప్లవ సంస్థను స్థాపించినది ఎవరు?",
       "options_en": [
-        "27 April 2001",
-        "2 June 2001",
-        "29 November 2001",
-        "9 December 2001"
+        "Vinayak Damodar Savarkar (V.D. Savarkar)",
+        "Bhagat Singh",
+        "Barindra Kumar Ghosh",
+        "Rash Behari Bose"
       ],
       "options_te": [
-        "27 ఏప్రిల్ 2001",
-        "2 జూన్ 2001",
-        "29 నవంబర్ 2001",
-        "9 డిసెంబర్ 2001"
+        "వినాయక్ దామోదర్ సావర్కర్ (V.D. Savarkar)",
+        "భగత్ సింగ్",
+        "బరీంద్ర కుమార్ ఘోష్",
+        "రాష్ బిహారీ బోస్"
       ],
       "correct_option": 0,
-      "explanation_en": "KCR resigned as Deputy Speaker of the AP Legislative Assembly and founded TRS on 27 April 2001.",
-      "explanation_te": "డిప్యూటీ స్పీకర్ పదవికి రాజీనామా చేసి 2001 ఏప్రిల్ 27న కేసీఆర్ టీఆర్ఎస్ పార్టీని స్థాపించారు."
+      "explanation_en": "V.D. Savarkar and his brother Ganesh Savarkar founded the Abhinav Bharat Society in Nashik in 1904.",
+      "explanation_te": "వీడీ సావర్కర్ 1904 లో నాసిక్‌లో అభినవ్ భారత్ విప్లవ సంస్థను స్థాపించారు."
     },
     {
       "id": 186,
       "qNumber": 186,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "On which date did Union Home Minister P. Chidambaram make the midnight declaration announcing the initiation of the process for Telangana statehood?",
-      "question_te": "కేంద్ర హోంశాఖ మంత్రి పి. చిదంబరం ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటు ప్రక్రియను ప్రారంభిస్తున్నట్లు ఏ రోజున అర్ధరాత్రి చారిత్రక ప్రకటన చేశారు?",
+      "topic": "Indian History - British Administration",
+      "question_en": "Which British Governor-General introduced the controversial 'Doctrine of Lapse' in India?",
+      "question_te": "భారతదేశంలో వివాదాస్పద 'రాజ్య సంక్రమణ సిద్ధాంతాన్ని' (Doctrine of Lapse) అమలు చేసిన బ్రిటిష్ గవర్నర్ జనరల్ ఎవరు?",
       "options_en": [
-        "9 December 2009",
-        "29 November 2009",
-        "23 December 2009",
-        "30 December 2009"
+        "Lord Wellesley",
+        "Lord Dalhousie",
+        "Lord Cornwallis",
+        "Lord Hastings"
       ],
       "options_te": [
-        "9 డిసెంబర్ 2009 (9 Dec 2009)",
-        "29 నవంబర్ 2009",
-        "23 డిసెంబర్ 2009",
-        "30 డిసెంబర్ 2009"
+        "లార్డ్ వెల్లెస్లీ",
+        "లార్డ్ డల్హౌసీ (Lord Dalhousie)",
+        "లార్డ్ కారన్‌వాలీస్",
+        "లార్డ్ హేస్టింగ్స్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Following KCR's 11-day fast unto death, P. Chidambaram announced the decision to form Telangana on the night of 9 December 2009.",
-      "explanation_te": "కేసీఆర్ ఆమరణ దీక్ష ఫలితంగా కేంద్ర ప్రభుత్వం 2009 డిసెంబర్ 9న ప్రత్యేక తెలంగాణ రాష్ట్ర ప్రక్రియ ప్రకటన చేసింది."
+      "correct_option": 1,
+      "explanation_en": "Lord Dalhousie annexed Satara (1848), Sambalpur, Jhansi, and Nagpur under the Doctrine of Lapse.",
+      "explanation_te": "లార్డ్ డల్హౌసీ రాజ్య సంక్రమణ సిద్ధాంతం ద్వారా ఝాన్సీ, సతారా, నాగ్‌పూర్ మొదలైన స్వదేశీ సంస్థానాలను ఆక్రమించాడు."
     },
     {
       "id": 187,
       "qNumber": 187,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who was the Chairman of the 5-member Committee on Telangana appointed by the Government of India in February 2010 to study the situation in Andhra Pradesh?",
-      "question_te": "ఆంధ్రప్రదేశ్ లోని పరిస్థితులను అధ్యయనం చేసి నివేదిక సమర్పించడానికి 2010 ఫిబ్రవరిలో కేంద్ర ప్రభుత్వం నియమించిన 5 మంది సభ్యుల కమిటీ చైర్మన్ ఎవరు?",
+      "topic": "Indian History - Round Table Conferences",
+      "question_en": "Mahatma Gandhi attended which of the three Round Table Conferences held in London as the sole representative of the Indian National Congress?",
+      "question_te": "లండన్‌లో జరిగిన మూడు రౌండ్ టేబుల్ సమావేశాలలో మహాత్మా గాంధీ కాంగ్రెస్ ఏకైక ప్రతినిధిగా ఏ సమావేశానికి హాజరయ్యారు?",
       "options_en": [
-        "Justice B.N. Srikrishna",
-        "Justice J.S. Verma",
-        "Justice Kuldip Singh",
-        "Justice P.C. Ghose"
+        "First Round Table Conference (1930)",
+        "Second Round Table Conference (1931)",
+        "Third Round Table Conference (1932)",
+        "All three conferences"
       ],
       "options_te": [
-        "జస్టిస్ బి.ఎన్. శ్రీకృష్ణ (Justice B.N. Srikrishna)",
-        "జస్టిస్ జె.ఎస్. వర్మ",
-        "జస్టిస్ కులదీప్ సింగ్",
-        "జస్టిస్ పి.సి. ఘోష్"
+        "మొదటి రౌండ్ టేబుల్ సమావేశం (1930)",
+        "రెండవ రౌండ్ టేబుల్ సమావేశం (1931)",
+        "మూడవ రౌండ్ టేబుల్ సమావేశం (1932)",
+        "మూడు సమావేశాలకూ"
       ],
-      "correct_option": 0,
-      "explanation_en": "Justice B.N. Srikrishna headed the committee that submitted its report with six options on 30 December 2010.",
-      "explanation_te": "జస్టిస్ బి.ఎన్. శ్రీకృష్ణ నేతృత్వంలోని కమిటీ తెలంగాణ సమస్యపై ఆరు ప్రత్యామ్నాయాలతో నివేదిక ఇచ్చింది."
+      "correct_option": 1,
+      "explanation_en": "Under the Gandhi-Irwin Pact (1931), Gandhiji suspended Civil Disobedience and attended the Second Round Table Conference in London.",
+      "explanation_te": "గాంధీ-ఇర్విన్ ఒడంబడిక ప్రకారం 1931 లో లండన్‌లో జరిగిన రెండవ రౌండ్ టేబుల్ సమావేశానికి గాంధీజీ హాజరయ్యారు."
     },
     {
       "id": 188,
       "qNumber": 188,
       "section": "General Studies",
-      "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "The historic 'Million March' demanding separate Telangana state was organized by Telangana Joint Action Committee (TJAC) on Tank Bund, Hyderabad on:",
-      "question_te": "ప్రత్యేక తెలంగాణ రాష్ట్ర డిమాండ్‌తో హైదరాబాద్ ట్యాంక్ బండ్ పై తెలంగాణ ఐక్య కార్యాచరణ సమితి (TJAC) చారిత్రక 'మిలియన్ మార్చ్' ఎప్పుడు నిర్వహించింది?",
+      "topic": "Indian History - INA",
+      "question_en": "Netaji Subhas Chandra Bose established the Provisional Government of Free India ('Azad Hind') in October 1943 in:",
+      "question_te": "అక్టోబర్ 1943 లో నేతాజీ సుభాష్ చంద్రబోస్ 'ఆజాద్ హింద్' స్వతంత్ర ప్రభుత్వాన్ని ఎక్కడ ఏర్పాటు చేశారు?",
       "options_en": [
-        "10 March 2011",
-        "9 December 2010",
-        "12 September 2011",
-        "30 September 2012"
+        "Tokyo (Japan)",
+        "Singapore",
+        "Rangoon (Burma)",
+        "Berlin (Germany)"
       ],
       "options_te": [
-        "10 మార్చి 2011 (10 March 2011)",
-        "9 డిసెంబర్ 2010",
-        "12 సెప్టెంబర్ 2011",
-        "30 సెప్టెంబర్ 2012"
+        "టోక్యో",
+        "సింగపూర్ (Singapore)",
+        "రంగూన్",
+        "బెర్లిన్"
       ],
-      "correct_option": 0,
-      "explanation_en": "The Million March was held on 10 March 2011 under the leadership of TJAC Chairman Prof. M. Kodandaram.",
-      "explanation_te": "ప్రొఫెసర్ కోదండరాం నేతృత్వంలో TJAC ఆధ్వర్యంలో 2011 మార్చి 10న ట్యాంక్ బండ్ పై మిలియన్ మార్చ్ నిర్వహించబడింది."
+      "correct_option": 1,
+      "explanation_en": "Netaji Subhas Chandra Bose proclaimed the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) in Singapore on 21 October 1943.",
+      "explanation_te": "21 అక్టోబర్ 1943న సింగపూర్‌లో నేతాజీ ఆజాద్ హింద్ తాత్కాలిక ప్రభుత్వాన్ని ప్రకటించారు."
     },
     {
       "id": 189,
       "qNumber": 189,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "For how many continuous days was the historic strike 'Sakala Janula Samme' observed across Telangana in September-October 2011?",
-      "question_te": "2011 సెప్టెంబర్-అక్టోబర్ నెలల్లో తెలంగాణవ్యాప్తంగా నిర్వహించిన చారిత్రక 'సకల జనుల సమ్మె' ఎన్ని రోజుల పాటు నిర్విరామంగా కొనసాగింది?",
+      "question_en": "Who was the founder of the powerful Satavahana Dynasty which ruled the Deccan region from Kotilingala in Telangana?",
+      "question_te": "తెలంగాణలోని కోటిలింగాల కేంద్రంగా దక్కన్ ప్రాంతాన్ని పరిపాలించిన శాతవాహన వంశ స్థాపకుడు ఎవరు?",
       "options_en": [
-        "42 days",
-        "36 days",
-        "50 days",
-        "28 days"
+        "Simukha (Srimukha)",
+        "Gautamiputra Satakarni",
+        "Pulomavi",
+        "Hala"
       ],
       "options_te": [
-        "42 రోజులు (42 Days)",
-        "36 రోజులు",
-        "50 రోజులు",
-        "28 రోజులు"
+        "శ్రీముఖుడు / సిముఖుడు (Simukha)",
+        "గౌతమీపుత్ర శాతకర్ణి",
+        "పులోమావి",
+        "హాలుడు"
       ],
       "correct_option": 0,
-      "explanation_en": "The Sakala Janula Samme lasted for 42 days, paralyzing administration, schools, RTC, and Singareni collieries.",
-      "explanation_te": "సకల జనుల సమ్మె 42 రోజుల పాటు కొనసాగి ప్రభుత్వ యంత్రాంగాన్ని స్తంభింపజేసింది."
+      "explanation_en": "Simukha (also called Srimukha or Chhimuka) was the founder of the Satavahana dynasty with early coins discovered at Kotilingala in Karimnagar (Jagtial).",
+      "explanation_te": "శాతవాహన సామ్రాజ్య స్థాపకుడు శ్రీముఖుడు; ఆయన తొలి నాణేలు కరీంనగర్/జగిత్యాల లోని కోటిలింగాలలో లభ్యమయ్యాయి."
     },
     {
       "id": 190,
       "qNumber": 190,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which Act was passed by the Parliament of India in February 2014 creating the separate states of Telangana and Andhra Pradesh?",
-      "question_te": "తెలంగాణ మరియు ఆంధ్రప్రదేశ్ రాష్ట్రాలను ఏర్పాటు చేస్తూ 2014 ఫిబ్రవరిలో భారత పార్లమెంట్ ఆమోదించిన చట్టం ఏది?",
+      "question_en": "Which Satavahana ruler authored the famous Prakrit poetic anthology 'Gatha Saptasati'?",
+      "question_te": "ప్రాకృత భాషలో సుప్రసిద్ధ శృంగార కవితా సంకలనం 'గాథా సప్తశతి' ని రచించిన శాతవాహన చక్రవర్తి ఎవరు?",
       "options_en": [
-        "Andhra Pradesh Reorganisation Act, 2014",
-        "States Reorganisation Act, 2014",
-        "Telangana Statehood Act, 2014",
-        "Telangana Formation Act, 2014"
+        "Hala",
+        "Gautamiputra Satakarni",
+        "Yajna Sri Satakarni",
+        "Satakarni I"
       ],
       "options_te": [
-        "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం, 2014",
-        "రాష్ట్రాల పునర్వ్యవస్థీకరణ చట్టం",
-        "తెలంగాణ రాష్ట్ర చట్టం",
-        "తెలంగాణ ఏర్పాటు చట్టం"
+        "హాలుడు (Hala)",
+        "గౌతమీపుత్ర శాతకర్ణి",
+        "యజ్ఞశ్రీ శాతకర్ణి",
+        "మొదటి శాతకర్ణి"
       ],
       "correct_option": 0,
-      "explanation_en": "The Andhra Pradesh Reorganisation Act, 2014 (Act No. 6 of 2014) bifurcated the state with the appointed day of 2 June 2014.",
-      "explanation_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం 2014 ద్వారా ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటు జరిగింది."
+      "explanation_en": "The 17th Satavahana monarch, King Hala, compiled 700 erotic and folk verses in Maharashtri Prakrit titled Gatha Saptasati.",
+      "explanation_te": "17వ శాతవాహన రాజు హాలుడు 700 ప్రాకృత పద్యాలతో కూడిన 'గాథా సప్తశతి' గ్రంథాన్ని సంకలనం చేశాడు."
     },
     {
       "id": 191,
       "qNumber": 191,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "What is the official state animal of Telangana?",
-      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక జంతువు ఏది?",
+      "question_en": "The famous Thousand Pillar Temple (Rudreshwara Temple) at Hanamkonda was commissioned in 1163 AD by which Kakatiya monarch?",
+      "question_te": "క్రీ.శ. 1163 లో హనుమకొండ లోని ప్రసిద్ధ వేయి స్తంభాల గుడి (రుద్రేశ్వరాలయం) ఏ కాకతీయ పాలకుని చేత నిర్మించబడింది?",
       "options_en": [
-        "Jinka (Spotted Deer - Axis axis)",
-        "Tiger",
-        "Blackbuck",
-        "Wild Buffalo"
+        "Prataparudra I (Rudradeva)",
+        "Ganapati Deva",
+        "Prola II",
+        "Beta II"
       ],
       "options_te": [
-        "జింక (Jinka - Spotted Deer)",
-        "పులి",
-        "కృష్ణజింక",
-        "అడవి దున్న"
+        "మొదటి ప్రతాపరుద్రుడు (రుద్రదేవుడు)",
+        "గణపతి దేవుడు",
+        "రెండవ ప్రోలరాజు",
+        "రెండవ బేతరాజు"
       ],
       "correct_option": 0,
-      "explanation_en": "Jinka (Spotted Deer) was adopted as the State Animal of Telangana, symbolizing innocence and grace.",
-      "explanation_te": "తెలంగాణ రాష్ట్ర జంతువు జింక (స్పాటెడ్ డీర్)."
+      "explanation_en": "Rudradeva (Prataparudra I) constructed the iconic Trikuta Thousand Pillar Temple dedicated to Shiva, Vishnu, and Surya in 1163 AD.",
+      "explanation_te": "క్రీ.శ. 1163 లో కాకతీయ చక్రవర్తి రుద్రదేవుడు (మొదటి ప్రతాపరుద్రుడు) హనుమకొండలో త్రికూటాలయంగా వేయి స్తంభాల గుడిని నిర్మించాడు."
     },
     {
       "id": 192,
       "qNumber": 192,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "What is the official state bird of Telangana?",
-      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక పక్షి ఏది?",
+      "question_en": "Which famous Persian general of Alauddin Khalji invaded Warangal in 1309-1310 AD and forced Prataparudra II to surrender the Koh-i-Noor diamond?",
+      "question_te": "క్రీ.శ. 1309-1310 లో ఓరుగల్లుపై దాడి చేసి రెండవ ప్రతాపరుద్రుడిని సంధికి ఒప్పించి, కోహినూర్ వజ్రాన్ని ఢిల్లీకి తరలించిన అల్లావుద్దీన్ ఖిల్జీ సేనాని ఎవరు?",
       "options_en": [
-        "Palapitta (Indian Roller - Coracias benghalensis)",
-        "Great Indian Bustard",
-        "Peacock",
-        "Parrot"
+        "Malik Kafur",
+        "Ulugh Khan",
+        "Zafar Khan",
+        "Ghiyasuddin Tughlaq"
       ],
       "options_te": [
-        "పాలపిట్ట (Palapitta - Indian Roller)",
-        "బట్టమేక పక్షి",
-        "నెమలి",
-        "రామచిలుక"
+        "మాలిక్ కాఫూర్ (Malik Kafur)",
+        "ఉలుఘ్ ఖాన్",
+        "జాఫర్ ఖాన్",
+        "గియాసుద్దీన్ తుగ్లక్"
       ],
       "correct_option": 0,
-      "explanation_en": "Palapitta (Indian Roller) is the official State Bird, considered auspicious especially during Vijayadashami (Dussehra).",
-      "explanation_te": "దసరా నాడు దర్శించుకునే శుభప్రదమైన పాలపిట్ట తెలంగాణ రాష్ట్ర పక్షి."
+      "explanation_en": "Malik Kafur laid siege to Warangal fort in 1309-1310. Prataparudra II negotiated peace and surrendered vast treasures including the Koh-i-Noor diamond.",
+      "explanation_te": "అల్లావుద్దీన్ ఖిల్జీ సేనాని మాలిక్ కాఫూర్ 1309-10 లో కాకతీయ రాజ్యంపై దాడి చేసి ప్రతాపరుద్రుడి నుండి కోహినూర్ వజ్రం సహా అపార సంపదను పొందాడు."
     },
     {
       "id": 193,
       "qNumber": 193,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "What is the official state tree of Telangana?",
-      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక వృక్షం ఏది?",
+      "question_en": "Who laid the foundation of Hyderabad city on the banks of river Musi in 1591 AD?",
+      "question_te": "క్రీ.శ. 1591 లో మూసీ నది ఒడ్డున భాగ్యనగరం/హైదరాబాద్ నగరానికి పునాది వేసిన కుతుబ్‌షాహీ సుల్తాన్ ఎవరు?",
       "options_en": [
-        "Jammi Chettu (Prosopis cineraria)",
-        "Neem Tree",
-        "Banyan Tree",
-        "Peepal Tree"
+        "Muhammad Quli Qutb Shah",
+        "Sultan Quli Qutb-ul-Mulk",
+        "Ibrahim Qutb Shah",
+        "Abdullah Qutb Shah"
       ],
       "options_te": [
-        "జమ్మి చెట్టు (Jammi Chettu)",
-        "వేప చెట్టు",
-        "మర్రి చెట్టు",
-        "రావి చెట్టు"
+        "మహమ్మద్ కులీ కుతుబ్ షా",
+        "సుల్తాన్ కులీ కుతుబ్-ఉల్-ముల్క్",
+        "ఇబ్రహీం కుతుబ్ షా",
+        "అబ్దుల్లా కుతుబ్ షా"
       ],
       "correct_option": 0,
-      "explanation_en": "Jammi Chettu (Prosopis cineraria) is the state tree, worshipped traditionally during Dussehra festival.",
-      "explanation_te": "విజయదశమి పండుగతో ముడిపడి ఉన్న జమ్మి చెట్టు తెలంగాణ రాష్ట్ర వృక్షం."
+      "explanation_en": "Muhammad Quli Qutb Shah, the 5th Sultan of the Qutb Shahi dynasty, founded Hyderabad in 1591 and built the Charminar.",
+      "explanation_te": "5వ కుతుబ్‌షాహీ పాలకుడైన మహమ్మద్ కులీ కుతుబ్ షా 1591 లో హైదరాబాద్ నగరాన్ని స్థాపించి చార్మినార్‌ను నిర్మించాడు."
     },
     {
       "id": 194,
       "qNumber": 194,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "What is the official state flower of Telangana?",
-      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక పుష్పం ఏది?",
+      "question_en": "Mir Qamar-ud-din Khan established the independent Asaf Jahi Dynasty of Hyderabad in 1724 AD under which royal title?",
+      "question_te": "క్రీ.శ. 1724 లో మీర్ ఖమరుద్దీన్ ఖాన్ ఏ రాజరిక బిరుదుతో హైదరాబాద్ స్వతంత్ర అసఫ్‌జాహీ రాజవంశాన్ని స్థాపించాడు?",
       "options_en": [
-        "Tangedu Puvvu (Senna auriculata)",
-        "Lotus",
-        "Gunugu Puvvu",
-        "Jasmine"
+        "Nizam-ul-Mulk",
+        "Nizam Ali Khan",
+        "Mir Osman Ali Khan",
+        "Nasir Jung"
       ],
       "options_te": [
-        "తంగేడు పువ్వు (Tangedu Puvvu)",
-        "తామర పువ్వు",
-        "గునుగు పువ్వు",
-        "మల్లెపువ్వు"
+        "నిజాం-ఉల్-ముల్క్ (Nizam-ul-Mulk)",
+        "నిజాం అలీ ఖాన్",
+        "మీర్ ఉస్మాన్ అలీ ఖాన్",
+        "నాసిర్ జంగ్"
       ],
       "correct_option": 0,
-      "explanation_en": "Tangedu Puvvu (Senna auriculata) is celebrated as the state flower, prominently featured in the floral festival of Bathukamma.",
-      "explanation_te": "బతుకమ్మ పండుగలో ప్రముఖంగా ఉపయోగించే పసుపు వర్ణ తంగేడు పువ్వు రాష్ట్ర పుష్పం."
+      "explanation_en": "Mir Qamar-ud-din Khan defeated Mubariz Khan at the Battle of Shakar Kheda in 1724 and ruled as Nizam-ul-Mulk Asaf Jah I.",
+      "explanation_te": "1724 లో శఖర్‌ఖేడా యుద్ధంలో విజయం సాధించిన మీర్ ఖమరుద్దీన్ ఖాన్ 'నిజాం-ఉల్-ముల్క్ అసఫ్ జా I' బిరుదుతో పాలన ప్రారంభించాడు."
     },
     {
       "id": 195,
       "qNumber": 195,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which unique festival of Telangana is celebrated across 9 days culminating on Saddula Bathukamma, honoring floral biodiversity and Mother Goddess Gauri?",
-      "question_te": "తెలంగాణలో ప్రకృతిని, పూలను మరియు గౌరీ దేవిని ఆరాధిస్తూ 9 రోజుల పాటు ఘనంగా జరుపుకునే సద్దుల బతుకమ్మతో ముగిసే ప్రత్యేక పండుగ ఏది?",
+      "question_en": "Which famous Prime Minister of Hyderabad State introduced administrative divisions (Zillabandi) and modern civil governance reforms between 1853 and 1883?",
+      "question_te": "1853 నుండి 1883 మధ్య హైదరాబాద్ రాజ్యంలో జిల్లాబందీ (Zillabandi) విధానాన్ని ప్రవేశపెట్టి పరిపాలనా, ఆర్థిక సంస్కరణలను అమలు చేసిన ప్రధాని ఎవరు?",
       "options_en": [
-        "Bathukamma",
-        "Bonalu",
-        "Sammakka Sarakka Jathara",
-        "Peerla Panduga"
+        "Salar Jung I (Mir Turab Ali Khan)",
+        "Salar Jung II",
+        "Salar Jung III",
+        "Kishen Pershad"
       ],
       "options_te": [
-        "బతుకమ్మ (Bathukamma)",
-        "బోనాలు",
-        "సమ్మక్క సారక్క జాతర",
-        "పీర్ల పండుగ"
+        "మొదటి సాలార్ జంగ్ (మీర్ తురాబ్ అలీ ఖాన్)",
+        "రెండవ సాలార్ జంగ్",
+        "మూడవ సాలార్ జంగ్",
+        "కిషన్ ప్రసాద్"
       ],
       "correct_option": 0,
-      "explanation_en": "Bathukamma is Telangana's cultural festival celebrated by women arranging seasonal flowers into conical mounds.",
-      "explanation_te": "తెలంగాణ సంస్కృతికి ప్రతీకగా మహిళలు పూలతో కొలిచే ఉత్సవం బతుకమ్మ పండుగ."
+      "explanation_en": "Mir Turab Ali Khan (Salar Jung I) carried out historic land revenue, judicial, transport, and police reforms during the reigns of Afzal-ud-Daula and Mahbub Ali Khan.",
+      "explanation_te": "మొదటి సాలార్ జంగ్ (మీర్ తురాబ్ అలీ ఖాన్) హైదరాబాద్ రాజ్యంలో ఆధునిక పరిపాలన, రెవెన్యూ, విద్య మరియు రైల్వే సంస్కరణలకు ఆద్యుడు."
     },
     {
       "id": 196,
       "qNumber": 196,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Asia's largest biennial tribal congregation, held in Mulugu district to venerate tribal mother-daughter deities fighting against Kakatiya tax oppression, is:",
-      "question_te": "కాకతీయుల పన్ను వసూళ్లకు వ్యతిరేకంగా పోరాడిన తల్లీకూతుళ్ల స్మారకంగా ములుగు జిల్లాలో జరిగే ఆసియాలోనే అతిపెద్ద గిరిజన జాతర ఏది?",
+      "question_en": "On 4th July 1946, whose martyrdom at Kadavendi village in Jangaon sparked the historic Telangana Peasant Armed Struggle (Telangana Sayudha Poratam)?",
+      "question_te": "1946 జూలై 4న జనగామ తాలూకా కడవెండి గ్రామంలో ఎవరి అమరత్వం చారిత్రక తెలంగాణ రైతాంగ సాయుధ పోరాటానికి నాంది పలికింది?",
       "options_en": [
-        "Sammakka Sarakka (Medaram) Jathara",
-        "Nagoba Jathara",
-        "Komuravelli Mallanna Jathara",
-        "Edupayala Jathara"
+        "Doddi Komaraiah",
+        "Chakali Ilamma",
+        "Bandi Yadagiri",
+        "Shoebullah Khan"
       ],
       "options_te": [
-        "సమ్మక్క సారక్క (మేడారం) జాతర",
-        "నాగోబా జాతర",
-        "కొమురవెల్లి మల్లన్న జాతర",
-        "ఏడుపాయల జాతర"
+        "దొడ్డి కొమరయ్య (Doddi Komaraiah)",
+        "చాకలి ఐలమ్మ",
+        "బండి యాదగిరి",
+        "షోయబుల్లా ఖాన్"
       ],
       "correct_option": 0,
-      "explanation_en": "Sammakka Sarakka Medaram Jathara is the largest tribal festival in Asia, celebrated every two years at Medaram in Mulugu.",
-      "explanation_te": "ములుగు జిల్లా మేడారంలో రెండేళ్లకోసారి జరిగే సమ్మక్క సారలమ్మ జాతర ఆసియాలోనే అతిపెద్ద గిరిజన ఉత్సవం."
+      "explanation_en": "Doddi Komaraiah was shot dead by Visnoor Deshmukh's goons while leading a protest of Andhra Mahasabha, triggering the armed struggle.",
+      "explanation_te": "విస్నూరు దేశ్‌ముఖ్ గూండాల తూటాలకు దొడ్డి కొమరయ్య కడవెండిలో బలికావడం తెలంగాణ రైతాంగ సాయుధ పోరాటానికి నాంది అయింది."
     },
     {
       "id": 197,
       "qNumber": 197,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Which district in Telangana is internationally celebrated for its tie-and-dye 'Ikat' handloom weave, recognized with a Geographical Indication (GI) tag?",
-      "question_te": "భౌగోళిక గుర్తింపు (GI Tag) పొందిన 'ఇకత్' చేనేత వస్త్రాలకు ప్రపంచ ప్రసిద్ధి చెందిన తెలంగాణ జిల్లా/ప్రాంతం ఏది?",
+      "question_en": "Which courageous woman heroically resisted the eviction attempts of Visnoor Deshmukh Ramachandra Reddy to defend her four acres of agricultural land at Palakurthi?",
+      "question_te": "పాలకుర్తిలో తన నాలుగు ఎకరాల భూమిని కాపాడుకోవడానికి విస్నూరు దేశ్‌ముఖ్ రామచంద్రారెడ్డి దౌర్జన్యాలకు వ్యతిరేకంగా వీరోచితంగా పోరాడిన ధీర వనిత ఎవరు?",
       "options_en": [
-        "Pochampally (Yadadri Bhuvanagiri)",
-        "Gadwal (Jogulamba)",
-        "Narayanpet",
-        "Sircilla"
+        "Chakali Ilamma",
+        "Mallu Swarajyam",
+        "Arundhati Roy",
+        "Rani Shankaramma"
       ],
       "options_te": [
-        "భూదాన్ పోచంపల్లి (యాదాద్రి భువనగిరి)",
-        "గద్వాల (జోగులాంబ)",
-        "నారాయణపేట",
-        "సిరిసిల్ల"
+        "చాకలి ఐలమ్మ (Chakali Ilamma)",
+        "మల్లు స్వరాజ్యం",
+        "అరుంధతి రాయ్",
+        "రాణి శంకరమ్మ"
       ],
       "correct_option": 0,
-      "explanation_en": "Pochampally in Yadadri Bhuvanagiri district is renowned as the 'Silk City of India' for its geometric Ikat tie-and-dye sarees.",
-      "explanation_te": "భూదాన్ పోచంపల్లి ఇకత్ డిజైన్ల చేనేత పట్టు చీరలకు ప్రపంచవ్యాప్తంగా గుర్తింపు పొందింది."
+      "explanation_en": "Chakali (Chityala) Ilamma stood steadfast with Andhra Mahasabha against the oppressive feudal landlord of Visnoor.",
+      "explanation_te": "చాకలి (చిట్యాల) ఐలమ్మ దొరల గడీల అరాచకాలపై ఎర్రజెండా అండతో భూపోరాటం చేసి ఉద్యమ స్ఫూర్తిగా నిలిచింది."
     },
     {
       "id": 198,
       "qNumber": 198,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who among the following was the legendary Telangana poet and revolutionary who penned the famous revolutionary anthem 'Jaya Jayahe Telangana Janani Jayakethanam'?",
-      "question_te": "'జయ జయహే తెలంగాణ జననీ జయకేతనం' అనే అమర గీతాన్ని రచించిన ప్రజాకవి ఎవరు?",
+      "question_en": "What was the codename of the military action launched by the Indian Army on 13 September 1948 that integrated Hyderabad State into the Indian Union?",
+      "question_te": "1948 సెప్టెంబర్ 13న భారత సైన్యం హైదరాబాద్ సంస్థానాన్ని భారత యూనియన్‌లో విలీనం చేయడానికి చేపట్టిన సైనిక చర్య యొక్క కోడ్‌నేమ్ ఏమిటి?",
       "options_en": [
-        "Ande Sri",
-        "Kaloji Narayana Rao",
-        "Dasarathi Krishnamacharyulu",
-        "Goreti Venkanna"
+        "Operation Polo",
+        "Operation Vijay",
+        "Operation Blue Star",
+        "Operation Meghdoot"
       ],
       "options_te": [
-        "అందెశ్రీ (Ande Sri)",
-        "కాళోజీ నారాయణరావు",
-        "దాశరథి కృష్ణమాచార్యులు",
-        "గోరేటి వెంకన్న"
+        "ఆపరేషన్ పోలో (Operation Polo)",
+        "ఆపరేషన్ విజయ్",
+        "ఆపరేషన్ బ్లూ స్టార్",
+        "ఆపరేషన్ మేఘదూత్"
       ],
       "correct_option": 0,
-      "explanation_en": "Praja Kavi Ande Sri wrote the celebrated anthem 'Jaya Jayahe Telangana Janani Jayakethanam', adopted as the official State Anthem of Telangana.",
-      "explanation_te": "ప్రజాకవి అందెశ్రీ రచించిన 'జయ జయహే తెలంగాణ' గీతం తెలంగాణ అధికారిక రాష్ట్ర గీతంగా ఆమోదించబడింది."
+      "explanation_en": "Operation Polo (also called Police Action) was commanded by Major General J.N. Chaudhuri, culminating in the Nizam's unconditional surrender on 17 September 1948.",
+      "explanation_te": "1948 సెప్టెంబర్ 13న ప్రారంభమైన 'ఆపరేషన్ పోలో' ద్వారా సెప్టెంబర్ 17న హైదరాబాద్ సంస్థానం భారతదేశంలో విలీనమైంది."
     },
     {
       "id": 199,
       "qNumber": 199,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Who coined the stirring poetic slogan 'నా తెలంగాణ కోటి రతనాల వీణ' (My Telangana is a Veena of Crore Jewels)?",
-      "question_te": "'నా తెలంగాణ కోటి రతనాల వీణ' అని గర్వంగా చాటిచెప్పిన విప్లవ కవి ఎవరు?",
+      "question_en": "Who headed the military administration of Hyderabad State immediately following the surrender of the 7th Nizam in September 1948?",
+      "question_te": "1948 సెప్టెంబర్‌లో నిజాం లొంగుబాటు తర్వాత హైదరాబాద్ రాష్ట్ర సైనిక గవర్నర్‌గా బాధ్యతలు చేపట్టిన సైనికాధికారి ఎవరు?",
       "options_en": [
-        "Dasarathi Krishnamacharyulu",
-        "Kaloji Narayana Rao",
-        "C. Narayana Reddy",
-        "Vattikota Alwar Swamy"
+        "Major General J.N. Chaudhuri",
+        "M.K. Vellodi",
+        "K.M. Munshi",
+        "General K.S. Thimayya"
       ],
       "options_te": [
-        "దాశరథి కృష్ణమాచార్యులు",
-        "కాళోజీ నారాయణరావు",
-        "సి. నారాయణరెడ్డి",
-        "వట్టికోట ఆళ్వారుస్వామి"
+        "మేజర్ జనరల్ జె.ఎన్. చౌధురి",
+        "ఎం.కె. వెల్లోడి",
+        "కె.ఎం. మున్షీ",
+        "జనరల్ కె.ఎస్. తిమ్మయ్య"
       ],
       "correct_option": 0,
-      "explanation_en": "Mahakavi Dasarathi Krishnamacharyulu authored this immortal line in 'Agnidhara' against the Nizam's autocratic rule.",
-      "explanation_te": "నిజాం నిరంకుశ పాలనకు వ్యతిరేకంగా 'నా తెలంగాణ కోటి రతనాల వీణ' అని దాశరథి కృష్ణమాచార్యులు ఉద్ఘాటించారు."
+      "explanation_en": "Major General J.N. Chaudhuri served as the Military Governor of Hyderabad from September 1948 to December 1949.",
+      "explanation_te": "హైదరాబాద్ సైనిక గవర్నర్‌గా మేజర్ జనరల్ జె.ఎన్. చౌధురి బాధ్యతలు నిర్వర్తించారు; కె.ఎం. మున్షీ భారత ఏజెంట్ జనరల్‌గా ఉన్నారు."
     },
     {
       "id": 200,
       "qNumber": 200,
       "section": "General Studies",
       "topic": "Telangana History, Heritage & Statehood Movement",
-      "question_en": "Whose birthday on 9th September is officially celebrated by the Government of Telangana as 'Telangana Language Day' (Telangana Bhashా Dinotsavam)?",
-      "question_te": "సెప్టెంబర్ 9న ఎవరి జన్మదినాన్ని తెలంగాణ ప్రభుత్వం అధికారికంగా 'తెలంగాణ భాషా దినోత్సవం'గా నిర్వహిస్తుంది?",
+      "question_en": "The 1952 'Non-Mulki Agitation' (Idli Sambar Go Back movement) began principally in which historic educational institution of Hyderabad on 3 September 1952?",
+      "question_te": "1952 లో 'నాన్-ముల్కీ గో బ్యాక్' (ఇడ్లీ సాంబార్ గో బ్యాక్) ఉద్యమం 1952 సెప్టెంబర్ 3న ప్రధానంగా హైదరాబాద్‌లోని ఏ విద్యాసంస్థలో రాజుకుంది?",
       "options_en": [
-        "Kaloji Narayana Rao",
-        "Suravaram Pratapa Reddy",
-        "P.V. Narasimha Rao",
-        "Komaram Bheem"
+        "City College, Hyderabad",
+        "Nizam College",
+        "Osmania Arts College",
+        "Vivek Vardhini College"
       ],
       "options_te": [
-        "కాళోజీ నారాయణరావు (Kaloji Narayana Rao)",
-        "సురవరం ప్రతాపరెడ్డి",
-        "పి.వి. నరసింహారావు",
-        "కొమరం భీమ్"
+        "సిటీ కాలేజ్, హైదరాబాద్ (City College)",
+        "నిజాం కాలేజ్",
+        "ఉస్మానియా ఆర్ట్స్ కాలేజ్",
+        "వివేక్ వర్ధిని కాలేజ్"
       ],
       "correct_option": 0,
-      "explanation_en": "Praja Kavi Kaloji Narayana Rao's birth anniversary on September 9 is commemorated as Telangana Bhasha Dinotsavam.",
-      "explanation_te": "ప్రజాకవి కాళోజీ నారాయణరావు జయంతి సెప్టెంబర్ 9ని తెలంగాణ భాషా దినోత్సవంగా ప్రభుత్వం నిర్వహిస్తుంది."
+      "explanation_en": "Police firing on students at City College on 3-4 September 1952 killed four persons and intensified the 1952 Mulki movement.",
+      "explanation_te": "1952 సెప్టెంబర్ 3, 4 తేదీలలో సిటీ కాలేజీ వద్ద విద్యార్థులపై జరిగిన పోలీసు కాల్పుల ఘటన ముల్కీ ఉద్యమాన్ని తీవ్రతరం చేసింది."
     }
   ]
 }

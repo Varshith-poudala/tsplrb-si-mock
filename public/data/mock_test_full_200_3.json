@@ -2304,7 +2304,7 @@
     {
       "id": 101,
       "section": "General Studies",
-      "topic": "Current Affairs - Chess 2026",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Who became India’s 94th Chess Grandmaster in 2026, also becoming the first ever Grandmaster from Assam and Northeast India?",
       "question_te": "2026లో భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా మరియు అస్సాం అలాగే ఈశాన్య భారతదేశం నుండి మొట్టమొదటి గ్రాండ్‌మాస్టర్‌గా అవతరించినది ఎవరు?",
       "options_en": [
@@ -2327,7 +2327,7 @@
     {
       "id": 102,
       "section": "General Studies",
-      "topic": "Current Affairs - Domestic Cricket 2026",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Which state team won their maiden Syed Mushtaq Ali Trophy (SMAT 2025–26) T20 title in 2026?",
       "question_te": "2026లో తమ మొట్టమొదటి సయ్యద్ ముస్తాక్ అలీ ట్రోఫీ (SMAT 2025–26) T20 టైటిల్‌ను గెలుచుకున్న జట్టు ఏది?",
       "options_en": [
@@ -2350,7 +2350,7 @@
     {
       "id": 103,
       "section": "General Studies",
-      "topic": "Current Affairs - Global Reports 2026",
+      "topic": "General Science & Everyday Technology",
       "question_en": "What is India's rank in the 'World Happiness Report 2026' published by the UN Sustainable Development Solutions Network (SDSN)?",
       "question_te": "ఐక్యరాజ్యసమితి SDSN విడుదల చేసిన 'వరల్డ్ హ్యాపీనెస్ రిపోర్ట్ 2026' (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
@@ -2373,7 +2373,7 @@
     {
       "id": 104,
       "section": "General Studies",
-      "topic": "Current Affairs - Global Indices 2026",
+      "topic": "General Science & Everyday Technology",
       "question_en": "What is India’s rank in the 'World Press Freedom Index 2026' published by Reporters Without Borders (RSF)?",
       "question_te": "'రిపోర్టర్స్ వితౌట్ బోర్డర్స్ (RSF)' ప్రచురించిన 'ప్రపంచ పత్రికా స్వేచ్ఛా సూచిక 2026' (World Press Freedom Index 2026) లో భారత్ ర్యాంక్ ఎంత?",
       "options_en": [
@@ -2396,7 +2396,7 @@
     {
       "id": 105,
       "section": "General Studies",
-      "topic": "Current Affairs - Global Defence 2026",
+      "topic": "General Science & Everyday Technology",
       "question_en": "According to the SIPRI Report 2026, what was India's global rank in military/defence spending ($92.1 Billion)?",
       "question_te": "స్టాక్‌హోమ్ ఇంటర్నేషనల్ పీస్ రీసెర్చ్ ఇన్‌స్టిట్యూట్ (SIPRI) నివేదిక 2026 ప్రకారం, రక్షణ వ్యయంలో ($92.1 బిలియన్లు) భారతదేశం ప్రపంచంలో ఎన్నో స్థానంలో ఉంది?",
       "options_en": [
@@ -2420,7 +2420,7 @@
       "id": 106,
       "qNumber": 106,
       "section": "General Studies",
-      "topic": "General Science - Biology (Blood)",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Which human blood group is known as the 'Universal Donor' because its red blood cells lack both A and B antigens?",
       "question_te": "ఎర్ర రక్త కణాలపై A మరియు B యాంటిజెన్లు రెండూ లేకపోవడం వల్ల ఏ రక్త వర్గాన్ని 'విశ్వ దాత' (Universal Donor) అని పిలుస్తారు?",
       "options_en": [
@@ -2443,7 +2443,7 @@
       "id": 107,
       "qNumber": 107,
       "section": "General Studies",
-      "topic": "General Science - Biology (Endocrine System)",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Which hormone produced by the beta cells of the Islets of Langerhans in the pancreas regulates glucose levels in the blood?",
       "question_te": "క్లోమ గ్రంథి (Pancreas) లోని లాంగర్‌హాన్ కణాల బీటా కణాలు స్రవించే ఏ హార్మోన్ రక్తంలో గ్లూకోజ్ స్థాయిలను నియంత్రిస్తుంది?",
       "options_en": [
@@ -2466,7 +2466,7 @@
       "id": 108,
       "qNumber": 108,
       "section": "General Studies",
-      "topic": "General Science - Diseases & Pathogens",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Malaria is caused by which microscopic organism and transmitted through the bite of which vector?",
       "question_te": "మలేరియా వ్యాధి ఏ సూక్ష్మజీవి వల్ల వస్తుంది మరియు ఏ దోమ కాటు ద్వారా మానవులకు వ్యాపిస్తుంది?",
       "options_en": [
@@ -2489,7 +2489,7 @@
       "id": 109,
       "qNumber": 109,
       "section": "General Studies",
-      "topic": "General Science - Physics (Optics)",
+      "topic": "General Science & Everyday Technology",
       "question_en": "The phenomenon of dispersion of light into its constituent seven colours in a glass prism occurs because:",
       "question_te": "గాజు పట్టకం ద్వారా తెల్లని కాంతి ప్రయాణించినప్పుడు ఏడు రంగులుగా విడిపోవడానికి (కాంతి విక్షేపణం) గల కారణం ఏమిటి?",
       "options_en": [
@@ -2512,7 +2512,7 @@
       "id": 110,
       "qNumber": 110,
       "section": "General Studies",
-      "topic": "Environment & Ecology - Tiger Reserves",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Which is the largest Tiger Reserve in Telangana, spanning across the Nallamala forest hills?",
       "question_te": "నల్లమల అటవీ కొండలలో విస్తరించి ఉన్న తెలంగాణలోని అతిపెద్ద పులుల అభయారణ్యం (Tiger Reserve) ఏది?",
       "options_en": [
@@ -2535,7 +2535,7 @@
       "id": 111,
       "qNumber": 111,
       "section": "General Studies",
-      "topic": "Environment & Ecology - Greenhouse Gases",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Which of the following is the most potent greenhouse gas in terms of Global Warming Potential (GWP) over a 20-year timescale, though shorter-lived than CO2?",
       "question_te": "వాతావరణంలో తక్కువ కాలం ఉన్నప్పటికీ, కార్బన్ డయాక్సైడ్ (CO2) కంటే 20 ఏళ్ల కాలంలో అనేక రెట్లు అధిక గ్లోబల్ వార్మింగ్ సామర్థ్యం గల గ్రీన్‌హౌస్ వాయువు ఏది?",
       "options_en": [
@@ -2558,7 +2558,7 @@
       "id": 112,
       "qNumber": 112,
       "section": "General Studies",
-      "topic": "General Science - Chemistry (Metals)",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Which metal remains in liquid state at normal room temperature (25 degrees C)?",
       "question_te": "గది ఉష్ణోగ్రత (25 డిగ్రీల సెంటీగ్రేడ్) వద్ద ద్రవ రూపంలో ఉండే ఏకైక లోహం ఏది?",
       "options_en": [
@@ -2581,7 +2581,7 @@
       "id": 113,
       "qNumber": 113,
       "section": "General Studies",
-      "topic": "General Science - Physics (Units)",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Light year is a unit used to measure which physical quantity?",
       "question_te": "'కాంతి సంవత్సరం' (Light Year) అనేది దేనిని కొలవడానికి ఉపయోగించే ప్రామాణిక ప్రమాణం?",
       "options_en": [
@@ -2604,7 +2604,7 @@
       "id": 114,
       "qNumber": 114,
       "section": "General Studies",
-      "topic": "Environment & Ecology - Protected Areas",
+      "topic": "General Science & Everyday Technology",
       "question_en": "Pakhal Wildlife Sanctuary and Pakhal Lake, originally constructed by the Kakatiyas, are located in which district of Telangana?",
       "question_te": "కాకతీయుల కాలంలో నిర్మించబడిన పాఖాల సరస్సు మరియు పాఖాల వన్యప్రాణి సంరక్షణ కేంద్రం తెలంగాణలోని ఏ జిల్లాలో ఉన్నాయి?",
       "options_en": [
@@ -2995,7 +2995,7 @@
       "id": 131,
       "qNumber": 131,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Which of the following is the easternmost tributary of the Godavari river system ?",
       "question_te": "క్రింది వాటిలో గోదావరి నది వ్యవస్థ యొక్క అత్యంత తూర్పున ఉన్న ఉపనది ఏది ?",
       "options_en": [
@@ -3018,7 +3018,7 @@
       "id": 132,
       "qNumber": 132,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Read the following statements about the definition of Urban area as per Census of India : a.\nA minimum population of 5,000 b. Atleast 65 percent of working population engaged in\n\n non-agricultural pursuits. c. A density of population of at least 400 persons per sq. km.\nWhich of the above statement/s is/are correct ?",
       "question_te": "భారతదేశ జనాభా లెక్కల ప్రకారం, పట్టణ ప్రాంతాల యొక్క నిర్వచనానికి సంబంధించి క్రింది ప్రకటనలను\nచదవండి. a. కనీస జనాభా 5,000 b. కనీసం 65 శాతం శ్రా మిక జనాభా, వ్యవసాయేతర రంగంలో\nపనిచేయడం. c. కనీస జనసాంద్రత 400, ప్రతి చదరపు కి.మీ.కు పైన పేర్కొన్న ప్రకటనలో ఏది/ఏవి సరియైనది/\nసరియైనవి.",
       "options_en": [
@@ -3041,7 +3041,7 @@
       "id": 133,
       "qNumber": 133,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Which of the following Union Territory has the lowest sex-ratio (2011)?",
       "question_te": "క్రింది కేంద్ర పాలిత ప్రాంతాలలో అత్యల్ప స్త్రీ-పురుష నిష్పత్తి (2011 లో) గల ప్రాంతం",
       "options_en": [
@@ -3064,7 +3064,7 @@
       "id": 134,
       "qNumber": 134,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Which one of the following pairs related to hydro-electricity projects and rivers is not\ncorrect?",
       "question_te": "క్రింది పేర్కొన్న జల విద్యుత్కేంద్రా లు మరియు వాటి యొక్క నదుల గురించి సరికాని జత ఏది?",
       "options_en": [
@@ -3087,7 +3087,7 @@
       "id": 135,
       "qNumber": 135,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Find out the sequence of the major states which have the highest degree of urbanisation as\nper 2011 Census.\n2011",
       "question_te": "జనాభా లెక్కల ప్రకారం, అత్యధిక స్థా యిలో పట్టణీకరణ ఉన్న ప్రధాన రాష్ట్రాల వరుస క్రమాన్ని\n\nగుర్తించండి.\n\na. Keralaa. కేరళ\n\nb. Maharashtrab. మహారాష్ట్ర\n\n c. Tamil Naduc. తమిళనాడు d. Gujaratd. గుజరాత్",
       "options_en": [
@@ -3110,7 +3110,7 @@
       "id": 136,
       "qNumber": 136,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Where is the southernmost civilian Airport located in India?",
       "question_te": "భారతదేశంలో అత్యంత దక్షిణాన ఉన్న పౌర విమానాశ్రయం ఏది?",
       "options_en": [
@@ -3133,7 +3133,7 @@
       "id": 137,
       "qNumber": 137,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Match the following ports with the States in which they are located :",
       "question_te": "క్రింద ఇచ్చిన వానిలో ఓడరేవులతో రాష్ట్రాలను జతపరచుము.\nList-I (Port Location)జాబితా-I (ఓడరేవులు) List-II (States)జాబితా-II (రాష్ట్రాలు)\n\na. Okhaa. ఓఖా\n\ni. Tamil Nadui. తమిళనాడు\n\nb. Thalasserib. తలస్సేరి\n\nii. Karnatakaii. కర్ణా టక\n\nc. Ennorec. ఎన్నూర్\n\niii. Gujaratiii. గుజరాత్\n\nd. Panamburd. పనంబూర్\n\niv. Keralaiv. కేరళ",
       "options_en": [
@@ -3156,7 +3156,7 @@
       "id": 138,
       "qNumber": 138,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "The total road length and Right of way (ROW) of the ORR Hyderabad respectively is :",
       "question_te": "హైదరాబాద్ ఓ.ఆర్.ఆర్ యొక్క మొత్తం రోడ్డు పొడవు మరియు రైట్ ఆఫ్ వే (ROW), వరుసగా",
       "options_en": [
@@ -3179,7 +3179,7 @@
       "id": 139,
       "qNumber": 139,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "The Surma Valley which has reserves of mineral oil is located in :",
       "question_te": "మినరల్ ఆయిల్ (ఖనిజ తైలం) నిల్వలున్న సుర్మా లోయ గల రాష్ట్రం",
       "options_en": [
@@ -3202,7 +3202,7 @@
       "id": 140,
       "qNumber": 140,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "'Marble Water Falls' (Dhuandhar Falls) is connected with which river ?\n'",
       "question_te": "మార్బుల్ జలపాతం' (ధువాందర్ ఫాల్స్) గల నది",
       "options_en": [
@@ -3225,7 +3225,7 @@
       "id": 141,
       "qNumber": 141,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "Telangana's decadal population growth rate has been continuously declining since :",
       "question_te": "తెలంగాణ యొక్క దశాబ్ద జనాభా పెరుగుదల రేటు ఏ దశాబ్దం నుండి నిరంతరంగా తగ్గు తూ వస్తుంది ?",
       "options_en": [
@@ -3248,7 +3248,7 @@
       "id": 142,
       "qNumber": 142,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "If the time at Greenwich () is 8.15 am, what is the local time at East longitude ?",
       "question_te": "గ్రీన్ విచ్ () వద్ద సమయం ఉదయం 8.15 అయినపుడు, తూర్పు అక్షాంశంపై స్థా నిక సమయం ఎంత\nఅవుతుంది ?",
       "options_en": [
@@ -3271,7 +3271,7 @@
       "id": 143,
       "qNumber": 143,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "The Topographical maps of India is published by :",
       "question_te": "భారతదేశ టోపోగ్రా ఫికల్ మ్యాప్సును ప్రచురించే సంస్థ",
       "options_en": [
@@ -3294,7 +3294,7 @@
       "id": 144,
       "qNumber": 144,
       "section": "General Studies",
-      "topic": "General Studies & Telangana History",
+      "topic": "Geography of India & Telangana",
       "question_en": "The Teak grows abundantly in the areas of",
       "question_te": "టేకు వృక్షాలు విస్తా రంగా పెరిగే ప్రాంతాలు",
       "options_en": [
