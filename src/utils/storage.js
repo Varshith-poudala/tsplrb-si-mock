@@ -11,6 +11,7 @@ export const ALL_TEST_IDS = [
   'tsplrb-si-mock-full-200-8',
   'tsplrb-si-mock-full-200-9',
   'tsplrb-si-mock-full-200-10',
+  'tsplrb-si-mock-full-200-11',
 ];
 
 export function getExamProgressKey(userEmail, testId) {

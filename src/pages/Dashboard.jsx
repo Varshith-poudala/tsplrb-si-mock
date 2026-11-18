@@ -471,6 +471,17 @@ export default function Dashboard() {
       isFree: false,
       description: 'Master 200Q model paper calibrated on Civils/TSPSC standards: Speed-Distance-Time, Mensuration 2D/3D, PYQ Calendar Repetition, balanced GS weightage, international summits (BRICS/SCO/G20), and 2026 governance reforms.',
     },
+    {
+      testId: 'tsplrb-si-mock-full-200-11',
+      title: 'TSPLRB SI Mock Test 11 (High-Yield 2026 Reserve Bank • Final PWT Benchmark)',
+      difficulty: 'Hard',
+      badge: 'NEW • 2026 RESERVE BANK & FINAL PWT BENCHMARK',
+      questions: 200,
+      duration: '180 Mins (3 Hrs)',
+      marks: 200,
+      isFree: false,
+      description: 'Comprehensive 200Q benchmark paper assembled from verified reserve faculty pools: Speed-Distance-Time, Mensuration 2D/3D, Calendar Repetition, Telangana Armed Struggle & Statehood, Indian Polity, National Movement, and 2026 Current Affairs.',
+    },
   ];
 
   const filteredTests = testCatalog.filter(
