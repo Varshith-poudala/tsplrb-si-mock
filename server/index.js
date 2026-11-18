@@ -503,6 +503,20 @@ const TEST_CATALOG = [
     isFreeDemo: false,
     description: 'Advanced Practice Paper integrating latest 2026 faculty questions, Telangana policies (HYDRAA, Bhoo Bharati, Caste Survey, Musi Project), and comprehensive Arithmetic & Reasoning.',
   },
+  {
+    testId: 'tsplrb-si-mock-full-200-10',
+    title: 'TSPLRB SI Mock Test 10 (Master Model Paper • Latest Civils & PWT Standard)',
+    title_te: 'తెలంగాణ ఎస్సై మాక్ టెస్ట్ 10 (మాస్టర్ మోడల్ పేపర్ • సివిల్స్ & PWT ప్రమాణాలు)',
+    exam: 'TSPLRB Sub-Inspector Preliminary Written Test (PWT)',
+    difficulty: 'Medium',
+    totalQuestions: 200,
+    totalMarks: 200,
+    durationMinutes: 180,
+    marksPerQuestion: 1.0,
+    negativeMarking: 0.20,
+    isFreeDemo: false,
+    description: 'Master 200Q model paper calibrated on Civils/TSPSC standards: Speed-Distance-Time, Mensuration 2D/3D, PYQ Calendar Repetition, balanced GS weightage, international summits (BRICS/SCO/G20), and 2026 governance reforms.',
+  },
 ];
 
 app.get('/api/tests', async (req, res) => {
@@ -575,6 +589,7 @@ app.get('/api/tests/:id/questions', async (req, res) => {
     else if (id === 'tsplrb-si-mock-full-200-7') fileName = 'mock_test_full_200_7.json';
     else if (id === 'tsplrb-si-mock-full-200-8') fileName = 'mock_test_full_200_8.json';
     else if (id === 'tsplrb-si-mock-full-200-9') fileName = 'mock_test_full_200_9.json';
+    else if (id === 'tsplrb-si-mock-full-200-10') fileName = 'mock_test_full_200_10.json';
 
     const localFilePath = path.join(process.cwd(), 'public/data', fileName);
     let questionsData = [];
@@ -642,6 +657,7 @@ app.post('/api/tests/:id/submit', async (req, res) => {
     else if (id === 'tsplrb-si-mock-full-200-7') fileName = 'mock_test_full_200_7.json';
     else if (id === 'tsplrb-si-mock-full-200-8') fileName = 'mock_test_full_200_8.json';
     else if (id === 'tsplrb-si-mock-full-200-9') fileName = 'mock_test_full_200_9.json';
+    else if (id === 'tsplrb-si-mock-full-200-10') fileName = 'mock_test_full_200_10.json';
 
     const localFilePath = path.join(process.cwd(), 'public/data', fileName);
     let masterQuestions = [];

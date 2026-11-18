@@ -460,6 +460,17 @@ export default function Dashboard() {
       isFree: false,
       description: 'Advanced Practice Paper integrating latest 2026 faculty questions, Telangana policies (HYDRAA, Bhoo Bharati, Caste Survey, Musi Project), and comprehensive Arithmetic & Reasoning.',
     },
+    {
+      testId: 'tsplrb-si-mock-full-200-10',
+      title: 'TSPLRB SI Mock Test 10 (Master Model Paper • Latest Civils & PWT Standard)',
+      difficulty: 'Medium',
+      badge: 'NEW • 2026 CIVIL SERVICES & PWT STANDARD',
+      questions: 200,
+      duration: '180 Mins (3 Hrs)',
+      marks: 200,
+      isFree: false,
+      description: 'Master 200Q model paper calibrated on Civils/TSPSC standards: Speed-Distance-Time, Mensuration 2D/3D, PYQ Calendar Repetition, balanced GS weightage, international summits (BRICS/SCO/G20), and 2026 governance reforms.',
+    },
   ];
 
   const filteredTests = testCatalog.filter(

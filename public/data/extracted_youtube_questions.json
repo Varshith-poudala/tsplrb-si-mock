@@ -1,5 +1,5 @@
 {
-  "total_extracted": 49,
+  "total_extracted": 59,
   "questions": [
     {
       "id": 1,
@@ -1257,6 +1257,266 @@
       "correct_option": 3,
       "explanation_en": "All three statements are correct. Article 280 governs the Finance Commission as a quasi-judicial body. Parliament passed the Finance Commission Act, 1951 specifying qualifications for the Chairman and 4 members. Functions under 280(3) include vertical/horizontal tax sharing, Article 275 grants-in-aid, and augmenting state consolidated funds for local bodies following the 73rd/74th amendments. The 16th Finance Commission is chaired by Dr. Arvind Panagariya.",
       "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ఆర్టికల్ 280 కింద రాష్ట్రపతి ఆర్థిక సంఘాన్ని నియమిస్తారు. పార్లమెంట్ 1951 నాటి చట్టం ద్వారా చైర్మన్ మరియు నలుగురు సభ్యుల అర్హతలను నిర్దేశించింది. కేంద్ర-రాష్ట్రాల మధ్య నికర పన్నుల విభజన, ఆర్టికల్ 275 గ్రాంట్లు, 73/74వ సవరణల ప్రకారం స్థానిక సంస్థలకు నిధుల బలోపేతం దీని ప్రధాన విధులు. 16వ ఆర్థిక సంఘం చైర్మన్‌గా నీతి ఆయోగ్ మాజీ వైస్ చైర్మన్ డాక్టర్ అరవింద్ పనగరియా పనిచేస్తున్నారు."
+    },
+    {
+      "id": 71,
+      "subject": "Telangana History & Movement",
+      "topic": "Ancient Telangana History - Vishnukundina Dynasty: Religion, Keesaragutta & Inscriptions",
+      "source_channel": "Ashoka Academy (Ashok Sir)",
+      "source_video_id": "ashoka_tg_vishnukundina_culture",
+      "raw_video_hook": "విష్ణుకుండినుల రాజధానులు, మాధవవర్మ II అశ్వమేధ, నరమేధ యాగాలు మరియు కీసరగుట్ట రామలింగేశ్వర ఆలయం, ఇంద్రపాలనగరం రాగి శాసనం.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the Vishnukundina dynasty that ruled the Deccan and Telangana after the Ikshvakus:\n1. Madhavavarma II (Janashraya) was the greatest ruler of the dynasty, credited with performing eleven Ashvamedha sacrifices, thousands of Agnishtomas, and a Purushamedha (Naramedha) sacrifice.\n2. The Vishnukundinas were devout devotees of Lord Sriparvata Swami (Mallikarjuna/Shiva), and the hillfort complex at Keesaragutta (Medchal-Malkajgiri) served as their major military and Shaivite religious center featuring hundreds of stone Shivalingams.\n3. The Indrapalanagara (Tummalagudem) copper plate inscription issued by Govindavarma I is considered one of the earliest Sanskrit copper plate grants found in Telangana, documenting extensive royal endowments to Buddhist viharas.\nWhich of the statements given above are correct?",
+      "question_te": "ఇక్ష్వాకుల అనంతరం తెలంగాణ మరియు దక్కన్ ప్రాంతాన్ని పాలించిన విష్ణుకుండిన రాజవంశానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. విష్ణుకుండిన పాలకులలో గొప్పవాడైన రెండవ మాధవవర్మ (జనాశ్రయుడు) పదకొండు అశ్వమేధ యాగాలు, వేలాది అగ్నిష్టోమాలు మరియు ఒక పురుషమేధ (నరమేధ) యాగం నిర్వహించినట్లు శాసనాలు పేర్కొంటున్నాయి.\n2. విష్ణుకుండినులు 'శ్రీపర్వత స్వామి' పాదపద్మారాధకులు (శైవులు); మేడ్చల్-మల్కాజిగిరి జిల్లాలోని కీసరగుట్ట కోట విష్ణుకుండినుల కీలక సైనిక స్థావరంగా మరియు వందలాది శివలింగాలతో కూడిన శైవ పుణ్యక్షేత్రంగా విలసిల్లింది.\n3. మొదటి గోవిందవర్మ జారీ చేసిన 'ఇంద్రపాలనగరం' (తుమ్మలగూడెం) రాగిరేకుల శాసనం తెలంగాణలో లభించిన అత్యంత ప్రాచీన సంస్కృత రాగి శాసనాలలో ఒకటిగా పరిగణించబడుతుంది; ఇది బౌద్ధ విహారాలకు ఇచ్చిన విస్తృత రాచరిక దానాలను ధృవీకరిస్తుంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. The Vishnukundinas ruled Telangana and coastal Andhra from the 4th to 6th centuries AD. Madhavavarma II was famed for performing 11 Ashvamedhas and a Purushamedha, assuming titles like Janashraya. Keesaragutta functioned as a major capital/fortified Shaiva center dedicated to Ramalingeshwara. The Indrapalanagaram (Tummalagudem) copper plates of Govindavarma I and Vikramendravarma II provide invaluable political and socio-religious history, highlighting early royal endowments to Buddhist establishments despite official devotion to Sriparvataswami.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. విష్ణుకుండినులు క్రీ.శ. 4 నుండి 6వ శతాబ్దం వరకు పాలించారు. వీరి మూలపురుషుడు ఇంద్రవర్మ కాగా, రెండవ మాధవవర్మ 11 అశ్వమేధాలు, 1 నరమేధ యాగం చేశాడు. కీసరగుట్ట వీరి రాజధానిగా, శైవ క్షేత్రంగా ప్రసిద్ధి చెందింది. తుమ్మలగూడెం (ఇంద్రపాలనగరం) శాసనం తెలంగాణలో లభ్యమైన ప్రాచీన సంస్కృత రాగి శాసనం; గోవిందవర్మ బౌద్ధ విహారాలకు దానాలు చేసినట్లు ఇది వివరిస్తుంది."
+    },
+    {
+      "id": 72,
+      "subject": "Telangana History & Movement",
+      "topic": "Telangana Movement - Million March 2011 & Sakala Janula Samme (All People's Strike)",
+      "source_channel": "Ashoka Academy (Ashok Sir)",
+      "source_video_id": "ashoka_tg_million_march_2011",
+      "raw_video_hook": "2011 మార్చి 10న ట్యాంక్ బండ్‌పై జరిగిన మిలియన్ మార్చ్, 42 రోజుల సకల జనుల సమ్మె మరియు హుస్సేన్‌సాగర్ సాగరహారం.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the mass mobilizations during the culmination of the Telangana separate statehood movement in 2011:\n1. The Telangana Joint Action Committee (TJAC), steered by Professor M. Kodandaram, organized the historic 'Million March' on Tank Bund, Hyderabad on March 10, 2011, drawing inspiration from Egypt's Tahrir Square civil uprising.\n2. In September-October 2011, government employees, teachers, advocates, RTC workers, and coal miners of Singareni Collieries conducted the unprecedented 42-day 'Sakala Janula Samme' (All People's Strike), completely paralyzing administrative governance and public services.\n3. The mass human chain protest encircling the entire 36-kilometer boundary of Hussain Sagar lake in Hyderabad was named 'Sagara Haaram' (Ocean Garland), organized by TJAC on September 30, 2012.\nWhich of the statements given above are correct?",
+      "question_te": "2011 లో ప్రత్యేక తెలంగాణ రాష్ట్ర సాధన మలిదశ ప్రజా ఉద్యమంలో జరిగిన కీలక ప్రజా సమీకరణలకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. ప్రొఫెసర్ ఎం. కోదండరామ్ నాయకత్వంలోని తెలంగాణ జాయింట్ యాక్షన్ కమిటీ (TJAC), ఈజిప్ట్ దేశపు తహ్రీర్ స్క్వేర్ ప్రజా తిరుగుబాటు స్ఫూర్తితో 2011 మార్చి 10న హైదరాబాద్ ట్యాంక్ బండ్‌పై చారిత్రక 'మిలియన్ మార్చ్'ను నిర్వహించింది.\n2. 2011 సెప్టెంబర్-అక్టోబర్ కాలంలో ప్రభుత్వ ఉద్యోగులు, ఉపాధ్యాయులు, న్యాయవాదులు, ఆర్టీసీ కార్మికులు మరియు సింగరేణి బొగ్గు గని కార్మికులు కలిసి పరిపాలనా యంత్రాంగాన్ని స్తంభింపజేస్తూ 42 రోజుల పాటు అపూర్వమైన 'సకల జనుల సమ్మె'ను విజయవంతంగా నిర్వహించారు.\n3. హైదరాబాద్‌లోని హుస్సేన్‌సాగర్ సరస్సు చుట్టూ 36 కిలోమీటర్ల మేర లక్షలాది మందితో భారీ మానవహారంగా నిర్వహించిన నిరసనను 'సాగరహారం' అని పిలిచారు, దీనిని 2012 సెప్టెంబర్ 30న TJAC నిర్వహించింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. The Million March held on Tank Bund on 10 March 2011 broke massive police barricades and galvanized the Telangana agitation, explicitly inspired by the Arab Spring protests. In September 2011, the 42-day Sakala Janula Samme paralyzed the entire state administration, transport, and coal production. Following this, on 30 September 2012, TJAC organized Sagara Haaram, creating a human ring around Hussain Sagar lake to demonstrate unyielding popular resolve.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 2011 మార్చి 10న TJAC పిలుపునిచ్చిన మిలియన్ మార్చ్ ట్యాంక్ బండ్‌పై పోలీసు నిర్బంధాలను ఛేదించి ఉద్యమాన్ని ఉధృతం చేసింది. అనంతరం 2011 సెప్టెంబర్ 13న మొదలైన సకల జనుల సమ్మె 42 రోజుల పాటు కొనసాగి కేంద్ర ప్రభుత్వ దృష్టిని ఆకర్షించింది. 2012 సెప్టెంబర్ 30న హుస్సేన్‌సాగర్ చుట్టూ నిర్వహించిన 'సాగరహారం' ఉద్యమ మైలురాయిగా నిలిచింది."
+    },
+    {
+      "id": 73,
+      "subject": "Telangana Current Affairs",
+      "topic": "Telangana Governance & Public Policy - Comprehensive Socio-Economic, Educational, Employment, Political and Caste Survey 2026",
+      "source_channel": "StudyNow Telugu",
+      "source_video_id": "studynow_tg_caste_survey_2026",
+      "raw_video_hook": "తెలంగాణ సమగ్ర కుల సర్వే 2026: 75 ప్రశ్నల షెడ్యూల్, ప్రణాళిక శాఖ అమలు మరియు హైకోర్టు గోప్యతా ఉత్తర్వులు.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the Comprehensive Socio-Economic, Educational, Employment, Political and Caste Survey conducted across the State of Telangana:\n1. The survey schedule was formulated with a comprehensive 75-point questionnaire spanning demographic profile, education, occupation, landholdings, immovable assets, and representation in local body political offices.\n2. The Planning Department of Telangana was designated as the nodal authority, deploying thousands of enumerators and supervisors mapped to census enumeration blocks across all 33 districts.\n3. The High Court for the State of Telangana upheld the constitutional validity of the survey as a legitimate state policy tool for targeted welfare delivery, while mandating that personal data gathered must be safeguarded under the Right to Privacy (Article 21).\nWhich of the statements given above are correct?",
+      "question_te": "తెలంగాణ రాష్ట్రవ్యాప్తంగా నిర్వహించిన 'సమగ్ర సామాజిక, ఆర్థిక, విద్యా, ఉపాధి, రాజకీయ మరియు కుల సర్వే'కు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. ఈ సర్వేలో కుటుంబ సభ్యుల విద్య, వృత్తి, వ్యవసాయ భూములు, స్థిర చరాస్తులు, బ్యాంకు రుణాలు మరియు స్థానిక సంస్థల్లో రాజకీయ ప్రాతినిధ్యం తదితర వివరాలను సేకరించేందుకు సమగ్రమైన 75 ప్రశ్నలతో కూడిన షెడ్యూల్‌ను రూపొందించారు.\n2. తెలంగాణ రాష్ట్ర ప్రణాళిక శాఖను (Planning Department) నోడల్ ఏజెన్సీగా నియమించి, రాష్ట్రంలోని 33 జిల్లాలలో సెన్సస్ ఎన్యూమరేషన్ బ్లాకుల ఆధారంగా వేలాది మంది ఎన్యూమరేటర్లు మరియు సూపర్‌వైజర్లను నియమించారు.\n3. సంక్షేమ పథకాల సమర్థవంతమైన అమలుకు ఈ సర్వే సమాచారం ప్రభుత్వానికి చట్టబద్ధమైన సాధనమని సమర్థిస్తూనే, సేకరించిన వ్యక్తిగత సమాచారానికి ఆర్టికల్ 21 కింద గోప్యతా హక్కు (Right to Privacy) రక్షణ కల్పించాలని తెలంగాణ హైకోర్టు తీర్పునిచ్చింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. The Government of Telangana rolled out the Comprehensive Socio-Economic, Educational, Employment, Political and Caste Survey via the Planning Department across all rural and urban blocks. The 75-item questionnaire comprehensively gathered data to recalibrate reservation matrices and social welfare schemes. The Telangana High Court dismissed challenges against the survey, affirming the state's power to gather empirical data for equitable policy-making while ensuring strict privacy safeguards.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. తెలంగాణ ప్రభుత్వం ప్రణాళిక శాఖ ఆధ్వర్యంలో 75 ప్రశ్నల షెడ్యూల్‌తో రాష్ట్రవ్యాప్తంగా సమగ్ర కుల, సామాజిక, ఆర్థిక సర్వేను విజయవంతంగా చేపట్టింది. రిజర్వేషన్ల హేతుబద్ధీకరణ, సంక్షేమ ఫలాల పంపిణీకి అవసరమైన అధికారిక గణాంకాలను సేకరించే అధికారం ప్రభుత్వానికి ఉందని హైకోర్టు సమర్థిస్తూనే, పౌరుల ఆధార్, బ్యాంక్ వివరాలు మరియు వ్యక్తిగత డేటా గోప్యతను కాపాడాలని ఆదేశించింది."
+    },
+    {
+      "id": 74,
+      "subject": "Telangana Current Affairs",
+      "topic": "Urban Ecology & Infrastructure - Musi Riverfront Development Project (MRDP) Guidelines",
+      "source_channel": "StudyNow Telugu",
+      "source_video_id": "studynow_tg_musi_rejuvenation_project_2026",
+      "raw_video_hook": "తెలంగాణ మూసీ రివర్ ఫ్రంట్ డెవలప్‌మెంట్ ప్రాజెక్ట్ (MRDP) 55 కి.మీ కారిడార్, STPs మరియు నిర్వాసితులకు 2BHK పునరావాసం.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the Musi Riverfront Development and Rejuvenation Project (MRDP) undertaken by the Government of Telangana:\n1. The rejuvenation corridor spans a contiguous stretch of 55 kilometers across the Hyderabad urban agglomeration, conceptualized to clean the river, construct decentralized Sewage Treatment Plants (STPs), and develop ecological waterfront zones.\n2. The river Musi originates in the Ananthagiri Hills of Vikarabad district and flows eastward through Hyderabad before merging into the Krishna River at Vadapalli in Nalgonda district.\n3. Under the Rehabilitation and Resettlement (R&R) package for the project, affected families residing in the designated Full Tank Level (FTL) and Riverbed flood buffer zones are allotted ready-to-occupy 2BHK dignity housing along with transitional livelihood assistance.\nWhich of the statements given above are correct?",
+      "question_te": "తెలంగాణ ప్రభుత్వం ప్రతిష్టాత్మకంగా చేపట్టిన 'మూసీ రివర్ ఫ్రంట్ డెవలప్‌మెంట్ అండ్ రీజువనేషన్ ప్రాజెక్ట్' (MRDP) కు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. హైదరాబాద్ మహానగర పరిధిలో మూసీ నది ప్రక్షాళన, అధునాతన వికేంద్రీకృత మురుగునీటి శుద్ధి ప్లాంట్ల (STP) నిర్మాణం మరియు ఎకలాజికల్ వాటర్‌ఫ్రంట్ జోన్ల అభివృద్ధి కోసం 55 కిలోమీటర్ల మేర ఈ ప్రాజెక్ట్ కారిడార్‌ను రూపొందించారు.\n2. మూసీ నది వికారాబాద్ జిల్లాలోని అనంతగిరి కొండల్లో జన్మించి, హైదరాబాద్ మీదుగా తూర్పునకు ప్రవహిస్తూ నల్గొండ జిల్లా వాడపల్లి వద్ద కృష్ణా నదిలో సంగమిస్తుంది.\n3. నదీ పరివాహక ఎఫ్‌టీఎల్ (FTL) మరియు బఫర్ జోన్లలో నివసిస్తూ నిర్వాసితులైన పేద కుటుంబాల కోసం ప్రత్యేక పునరావాస ప్యాకేజీ కింద పూర్తయిన 2-BHK డబుల్ బెడ్‌రూమ్ ఇండ్లను మరియు జీవనోపాధి సాయాన్ని ప్రభుత్వం అందిస్తోంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. The MRDP encompasses 55 km of the Musi river passing through Hyderabad, aiming to divert all untreated domestic/industrial sewage via trunk mains to STPs. Musi is a major tributary of River Krishna, rising in Ananthagiri Hills (near Sivareddypet) and emptying into the Krishna near Vadapalli (Wazirabad). Displaced riverbed dwellers are provided fully constructed 2BHK houses under the state's welfare rehabilitation package.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. హైదరాబాద్ నగరంలో 55 కి.మీ మేర మూసీ నదిని సుందరీకరించి పర్యావరణ పరిరక్షణ చేయడమే ఈ ప్రాజెక్ట్ లక్ష్యం. మూసీ వికారాబాద్ అనంతగిరి కొండల్లో పుట్టి, నల్గొండ జిల్లా వాడపల్లి వద్ద కృష్ణా నదిలో కలుస్తుంది. ప్రాజెక్ట్ ద్వారా ప్రభావితమైన పేద నివాసితులకు ప్రభుత్వం డబుల్ బెడ్‌రూమ్ (2-BHK) ఇండ్లను కేటాయించి పునరావాసం కల్పిస్తోంది."
+    },
+    {
+      "id": 75,
+      "subject": "Indian Polity",
+      "topic": "Judiciary - Advisory Jurisdiction of the Supreme Court of India (Article 143)",
+      "source_channel": "CSB IAS Academy (Bala Latha Madam)",
+      "source_video_id": "csb_polity_advisory_jurisdiction_art143",
+      "raw_video_hook": "సుప్రీంకోర్టు సలహా అధికార పరిధి (Article 143), ఆర్టికల్ 143(1) విచక్షణ మరియు ఆర్టికల్ 143(2) తప్పనిసరి నిబంధన.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the Advisory Jurisdiction of the Supreme Court of India under Article 143 of the Constitution:\n1. Under Article 143(1), if the President considers that a question of law or fact of public importance has arisen or is likely to arise, the President may refer it to the Supreme Court, and the Court may, after such hearing as it thinks fit, report its opinion to the President.\n2. In references made under Article 143(1), the Supreme Court is not bound to give its advisory opinion and may decline to answer the reference, as it did in the Special Reference concerning the Ram Janmabhoomi-Babri Masjid matter (1994).\n3. Under Article 143(2), if the President refers disputes arising out of pre-constitutional treaties, covenants, or agreements, the Supreme Court is constitutionally obligated to deliver its opinion.\nWhich of the statements given above are correct?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణ 143 కింద సుప్రీంకోర్టుకు గల 'సలహా అధికార పరిధి'కి (Advisory Jurisdiction) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఆర్టికల్ 143(1) ప్రకారం ప్రజా ప్రాముఖ్యత కలిగిన ఏదైనా చట్టపరమైన లేదా వాస్తవికమైన ప్రశ్న తలెత్తినప్పుడు లేదా తలెత్తే అవకాశం ఉన్నప్పుడు భారత రాష్ట్రపతి దానిని సుప్రీంకోర్టు పరిశీలనకు పంపవచ్చు; న్యాయస్థానం విచారణ జరిపి తన అభిప్రాయాన్ని రాష్ట్రపతికి నివేదించవచ్చు.\n2. ఆర్టికల్ 143(1) కింద వచ్చే రెఫరెన్సులపై సుప్రీంకోర్టు తప్పనిసరిగా సలహా ఇవ్వాల్సిన అవసరం లేదు; న్యాయస్థానం తగిన కారణాలతో సమాధానం ఇవ్వడానికి నిరాకరించవచ్చు (ఉదాహరణకు: 1994 నాటి అయోధ్య రామజన్మభూమి-బాబ్రీ మసీదు ప్రత్యేక రెఫరెన్స్ కేసు).\n3. ఆర్టికల్ 143(2) ప్రకారం రాజ్యాంగం అమలులోకి రాకముందు కుదిరిన సంధులు, ఒప్పందాల వివాదాలకు సంబంధించి రాష్ట్రపతి రెఫరెన్స్ పంపినప్పుడు సుప్రీంకోర్టు తప్పనిసరిగా తన సలహాను ఇవ్వాల్సి ఉంటుంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Article 143 governs the President's power to consult the Supreme Court. Under clause (1), the court possesses discretion to decline answering (established in the Ismail Faruqui / Ayodhya Reference 1994). Under clause (2), concerning pre-constitutional treaties excluded from Art 131, the court 'shall' report its opinion (mandatory). The advisory opinion is not a judicial decree or binding precedent, though possessing highest persuasive authority.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ఆర్టికల్ 143 ప్రకారం రాష్ట్రపతి సుప్రీంకోర్టు సలహాను కోరవచ్చు. ఆర్టికల్ 143(1) కింద న్యాయస్థానానికి సలహా ఇవ్వకుండా నిరాకరించే విచక్షణాధికారం ఉంది (1994 అయోధ్య కేసులో సుప్రీంకోర్టు సలహా ఇవ్వడానికి నిరాకరించింది). ఆర్టికల్ 143(2) కింద రాజ్యాంగ పూర్వ ఒప్పందాలపై మాత్రం న్యాయస్థానం తప్పనిసరిగా సలహా ఇవ్వాలి. ఈ సలహా రాష్ట్రపతిపై లేదా దిగువ కోర్టులపై బైండింగ్ కాదు, కానీ అత్యున్నత ప్రామాణికతను కలిగి ఉంటుంది."
+    },
+    {
+      "id": 76,
+      "subject": "Indian Polity",
+      "topic": "Constitutional Framework - Administrative Tribunals (Articles 323A & 323B) & Judicial Review",
+      "source_channel": "CSB IAS Academy (Bala Latha Madam)",
+      "source_video_id": "csb_polity_tribunals_art323a_323b",
+      "raw_video_hook": "ట్రిబ్యునళ్లు అధికరణలు 323A, 323B, 42వ సవరణ మరియు ఎల్. చంద్రకుమార్ కేసులో హైకోర్టుల న్యాయ సమీక్ష తీర్పు.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the constitutional provisions governing Tribunals under Part XIV-A (Articles 323A and 323B) of the Constitution of India:\n1. Part XIV-A was introduced into the Constitution by the 42nd Constitutional Amendment Act, 1976 based on the recommendations of the Swaran Singh Committee.\n2. While Article 323A empowers only Parliament to establish Administrative Tribunals for public service matters of the Union and States, Article 323B empowers both Parliament and State Legislatures to establish tribunals for specific matters such as taxation, land reforms, and foreign exchange.\n3. In the landmark judgment L. Chandra Kumar v. Union of India (1997), a 7-judge Constitution Bench held that decisions of all Tribunals are subject to judicial review by a Division Bench of the High Court under Articles 226/227, striking down clauses excluding High Court scrutiny as violative of the Basic Structure.\nWhich of the statements given above are correct?",
+      "question_te": "భారత రాజ్యాంగంలోని భాగం XIV-A (అధికరణలు 323A మరియు 323B) కింద గల ట్రిబ్యునళ్ల రాజ్యాంగ నిబంధనలకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. సర్దార్ స్వరణ్ సింగ్ కమిటీ సిఫార్సుల మేరకు 42వ రాజ్యాంగ సవరణ చట్టం, 1976 ద్వారా రాజ్యాంగంలో భాగం XIV-A (ఆర్టికల్స్ 323A, 323B) ను చేర్చారు.\n2. కేంద్ర మరియు రాష్ట్రాల ప్రభుత్వ ఉద్యోగుల సర్వీసు వివాదాల పరిష్కారానికి ఆర్టికల్ 323A కింద కేవలం పార్లమెంటు మాత్రమే ట్రిబ్యునళ్లను ఏర్పాటు చేయగలదు; అయితే పన్నులు, భూసంస్కరణలు, విదేశీ మారకం వంటి అంశాలపై ఆర్టికల్ 323B కింద పార్లమెంటుతో పాటు రాష్ట్ర శాసనసభలు కూడా ట్రిబ్యునళ్లను ఏర్పాటు చేయవచ్చు.\n3. చారిత్రక ఎల్. చంద్రకుమార్ వర్సెస్ యూనియన్ ఆఫ్ ఇండియా (1997) కేసులో 7 గురు న్యాయమూర్తుల రాజ్యాంగ ధర్మాసనం తీర్పునిస్తూ, ట్రిబ్యునళ్ల తీర్పులు ఆర్టికల్ 226/227 కింద హైకోర్టు డివిజన్ బెంచ్ న్యాయ సమీక్షకు లోబడి ఉంటాయని, న్యాయ సమీక్ష రాజ్యాంగ ప్రాథమిక నిర్మాణంలో అంతర్భాగమని స్పష్టం చేసింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Part XIV-A was added by the 42nd Amendment in 1976. Under Art 323A, only Parliament can set up CAT and SATs. Under Art 323B, both Union and State legislatures can establish specialized tribunals within their legislative competence. In L. Chandra Kumar (1997), the Supreme Court invalidated Section 28 of the Administrative Tribunals Act 1985 and constitutional exclusion clauses, ruling that power of judicial review under Arts 226/227 is an inviolable basic structure feature.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1976 లో 42వ సవరణ ద్వారా ట్రిబ్యునళ్లను రాజ్యాంగంలో చేర్చారు. సర్వీస్ వివాదాలపై ఆర్టికల్ 323A కింద కేవలం పార్లమెంటు మాత్రమే చట్టం చేయగలదు; ఇతర అంశాలపై ఆర్టికల్ 323B కింద కేంద్ర, రాష్ట్రాలు రెండూ ట్రిబ్యునళ్లను ఏర్పాటు చేయవచ్చు. 1997 నాటి ఎల్. చంద్రకుమార్ కేసులో సుప్రీంకోర్టు తీర్పునిస్తూ హైకోర్టుల న్యాయ సమీక్షను అడ్డుకునే క్లాజులు చెల్లవని, న్యాయ సమీక్ష ప్రాథమిక స్వరూపమని తేల్చిచెప్పింది."
+    },
+    {
+      "id": 77,
+      "subject": "Indian History",
+      "topic": "Medieval Indian History - Delhi Sultanate: Alauddin Khilji's Market Control & Military Reforms",
+      "source_channel": "Winners Online (Winners Publications)",
+      "source_video_id": "winners_history_delhi_sultanate_alauddin_market",
+      "raw_video_hook": "అల్లావుద్దీన్ ఖిల్జీ ధరల నియంత్రణ మార్కెట్ నిబంధనలు, షహనా-ఇ-మండి, దాగ్-చెహ్రా సైనిక విధానాలు మరియు మిసాహత్ భూమి కొలత.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the administrative, military, and agrarian reforms instituted by Sultan Alauddin Khilji (1296–1316 AD):\n1. He established separate strictly regulated markets in Delhi for food grains, expensive cloth, and horses/cattle, placing them under high officials known as Shahna-i-Mandi (market superintendent) and Diwan-i-Riyasat.\n2. To maintain a large standing army without bankrupting the treasury, he became the first Delhi Sultan to pay regular salaries entirely in cash (Naqd) while introducing horse branding (Dagh) and descriptive rolls of soldiers (Chehra/Huliya) to prevent fraudulent muster.\n3. In agrarian administration, he enforced the direct measurement of cultivable land (Misaahat) based on standard yield, fixing the state share of land revenue (Kharaj) at 50% of the produce and creating the department of Diwan-i-Mustakhraj to collect revenue arrears.\nWhich of the statements given above are correct?",
+      "question_te": "ఢిల్లీ సుల్తాన్ అల్లావుద్దీన్ ఖిల్జీ (క్రీ.శ. 1296–1316) చేపట్టిన పరిపాలనా, సైనిక మరియు వ్యవసాయ సంస్కరణలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఢిల్లీలో ఆహార ధాన్యాలు, విలువైన వస్త్రాలు మరియు గుర్రాలు/పశువుల విక్రయాల కోసం ప్రత్యేక మార్కెట్లను ఏర్పాటు చేసి, వాటి పర్యవేక్షణ బాధ్యతలను 'షహనా-ఇ-మండి' (మార్కెట్ సూపరింటెండెంట్) మరియు 'దివాన్-ఇ-రియాసత్' అను ఉన్నతాధికారులకు అప్పగించారు.\n2. భారీ శాశ్వత సైన్యాన్ని ఖజానాపై భారం పడకుండా నిర్వహించేందుకు సైనికులకు నగదు రూపంలో వేతనాలు (నఖ్ద్) చెల్లించే పద్ధతిని ప్రవేశపెట్టిన మొదటి ఢిల్లీ సుల్తాన్‌గా నిలిచారు; అలాగే సైన్యంలో అవకతవకలను అరికట్టేందుకు గుర్రాలపై ముద్ర వేసే 'దాగ్' మరియు సైనికుల వివరాల రిజిస్టర్ 'చెహ్రా/హులియా' విధానాలను అమలు చేశారు.\n3. వ్యవసాయ రంగంలో ప్రామాణిక విస్తీర్ణ కొలతలతో కూడిన 'మిసాహత్' పద్ధతి ద్వారా భూమిని కొలిపించి, దిగుబడిలో సగభాగాన్ని (50%) భూమిశిస్తుగా (ఖరాజ్) నిర్ణయించారు; మరియు బకాయిల వసూలు కోసం 'దివాన్-ఇ-ముస్తఖ్‌రాజ్' అనే ప్రత్యేక విభాగాన్ని ఏర్పాటు చేశారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Ziauddin Barani's Tarikh-i-Firoz Shahi details Alauddin Khilji's comprehensive socioeconomic reforms. He controlled price escalation in Delhi to maintain a massive army against Mongol invasions, establishing the Sarai-i-Adl cloth market and grain mandis monitored by Barids (spies) and Munhiyans. He institutionalized cash payment of troops, Dagh and Chehra systems, measured land based on biswa (Misaahat), and eliminated intermediary Muqaddams and Khuts by extracting 50% revenue directly.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. మంగోలుల దండయాత్రలను ఎదుర్కొనేందుకు అల్లావుద్దీన్ ఖిల్జీ మార్కెట్ సంస్కరణలను చేపట్టారు. షహనా-ఇ-మండి, దివాన్-ఇ-రియాసత్ ద్వారా ధరలను కఠినంగా నియంత్రించారు. సైన్యంలో అవినీతిని అరికట్టేందుకు గుర్రాలకు దాగ్, సైనికులకు చెహ్రా విధానం తెచ్చారు. భూమిని కొలిపించి (మిసాహత్) 50% శిస్తు వసూలు చేశారు, బకాయిల కోసం దివాన్-ఇ-ముస్తఖ్‌రాజ్ విభాగాన్ని నెలకొల్పారు."
+    },
+    {
+      "id": 78,
+      "subject": "Indian History",
+      "topic": "Ancient Indian History - Four Buddhist Councils: Royal Patrons, Presidents & Canonical Outcomes",
+      "source_channel": "Winners Online (Winners Publications)",
+      "source_video_id": "winners_history_buddhism_jainism_councils",
+      "raw_video_hook": "ప్రాచీన భారతదేశంలో నాలుగు బౌద్ధ సంగీతులు, పాలకులు, అధ్యక్షులు మరియు సుత్త, వినయ, అభిధమ్మ త్రిపీటకాల సంకలనం.",
+      "question_type": "Match the Following",
+      "question_en": "Match the following Buddhist Councils held in ancient India with their respective presiding monks, royal patrons, and key canonical outcomes:\n(A) First Buddhist Council (Sattapanni Cave, Rajagriha - 483 BC)   - (1) Patron: Kalashoka; Presided by Sabakami; First doctrinal schism into Sthaviravadins and Mahasanghikas\n(B) Second Buddhist Council (Vaishali - 383 BC)                     - (2) Patron: Kanishka; Presided by Vasumitra (Ashvaghosha as deputy); Formal division of Buddhism into Mahayana and Hinayana\n(C) Third Buddhist Council (Pataliputra - 250 BC)                   - (3) Patron: Ajatashatru; Presided by Mahakassapa; Recitation and compilation of the Sutta Pitaka (by Ananda) and Vinaya Pitaka (by Upali)\n(D) Fourth Buddhist Council (Kundalavana, Kashmir - 72 AD)          - (4) Patron: Ashoka; Presided by Moggaliputta Tissa; Compilation of the Abhidhamma Pitaka and rejection of heretical doctrines (Kathavatthu)\nCorrect matching code:",
+      "question_te": "ప్రాచీన భారతదేశంలో జరిగిన నాలుగు బౌద్ధ సంగీతులను (Buddhist Councils) వాటి పాలకులు, అధ్యక్షులు మరియు చారిత్రక పరిణామాలతో జతపరచండి:\n(A) మొదటి బౌద్ధ సంగీతి (సప్తపర్ణి గుహ, రాజగృహ - క్రీ.పూ. 483)   - (1) పాలకుడు: కాలశోకుడు; అధ్యక్షుడు: సభకామి; బౌద్ధంలో స్థవిరవాదులు మరియు మహాసాంఘికులుగా మొదటి చీలిక\n(B) రెండవ బౌద్ధ సంగీతి (వైశాలి - క్రీ.పూ. 383)                     - (2) పాలకుడు: కనిష్కుడు; అధ్యక్షుడు: వసుమిత్రుడు (ఉపాధ్యక్షుడు: అశ్వఘోషుడు); బౌద్ధం మహాయాన, హీనయాన శాఖలుగా అధికారిక విభజన\n(C) మూడవ బౌద్ధ సంగీతి (పాటలీపుత్రం - క్రీ.పూ. 250)                   - (3) పాలకుడు: అజాతశత్రువు; అధ్యక్షుడు: మహాకశ్యపుడు; ఆనందుని చేత సుత్తపీటకం, ఉపాలి చేత వినయపీటకం పఠనం మరియు సంకలనం\n(D) నాల్గవ బౌద్ధ సంగీతి (కుండలవనం, కాశ్మీర్ - క్రీ.శ. 72)          - (4) పాలకుడు: అశోకుడు; అధ్యక్షుడు: మొగ్గలిపుత్త తిస్స; అభిధమ్మపీటకం సంకలనం మరియు అసమ్మతి వాదాల ఖండన గ్రంథం 'కథావత్తు' రచన\nసరైన కోడ్‌ను ఎంచుకోండి:",
+      "options_en": [
+        "A-3, B-1, C-4, D-2",
+        "A-1, B-3, C-4, D-2",
+        "A-3, B-4, C-1, D-2",
+        "A-4, B-1, C-3, D-2"
+      ],
+      "options_te": [
+        "A-3, B-1, C-4, D-2",
+        "A-1, B-3, C-4, D-2",
+        "A-3, B-4, C-1, D-2",
+        "A-4, B-1, C-3, D-2"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Correct matching is A-3, B-1, C-4, D-2. The 1st Council at Rajagriha compiled Sutta Pitaka (doctrine) and Vinaya Pitaka (monastic discipline). The 2nd Council at Vaishali resulted in the initial split between elders (Sthaviravadins) and progressives (Mahasanghikas). The 3rd Council at Pataliputra under Emperor Ashoka finalized the Tripitaka by incorporating Abhidhamma Pitaka. The 4th Council in Kashmir under Kanishka crystallized Mahayana vs Hinayana and composed the Mahavibhasha shastras.",
+      "explanation_te": "సరైన జత: A-3, B-1, C-4, D-2. మొదటి సంగీతి రాజగృహంలో అజాతశత్రువు కాలంలో జరిగి సుత్త, వినయ పీటకాలు సంకలనం అయ్యాయి. రెండవది వైశాలిలో కాలశోకుని కాలంలో జరిగి స్థవిరవాదులు, మహాసాంఘికులుగా చీలారు. మూడవది పాటలీపుత్రంలో అశోకుని ఆధ్వర్యంలో జరిగి అభిధమ్మ పీటకం చేరింది. నాల్గవది కాశ్మీర్‌లో కనిష్కుని ఆధ్వర్యంలో జరిగి మహాయాన, హీనయానాలుగా విడిపోయింది."
+    },
+    {
+      "id": 79,
+      "subject": "Telangana History",
+      "topic": "Telangana Culture & Architecture - Ramappa (Rudreshwara) Temple (UNESCO World Heritage Site)",
+      "source_channel": "T-SAT Network (Govt of Telangana)",
+      "source_video_id": "tsat_tg_art_ramappa_rudreshwara_temple",
+      "raw_video_hook": "కాకతీయ శైలి రామప్ప దేవాలయం పాలంపేట, రేచర్ల రుద్రుడి నిర్మాణం, శాండ్‌బాక్స్ సాంకేతికత, తేలియాడే ఇటుకలు మరియు 2021 యునెస్కో గుర్తింపు.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the Ramappa (Rudreshwara) Temple situated at Palampet in Mulugu district of Telangana:\n1. It was constructed in 1213 AD during the reign of Kakatiya King Ganapati Deva by his brilliant general Recharla Rudra, and is the only ancient temple in India named after its chief master architect/sculptor, Ramappa.\n2. The temple's foundational substructure was engineered using earthquake-resilient 'Sandbox technology' (layers of sand, jaggery, and karakkaya paste), while its roof shikharas were built using porous, lightweight floating bricks with density lower than water.\n3. The temple complex was inscribed as a UNESCO World Heritage Site in July 2021, distinguished for its black basalt bracket sculptures (Madanikas or Salabhanjikas) portraying classical celestial dancers.\nWhich of the statements given above are correct?",
+      "question_te": "తెలంగాణలోని ములుగు జిల్లా పాలంపేటలో ఉన్న ప్రసిద్ధ 'రామప్ప' (రుద్రేశ్వర) దేవాలయానికి సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. కాకతీయ చక్రవర్తి గణపతిదేవుని పాలనా కాలంలో క్రీ.శ. 1213 లో ఆయన సైన్యాధిపతి రేచర్ల రుద్రుడు ఈ ఆలయాన్ని నిర్మించారు; భారతదేశంలో ప్రధాన శిల్పి (రామప్ప) పేరు మీదుగా పిలువబడుతున్న ఏకైక ప్రాచీన ఆలయం ఇది.\n2. భూకంపాల తీవ్రతను శోషించుకునేందుకు ఆలయ పునాదిలో 'శాండ్‌బాక్స్ సాంకేతికతను' (ఇసుక, బెల్లం, కరక్కాయ మిశ్రమం) ఉపయోగించారు; అలాగే ఆలయ గోపురాన్ని నీటిలో తేలియాడేంత తేలికైన పోరస్ ఇటుకలతో (Floating Bricks) నిర్మించారు.\n3. ఈ దేవాలయం తన అద్భుతమైన నల్లటి బసాల్ట్ శిలా శిల్పాలు (మదనికలు/సాలభంజికలు) మరియు కాకతీయ శిల్పకళా రీతికి గుర్తింపుగా 2021 జూలైలో యునెస్కో (UNESCO) ప్రపంచ వారసత్వ సంపద హోదాను పొందింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. The Ramappa Temple was erected in 1213 AD under the patronage of Recharla Rudra, Kakatiya commander under Ganapati Deva. Uniquely, the shrine bears the name of sculptor Ramappa. Its engineering marvels include floating bricks (density ~0.8 to 0.9 g/cm³) and sandbox foundation, which protected it during the 17th-century earthquake. In July 2021, UNESCO inscribed it as India's 39th World Heritage Site.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. గణపతిదేవుని సైన్యాధిపతి రేచర్ల రుద్రుడు 1213 లో పాలంపేటలో ఈ రుద్రేశ్వరాలయాన్ని నిర్మించాడు. శిల్పి రామప్ప పేరుతో ఈ ఆలయం ప్రసిద్ధి చెందింది. భూకంప నిరోధక శాండ్‌బాక్స్ సాంకేతికత మరియు నీటిలో తేలే ఇటుకలు ఈ ఆలయ నిర్మాణ విశేషాలు. 12 అందమైన మదనికల శిల్పాలు గల ఈ ఆలయాన్ని 2021 లో యునెస్కో ప్రపంచ వారసత్వ సంపదగా గుర్తించింది."
+    },
+    {
+      "id": 80,
+      "subject": "Indian Polity",
+      "topic": "Federalism & Constitutional Bodies - Inter-State Council (Article 263) & Centre-State Coordination",
+      "source_channel": "T-SAT Network (Govt of Telangana)",
+      "source_video_id": "tsat_polity_interstate_council_art263",
+      "raw_video_hook": "రాజ్యాంగంలోని అధికరణ 263 అంతర్-రాష్ట్ర మండలి (Inter-State Council), సర్కారియా కమిషన్ సిఫార్సులు, ప్రధాని అధ్యక్షత మరియు సభ్యుల కూర్పు.",
+      "question_type": "Multi-Statement",
+      "question_en": "Consider the following statements regarding the Inter-State Council constituted under Article 263 of the Constitution of India:\n1. Article 263 empowers the President to establish an Inter-State Council if at any time it appears that public interests would be served by its creation.\n2. The Inter-State Council was established as a permanent constitutional consultative body in 1990 by a Presidential Order on the recommendations of the Justice R.S. Sarkaria Commission on Centre-State Relations (1988).\n3. The Council is headed by the Prime Minister as its Chairman, and its composition includes the Chief Ministers of all States and Union Territories having Legislative Assemblies, Administrators of UTs without assemblies, and six Union Cabinet Ministers nominated by the Prime Minister.\nWhich of the statements given above are correct?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణ 263 కింద ఏర్పాటయ్యే 'అంతర్-రాష్ట్ర మండలి'కి (Inter-State Council) సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. ప్రజల ప్రయోజనాలకు అవసరమని భావించినప్పుడు రాష్ట్రపతి తన ఉత్తర్వు ద్వారా అంతర్-రాష్ట్ర మండలిని ఏర్పాటు చేసే అధికారాన్ని రాజ్యాంగంలోని ఆర్టికల్ 263 కల్పించింది.\n2. కేంద్ర-రాష్ట్ర సంబంధాలపై ఏర్పాటైన జస్టిస్ ఆర్.ఎస్. సర్కారియా కమిషన్ (1988) సిఫార్సుల మేరకు 1990 లో రాష్ట్రపతి ఉత్తర్వుల ద్వారా అంతర్-రాష్ట్ర మండలిని శాశ్వత రాజ్యాంగ సలహా సంస్థగా ఏర్పాటు చేశారు.\n3. భారత ప్రధాన మంత్రి ఈ మండలికి ఛైర్మన్‌గా వ్యవహరిస్తారు; అన్ని రాష్ట్రాల ముఖ్యమంత్రులు, శాసనసభలు కలిగిన కేంద్రపాలిత ప్రాంతాల ముఖ్యమంత్రులు, ఇతర కేంద్రపాలిత ప్రాంతాల లెఫ్టినెంట్ గవర్నర్లు/పాలకులు మరియు ప్రధాన మంత్రి నామినేట్ చేసిన ఆరుగురు కేంద్ర కేబినెట్ మంత్రులు ఇందులో సభ్యులుగా ఉంటారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
+      "options_en": [
+        "1 and 2 only",
+        "2 and 3 only",
+        "1 and 3 only",
+        "1, 2, and 3"
+      ],
+      "options_te": [
+        "1 మరియు 2 మాత్రమే",
+        "2 మరియు 3 మాత్రమే",
+        "1 మరియు 3 మాత్రమే",
+        "1, 2 మరియు 3"
+      ],
+      "correct_option": 3,
+      "explanation_en": "All three statements are correct. Article 263 provides for an Inter-State Council to investigate and discuss common subjects, inquire into disputes between states, and promote cooperative federalism. Following the Sarkaria Commission report, the V.P. Singh government instituted it via Presidential Order on 28 May 1990. Chaired by the Prime Minister, it comprises all State CMs, UT heads, and 6 nominated Union Cabinet Ministers.",
+      "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ఆర్టికల్ 263 ప్రకారం రాష్ట్రపతి అంతర్-రాష్ట్ర మండలిని ఏర్పాటు చేయవచ్చు. సర్కారియా కమిషన్ సిఫార్సుల ప్రకారం 1990 మే 28న రాష్ట్రపతి ఉత్తర్వుతో ఇది ఏర్పాటైంది. ప్రధాని అధ్యక్షతన సమావేశమయ్యే ఈ మండలిలో అన్ని రాష్ట్రాల ముఖ్యమంత్రులు, శాసనసభలున్న యూటీల సీఎంలు, యూటీల లెఫ్టినెంట్ గవర్నర్లు, 6 గురు కేంద్ర కేబినెట్ మంత్రులు సభ్యులుగా ఉంటారు."
     }
   ]
 }
