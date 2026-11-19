@@ -531,6 +531,20 @@ const TEST_CATALOG = [
     isFreeDemo: false,
     description: 'Comprehensive 200Q benchmark paper assembled from verified reserve faculty pools: Speed-Distance-Time, Mensuration 2D/3D, Calendar Repetition, Telangana Armed Struggle & Statehood, Indian Polity, National Movement, and 2026 Current Affairs.',
   },
+  {
+    testId: 'tsplrb-si-mock-full-200-12',
+    title: 'TSPLRB SI Mock Test 12 (Easy • Foundational Speed & High-Accuracy PWT)',
+    title_te: 'తెలంగాణ ఎస్సై మాక్ టెస్ట్ 12 (ఈజీ • ఫౌండేషనల్ స్పీడ్ & హై-ఆక్యురసీ PWT)',
+    exam: 'TSPLRB Sub-Inspector Preliminary Written Test (PWT)',
+    difficulty: 'Easy',
+    totalQuestions: 200,
+    totalMarks: 200,
+    durationMinutes: 180,
+    marksPerQuestion: 1.0,
+    negativeMarking: 0.20,
+    isFreeDemo: false,
+    description: 'High-yield foundational 200Q paper designed for rapid solving, formula mastery, and concept reinforcement: Direct Arithmetic, Essential Reasoning, Core Polity Articles, Telangana Heritage & Statehood, and Vital Science.',
+  },
 ];
 
 app.get('/api/tests', async (req, res) => {
@@ -605,6 +619,7 @@ app.get('/api/tests/:id/questions', async (req, res) => {
     else if (id === 'tsplrb-si-mock-full-200-9') fileName = 'mock_test_full_200_9.json';
     else if (id === 'tsplrb-si-mock-full-200-10') fileName = 'mock_test_full_200_10.json';
     else if (id === 'tsplrb-si-mock-full-200-11') fileName = 'mock_test_full_200_11.json';
+    else if (id === 'tsplrb-si-mock-full-200-12') fileName = 'mock_test_full_200_12.json';
 
     const localFilePath = path.join(process.cwd(), 'public/data', fileName);
     let questionsData = [];
@@ -674,6 +689,7 @@ app.post('/api/tests/:id/submit', async (req, res) => {
     else if (id === 'tsplrb-si-mock-full-200-9') fileName = 'mock_test_full_200_9.json';
     else if (id === 'tsplrb-si-mock-full-200-10') fileName = 'mock_test_full_200_10.json';
     else if (id === 'tsplrb-si-mock-full-200-11') fileName = 'mock_test_full_200_11.json';
+    else if (id === 'tsplrb-si-mock-full-200-12') fileName = 'mock_test_full_200_12.json';
 
     const localFilePath = path.join(process.cwd(), 'public/data', fileName);
     let masterQuestions = [];

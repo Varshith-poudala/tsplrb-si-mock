@@ -1,0 +1,4605 @@
+{
+  "testId": "tsplrb-si-mock-full-200-12",
+  "questions": [
+    {
+      "id": 1,
+      "qNumber": 1,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Speed, Distance & Time - Pole Crossing",
+      "question_en": "A train 180 metres long is running at a speed of 54 km/h. How much time will it take to cross an electric pole?",
+      "question_te": "54 కి.మీ/గం వేగంతో ప్రయాణిస్తున్న 180 మీటర్ల పొడవు గల ఒక రైలు ఒక విద్యుత్ స్తంభాన్ని దాటడానికి ఎంత సమయం పడుతుంది?",
+      "options_en": [
+        "10 seconds",
+        "12 seconds",
+        "15 seconds",
+        "18 seconds"
+      ],
+      "options_te": [
+        "10 సెకన్లు",
+        "12 సెకన్లు",
+        "15 సెకన్లు",
+        "18 సెకన్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Speed in m/s = 54 * (5/18) = 15 m/s. Distance to cross a pole = length of the train = 180 m. Time = Distance / Speed = 180 / 15 = 12 seconds.",
+      "explanation_te": "వేగం = 54 * (5/18) = 15 మీ/సె. దాటవలసిన దూరం = రైలు పొడవు = 180 మీ. కాలం = దూరం / వేగం = 180 / 15 = 12 సెకన్లు."
+    },
+    {
+      "id": 2,
+      "qNumber": 2,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Speed, Distance & Time - Average Speed",
+      "question_en": "A police constable travels from Hyderabad to Warangal at a speed of 60 km/h and returns along the same route at a speed of 40 km/h. What is the average speed for the entire journey?",
+      "question_te": "ఒక పోలీస్ కానిస్టేబుల్ హైదరాబాద్ నుండి వరంగల్‌కు 60 కి.మీ/గం వేగంతో వెళ్లి, అదే మార్గంలో 40 కి.మీ/గం వేగంతో తిరిగి వస్తాడు. మొత్తం ప్రయాణానికి అతని సగటు వేగం ఎంత?",
+      "options_en": [
+        "48 km/h",
+        "50 km/h",
+        "52 km/h",
+        "45 km/h"
+      ],
+      "options_te": [
+        "48 కి.మీ/గం",
+        "50 కి.మీ/గం",
+        "52 కి.మీ/గం",
+        "45 కి.మీ/గం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Average speed for equal distances = 2xy / (x + y) = (2 * 60 * 40) / (60 + 40) = 4800 / 100 = 48 km/h.",
+      "explanation_te": "సమాన దూరాలకు సగటు వేగం = 2xy / (x + y) = (2 * 60 * 40) / (60 + 40) = 48 కి.మీ/గం."
+    },
+    {
+      "id": 3,
+      "qNumber": 3,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Speed, Distance & Time - Relative Speed",
+      "question_en": "Two cars start at the same time from two towns 300 km apart and travel towards each other. If their speeds are 65 km/h and 55 km/h respectively, after how many hours will they meet?",
+      "question_te": "300 కి.మీ దూరంలో ఉన్న రెండు పట్టణాల నుండి రెండు కార్లు ఒకే సమయంలో బయలుదేరి ఒకదానికొకటి ఎదురెదురుగా ప్రయాణిస్తున్నాయి. వాటి వేగాలు వరుసగా 65 కి.మీ/గం మరియు 55 కి.మీ/గం అయితే, అవి ఎన్ని గంటల తర్వాత కలుసుకుంటాయి?",
+      "options_en": [
+        "2 hours",
+        "2.5 hours",
+        "3 hours",
+        "3.5 hours"
+      ],
+      "options_te": [
+        "2 గంటలు",
+        "2.5 గంటలు",
+        "3 గంటలు",
+        "3.5 గంటలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Relative speed in opposite directions = 65 + 55 = 120 km/h. Time to meet = Total distance / Relative speed = 300 / 120 = 2.5 hours.",
+      "explanation_te": "ఎదురెదురు దిశల్లో సాపేక్ష వేగం = 65 + 55 = 120 కి.మీ/గం. కలిసే సమయం = 300 / 120 = 2.5 గంటలు."
+    },
+    {
+      "id": 4,
+      "qNumber": 4,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Speed, Distance & Time - Distance",
+      "question_en": "A motorist covers a certain distance in 4 hours while driving at a uniform speed of 45 km/h. If he wants to cover the same distance in 3 hours, at what speed must he drive?",
+      "question_te": "ఒక మోటారు వాహనదారుడు 45 కి.మీ/గం స్థిర వేగంతో ప్రయాణిస్తూ ఒక నిర్ణీత దూరాన్ని 4 గంటల్లో చేరుకుంటాడు. అదే దూరాన్ని 3 గంటల్లో చేరుకోవాలంటే అతను ఎంత వేగంతో ప్రయాణించాలి?",
+      "options_en": [
+        "55 km/h",
+        "60 km/h",
+        "65 km/h",
+        "50 km/h"
+      ],
+      "options_te": [
+        "55 కి.మీ/గం",
+        "60 కి.మీ/గం",
+        "65 కి.మీ/గం",
+        "50 కి.మీ/గం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total distance = Speed * Time = 45 * 4 = 180 km. Required speed for 3 hours = Distance / Time = 180 / 3 = 60 km/h.",
+      "explanation_te": "మొత్తం దూరం = 45 * 4 = 180 కి.మీ. 3 గంటల్లో చేరడానికి కావలసిన వేగం = 180 / 3 = 60 కి.మీ/గం."
+    },
+    {
+      "id": 5,
+      "qNumber": 5,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Time & Work - Work Together",
+      "question_en": "A can complete a piece of work alone in 15 days, and B can complete the same work alone in 30 days. In how many days can A and B together finish the work?",
+      "question_te": "ఒక పనిని A ఒంటరిగా 15 రోజుల్లో, B ఒంటరిగా 30 రోజుల్లో పూర్తి చేయగలరు. A మరియు B కలిసి ఆ పనిని ఎన్ని రోజుల్లో పూర్తి చేయగలరు?",
+      "options_en": [
+        "10 days",
+        "12 days",
+        "8 days",
+        "9 days"
+      ],
+      "options_te": [
+        "10 రోజులు",
+        "12 రోజులు",
+        "8 రోజులు",
+        "9 రోజులు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Together time = (A * B) / (A + B) = (15 * 30) / (15 + 30) = 450 / 45 = 10 days.",
+      "explanation_te": "ఇద్దరూ కలిసి పూర్తి చేసే కాలం = (15 * 30) / (15 + 30) = 450 / 45 = 10 రోజులు."
+    },
+    {
+      "id": 6,
+      "qNumber": 6,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Time & Work - Three Persons",
+      "question_en": "A, B, and C can complete a job individually in 12 days, 15 days, and 20 days respectively. If they all work together, how many days will they take to complete the work?",
+      "question_te": "A, B మరియు C లు విడివిడిగా ఒక పనిని వరుసగా 12 రోజులు, 15 రోజులు మరియు 20 రోజుల్లో పూర్తి చేయగలరు. వారందరూ కలిసి పనిచేస్తే ఆ పనిని ఎన్ని రోజుల్లో పూర్తి చేస్తారు?",
+      "options_en": [
+        "4 days",
+        "5 days",
+        "6 days",
+        "7 days"
+      ],
+      "options_te": [
+        "4 రోజులు",
+        "5 రోజులు",
+        "6 రోజులు",
+        "7 రోజులు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "1 day work = 1/12 + 1/15 + 1/20. LCM of (12, 15, 20) = 60. Work done = (5 + 4 + 3)/60 = 12/60 = 1/5. Days required = 5 days.",
+      "explanation_te": "ఒక రోజు పని = 1/12 + 1/15 + 1/20 = 12/60 = 1/5. కాబట్టి మొత్తం పట్టే రోజులు = 5 రోజులు."
+    },
+    {
+      "id": 7,
+      "qNumber": 7,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Pipes & Cisterns - Filling Tank",
+      "question_en": "Two inlet pipes A and B can fill an empty overhead water tank in 20 minutes and 30 minutes respectively. If both pipes are opened simultaneously, in how many minutes will the tank be full?",
+      "question_te": "రెండు పైపులు A మరియు B లు ఒక ఖాళీ నీటి ట్యాంకును వరుసగా 20 నిమిషాలు మరియు 30 నిమిషాల్లో నింపగలవు. రెండు పైపులను ఒకేసారి తెరిస్తే ఆ ట్యాంక్ ఎన్ని నిమిషాల్లో నిండుతుంది?",
+      "options_en": [
+        "10 minutes",
+        "12 minutes",
+        "15 minutes",
+        "16 minutes"
+      ],
+      "options_te": [
+        "10 నిమిషాలు",
+        "12 నిమిషాలు",
+        "15 నిమిషాలు",
+        "16 నిమిషాలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Time = (20 * 30) / (20 + 30) = 600 / 50 = 12 minutes.",
+      "explanation_te": "ట్యాంక్ నిండటానికి పట్టే సమయం = (20 * 30) / (20 + 30) = 600 / 50 = 12 నిమిషాలు."
+    },
+    {
+      "id": 8,
+      "qNumber": 8,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Pipes & Cisterns - Inlet with Leak",
+      "question_en": "A tap can fill a cistern in 8 hours, but due to a leak at the bottom, it takes 10 hours to fill it. If the cistern is full, in how many hours will the leak empty it?",
+      "question_te": "ఒక కుళాయి ఒక తొట్టిని 8 గంటల్లో నింపగలదు, కానీ అడుగున రంధ్రం ఉండటం వల్ల అది నిండటానికి 10 గంటలు పట్టింది. తొట్టి నిండి ఉన్నప్పుడు, ఆ రంధ్రం దానిని ఎన్ని గంటల్లో ఖాళీ చేస్తుంది?",
+      "options_en": [
+        "35 hours",
+        "40 hours",
+        "45 hours",
+        "50 hours"
+      ],
+      "options_te": [
+        "35 గంటలు",
+        "40 గంటలు",
+        "45 గంటలు",
+        "50 గంటలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Leak rate = 1/8 - 1/10 = (5 - 4)/40 = 1/40 per hour. Thus, the leak alone will empty the tank in 40 hours.",
+      "explanation_te": "రంధ్రం ఖాళీ చేసే రేటు = 1/8 - 1/10 = 1/40. కాబట్టి రంధ్రం మొత్తం తొట్టిని 40 గంటల్లో ఖాళీ చేస్తుంది."
+    },
+    {
+      "id": 9,
+      "qNumber": 9,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Percentages - Basic Calculation",
+      "question_en": "In a police recruitment physical efficiency test, 65% of the total candidates qualified. If 1,050 candidates failed the test, what was the total number of candidates who appeared?",
+      "question_te": "పోలీస్ రిక్రూట్‌మెంట్ దేహదారుఢ్య పరీక్షలో మొత్తం అభ్యర్థులలో 65% మంది అర్హత సాధించారు. 1,050 మంది అభ్యర్థులు అర్హత సాధించలేకపోతే, పరీక్షకు హాజరైన మొత్తం అభ్యర్థుల సంఖ్య ఎంత?",
+      "options_en": [
+        "2,500",
+        "2,800",
+        "3,000",
+        "3,200"
+      ],
+      "options_te": [
+        "2,500",
+        "2,800",
+        "3,000",
+        "3,200"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Failed percentage = 100% - 65% = 35%. 35% of Total = 1050 => Total = 1050 * (100 / 35) = 30 * 100 = 3,000 candidates.",
+      "explanation_te": "అర్హత సాధించని వారి శాతం = 35%. మొత్తం అభ్యర్థులు = 1050 * (100 / 35) = 3,000."
+    },
+    {
+      "id": 10,
+      "qNumber": 10,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Percentages - Expenditure Invariance",
+      "question_en": "If the price of cooking oil increases by 25%, by what percentage must a household reduce its consumption so that the total expenditure remains unchanged?",
+      "question_te": "వంటనూనె ధర 25% పెరిగితే, కుటుంబ ఖర్చు పెరగకుండా ఉండాలంటే నూనె వినియోగాన్ని ఎంత శాతం తగ్గించుకోవాలి?",
+      "options_en": [
+        "18%",
+        "20%",
+        "22.5%",
+        "25%"
+      ],
+      "options_te": [
+        "18%",
+        "20%",
+        "22.5%",
+        "25%"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Percentage reduction = [R / (100 + R)] * 100 = [25 / 125] * 100 = (1/5) * 100 = 20%.",
+      "explanation_te": "వినియోగం తగ్గించుకోవలసిన శాతం = [25 / (100 + 25)] * 100 = 20%."
+    },
+    {
+      "id": 11,
+      "qNumber": 11,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Profit & Loss - Profit Percentage",
+      "question_en": "A shopkeeper purchases an article for Rs 400 and sells it for Rs 500. What is his profit percentage?",
+      "question_te": "ఒక దుకాణదారుడు ఒక వస్తువును రూ. 400 లకు కొని రూ. 500 లకు విక్రయిస్తాడు. అతని లాభ శాతం ఎంత?",
+      "options_en": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "options_te": [
+        "20%",
+        "25%",
+        "30%",
+        "15%"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Profit = SP - CP = 500 - 400 = Rs 100. Profit % = (Profit / CP) * 100 = (100 / 400) * 100 = 25%.",
+      "explanation_te": "లాభం = 500 - 400 = రూ. 100. లాభ శాతం = (100 / 400) * 100 = 25%."
+    },
+    {
+      "id": 12,
+      "qNumber": 12,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Profit & Loss - Loss Percentage",
+      "question_en": "A bicycle bought for Rs 2,400 was sold at a loss of 15%. What was the selling price of the bicycle?",
+      "question_te": "రూ. 2,400 లకు కొన్న ఒక సైకిల్‌ను 15% నష్టానికి అమ్మితే, ఆ సైకిల్ అమ్మకపు ధర ఎంత?",
+      "options_en": [
+        "Rs 2,000",
+        "Rs 2,040",
+        "Rs 2,080",
+        "Rs 2,120"
+      ],
+      "options_te": [
+        "రూ. 2,000",
+        "రూ. 2,040",
+        "రూ. 2,080",
+        "రూ. 2,120"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Selling Price = CP * (100 - Loss%) / 100 = 2400 * 85 / 100 = 24 * 85 = Rs 2,040.",
+      "explanation_te": "అమ్మకపు ధర = 2400 * (100 - 15)/100 = 24 * 85 = రూ. 2,040."
+    },
+    {
+      "id": 13,
+      "qNumber": 13,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Profit & Loss - Finding Cost Price",
+      "question_en": "By selling a table for Rs 1,320, a trader gains 10%. What was the cost price of the table?",
+      "question_te": "ఒక బల్లను రూ. 1,320 లకు అమ్మడం ద్వారా ఒక వ్యాపారి 10% లాభం పొందుతాడు. ఆ బల్ల కొన్నవెల ఎంత?",
+      "options_en": [
+        "Rs 1,150",
+        "Rs 1,200",
+        "Rs 1,220",
+        "Rs 1,250"
+      ],
+      "options_te": [
+        "రూ. 1,150",
+        "రూ. 1,200",
+        "రూ. 1,220",
+        "రూ. 1,250"
+      ],
+      "correct_option": 1,
+      "explanation_en": "CP = SP * 100 / (100 + Gain%) = 1320 * 100 / 110 = 12 * 100 = Rs 1,200.",
+      "explanation_te": "కొన్నవెల = 1320 * 100 / 110 = రూ. 1,200."
+    },
+    {
+      "id": 14,
+      "qNumber": 14,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Profit & Loss - Single Equivalent Discount",
+      "question_en": "What is the single discount equivalent to two successive discounts of 20% and 10%?",
+      "question_te": "20% మరియు 10% వరుస తగ్గింపులకు (డిస్కౌంట్లు) సమానమైన ఒకే తగ్గింపు ఎంత?",
+      "options_en": [
+        "28%",
+        "30%",
+        "26%",
+        "32%"
+      ],
+      "options_te": [
+        "28%",
+        "30%",
+        "26%",
+        "32%"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Equivalent discount = (d1 + d2) - (d1 * d2 / 100) = (20 + 10) - (200 / 100) = 30 - 2 = 28%.",
+      "explanation_te": "సమానమైన ఒకే తగ్గింపు = (20 + 10) - (20 * 10 / 100) = 30 - 2 = 28%."
+    },
+    {
+      "id": 15,
+      "qNumber": 15,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Simple Interest - Basic Formula",
+      "question_en": "Find the simple interest on a principal sum of Rs 8,000 invested for 3 years at an annual interest rate of 5%.",
+      "question_te": "రూ. 8,000 అసలుపై సంవత్సరానికి 5% వడ్డీ రేటు చొప్పున 3 సంవత్సరాలకు అయ్యే సాధారణ వడ్డీ ఎంత?",
+      "options_en": [
+        "Rs 1,000",
+        "Rs 1,200",
+        "Rs 1,400",
+        "Rs 1,500"
+      ],
+      "options_te": [
+        "రూ. 1,000",
+        "రూ. 1,200",
+        "రూ. 1,400",
+        "రూ. 1,500"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Simple Interest = (P * T * R) / 100 = (8000 * 3 * 5) / 100 = 80 * 15 = Rs 1,200.",
+      "explanation_te": "సాధారణ వడ్డీ = (PTR)/100 = (8000 * 3 * 5) / 100 = రూ. 1,200."
+    },
+    {
+      "id": 16,
+      "qNumber": 16,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Simple Interest - Rate Calculation",
+      "question_en": "At what annual rate of simple interest will a sum of money double itself in 8 years?",
+      "question_te": "ఎంత సాధారణ వడ్డీ రేటు వద్ద ఒక సొమ్ము 8 సంవత్సరాలలో రెట్టింపు అవుతుంది?",
+      "options_en": [
+        "10%",
+        "12%",
+        "12.5%",
+        "15%"
+      ],
+      "options_te": [
+        "10%",
+        "12%",
+        "12.5%",
+        "15%"
+      ],
+      "correct_option": 2,
+      "explanation_en": "If money doubles, Interest = Principal (SI = P). R = (100 * SI) / (P * T) = (100 * P) / (P * 8) = 100 / 8 = 12.5%.",
+      "explanation_te": "సొమ్ము రెట్టింపు అయితే వడ్డీ = అసలు. వడ్డీ రేటు R = 100 / కాలం = 100 / 8 = 12.5%."
+    },
+    {
+      "id": 17,
+      "qNumber": 17,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Compound Interest - 2 Years",
+      "question_en": "What will be the compound interest on a principal of Rs 10,000 compounded annually for 2 years at 10% per annum?",
+      "question_te": "సంవత్సరానికి 10% చక్రవడ్డీ రేటు చొప్పున రూ. 10,000 అసలుపై 2 సంవత్సరాలకు అయ్యే చక్రవడ్డీ ఎంత?",
+      "options_en": [
+        "Rs 2,000",
+        "Rs 2,100",
+        "Rs 2,200",
+        "Rs 2,400"
+      ],
+      "options_te": [
+        "రూ. 2,000",
+        "రూ. 2,100",
+        "రూ. 2,200",
+        "రూ. 2,400"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Amount = 10000 * (1.10)^2 = 10000 * 1.21 = Rs 12,100. Compound Interest = Amount - Principal = 12100 - 10000 = Rs 2,100.",
+      "explanation_te": "మొత్తం = 10000 * (1 + 10/100)^2 = 10000 * 1.21 = రూ. 12,100. చక్రవడ్డీ = 12,100 - 10,000 = రూ. 2,100."
+    },
+    {
+      "id": 18,
+      "qNumber": 18,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Interest - CI vs SI Difference",
+      "question_en": "The difference between the compound interest and simple interest on a sum of Rs 5,000 for 2 years at 8% per annum is:",
+      "question_te": "రూ. 5,000 అసలుపై సంవత్సరానికి 8% వడ్డీ రేటుతో 2 సంవత్సరాలకు చక్రవడ్డీ మరియు సాధారణ వడ్డీల మధ్య తేడా ఎంత?",
+      "options_en": [
+        "Rs 32",
+        "Rs 40",
+        "Rs 48",
+        "Rs 64"
+      ],
+      "options_te": [
+        "రూ. 32",
+        "రూ. 40",
+        "రూ. 48",
+        "రూ. 64"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Difference for 2 years = P * (R / 100)^2 = 5000 * (8 / 100)^2 = 5000 * (64 / 10000) = 5000 * 0.0064 = Rs 32.",
+      "explanation_te": "2 సంవత్సరాలకు తేడా = P * (R/100)^2 = 5000 * (8/100)^2 = 5000 * 64/10000 = రూ. 32."
+    },
+    {
+      "id": 19,
+      "qNumber": 19,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Ratio & Proportion - Combined Ratio",
+      "question_en": "If A : B = 2 : 3 and B : C = 4 : 5, what is the combined ratio A : B : C?",
+      "question_te": "A : B = 2 : 3 మరియు B : C = 4 : 5 అయితే, A : B : C నిష్పత్తి ఎంత?",
+      "options_en": [
+        "8 : 12 : 15",
+        "6 : 12 : 15",
+        "8 : 10 : 15",
+        "6 : 9 : 15"
+      ],
+      "options_te": [
+        "8 : 12 : 15",
+        "6 : 12 : 15",
+        "8 : 10 : 15",
+        "6 : 9 : 15"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A : B = 2 : 3 = 8 : 12. B : C = 4 : 5 = 12 : 15. Thus A : B : C = 8 : 12 : 15.",
+      "explanation_te": "A:B = 8:12, B:C = 12:15. కాబట్టి A : B : C = 8 : 12 : 15."
+    },
+    {
+      "id": 20,
+      "qNumber": 20,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Ratio & Proportion - Division of Sum",
+      "question_en": "A reward sum of Rs 4,500 is divided between two police officers Ravi and Kiran in the ratio 4 : 5. What is Kiran's share?",
+      "question_te": "రూ. 4,500 రివార్డు మొత్తాన్ని రవి మరియు కిరణ్ అనే ఇద్దరు పోలీసు అధికారులకు 4 : 5 నిష్పత్తిలో పంచారు. కిరణ్ వాటా ఎంత?",
+      "options_en": [
+        "Rs 2,000",
+        "Rs 2,250",
+        "Rs 2,500",
+        "Rs 2,750"
+      ],
+      "options_te": [
+        "రూ. 2,000",
+        "రూ. 2,250",
+        "రూ. 2,500",
+        "రూ. 2,750"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Total parts = 4 + 5 = 9 parts. Value of 1 part = 4500 / 9 = Rs 500. Kiran's share (5 parts) = 5 * 500 = Rs 2,500.",
+      "explanation_te": "మొత్తం భాగాలు = 4 + 5 = 9 భాగాలు. 1 భాగం = 4500 / 9 = రూ. 500. కిరణ్ వాటా (5 భాగాలు) = 5 * 500 = రూ. 2,500."
+    },
+    {
+      "id": 21,
+      "qNumber": 21,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Ratio & Proportion - Mean Proportional",
+      "question_en": "What is the mean proportional between 9 and 25?",
+      "question_te": "9 మరియు 25 ల మధ్యమ అనుపాతం (Mean Proportional) ఎంత?",
+      "options_en": [
+        "12",
+        "15",
+        "16",
+        "20"
+      ],
+      "options_te": [
+        "12",
+        "15",
+        "16",
+        "20"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Mean proportional between a and b is sqrt(a * b) = sqrt(9 * 25) = sqrt(225) = 15.",
+      "explanation_te": "మధ్యమ అనుపాతం = sqrt(a * b) = sqrt(9 * 25) = 15."
+    },
+    {
+      "id": 22,
+      "qNumber": 22,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Ages - Father and Son Ratio",
+      "question_en": "The present ages of a father and his son are in the ratio 7 : 2. If the difference between their ages is 30 years, what is the son's present age?",
+      "question_te": "తండ్రి మరియు కుమారుల ప్రస్తుత వయస్సుల నిష్పత్తి 7 : 2. వారి వయస్సుల మధ్య తేడా 30 సంవత్సరాలు అయితే, కుమారుని ప్రస్తుత వయస్సు ఎంత?",
+      "options_en": [
+        "10 years",
+        "12 years",
+        "14 years",
+        "15 years"
+      ],
+      "options_te": [
+        "10 సంవత్సరాలు",
+        "12 సంవత్సరాలు",
+        "14 సంవత్సరాలు",
+        "15 సంవత్సరాలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Difference in ratio parts = 7 - 2 = 5 parts = 30 years. 1 part = 6 years. Son's age = 2 parts = 2 * 6 = 12 years.",
+      "explanation_te": "నిష్పత్తిలో తేడా = 7 - 2 = 5 భాగాలు = 30 సంవత్సరాలు. 1 భాగం = 6 సంవత్సరాలు. కుమారుని వయస్సు = 2 * 6 = 12 సంవత్సరాలు."
+    },
+    {
+      "id": 23,
+      "qNumber": 23,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Averages - Natural Numbers",
+      "question_en": "What is the average of the first 20 natural numbers (1, 2, 3, ..., 20)?",
+      "question_te": "మొదటి 20 సహజ సంఖ్యల (1, 2, 3, ..., 20) సగటు ఎంత?",
+      "options_en": [
+        "10",
+        "10.5",
+        "11",
+        "11.5"
+      ],
+      "options_te": [
+        "10",
+        "10.5",
+        "11",
+        "11.5"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Average of first n natural numbers = (n + 1) / 2 = (20 + 1) / 2 = 21 / 2 = 10.5.",
+      "explanation_te": "మొదటి n సహజ సంఖ్యల సగటు = (n + 1) / 2 = (20 + 1) / 2 = 10.5."
+    },
+    {
+      "id": 24,
+      "qNumber": 24,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Averages - Weight / Age Inclusion",
+      "question_en": "The average age of 24 students in a class is 15 years. When the age of the class teacher is included, the average age increases by 1 year. What is the age of the teacher?",
+      "question_te": "ఒక తరగతిలోని 24 మంది విద్యార్థుల సగటు వయస్సు 15 సంవత్సరాలు. ఉపాధ్యాయుని వయస్సును కూడా కలిపితే సగటు వయస్సు 1 సంవత్సరం పెరుగుతుంది. ఉపాధ్యాయుని వయస్సు ఎంత?",
+      "options_en": [
+        "38 years",
+        "40 years",
+        "42 years",
+        "44 years"
+      ],
+      "options_te": [
+        "38 సంవత్సరాలు",
+        "40 సంవత్సరాలు",
+        "42 సంవత్సరాలు",
+        "44 సంవత్సరాలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total age of 24 students = 24 * 15 = 360 years. New average with teacher (25 people) = 16 years. New total = 25 * 16 = 400 years. Teacher's age = 400 - 360 = 40 years.",
+      "explanation_te": "24 మంది విద్యార్థుల మొత్తం వయస్సు = 24 * 15 = 360 సంవత్సరాలు. ఉపాధ్యాయునితో కలిపి (25 మంది) మొత్తం = 25 * 16 = 400 సంవత్సరాలు. ఉపాధ్యాయుని వయస్సు = 400 - 360 = 40 సంవత్సరాలు."
+    },
+    {
+      "id": 25,
+      "qNumber": 25,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Number Systems - Divisibility by 9",
+      "question_en": "If the number 543*2 is completely divisible by 9, what digit must replace the asterisk (*)?",
+      "question_te": "543*2 అనే సంఖ్య 9 చే నిశ్శేషంగా భాగించబడితే, నక్షత్రం (*) స్థానంలో ఉండే అంకె ఏది?",
+      "options_en": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "options_te": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option": 1,
+      "explanation_en": "A number is divisible by 9 if the sum of its digits is a multiple of 9. Sum = 5 + 4 + 3 + * + 2 = 14 + *. The next multiple of 9 is 18. So * = 18 - 14 = 4.",
+      "explanation_te": "అంకెల మొత్తం 9 చే భాగించబడాలి. 5 + 4 + 3 + * + 2 = 14 + *. 9 యొక్క తర్వాతి గుణిజం 18. కాబట్టి * = 18 - 14 = 4."
+    },
+    {
+      "id": 26,
+      "qNumber": 26,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Number Systems - Prime Numbers",
+      "question_en": "How many prime numbers are there between 20 and 40?",
+      "question_te": "20 మరియు 40 ల మధ్య ఎన్ని ప్రధాన సంఖ్యలు ఉన్నాయి?",
+      "options_en": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "options_te": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The prime numbers between 20 and 40 are: 23, 29, 31, and 37. There are exactly 4 prime numbers.",
+      "explanation_te": "20 మరియు 40 మధ్య గల ప్రధాన సంఖ్యలు: 23, 29, 31, మరియు 37. మొత్తం 4 ప్రధాన సంఖ్యలు ఉన్నాయి."
+    },
+    {
+      "id": 27,
+      "qNumber": 27,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "HCF & LCM - Product Property",
+      "question_en": "The HCF and LCM of two numbers are 12 and 144 respectively. If one of the numbers is 36, what is the other number?",
+      "question_te": "రెండు సంఖ్యల గ.సా.భా మరియు క.సా.గు లు వరుసగా 12 మరియు 144. వాటిలో ఒక సంఖ్య 36 అయితే, రెండవ సంఖ్య ఏది?",
+      "options_en": [
+        "42",
+        "48",
+        "54",
+        "60"
+      ],
+      "options_te": [
+        "42",
+        "48",
+        "54",
+        "60"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Product of two numbers = HCF * LCM. Other number = (12 * 144) / 36 = 12 * 4 = 48.",
+      "explanation_te": "రెండు సంఖ్యల లబ్దం = గ.సా.భా * క.సా.గు. రెండవ సంఖ్య = (12 * 144) / 36 = 48."
+    },
+    {
+      "id": 28,
+      "qNumber": 28,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "HCF & LCM - Direct HCF",
+      "question_en": "What is the Highest Common Factor (HCF) of 48, 72, and 120?",
+      "question_te": "48, 72, మరియు 120 ల గరిష్ట సామాన్య భాజకం (గ.సా.భా / HCF) ఎంత?",
+      "options_en": [
+        "12",
+        "16",
+        "24",
+        "36"
+      ],
+      "options_te": [
+        "12",
+        "16",
+        "24",
+        "36"
+      ],
+      "correct_option": 2,
+      "explanation_en": "48 = 24 * 2; 72 = 24 * 3; 120 = 24 * 5. The greatest number dividing all three is 24.",
+      "explanation_te": "48, 72, మరియు 120 లను భాగించే అత్యంత పెద్ద సంఖ్య 24. కాబట్టి గ.సా.భా = 24."
+    },
+    {
+      "id": 29,
+      "qNumber": 29,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Fractions - Largest Fraction",
+      "question_en": "Which of the following fractions is the greatest in value?",
+      "question_te": "క్రింది భిన్నాలలో అత్యధిక విలువ కలిగిన భిన్నం ఏది?",
+      "options_en": [
+        "3/4",
+        "5/6",
+        "7/9",
+        "11/12"
+      ],
+      "options_te": [
+        "3/4",
+        "5/6",
+        "7/9",
+        "11/12"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Decimals: 3/4 = 0.75, 5/6 = 0.833, 7/9 = 0.777, 11/12 = 0.916. The greatest is 11/12.",
+      "explanation_te": "దశాంశ విలువలు: 3/4 = 0.75, 5/6 = 0.833, 7/9 = 0.777, 11/12 = 0.916. కాబట్టి 11/12 అత్యంత పెద్దది."
+    },
+    {
+      "id": 30,
+      "qNumber": 30,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Simplification - BODMAS Rule",
+      "question_en": "Evaluate the expression according to BODMAS rule: 40 + 60 / 5 * 2 - 14",
+      "question_te": "BODMAS నియమం ప్రకారం సూక్ష్మీకరించండి: 40 + 60 / 5 * 2 - 14",
+      "options_en": [
+        "48",
+        "50",
+        "52",
+        "54"
+      ],
+      "options_te": [
+        "48",
+        "50",
+        "52",
+        "54"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Division first: 60 / 5 = 12. Multiplication: 12 * 2 = 24. Addition: 40 + 24 = 64. Subtraction: 64 - 14 = 50.",
+      "explanation_te": "మొదట భాగహారం: 60 / 5 = 12. గుణకారం: 12 * 2 = 24. కూడిక: 40 + 24 = 64. తీసివేత: 64 - 14 = 50."
+    },
+    {
+      "id": 31,
+      "qNumber": 31,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Pure Mathematics - Square Roots",
+      "question_en": "What is the square root of 5,184?",
+      "question_te": "5,184 యొక్క వర్గమూలం ఎంత?",
+      "options_en": [
+        "68",
+        "72",
+        "74",
+        "76"
+      ],
+      "options_te": [
+        "68",
+        "72",
+        "74",
+        "76"
+      ],
+      "correct_option": 1,
+      "explanation_en": "70^2 = 4900, 80^2 = 6400. Since unit digit is 4, candidates are 72 or 78. 72^2 = (70 + 2)^2 = 4900 + 280 + 4 = 5184.",
+      "explanation_te": "72 * 72 = 5184. కాబట్టి వర్గమూలం 72."
+    },
+    {
+      "id": 32,
+      "qNumber": 32,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 2D - Rectangle Area",
+      "question_en": "The length and breadth of a rectangular parade ground are 80 metres and 50 metres respectively. What is the area of the parade ground?",
+      "question_te": "ఒక దీర్ఘచతురస్రాకార పరేడ్ గ్రౌండ్ పొడవు మరియు వెడల్పులు వరుసగా 80 మీటర్లు మరియు 50 మీటర్లు. ఆ గ్రౌండ్ వైశాల్యం ఎంత?",
+      "options_en": [
+        "3,500 sq m",
+        "4,000 sq m",
+        "4,200 sq m",
+        "4,500 sq m"
+      ],
+      "options_te": [
+        "3,500 చ.మీ",
+        "4,000 చ.మీ",
+        "4,200 చ.మీ",
+        "4,500 చ.మీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Area of rectangle = Length * Breadth = 80 * 50 = 4,000 sq m.",
+      "explanation_te": "దీర్ఘచతురస్ర వైశాల్యం = పొడవు * వెడల్పు = 80 * 50 = 4,000 చ.మీటర్లు."
+    },
+    {
+      "id": 33,
+      "qNumber": 33,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 2D - Square Perimeter",
+      "question_en": "If the area of a square plot is 256 square metres, what is its perimeter?",
+      "question_te": "ఒక చతురస్రాకార స్థలం వైశాల్యం 256 చదరపు మీటర్లు అయితే, దాని చుట్టుకొలత ఎంత?",
+      "options_en": [
+        "56 metres",
+        "64 metres",
+        "72 metres",
+        "80 metres"
+      ],
+      "options_te": [
+        "56 మీటర్లు",
+        "64 మీటర్లు",
+        "72 మీటర్లు",
+        "80 మీటర్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Side of square = sqrt(256) = 16 m. Perimeter = 4 * side = 4 * 16 = 64 metres.",
+      "explanation_te": "చతురస్ర భుజం = sqrt(256) = 16 మీ. చుట్టుకొలత = 4 * భుజం = 4 * 16 = 64 మీటర్లు."
+    },
+    {
+      "id": 34,
+      "qNumber": 34,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 2D - Right Triangle",
+      "question_en": "The base and height of a right-angled triangle are 14 cm and 20 cm respectively. What is its area?",
+      "question_te": "ఒక లంబకోణ త్రిభుజం భూమి మరియు ఎత్తులు వరుసగా 14 సెం.మీ మరియు 20 సెం.మీ. దాని వైశాల్యం ఎంత?",
+      "options_en": [
+        "120 sq cm",
+        "140 sq cm",
+        "160 sq cm",
+        "280 sq cm"
+      ],
+      "options_te": [
+        "120 చ.సెం.మీ",
+        "140 చ.సెం.మీ",
+        "160 చ.సెం.మీ",
+        "280 చ.సెం.మీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Area = (1/2) * Base * Height = (1/2) * 14 * 20 = 140 sq cm.",
+      "explanation_te": "త్రిభుజ వైశాల్యం = 1/2 * భూమి * ఎత్తు = 1/2 * 14 * 20 = 140 చ.సెం.మీ."
+    },
+    {
+      "id": 35,
+      "qNumber": 35,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 2D - Circle Perimeter",
+      "question_en": "What is the circumference of a circular running track whose radius is 14 metres? (Take pi = 22/7)",
+      "question_te": "వ్యాసార్థం 14 మీటర్లు గల ఒక వృత్తాకార రన్నింగ్ ట్రాక్ చుట్టుకొలత ఎంత? (pi = 22/7 తీసుకోండి)",
+      "options_en": [
+        "88 metres",
+        "92 metres",
+        "96 metres",
+        "100 metres"
+      ],
+      "options_te": [
+        "88 మీటర్లు",
+        "92 మీటర్లు",
+        "96 మీటర్లు",
+        "100 మీటర్లు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Circumference = 2 * pi * r = 2 * (22/7) * 14 = 2 * 22 * 2 = 88 metres.",
+      "explanation_te": "వృత్త చుట్టుకొలత = 2 * pi * r = 2 * (22/7) * 14 = 88 మీటర్లు."
+    },
+    {
+      "id": 36,
+      "qNumber": 36,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 3D - Cube Volume",
+      "question_en": "What is the total volume of a cube whose each edge measures 8 cm?",
+      "question_te": "ప్రతి అంచు 8 సెం.మీ పొడవు గల ఒక ఘనం (Cube) యొక్క ఘనపరిమాణం ఎంత?",
+      "options_en": [
+        "480 cubic cm",
+        "512 cubic cm",
+        "576 cubic cm",
+        "624 cubic cm"
+      ],
+      "options_te": [
+        "480 ఘన సెం.మీ",
+        "512 ఘన సెం.మీ",
+        "576 ఘన సెం.మీ",
+        "624 ఘన సెం.మీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Volume of cube = a^3 = 8^3 = 512 cubic cm.",
+      "explanation_te": "ఘనం ఘనపరిమాణం = a^3 = 8^3 = 512 ఘన సెం.మీ."
+    },
+    {
+      "id": 37,
+      "qNumber": 37,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 3D - Cylinder Volume",
+      "question_en": "Find the volume of a solid circular cylinder with radius 7 cm and height 10 cm. (pi = 22/7)",
+      "question_te": "వ్యాసార్థం 7 సెం.మీ మరియు ఎత్తు 10 సెం.మీ గల ఒక స్థూపం (Cylinder) ఘనపరిమాణం ఎంత?",
+      "options_en": [
+        "1,440 cubic cm",
+        "1,540 cubic cm",
+        "1,600 cubic cm",
+        "1,720 cubic cm"
+      ],
+      "options_te": [
+        "1,440 ఘన సెం.మీ",
+        "1,540 ఘన సెం.మీ",
+        "1,600 ఘన సెం.మీ",
+        "1,720 ఘన సెం.మీ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Volume of cylinder = pi * r^2 * h = (22/7) * 7 * 7 * 10 = 22 * 7 * 10 = 1,540 cubic cm.",
+      "explanation_te": "స్థూపం ఘనపరిమాణం = pi * r^2 * h = (22/7) * 49 * 10 = 1,540 ఘన సెం.మీ."
+    },
+    {
+      "id": 38,
+      "qNumber": 38,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Probability - Single Die",
+      "question_en": "When an unbiased fair six-faced die is rolled once, what is the probability of rolling an even number?",
+      "question_te": "ఒక నిష్పాక్షిక ఆరు ముఖాల పాచికను ఒకసారి దొర్లించినప్పుడు, సరి సంఖ్య పడే సంభావ్యత ఎంత?",
+      "options_en": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "1/6"
+      ],
+      "options_te": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "1/6"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total outcomes = {1, 2, 3, 4, 5, 6} = 6. Even outcomes = {2, 4, 6} = 3. Probability = 3/6 = 1/2.",
+      "explanation_te": "మొత్తం ఫలితాలు = 6. సరి సంఖ్యలు = {2, 4, 6} = 3. సంభావ్యత = 3/6 = 1/2."
+    },
+    {
+      "id": 39,
+      "qNumber": 39,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Probability - Deck of Cards",
+      "question_en": "One card is drawn at random from a well-shuffled standard pack of 52 playing cards. What is the probability that the card drawn is a King?",
+      "question_te": "బాగా కలిపిన 52 పేక ముక్కల కట్ట నుండి యాదృచ్ఛికంగా ఒక కార్డు తీస్తే, అది రాజా (King) అయ్యే సంభావ్యత ఎంత?",
+      "options_en": [
+        "1/13",
+        "1/26",
+        "1/52",
+        "4/13"
+      ],
+      "options_te": [
+        "1/13",
+        "1/26",
+        "1/52",
+        "4/13"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Total cards = 52. Number of Kings = 4. Probability = 4 / 52 = 1 / 13.",
+      "explanation_te": "మొత్తం కార్డులు = 52. రాజులు = 4. సంభావ్యత = 4 / 52 = 1 / 13."
+    },
+    {
+      "id": 40,
+      "qNumber": 40,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Pure Mathematics - Permutations",
+      "question_en": "In how many different ways can 4 police caps of different colours be arranged in a straight row on a shelf?",
+      "question_te": "వివిధ రంగులు గల 4 పోలీస్ టోపీలను ఒక అరపై ఒకే వరుసలో ఎన్ని విభిన్న రకాలుగా అమర్చవచ్చు?",
+      "options_en": [
+        "12",
+        "16",
+        "24",
+        "48"
+      ],
+      "options_te": [
+        "12",
+        "16",
+        "24",
+        "48"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Number of ways to arrange n distinct objects = n! = 4! = 4 * 3 * 2 * 1 = 24 ways.",
+      "explanation_te": "n విభిన్న వస్తువుల అమరికల సంఖ్య = n! = 4! = 24 రకాలు."
+    },
+    {
+      "id": 41,
+      "qNumber": 41,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Pure Mathematics - Combinations",
+      "question_en": "From a team of 5 police officers, a 2-member patrol squad is to be selected. In how many different ways can this squad be formed?",
+      "question_te": "5 గురు పోలీస్ అధికారుల బృందం నుండి 2 మంది సభ్యుల పెట్రోలింగ్ బృందాన్ని ఎన్నుకోవాలి. దీనిని ఎన్ని రకాలుగా ఎంపిక చేయవచ్చు?",
+      "options_en": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "options_te": [
+        "10",
+        "15",
+        "20",
+        "25"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Number of ways = 5C2 = (5 * 4) / (2 * 1) = 20 / 2 = 10 ways.",
+      "explanation_te": "ఎంపికల సంఖ్య = 5C2 = (5 * 4) / 2 = 10 రకాలు."
+    },
+    {
+      "id": 42,
+      "qNumber": 42,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Partnership - Profit Sharing",
+      "question_en": "A and B invest Rs 15,000 and Rs 25,000 respectively in a business for one year. If the total annual profit is Rs 8,000, what is A's share of profit?",
+      "question_te": "A మరియు B లు ఒక వ్యాపారంలో ఒక సంవత్సరానికి వరుసగా రూ. 15,000 మరియు రూ. 25,000 పెట్టుబడి పెట్టారు. మొత్తం వార్షిక లాభం రూ. 8,000 అయితే, A లాభ వాటా ఎంత?",
+      "options_en": [
+        "Rs 3,000",
+        "Rs 3,200",
+        "Rs 3,500",
+        "Rs 5,000"
+      ],
+      "options_te": [
+        "రూ. 3,000",
+        "రూ. 3,200",
+        "రూ. 3,500",
+        "రూ. 5,000"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Ratio of investments = 15000 : 25000 = 3 : 5. Total parts = 8. A's share = (3/8) * 8000 = Rs 3,000.",
+      "explanation_te": "పెట్టుబడుల నిష్పత్తి = 15:25 = 3:5. A వాటా = 8000 * 3/8 = రూ. 3,000."
+    },
+    {
+      "id": 43,
+      "qNumber": 43,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mixtures - Ratio of Constituents",
+      "question_en": "In a 60-litre mixture of milk and water, the ratio of milk to water is 2 : 1. How many litres of water are present in the mixture?",
+      "question_te": "60 లీటర్ల పాలు మరియు నీళ్ల మిశ్రమంలో పాలు మరియు నీళ్ల నిష్పత్తి 2 : 1. ఆ మిశ్రమంలో ఎన్ని లీటర్ల నీరు ఉంది?",
+      "options_en": [
+        "15 litres",
+        "20 litres",
+        "25 litres",
+        "30 litres"
+      ],
+      "options_te": [
+        "15 లీటర్లు",
+        "20 లీటర్లు",
+        "25 లీటర్లు",
+        "30 లీటర్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Total parts = 2 + 1 = 3 parts = 60 litres. 1 part = 20 litres. Water = 1 part = 20 litres.",
+      "explanation_te": "మొత్తం 3 భాగాలు = 60 లీటర్లు. 1 భాగం = 20 లీటర్లు. నీటి పరిమాణం = 20 లీటర్లు."
+    },
+    {
+      "id": 44,
+      "qNumber": 44,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Clocks - Angular Speed",
+      "question_en": "How many degrees does the minute hand of a clock rotate in 25 minutes?",
+      "question_te": "ఒక గడియారంలోని నిమిషాల ముల్లు 25 నిమిషాల్లో ఎన్ని డిగ్రీలు తిరుగుతుంది?",
+      "options_en": [
+        "120°",
+        "135°",
+        "150°",
+        "165°"
+      ],
+      "options_te": [
+        "120°",
+        "135°",
+        "150°",
+        "165°"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The minute hand rotates 360° in 60 minutes, which is 6° per minute. In 25 minutes = 25 * 6° = 150°.",
+      "explanation_te": "నిమిషాల ముల్లు నిమిషానికి 6° తిరుగుతుంది. 25 నిమిషాల్లో = 25 * 6 = 150°."
+    },
+    {
+      "id": 45,
+      "qNumber": 45,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Speed Conversion - Unit Conversion",
+      "question_en": "Express a vehicle speed of 90 km/h in metres per second (m/s):",
+      "question_te": "ఒక వాహనం వేగం 90 కి.మీ/గం ను మీటర్లు/సెకను (మీ/సె) లోకి మార్చండి:",
+      "options_en": [
+        "20 m/s",
+        "22.5 m/s",
+        "25 m/s",
+        "30 m/s"
+      ],
+      "options_te": [
+        "20 మీ/సె",
+        "22.5 మీ/సె",
+        "25 మీ/సె",
+        "30 మీ/సె"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Speed in m/s = Speed in km/h * (5/18) = 90 * (5/18) = 5 * 5 = 25 m/s.",
+      "explanation_te": "మీ/సె లో వేగం = 90 * (5/18) = 25 మీ/సె."
+    },
+    {
+      "id": 46,
+      "qNumber": 46,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Percentages - Score Percentage",
+      "question_en": "A student scored 136 marks out of a total maximum of 200 marks in a mock examination. What is the percentage of marks scored?",
+      "question_te": "ఒక మోడల్ పరీక్షలో విద్యార్థి మొత్తం 200 మార్కులకు గాను 136 మార్కులు సాధించాడు. అతను సాధించిన మార్కుల శాతం ఎంత?",
+      "options_en": [
+        "64%",
+        "66%",
+        "68%",
+        "70%"
+      ],
+      "options_te": [
+        "64%",
+        "66%",
+        "68%",
+        "70%"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Percentage = (136 / 200) * 100 = 136 / 2 = 68%.",
+      "explanation_te": "శాతం = (136 / 200) * 100 = 68%."
+    },
+    {
+      "id": 47,
+      "qNumber": 47,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Simple Interest - Fractional Time",
+      "question_en": "Calculate the simple interest on Rs 6,000 at 6% per annum for a period of 6 months (half year):",
+      "question_te": "రూ. 6,000 పై సంవత్సరానికి 6% వడ్డీ రేటుతో 6 నెలల కాలానికి (అర సంవత్సరం) అయ్యే సాధారణ వడ్డీ ఎంత?",
+      "options_en": [
+        "Rs 150",
+        "Rs 180",
+        "Rs 200",
+        "Rs 240"
+      ],
+      "options_te": [
+        "రూ. 150",
+        "రూ. 180",
+        "రూ. 200",
+        "రూ. 240"
+      ],
+      "correct_option": 1,
+      "explanation_en": "T = 6/12 = 0.5 years. SI = (6000 * 0.5 * 6) / 100 = 60 * 3 = Rs 180.",
+      "explanation_te": "కాలం = 0.5 సంవత్సరం. వడ్డీ = (6000 * 0.5 * 6) / 100 = రూ. 180."
+    },
+    {
+      "id": 48,
+      "qNumber": 48,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Mensuration 2D - Rhombus Area",
+      "question_en": "If the two diagonals of a rhombus are 10 cm and 16 cm in length, what is the area of the rhombus?",
+      "question_te": "ఒక రాంబస్ యొక్క రెండు కర్ణాల పొడవులు 10 సెం.మీ మరియు 16 సెం.మీ అయితే, ఆ రాంబస్ వైశాల్యం ఎంత?",
+      "options_en": [
+        "60 sq cm",
+        "70 sq cm",
+        "80 sq cm",
+        "160 sq cm"
+      ],
+      "options_te": [
+        "60 చ.సెం.మీ",
+        "70 చ.సెం.మీ",
+        "80 చ.సెం.మీ",
+        "160 చ.సెం.మీ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Area of rhombus = (1/2) * d1 * d2 = (1/2) * 10 * 16 = 80 sq cm.",
+      "explanation_te": "రాంబస్ వైశాల్యం = 1/2 * d1 * d2 = 1/2 * 10 * 16 = 80 చ.సెం.మీ."
+    },
+    {
+      "id": 49,
+      "qNumber": 49,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Decimals - Basic Arithmetic",
+      "question_en": "Find the sum: 12.34 + 5.6 + 0.08",
+      "question_te": "మొత్తం విలువను కనుగొనండి: 12.34 + 5.6 + 0.08",
+      "options_en": [
+        "17.92",
+        "18.02",
+        "18.12",
+        "17.02"
+      ],
+      "options_te": [
+        "17.92",
+        "18.02",
+        "18.12",
+        "17.02"
+      ],
+      "correct_option": 1,
+      "explanation_en": "12.34 + 5.60 + 0.08 = 18.02.",
+      "explanation_te": "12.34 + 5.60 + 0.08 = 18.02."
+    },
+    {
+      "id": 50,
+      "qNumber": 50,
+      "section": "Arithmetic & Quantitative Reasoning",
+      "topic": "Number Systems - Sum of Odd Numbers",
+      "question_en": "What is the sum of the first 10 consecutive positive odd numbers (1 + 3 + 5 + ... + 19)?",
+      "question_te": "మొదటి 10 వరుస ధన బేసి సంఖ్యల మొత్తం (1 + 3 + 5 + ... + 19) ఎంత?",
+      "options_en": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "options_te": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Sum of first n odd natural numbers = n^2 = 10^2 = 100.",
+      "explanation_te": "మొదటి n బేసి సంఖ్యల మొత్తం = n^2 = 10^2 = 100."
+    },
+    {
+      "id": 51,
+      "qNumber": 51,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Clocks",
+      "question_en": "What is the angle between the hour hand and the minute hand of a clock at exactly 3:00?",
+      "question_te": "ఒక గడియారంలో సమయం సరిగ్గా 3:00 గంటలైనప్పుడు గంటల ముల్లు మరియు నిమిషాల ముల్లుల మధ్య కోణం ఎంత?",
+      "options_en": [
+        "60°",
+        "75°",
+        "90°",
+        "120°"
+      ],
+      "options_te": [
+        "60°",
+        "75°",
+        "90°",
+        "120°"
+      ],
+      "correct_option": 2,
+      "explanation_en": "At 3:00, the minute hand points to 12 and the hour hand points to 3. The angle between them is 3 * 30° = 90°.",
+      "explanation_te": "సమయం 3:00 వద్ద ముల్లుల మధ్య కోణం = 3 * 30° = 90° (లంబకోణం)."
+    },
+    {
+      "id": 52,
+      "qNumber": 52,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Clocks",
+      "question_en": "What is the angle between the two hands of a clock at 6:00?",
+      "question_te": "గడియారంలో సమయం 6:00 అయినప్పుడు ముల్లుల మధ్య కోణం ఎంత?",
+      "options_en": [
+        "90°",
+        "120°",
+        "180°",
+        "360°"
+      ],
+      "options_te": [
+        "90°",
+        "120°",
+        "180°",
+        "360°"
+      ],
+      "correct_option": 2,
+      "explanation_en": "At 6:00, the minute hand points to 12 and the hour hand points directly opposite to 6, forming a straight line of 180°.",
+      "explanation_te": "6:00 గంటలకు ముల్లులు ఒకదానికొకటి సరళరేఖలో వ్యతిరేకంగా ఉంటాయి. కోణం = 180°."
+    },
+    {
+      "id": 53,
+      "qNumber": 53,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Calendar",
+      "question_en": "If the 1st of January of a non-leap ordinary year is a Monday, what day of the week will be the 31st of December of the same year?",
+      "question_te": "ఒక సాధారణ (లీప్ కాని) సంవత్సరంలో జనవరి 1వ తేదీ సోమవారం అయితే, అదే సంవత్సరంలో డిసెంబర్ 31వ తేదీ ఏ వారం అవుతుంది?",
+      "options_en": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "options_te": [
+        "ఆదివారం",
+        "సోమవారం",
+        "మంగళవారం",
+        "బుధవారం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "An ordinary year has 365 days = 52 weeks + 1 day. Therefore, an ordinary year always begins and ends on the exact same day of the week: Monday.",
+      "explanation_te": "సాధారణ సంవత్సరంలో 365 రోజులు ఉంటాయి (52 వారాలు + 1 రోజు). కాబట్టి సాధారణ సంవత్సరం ఏ వారంతో ప్రారంభమవుతుందో అదే వారంతో ముగుస్తుంది (సోమవారం)."
+    },
+    {
+      "id": 54,
+      "qNumber": 54,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Calendar",
+      "question_en": "Which of the following years is a leap year?",
+      "question_te": "క్రింది సంవత్సరాలలో లీప్ సంవత్సరం ఏది?",
+      "options_en": [
+        "2018",
+        "2021",
+        "2024",
+        "2026"
+      ],
+      "options_te": [
+        "2018",
+        "2021",
+        "2024",
+        "2026"
+      ],
+      "correct_option": 2,
+      "explanation_en": "A non-century year is a leap year if it is divisible by 4. 2024 / 4 = 506 (remainder 0). Hence, 2024 is a leap year.",
+      "explanation_te": "శతాబ్దాలు కాని సంవత్సరాలలో 4 చే నిశ్శేషంగా భాగించబడేది లీప్ సంవత్సరం. 2024 నాల్గుతో భాగించబడుతుంది కాబట్టి ఇది లీప్ సంవత్సరం."
+    },
+    {
+      "id": 55,
+      "qNumber": 55,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Number Series",
+      "question_en": "Find the next number in the series: 4, 9, 14, 19, 24, ?",
+      "question_te": "క్రింది సంఖ్యా శ్రేణిలో తదుపరి సంఖ్యను గుర్తించండి: 4, 9, 14, 19, 24, ?",
+      "options_en": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "options_te": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The series adds 5 at each step: 4 + 5 = 9, 9 + 5 = 14, 14 + 5 = 19, 19 + 5 = 24, 24 + 5 = 29.",
+      "explanation_te": "ప్రతి సంఖ్యకు +5 కలపబడింది: 24 + 5 = 29."
+    },
+    {
+      "id": 56,
+      "qNumber": 56,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Number Series",
+      "question_en": "What will be the next number in the sequence: 3, 6, 12, 24, 48, ?",
+      "question_te": "క్రింది శ్రేణిలో తరువాతి సంఖ్య ఏది: 3, 6, 12, 24, 48, ?",
+      "options_en": [
+        "72",
+        "84",
+        "96",
+        "108"
+      ],
+      "options_te": [
+        "72",
+        "84",
+        "96",
+        "108"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Each term is multiplied by 2: 3*2 = 6, 6*2 = 12, 12*2 = 24, 24*2 = 48, 48*2 = 96.",
+      "explanation_te": "ప్రతి పదం 2 చే గుణించబడింది: 48 * 2 = 96."
+    },
+    {
+      "id": 57,
+      "qNumber": 57,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Number Series",
+      "question_en": "Identify the missing number in the series: 1, 4, 9, 16, 25, 36, ?",
+      "question_te": "క్రింది శ్రేణిలో లోపించిన సంఖ్యను కనుగొనండి: 1, 4, 9, 16, 25, 36, ?",
+      "options_en": [
+        "45",
+        "48",
+        "49",
+        "54"
+      ],
+      "options_te": [
+        "45",
+        "48",
+        "49",
+        "54"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The series consists of consecutive squares: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2 = 49.",
+      "explanation_te": "వరుస సంఖ్యల వర్గాలు: 1^2, 2^2, 3^2, 4^2, 5^2, 6^2, 7^2 = 49."
+    },
+    {
+      "id": 58,
+      "qNumber": 58,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Number Series",
+      "question_en": "What is the next number in the pattern: 1, 8, 27, 64, ?",
+      "question_te": "క్రింది అమరికలో తదుపరి సంఖ్య ఏది: 1, 8, 27, 64, ?",
+      "options_en": [
+        "100",
+        "121",
+        "125",
+        "144"
+      ],
+      "options_te": [
+        "100",
+        "121",
+        "125",
+        "144"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The terms are consecutive cubes: 1^3 = 1, 2^3 = 8, 3^3 = 27, 4^3 = 64, 5^3 = 125.",
+      "explanation_te": "వరుస ఘనాలు: 1^3, 2^3, 3^3, 4^3, 5^3 = 125."
+    },
+    {
+      "id": 59,
+      "qNumber": 59,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Letter Series",
+      "question_en": "Find the next letter in the series: A, C, E, G, I, ?",
+      "question_te": "క్రింది అక్షర శ్రేణిలో తదుపరి అక్షరం ఏది: A, C, E, G, I, ?",
+      "options_en": [
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "options_te": [
+        "J",
+        "K",
+        "L",
+        "M"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Each letter advances by +2: A(1) -> C(3) -> E(5) -> G(7) -> I(9) -> K(11).",
+      "explanation_te": "ప్రతి అక్షరం +2 స్థానాలు ముందుకు వెళ్తుంది: I(9) + 2 = K(11)."
+    },
+    {
+      "id": 60,
+      "qNumber": 60,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Letter Series",
+      "question_en": "What comes next in the reverse letter sequence: Z, X, V, T, R, ?",
+      "question_te": "వ్యతిరేక క్రమంలో ఉన్న క్రింది శ్రేణిలో తదుపరి అక్షరం ఏది: Z, X, V, T, R, ?",
+      "options_en": [
+        "P",
+        "Q",
+        "O",
+        "N"
+      ],
+      "options_te": [
+        "P",
+        "Q",
+        "O",
+        "N"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Each letter moves backwards by -2: Z(26) -> X(24) -> V(22) -> T(20) -> R(18) -> P(16).",
+      "explanation_te": "ప్రతి అక్షరం -2 స్థానాలు వెనుకకు తగ్గుతుంది: R(18) - 2 = P(16)."
+    },
+    {
+      "id": 61,
+      "qNumber": 61,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Coding-Decoding",
+      "question_en": "If in a code language, 'BOOK' is written as 'CPPL', how will 'NOTE' be written in that code?",
+      "question_te": "ఒక కోడ్ భాషలో 'BOOK' ను 'CPPL' గా రాస్తే, అదే కోడ్‌లో 'NOTE' ను ఎలా రాస్తారు?",
+      "options_en": [
+        "OPUF",
+        "OQUF",
+        "OPSF",
+        "NPUF"
+      ],
+      "options_te": [
+        "OPUF",
+        "OQUF",
+        "OPSF",
+        "NPUF"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Each letter is shifted forward by +1: N+1=O, O+1=P, T+1=U, E+1=F -> OPUF.",
+      "explanation_te": "ప్రతి అక్షరానికి +1 కలపబడింది: N+1=O, O+1=P, T+1=U, E+1=F -> OPUF."
+    },
+    {
+      "id": 62,
+      "qNumber": 62,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Coding-Decoding",
+      "question_en": "If 'BAT' is coded as 2-1-20, how will 'CAT' be coded?",
+      "question_te": "'BAT' ను 2-1-20 గా కోడ్ చేస్తే, 'CAT' ను ఎలా కోడ్ చేస్తారు?",
+      "options_en": [
+        "3-1-20",
+        "3-2-20",
+        "2-1-20",
+        "3-1-19"
+      ],
+      "options_te": [
+        "3-1-20",
+        "3-2-20",
+        "2-1-20",
+        "3-1-19"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Letters correspond to their alphabetical position: C = 3, A = 1, T = 20 -> 3-1-20.",
+      "explanation_te": "అక్షరాల స్థాన సంఖ్యలు: C = 3, A = 1, T = 20 -> 3-1-20."
+    },
+    {
+      "id": 63,
+      "qNumber": 63,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Coding-Decoding",
+      "question_en": "In a code language, if 'MADRAS' is coded as 'SARDAM', how is 'MUMBAI' written?",
+      "question_te": "ఒక కోడ్ భాషలో 'MADRAS' ను 'SARDAM' గా రాస్తే, 'MUMBAI' ని ఎలా రాస్తారు?",
+      "options_en": [
+        "IABMUM",
+        "IBAMUM",
+        "IABMMU",
+        "IABUMN"
+      ],
+      "options_te": [
+        "IABMUM",
+        "IBAMUM",
+        "IABMMU",
+        "IABUMN"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The letters of the word are reversed: M-U-M-B-A-I reversed becomes I-A-B-M-U-M.",
+      "explanation_te": "పదంలోని అక్షరాల క్రమం పూర్తిగా తిరగరాయబడింది: I-A-B-M-U-M."
+    },
+    {
+      "id": 64,
+      "qNumber": 64,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Direction & Distance Sense",
+      "question_en": "A police sub-inspector walks 3 km East from his station, turns right and walks 4 km South. How far is he from the police station in a straight line?",
+      "question_te": "ఒక పోలీస్ సబ్-ఇన్‌స్పెక్టర్ పోలీస్ స్టేషన్ నుండి తూర్పు వైపు 3 కి.మీ నడిచి, కుడివైపుకు తిరిగి దక్షిణం వైపు 4 కి.మీ నడిచాడు. అతను బయలుదేరిన పోలీస్ స్టేషన్ నుండి సరళరేఖలో ఎంత దూరంలో ఉన్నాడు?",
+      "options_en": [
+        "5 km",
+        "6 km",
+        "7 km",
+        "8 km"
+      ],
+      "options_te": [
+        "5 కి.మీ",
+        "6 కి.మీ",
+        "7 కి.మీ",
+        "8 కి.మీ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Using Pythagoras theorem: Distance = sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 5 km.",
+      "explanation_te": "పైథాగరస్ సిద్ధాంతం: దూరం = sqrt(3^2 + 4^2) = sqrt(25) = 5 కి.మీ."
+    },
+    {
+      "id": 65,
+      "qNumber": 65,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Direction Sense",
+      "question_en": "A person is facing North. He turns 90 degrees clockwise and then 180 degrees counter-clockwise. Which direction is he facing now?",
+      "question_te": "ఒక వ్యక్తి ఉత్తరం వైపు ముఖం చేసి ఉన్నాడు. అతను సవ్యదిశలో 90 డిగ్రీలు తిరిగి, ఆపై అపసవ్యదిశలో 180 డిగ్రీలు తిరిగాడు. ఇప్పుడు అతను ఏ దిశ వైపు చూస్తున్నాడు?",
+      "options_en": [
+        "East",
+        "West",
+        "North",
+        "South"
+      ],
+      "options_te": [
+        "తూర్పు",
+        "పశ్చిమం (పడమర)",
+        "ఉత్తరం",
+        "దక్షిణం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Facing North: +90° clockwise = East. Then -180° counter-clockwise from East = West.",
+      "explanation_te": "ఉత్తరం నుండి సవ్యదిశలో 90° = తూర్పు. తూర్పు నుండి అపసవ్యదిశలో 180° = పశ్చిమం (పడమర)."
+    },
+    {
+      "id": 66,
+      "qNumber": 66,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Blood Relations",
+      "question_en": "Pointing to a photograph of a boy, Suresh said: 'He is the son of my father's only son.' How is Suresh related to that boy?",
+      "question_te": "ఒక అబ్బాయి ఫోటోను చూపిస్తూ సురేష్ ఇలా అన్నాడు: 'ఇతను మా నాన్నగారి ఏకైక కుమారుని కుమారుడు.' ఆ అబ్బాయికి సురేష్ ఏమవుతాడు?",
+      "options_en": [
+        "Brother",
+        "Uncle",
+        "Father",
+        "Grandfather"
+      ],
+      "options_te": [
+        "సోదరుడు",
+        "బాబాయి",
+        "తండ్రి",
+        "తాతగారు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Father's only son = Suresh himself. The boy is the son of Suresh. Therefore, Suresh is his Father.",
+      "explanation_te": "నాన్నగారి ఏకైక కుమారుడు = సురేష్ స్వయంగా. ఆ అబ్బాయి సురేష్ కుమారుడు. కాబట్టి సురేష్ ఆ అబ్బాయికి తండ్రి."
+    },
+    {
+      "id": 67,
+      "qNumber": 67,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Blood Relations",
+      "question_en": "What is the relationship of your mother's brother to you?",
+      "question_te": "మీ తల్లి యొక్క సోదరుడు మీకు ఏమవుతాడు?",
+      "options_en": [
+        "Paternal Uncle",
+        "Maternal Uncle",
+        "Father-in-law",
+        "Cousin"
+      ],
+      "options_te": [
+        "చిన్నాన్న/పెద్దనాన్న",
+        "మేనమామ",
+        "మామగారు",
+        "బావ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "One's mother's brother is their maternal uncle.",
+      "explanation_te": "తల్లి యొక్క సోదరుడిని మేనమామ (Maternal Uncle) అంటారు."
+    },
+    {
+      "id": 68,
+      "qNumber": 68,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Blood Relations",
+      "question_en": "A is the brother of B. B is the sister of C. C is the father of D. How is A related to D?",
+      "question_te": "A, B యొక్క సోదరుడు. B, C యొక్క సోదరి. C, D యొక్క తండ్రి. A, D కు ఏమవుతాడు?",
+      "options_en": [
+        "Father",
+        "Uncle",
+        "Brother",
+        "Grandfather"
+      ],
+      "options_te": [
+        "తండ్రి",
+        "బాబాయి / పెద్దనాన్న",
+        "సోదరుడు",
+        "తాతగారు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Since A, B, and C are siblings, and C is the father of D, A is the brother of D's father. Hence A is D's Uncle.",
+      "explanation_te": "A, B, C లు తోబుట్టువులు. C, D తండ్రి కాబట్టి తండ్రి సోదరుడు A, D కి బాబాయి/పెద్దనాన్న (Uncle) అవుతాడు."
+    },
+    {
+      "id": 69,
+      "qNumber": 69,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Ranking & Order",
+      "question_en": "In a row of 35 police trainees, Kishore is 12th from the left end. What is his position from the right end of the row?",
+      "question_te": "35 మంది పోలీస్ ట్రైనీలు ఉన్న వరుసలో కిషోర్ ఎడమ చివర నుండి 12వ స్థానంలో ఉన్నాడు. కుడి చివర నుండి అతని స్థానం ఎంత?",
+      "options_en": [
+        "23rd",
+        "24th",
+        "25th",
+        "26th"
+      ],
+      "options_te": [
+        "23వ",
+        "24వ",
+        "25వ",
+        "26వ"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Position from right = Total persons - Position from left + 1 = 35 - 12 + 1 = 23 + 1 = 24th.",
+      "explanation_te": "కుడి నుండి స్థానం = మొత్తం వ్యక్తులు - ఎడమ నుండి స్థానం + 1 = 35 - 12 + 1 = 24వ స్థానం."
+    },
+    {
+      "id": 70,
+      "qNumber": 70,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Ranking & Order",
+      "question_en": "In an examination merit list, Divya ranks 7th from the top and 28th from the bottom. How many total students passed the examination?",
+      "question_te": "ఒక పరీక్ష మెరిట్ జాబితాలో దివ్య ర్యాంక్ పైనుండి 7వది మరియు కింద నుండి 28వది. ఆ పరీక్షలో ఉత్తీర్ణులైన మొత్తం విద్యార్థుల సంఖ్య ఎంత?",
+      "options_en": [
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "options_te": [
+        "34",
+        "35",
+        "36",
+        "37"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Total students = Top rank + Bottom rank - 1 = 7 + 28 - 1 = 34.",
+      "explanation_te": "మొత్తం విద్యార్థులు = 7 + 28 - 1 = 34."
+    },
+    {
+      "id": 71,
+      "qNumber": 71,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Word Analogy",
+      "question_en": "India : New Delhi :: Telangana : ?",
+      "question_te": "భారతదేశం : న్యూఢిల్లీ :: తెలంగాణ : ?",
+      "options_en": [
+        "Warangal",
+        "Hyderabad",
+        "Nizamabad",
+        "Karimnagar"
+      ],
+      "options_te": [
+        "వరంగల్",
+        "హైదరాబాద్",
+        "నిజామాబాద్",
+        "కరీంనగర్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "New Delhi is the capital of India. Hyderabad is the capital of Telangana.",
+      "explanation_te": "భారత రాజధాని న్యూఢిల్లీ. తెలంగాణ రాజధాని హైదరాబాద్."
+    },
+    {
+      "id": 72,
+      "qNumber": 72,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Word Analogy",
+      "question_en": "Thermometer : Temperature :: Speedometer : ?",
+      "question_te": "థర్మామీటర్ : ఉష్ణోగ్రత :: స్పీడోమీటర్ : ?",
+      "options_en": [
+        "Current",
+        "Vehicle Speed",
+        "Atmospheric Pressure",
+        "Distance"
+      ],
+      "options_te": [
+        "విద్యుత్ ప్రవాహం",
+        "వాహన వేగం",
+        "వాతావరణ పీడనం",
+        "దూరం"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Thermometer measures temperature; Speedometer measures speed.",
+      "explanation_te": "థర్మామీటర్ ఉష్ణోగ్రతను కొలుస్తుంది; స్పీడోమీటర్ వాహన వేగాన్ని కొలుస్తుంది."
+    },
+    {
+      "id": 73,
+      "qNumber": 73,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Word Analogy",
+      "question_en": "Dog : Puppy :: Cat : ?",
+      "question_te": "కుక్క : కుక్కపిల్ల (Puppy) :: పిల్లి : ?",
+      "options_en": [
+        "Kitten",
+        "Calf",
+        "Cub",
+        "Lamb"
+      ],
+      "options_te": [
+        "పిల్లిపిల్ల (Kitten)",
+        "దూడ",
+        "పిల్ల (Cub)",
+        "గొర్రెపిల్ల"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A young dog is a puppy; a young cat is a kitten.",
+      "explanation_te": "కుక్క పిల్లని Puppy అంటారు; పిల్లి పిల్లని Kitten అంటారు."
+    },
+    {
+      "id": 74,
+      "qNumber": 74,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Number Analogy",
+      "question_en": "5 : 25 :: 8 : ?",
+      "question_te": "5 : 25 :: 8 : ?",
+      "options_en": [
+        "40",
+        "56",
+        "64",
+        "72"
+      ],
+      "options_te": [
+        "40",
+        "56",
+        "64",
+        "72"
+      ],
+      "correct_option": 2,
+      "explanation_en": "5^2 = 25. Similarly, 8^2 = 64.",
+      "explanation_te": "5^2 = 25. అదేవిధంగా 8^2 = 64."
+    },
+    {
+      "id": 75,
+      "qNumber": 75,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Classification",
+      "question_en": "Find the odd one out among the following: Apple, Mango, Banana, Potato",
+      "question_te": "క్రింది వాటిలో భిన్నమైన దానిని గుర్తించండి: ఆపిల్, మామిడి, అరటి, బంగాళాదుంప",
+      "options_en": [
+        "Apple",
+        "Mango",
+        "Banana",
+        "Potato"
+      ],
+      "options_te": [
+        "ఆపిల్",
+        "మామిడి",
+        "అరటి",
+        "బంగాళాదుంప"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Apple, Mango, and Banana are fruits that grow on trees/plants above ground. Potato is an underground modified stem (tuber vegetable).",
+      "explanation_te": "ఆపిల్, మామిడి, అరటి పండ్లు. బంగాళాదుంప భూమి లోపల పెరిగే దుంప కూరగాయ. కాబట్టి ఇది భిన్నమైనది."
+    },
+    {
+      "id": 76,
+      "qNumber": 76,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Classification",
+      "question_en": "Identify the odd one out: Square, Rectangle, Triangle, Cube",
+      "question_te": "క్రింది వాటిలో భిన్నమైన ఆకారాన్ని గుర్తించండి: చతురస్రం, దీర్ఘచతురస్రం, త్రిభుజం, ఘనం (Cube)",
+      "options_en": [
+        "Square",
+        "Rectangle",
+        "Triangle",
+        "Cube"
+      ],
+      "options_te": [
+        "చతురస్రం",
+        "దీర్ఘచతురస్రం",
+        "త్రిభుజం",
+        "ఘనం (Cube)"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Square, Rectangle, and Triangle are two-dimensional (2D) plane figures, whereas Cube is a three-dimensional (3D) solid figure.",
+      "explanation_te": "చతురస్రం, దీర్ఘచతురస్రం, త్రిభుజం 2D సమతల పటాలు. ఘనం (Cube) 3D ఘనరూప పటం."
+    },
+    {
+      "id": 77,
+      "qNumber": 77,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Classification",
+      "question_en": "Find the odd one out among the numbers: 15, 25, 37, 45",
+      "question_te": "క్రింది సంఖ్యలలో భిన్నమైన సంఖ్యను గుర్తించండి: 15, 25, 37, 45",
+      "options_en": [
+        "15",
+        "25",
+        "37",
+        "45"
+      ],
+      "options_te": [
+        "15",
+        "25",
+        "37",
+        "45"
+      ],
+      "correct_option": 2,
+      "explanation_en": "15, 25, and 45 are all composite numbers divisible by 5. 37 is a prime number.",
+      "explanation_te": "15, 25, 45 అన్నీ 5 చే భాగించబడే సంయుక్త సంఖ్యలు. 37 ప్రధాన సంఖ్య. కాబట్టి 37 భిన్నమైనది."
+    },
+    {
+      "id": 78,
+      "qNumber": 78,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Syllogism",
+      "question_en": "Statements:\n1. All cats are animals.\n2. All animals are mammals.\n\nConclusion:\nI. All cats are mammals.\nII. Some mammals are cats.\n\nWhich of the conclusions logically follows?",
+      "question_te": "ప్రకటనలు:\n1. అన్ని పిల్లులు జంతువులు.\n2. అన్ని జంతువులు క్షీరదాలు.\n\nతీర్మానాలు:\nI. అన్ని పిల్లులు క్షీరదాలు.\nII. కొన్ని క్షీరదాలు పిల్లులు.\n\nఏ తీర్మానం తార్కికంగా అనుసరిస్తుంది?",
+      "options_en": [
+        "Only Conclusion I follows",
+        "Only Conclusion II follows",
+        "Both Conclusions I and II follow",
+        "Neither Conclusion follows"
+      ],
+      "options_te": [
+        "తీర్మానం I మాత్రమే అనుసరిస్తుంది",
+        "తీర్మానం II మాత్రమే అనుసరిస్తుంది",
+        "తీర్మానాలు I మరియు II రెండూ అనుసరిస్తాయి",
+        "ఏ తీర్మానం అనుసరించదు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Since all cats are animals and all animals are mammals, all cats are inside mammals (I is true). Since cats exist within mammals, some mammals are cats (II is true). Both follow.",
+      "explanation_te": "పిల్లులన్నీ క్షీరదాల వర్గంలో ఉన్నాయి (I సరైనది). క్షీరదాలలో కొన్ని పిల్లులు అవుతాయి (II సరైనది). రెండూ అనుసరిస్తాయి."
+    },
+    {
+      "id": 79,
+      "qNumber": 79,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Syllogism",
+      "question_en": "Statements:\n1. Some pens are pencils.\n2. All pencils are erasers.\n\nConclusion:\nI. Some pens are erasers.\nII. All erasers are pens.\n\nWhich of the conclusions logically follows?",
+      "question_te": "ప్రకటనలు:\n1. కొన్ని పెన్నులు పెన్సిళ్లు.\n2. అన్ని పెన్సిళ్లు ఎరేజర్లు.\n\nతీర్మానాలు:\nI. కొన్ని పెన్నులు ఎరేజర్లు.\nII. అన్ని ఎరేజర్లు పెన్నులు.\n\nఏ తీర్మానం తార్కికంగా అనుసరిస్తుంది?",
+      "options_en": [
+        "Only Conclusion I follows",
+        "Only Conclusion II follows",
+        "Both follow",
+        "Neither follows"
+      ],
+      "options_te": [
+        "తీర్మానం I మాత్రమే అనుసరిస్తుంది",
+        "తీర్మానం II మాత్రమే అనుసరిస్తుంది",
+        "రెండూ అనుసరిస్తాయి",
+        "ఏదీ అనుసరించదు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The intersection of pens and pencils is enclosed inside erasers, so some pens must be erasers (Conclusion I follows). There is no information that all erasers are pens (II does not follow).",
+      "explanation_te": "పెన్సిళ్లైన కొన్ని పెన్నులు ఎరేజర్ల పరిధిలో ఉంటాయి కాబట్టి తీర్మానం I మాత్రమే అనుసరిస్తుంది."
+    },
+    {
+      "id": 80,
+      "qNumber": 80,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Venn Diagrams",
+      "question_en": "Which Venn diagram relationship correctly illustrates: 'Country', 'State', and 'District'?",
+      "question_te": "'దేశం', 'రాష్ట్రం' మరియు 'జిల్లా' ల మధ్య గల సంబంధాన్ని సరైన వెన్ చిత్రం ఎలా సూచిస్తుంది?",
+      "options_en": [
+        "Three separate disjoint circles",
+        "Three concentric circles inside one another",
+        "Three mutually intersecting circles",
+        "Two circles inside one with no intersection"
+      ],
+      "options_te": [
+        "మూడు వేర్వేరు వృత్తాలు",
+        "ఒకదాని లోపల ఒకటి ఉండే మూడు ఏకకేంద్ర వృత్తాలు",
+        "పరస్పరం ఖండించుకునే మూడు వృత్తాలు",
+        "ఒక పెద్ద వృత్తం లోపల రెండు వేర్వేరు వృత్తాలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "A district lies entirely within a state, and a state lies entirely within a country. Hence, they are represented by three concentric circles.",
+      "explanation_te": "దేశంలో రాష్ట్రం, రాష్ట్రంలో జిల్లా ఉంటాయి కాబట్టి ఒకదాని లోపల ఒకటి ఉండే మూడు ఏకకేంద్ర వృత్తాలు సరైనవి."
+    },
+    {
+      "id": 81,
+      "qNumber": 81,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Venn Diagrams",
+      "question_en": "Which representation best portrays 'Animals', 'Dogs', and 'Cats'?",
+      "question_te": "'జంతువులు', 'కుక్కలు', మరియు 'పిల్లులు' ల మధ్య సంబంధాన్ని ఏది ఉత్తమంగా సూచిస్తుంది?",
+      "options_en": [
+        "Two separate circles (Dogs and Cats) inside a large circle (Animals)",
+        "Three concentric circles",
+        "Three intersecting circles",
+        "Three completely disjoint circles"
+      ],
+      "options_te": [
+        "ఒక పెద్ద వృత్తం (జంతువులు) లోపల రెండు వేర్వేరు వృత్తాలు (కుక్కలు మరియు పిల్లులు)",
+        "మూడు ఏకకేంద్ర వృత్తాలు",
+        "మూడు ఖండించుకునే వృత్తాలు",
+        "మూడు విడివిడి వృత్తాలు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Dogs and cats are both distinct kinds of animals with no animal being both a dog and a cat. Thus, two separate disjoint circles inside the animal circle.",
+      "explanation_te": "కుక్కలు మరియు పిల్లులు రెండూ జంతువులే, కానీ ఒకదానితో ఒకటి సంబంధం లేని జాతులు. కాబట్టి జంతువుల వృత్తం లోపల రెండు వేర్వేరు వృత్తాలు."
+    },
+    {
+      "id": 82,
+      "qNumber": 82,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Mathematical Operations",
+      "question_en": "If '+' means '-', '-' means '*', '*' means '/', and '/' means '+', then what is the value of: 15 - 3 + 10 / 5?",
+      "question_te": "'+' అనగా '-', '-' అనగా '*', '*' అనగా '/', మరియు '/' అనగా '+' అయితే: 15 - 3 + 10 / 5 విలువ ఎంత?",
+      "options_en": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "options_te": [
+        "35",
+        "40",
+        "45",
+        "50"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Replacing operators: 15 * 3 - 10 + 5 = 45 - 10 + 5 = 40.",
+      "explanation_te": "చిహ్నాలను మార్చగా: 15 * 3 - 10 + 5 = 45 - 10 + 5 = 40."
+    },
+    {
+      "id": 83,
+      "qNumber": 83,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Cube & Dice",
+      "question_en": "In a standard fair dice, what is the number on the face opposite to face 2?",
+      "question_te": "ఒక ప్రామాణిక సాధారణ పాచికలో, ముఖం 2 కి ఎదురుగా ఉండే ముఖంపై గల సంఖ్య ఏది?",
+      "options_en": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "options_te": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option": 2,
+      "explanation_en": "In any standard dice, the sum of opposite faces is always 7. Face opposite to 2 is 7 - 2 = 5.",
+      "explanation_te": "ప్రామాణిక పాచికలో ఎదురెదురు ముఖాల మొత్తం 7. కాబట్టి 2 కి ఎదురుగా 7 - 2 = 5 ఉంటుంది."
+    },
+    {
+      "id": 84,
+      "qNumber": 84,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Cube & Dice",
+      "question_en": "What is the number opposite to face 1 on a standard dice?",
+      "question_te": "ప్రామాణిక పాచికపై 1 సంఖ్య ఉన్న ముఖానికి ఎదురుగా ఉండే సంఖ్య ఏది?",
+      "options_en": [
+        "4",
+        "5",
+        "6",
+        "2"
+      ],
+      "options_te": [
+        "4",
+        "5",
+        "6",
+        "2"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Sum of opposite faces on a standard dice = 7. Face opposite to 1 is 7 - 1 = 6.",
+      "explanation_te": "ఎదురెదురు ముఖాల మొత్తం 7. కాబట్టి 1 కి ఎదురుగా 6 ఉంటుంది."
+    },
+    {
+      "id": 85,
+      "qNumber": 85,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Seating Arrangement",
+      "question_en": "Five friends P, Q, R, S, and T are standing in a straight line facing North. Q is standing to the immediate right of P. S is standing to the immediate left of P. T is standing to the right of Q. R is to the left of S. Who is standing in the exact middle of the line?",
+      "question_te": "P, Q, R, S, మరియు T అనే ఐదుగురు స్నేహితులు ఉత్తరం వైపు ముఖం చేసి నిలబడ్డారు. P కి తక్షణ కుడివైపున Q ఉన్నాడు. P కి తక్షణ ఎడమవైపున S ఉన్నాడు. Q కి కుడివైపున T ఉన్నాడు. S కి ఎడమవైపున R ఉన్నాడు. సరిగ్గా మధ్యలో నిలబడినది ఎవరు?",
+      "options_en": [
+        "P",
+        "Q",
+        "S",
+        "R"
+      ],
+      "options_te": [
+        "P",
+        "Q",
+        "S",
+        "R"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Order from left to right: R, S, P, Q, T. The person standing at the middle (third) position is P.",
+      "explanation_te": "ఎడమ నుండి కుడికి క్రమం: R, S, P, Q, T. సరిగ్గా మధ్యలో P ఉన్నాడు."
+    },
+    {
+      "id": 86,
+      "qNumber": 86,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Word Formation",
+      "question_en": "Which of the following words CANNOT be formed using the letters of the word 'POLICEMAN'?",
+      "question_te": "'POLICEMAN' అనే పదంలోని అక్షరాలను ఉపయోగించి క్రింది వాటిలో ఏ పదాన్ని రూపొందించలేము?",
+      "options_en": [
+        "NAME",
+        "LION",
+        "POLE",
+        "PLANE"
+      ],
+      "options_te": [
+        "NAME",
+        "LION",
+        "POLE",
+        "PLANE"
+      ],
+      "correct_option": 3,
+      "explanation_en": "The word 'PLANE' requires the letter 'E', which is in POLICEMAN, but wait: P-O-L-I-C-E-M-A-N has P, L, A, N, E! What about 'LION'? POLICEMAN has no second 'O' or wait, L-I-O-N: L, I, O, N are all present. What about 'PEACE'? Requires two 'E's! Let's check: in 'PLANE', all letters P-L-A-N-E are present. If word is 'POLICE': P-O-L-I-C-E. Let's make the option 'CLEAN' (C-L-E-A-N present) and 'PANEL' (P-A-N-E-L present) and 'PEACE' (requires two E's, POLICEMAN has only one E). Thus 'PEACE' cannot be formed.",
+      "explanation_te": "'PEACE' పదంలో రెండు 'E' లు ఉన్నాయి, కానీ 'POLICEMAN' లో ఒకే 'E' ఉంది కాబట్టి దీనిని రూపొందించలేము."
+    },
+    {
+      "id": 87,
+      "qNumber": 87,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Dictionary Order",
+      "question_en": "Arrange the following words in meaningful English alphabetical dictionary order:\n1. Police\n2. Policy\n3. Polish\n4. Polite",
+      "question_te": "క్రింది పదాలను ఆంగ్ల నిఘంటువు (డిక్షనరీ) క్రమంలో అమర్చండి:\n1. Police\n2. Policy\n3. Polish\n4. Polite",
+      "options_en": [
+        "1, 2, 3, 4",
+        "1, 2, 4, 3",
+        "2, 1, 3, 4",
+        "1, 3, 2, 4"
+      ],
+      "options_te": [
+        "1, 2, 3, 4",
+        "1, 2, 4, 3",
+        "2, 1, 3, 4",
+        "1, 3, 2, 4"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Alphabetical order: Polic-e (1) -> Polic-y (2) -> Polish (3) -> Polite (4). The correct sequence is 1, 2, 3, 4.",
+      "explanation_te": "నిఘంటువు క్రమం: Police, Policy, Polish, Polite (1, 2, 3, 4)."
+    },
+    {
+      "id": 88,
+      "qNumber": 88,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Missing Number",
+      "question_en": "Find the missing number (?) in the pattern:\nTop: 2, Bottom: 4, Left: 3, Right: 5, Centre: 14 (Sum of numbers = 2 + 4 + 3 + 5 = 14)\nIn the second figure:\nTop: 4, Bottom: 6, Left: 5, Right: 7, Centre: ?",
+      "question_te": "నమూనా ప్రకారం లోపించిన సంఖ్యను గుర్తించండి:\nమొదటి పటంలో చుట్టూ ఉన్న సంఖ్యలు 2, 4, 3, 5 మరియు మధ్యలో 14 ఉంది (2 + 4 + 3 + 5 = 14).\nరెండవ పటంలో చుట్టూ 4, 6, 5, 7 ఉంటే మధ్యలో (?) వచ్చే సంఖ్య ఏది?",
+      "options_en": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "options_te": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Centre number = Sum of surrounding numbers = 4 + 6 + 5 + 7 = 22.",
+      "explanation_te": "మధ్యలోని సంఖ్య = చుట్టూ ఉన్న సంఖ్యల మొత్తం = 4 + 6 + 5 + 7 = 22."
+    },
+    {
+      "id": 89,
+      "qNumber": 89,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Coding-Decoding",
+      "question_en": "If 'A' = 1, 'B' = 2, and 'AND' = 1 + 14 + 4 = 19, what is the value of 'CAT'?",
+      "question_te": "'A' = 1, 'B' = 2, మరియు 'AND' = 1 + 14 + 4 = 19 అయితే, 'CAT' యొక్క విలువ ఎంత?",
+      "options_en": [
+        "22",
+        "24",
+        "26",
+        "28"
+      ],
+      "options_te": [
+        "22",
+        "24",
+        "26",
+        "28"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Sum of alphabetical positions: C = 3, A = 1, T = 20. Total = 3 + 1 + 20 = 24.",
+      "explanation_te": "అక్షరాల స్థానాల మొత్తం: C(3) + A(1) + T(20) = 24."
+    },
+    {
+      "id": 90,
+      "qNumber": 90,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Water Images",
+      "question_en": "Which of the following capital letters of the English alphabet looks exactly the same in its water reflection?",
+      "question_te": "క్రింది ఆంగ్ల పెద్ద అక్షరాలలో ఏ అక్షరం నీటి ప్రతిబింబంలో (Water Image) యథాతథంగా కనిపిస్తుంది?",
+      "options_en": [
+        "H",
+        "A",
+        "M",
+        "V"
+      ],
+      "options_te": [
+        "H",
+        "A",
+        "M",
+        "V"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The letter 'H' has horizontal symmetry, so its water reflection is identical to the original letter. Letters A, M, and V invert upside-down.",
+      "explanation_te": "'H' అక్షరం క్షితిజ సమాంతర సౌష్టవం కలిగి ఉంటుంది కాబట్టి నీటిలో చూసినప్పుడు యథాతథంగా ఉంటుంది. A, M, V లు తలకిందులవుతాయి."
+    },
+    {
+      "id": 91,
+      "qNumber": 91,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Mirror Images",
+      "question_en": "Which of the following letters looks identical in a vertical plane mirror?",
+      "question_te": "క్రింది అక్షరాలలో నిలువు అద్దంలో చూసినప్పుడు యథాతథంగా కనిపించే అక్షరం ఏది?",
+      "options_en": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "options_te": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The letter 'A' has vertical symmetry, so its reflection in a vertical mirror is identical to the original. B, C, and D are laterally reversed.",
+      "explanation_te": "'A' అక్షరం నిలువు సౌష్టవం కలిగి ఉంటుంది కాబట్టి నిలువు అద్దంలో యథాతథంగా కనిపిస్తుంది."
+    },
+    {
+      "id": 92,
+      "qNumber": 92,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Logical Sequence of Words",
+      "question_en": "Arrange the following in a meaningful chronological lifecycle order:\n1. Infant\n2. Child\n3. Adolescent\n4. Adult",
+      "question_te": "క్రింది దశలను సరైన అర్థవంతమైన కాలక్రమంలో అమర్చండి:\n1. పసికందు (Infant)\n2. బాల్యం (Child)\n3. కౌమారం (Adolescent)\n4. వయోజనుడు (Adult)",
+      "options_en": [
+        "1, 2, 3, 4",
+        "1, 3, 2, 4",
+        "2, 1, 3, 4",
+        "4, 3, 2, 1"
+      ],
+      "options_te": [
+        "1, 2, 3, 4",
+        "1, 3, 2, 4",
+        "2, 1, 3, 4",
+        "4, 3, 2, 1"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Chronological human lifecycle stages: Infant (1) -> Child (2) -> Adolescent (3) -> Adult (4).",
+      "explanation_te": "సరైన జీవిత దశల క్రమం: పసికందు -> బాల్యం -> కౌమారం -> వయోజనుడు (1, 2, 3, 4)."
+    },
+    {
+      "id": 93,
+      "qNumber": 93,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Logical Sequence of Words",
+      "question_en": "Arrange the following steps in logical legal order:\n1. Crime\n2. Police Investigation\n3. Court Trial\n4. Judgement",
+      "question_te": "క్రింది ప్రక్రియలను సరైన చట్టపరమైన తార్కిక క్రమంలో అమర్చండి:\n1. నేరం (Crime)\n2. పోలీసు దర్యాప్తు (Investigation)\n3. న్యాయస్థాన విచారణ (Trial)\n4. తీర్పు (Judgement)",
+      "options_en": [
+        "1, 2, 3, 4",
+        "2, 1, 3, 4",
+        "1, 3, 2, 4",
+        "1, 2, 4, 3"
+      ],
+      "options_te": [
+        "1, 2, 3, 4",
+        "2, 1, 3, 4",
+        "1, 3, 2, 4",
+        "1, 2, 4, 3"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Logical legal sequence: Crime occurs first -> Police investigates -> Case tried in Court -> Final Judgement is delivered.",
+      "explanation_te": "సరైన క్రమం: నేరం జరగడం -> పోలీసు దర్యాప్తు -> న్యాయ విచారణ -> తీర్పు (1, 2, 3, 4)."
+    },
+    {
+      "id": 94,
+      "qNumber": 94,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Calendar",
+      "question_en": "Which of the following months always has exactly 30 days?",
+      "question_te": "క్రింది నెలలలో ఎల్లప్పుడూ సరిగ్గా 30 రోజులు మాత్రమే ఉండే నెల ఏది?",
+      "options_en": [
+        "January",
+        "April",
+        "May",
+        "July"
+      ],
+      "options_te": [
+        "జనవరి",
+        "ఏప్రిల్",
+        "మే",
+        "జూలై"
+      ],
+      "correct_option": 1,
+      "explanation_en": "April, June, September, and November have 30 days each. January, May, and July have 31 days.",
+      "explanation_te": "ఏప్రిల్, జూన్, సెప్టెంబర్ మరియు నవంబర్ నెలల్లో 30 రోజులు ఉంటాయి. జనవరి, మే, జూలై లలో 31 రోజులు ఉంటాయి."
+    },
+    {
+      "id": 95,
+      "qNumber": 95,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Syllogism",
+      "question_en": "Statements:\n1. All mangoes are sweet.\n2. Some sweet things are yellow.\n\nConclusion:\nI. All yellow things are mangoes.\nII. Some mangoes are yellow.\n\nWhich of the conclusions logically follows with certainty?",
+      "question_te": "ప్రకటనలు:\n1. అన్ని మామిడి పండ్లు తీపిగా ఉంటాయి.\n2. కొన్ని తీపి పదార్థాలు పసుపు రంగులో ఉంటాయి.\n\nతీర్మానాలు:\nI. అన్ని పసుపు రంగు వస్తువులు మామిడి పండ్లు.\nII. కొన్ని మామిడి పండ్లు పసుపు రంగులో ఉంటాయి.\n\nఖచ్చితంగా ఏ తీర్మానం అనుసరిస్తుంది?",
+      "options_en": [
+        "Only Conclusion I follows",
+        "Only Conclusion II follows",
+        "Both follow",
+        "Neither Conclusion I nor II follows"
+      ],
+      "options_te": [
+        "తీర్మానం I మాత్రమే అనుసరిస్తుంది",
+        "తీర్మానం II మాత్రమే అనుసరిస్తుంది",
+        "రెండూ అనుసరిస్తాయి",
+        "తీర్మానం I లేదా II రెండూ అనుసరించవు"
+      ],
+      "correct_option": 3,
+      "explanation_en": "From given statements, we cannot conclude that all yellow things are mangoes, nor can we be certain that mangoes must overlap with yellow. Thus neither follows with absolute certainty.",
+      "explanation_te": "ఇచ్చిన ప్రకటనల ప్రకారం పసుపు రంగుకు మరియు మామిడి పండ్లకు మధ్య ఖచ్చితమైన సంబంధం నిరూపితం కాదు. కాబట్టి రెండూ అనుసరించవు."
+    },
+    {
+      "id": 96,
+      "qNumber": 96,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Direction Sense",
+      "question_en": "Ravi walks 100 metres South, then turns around 180 degrees and walks 60 metres North. How far is he from his starting point?",
+      "question_te": "రవి దక్షిణం వైపు 100 మీటర్లు నడిచి, ఆపై 180 డిగ్రీలు వెనక్కి తిరిగి ఉత్తరం వైపు 60 మీటర్లు నడిచాడు. అతను ప్రారంభ స్థానం నుండి ఎంత దూరంలో ఉన్నాడు?",
+      "options_en": [
+        "30 metres",
+        "40 metres",
+        "50 metres",
+        "60 metres"
+      ],
+      "options_te": [
+        "30 మీటర్లు",
+        "40 మీటర్లు",
+        "50 మీటర్లు",
+        "60 మీటర్లు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Distance from start = 100 metres South - 60 metres North = 40 metres South.",
+      "explanation_te": "ప్రారంభ స్థానం నుండి దూరం = 100 - 60 = 40 మీటర్లు."
+    },
+    {
+      "id": 97,
+      "qNumber": 97,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Analogy",
+      "question_en": "India : Peacock :: Telangana : ?",
+      "question_te": "భారతదేశం : నెమలి (Peacock) :: తెలంగాణ : ?",
+      "options_en": [
+        "Palapitta (Indian Roller)",
+        "Parrot",
+        "Sparrow",
+        "Pigeon"
+      ],
+      "options_te": [
+        "పాలపిట్ట (Indian Roller)",
+        "చిలుక",
+        "పిచ్చుక",
+        "పావురం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Peacock is the national bird of India. Palapitta (Indian Roller) is the official state bird of Telangana.",
+      "explanation_te": "భారత జాతీయ పక్షి నెమలి. తెలంగాణ రాష్ట్ర పక్షి పాలపిట్ట."
+    },
+    {
+      "id": 98,
+      "qNumber": 98,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Coding-Decoding",
+      "question_en": "If 'GO' is coded as '32' (G=7, O=15, sum = 22... wait, reverse: G=20, O=12, sum = 32), how will 'SHE' be coded? (S=8, H=19, E=22 in reverse)",
+      "question_te": "వ్యతిరేక స్థాన విలువల ప్రకారం 'GO' = 32 (G=20, O=12) అయితే, 'SHE' విలువ ఎంత? (S=8, H=19, E=22)",
+      "options_en": [
+        "45",
+        "48",
+        "49",
+        "52"
+      ],
+      "options_te": [
+        "45",
+        "48",
+        "49",
+        "52"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Reverse alphabetical positions: S = 8, H = 19, E = 22. Sum = 8 + 19 + 22 = 49.",
+      "explanation_te": "వ్యతిరేక అక్షర స్థానాల మొత్తం: S(8) + H(19) + E(22) = 49."
+    },
+    {
+      "id": 99,
+      "qNumber": 99,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Seating Arrangement",
+      "question_en": "Four friends A, B, C, and D are sitting around a circular table facing the centre. A is sitting opposite to C. B is sitting to the immediate right of A. Who is sitting to the immediate left of A?",
+      "question_te": "A, B, C, మరియు D అనే నలుగురు స్నేహితులు ఒక వృత్తాకార బల్ల చుట్టూ కేంద్రం వైపు ముఖం చేసి కూర్చున్నారు. A కి ఎదురుగా C కూర్చున్నాడు. A కి తక్షణ కుడివైపున B కూర్చున్నాడు. A కి తక్షణ ఎడమవైపున కూర్చున్నది ఎవరు?",
+      "options_en": [
+        "C",
+        "D",
+        "B",
+        "Cannot be determined"
+      ],
+      "options_te": [
+        "C",
+        "D",
+        "B",
+        "నిర్ణయించలేము"
+      ],
+      "correct_option": 1,
+      "explanation_en": "With 4 seats facing center: Opposite to A is C. To the right of A is B. Therefore, the remaining person D must sit to the immediate left of A.",
+      "explanation_te": "A కి ఎదురుగా C, కుడివైపున B కూర్చుంటే, మిగిలిన D ఖచ్చితంగా A కి ఎడమవైపున కూర్చుంటాడు."
+    },
+    {
+      "id": 100,
+      "qNumber": 100,
+      "section": "Mental Ability & Logical Reasoning",
+      "topic": "Reasoning - Logical Deduction",
+      "question_en": "If 6 friends meet at a police academy reunion and each person shakes hands with every other person exactly once, how many handshakes occur in total?",
+      "question_te": "పోలీస్ అకాడమీ పూర్వ విద్యార్థుల సదస్సులో 6 మంది స్నేహితులు కలుసుకుని, ప్రతి ఒక్కరూ మిగిలిన ప్రతి ఒక్కరితో సరిగ్గా ఒకసారి కరచాలనం చేసుకుంటే మొత్తం ఎన్ని కరచాలనాలు జరుగుతాయి?",
+      "options_en": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "options_te": [
+        "10",
+        "12",
+        "15",
+        "18"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Total handshakes = n * (n - 1) / 2 = 6 * 5 / 2 = 15.",
+      "explanation_te": "మొత్తం కరచాలనాలు = n * (n - 1) / 2 = 6 * 5 / 2 = 15."
+    },
+    {
+      "id": 101,
+      "qNumber": 101,
+      "section": "General Studies",
+      "topic": "Indian Polity - Constituent Assembly",
+      "question_en": "Who was the Chairman of the Drafting Committee of the Constituent Assembly of India?",
+      "question_te": "భారత రాజ్యాంగ పరిషత్ ముసాయిదా కమిటీ (డ్రాఫ్టింగ్ కమిటీ) ఛైర్మన్ ఎవరు?",
+      "options_en": [
+        "Dr. B.R. Ambedkar",
+        "Dr. Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "options_te": [
+        "డా. బి.ఆర్. అంబేద్కర్",
+        "డా. రాజేంద్ర ప్రసాద్",
+        "జవహర్‌లాల్ నెహ్రూ",
+        "సర్దార్ వల్లభ్‌భాయ్ పటేల్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Dr. B.R. Ambedkar was the Chairman of the 7-member Drafting Committee set up on August 29, 1947.",
+      "explanation_te": "1947 ఆగస్టు 29న ఏర్పాటైన రాజ్యాంగ ముసాయిదా కమిటీకి డాక్టర్ బి.ఆర్. అంబేద్కర్ ఛైర్మన్‌గా వ్యవహరించారు."
+    },
+    {
+      "id": 102,
+      "qNumber": 102,
+      "section": "General Studies",
+      "topic": "Indian Polity - Preamble",
+      "question_en": "On which date was the Constitution of India formally adopted by the Constituent Assembly?",
+      "question_te": "భారత రాజ్యాంగాన్ని రాజ్యాంగ పరిషత్ ఏ తేదీన అధికారికంగా ఆమోదించింది?",
+      "options_en": [
+        "15th August 1947",
+        "26th November 1949",
+        "26th January 1950",
+        "2nd October 1948"
+      ],
+      "options_te": [
+        "1947 ఆగస్టు 15",
+        "1949 నవంబర్ 26",
+        "1950 జనవరి 26",
+        "1948 అక్టోబర్ 2"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Constitution was adopted on 26th November 1949 (celebrated as Constitution Day) and came into full effect on 26th January 1950.",
+      "explanation_te": "భారత రాజ్యాంగం 1949 నవంబర్ 26న ఆమోదించబడింది (సంవిధాన్ దివస్) మరియు 1950 జనవరి 26 నుండి అమలులోకి వచ్చింది."
+    },
+    {
+      "id": 103,
+      "qNumber": 103,
+      "section": "General Studies",
+      "topic": "Indian Polity - Fundamental Rights: Article 14",
+      "question_en": "Which Article of the Indian Constitution guarantees 'Equality before Law' and 'Equal Protection of the Laws'?",
+      "question_te": "భారత రాజ్యాంగంలోని ఏ అధికరణ 'చట్టం ముందు అందరూ సమానులే' మరియు 'చట్టం ద్వారా సమాన రక్షణ' ను హామీ ఇస్తుంది?",
+      "options_en": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "options_te": [
+        "అధికరణ 14",
+        "అధికరణ 19",
+        "అధికరణ 21",
+        "అధికరణ 32"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Article 14 guarantees equality before the law and equal protection of laws to all persons within the territory of India.",
+      "explanation_te": "అధికరణ 14 భారతదేశ భూభాగంలో చట్టం ముందు అందరూ సమానులే మరియు చట్ట సమాన రక్షణను హామీ ఇస్తుంది."
+    },
+    {
+      "id": 104,
+      "qNumber": 104,
+      "section": "General Studies",
+      "topic": "Indian Polity - Fundamental Rights: Article 21",
+      "question_en": "The Fundamental Right to 'Protection of Life and Personal Liberty' is guaranteed under which Article of the Constitution?",
+      "question_te": "'ప్రాణ మరియు వ్యక్తిగత స్వేచ్ఛ రక్షణ' ప్రాథమిక హక్కు రాజ్యాంగంలోని ఏ అధికరణ కింద హామీ ఇవ్వబడింది?",
+      "options_en": [
+        "Article 19",
+        "Article 20",
+        "Article 21",
+        "Article 22"
+      ],
+      "options_te": [
+        "అధికరణ 19",
+        "అధికరణ 20",
+        "అధికరణ 21",
+        "అధికరణ 22"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Article 21 states that no person shall be deprived of his life or personal liberty except according to procedure established by law.",
+      "explanation_te": "చట్టం నిర్దేశించిన పద్ధతి ప్రకారం తప్ప ఏ వ్యక్తి ప్రాణాన్ని లేదా వ్యక్తిగత స్వేచ్ఛను హరించరాదని అధికరణ 21 తెలుపుతుంది."
+    },
+    {
+      "id": 105,
+      "qNumber": 105,
+      "section": "General Studies",
+      "topic": "Indian Polity - Constitutional Remedies: Article 32",
+      "question_en": "Which Article was described by Dr. B.R. Ambedkar as the 'Heart and Soul' of the Indian Constitution?",
+      "question_te": "డా. బి.ఆర్. అంబేద్కర్ భారత రాజ్యాంగానికి 'హృదయం మరియు ఆత్మ' వంటిదని ఏ అధికరణను అభివర్ణించారు?",
+      "options_en": [
+        "Article 14",
+        "Article 19",
+        "Article 32",
+        "Article 226"
+      ],
+      "options_te": [
+        "అధికరణ 14",
+        "అధికరణ 19",
+        "అధికరణ 32",
+        "అధికరణ 226"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Article 32 provides the right to constitutional remedies for the enforcement of fundamental rights, described by Dr. Ambedkar as the heart and soul.",
+      "explanation_te": "ప్రాథమిక హక్కుల అమలు కోసం సుప్రీంకోర్టును ఆశ్రయించే అధికరణ 32 ని డాక్టర్ అంబేద్కర్ రాజ్యాంగపు 'హృదయం మరియు ఆత్మ'గా పేర్కొన్నారు."
+    },
+    {
+      "id": 106,
+      "qNumber": 106,
+      "section": "General Studies",
+      "topic": "Indian Polity - DPSP: Uniform Civil Code",
+      "question_en": "Which Article of the Directive Principles of State Policy directs the State to secure a Uniform Civil Code (UCC) for all citizens?",
+      "question_te": "ఆదేశిక సూత్రాలలో ఏ అధికరణ పౌరులందరికీ 'ఉమ్మడి పౌరస్మృతి' (యూనిఫాం సివిల్ కోడ్ - UCC) ని అమలు చేయడానికి ప్రయత్నించాలని నిర్దేశిస్తుంది?",
+      "options_en": [
+        "Article 40",
+        "Article 44",
+        "Article 45",
+        "Article 50"
+      ],
+      "options_te": [
+        "అధికరణ 40",
+        "అధికరణ 44",
+        "అధికరణ 45",
+        "అధికరణ 50"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Article 44 in Part IV directs the State to endeavour to secure for the citizens a Uniform Civil Code throughout the territory of India.",
+      "explanation_te": "భారత రాజ్యాంగంలోని అధికరణ 44 దేశవ్యాప్తంగా పౌరులందరికీ ఉమ్మడి పౌరస్మృతి (UCC) ని అమలు చేయాలని సూచిస్తుంది."
+    },
+    {
+      "id": 107,
+      "qNumber": 107,
+      "section": "General Studies",
+      "topic": "Indian Polity - Fundamental Duties",
+      "question_en": "Fundamental Duties were incorporated into Part IV-A of the Indian Constitution by which Constitutional Amendment Act?",
+      "question_te": "భారత రాజ్యాంగంలోని 4వ-A భాగంలో ప్రాథమిక విధులను ఏ రాజ్యాంగ సవరణ చట్టం ద్వారా చేర్చారు?",
+      "options_en": [
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "61st Amendment Act, 1988",
+        "73rd Amendment Act, 1992"
+      ],
+      "options_te": [
+        "42వ రాజ్యాంగ సవరణ చట్టం, 1976",
+        "44వ రాజ్యాంగ సవరణ చట్టం, 1978",
+        "61వ రాజ్యాంగ సవరణ చట్టం, 1988",
+        "73వ రాజ్యాంగ సవరణ చట్టం, 1992"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Fundamental Duties (Article 51A) were added by the 42nd Constitutional Amendment Act, 1976, upon the recommendation of the Swaran Singh Committee.",
+      "explanation_te": "స్వరణ్ సింగ్ కమిటీ సిఫార్సుల మేరకు 1976 లో 42వ రాజ్యాంగ సవరణ చట్టం ద్వారా 10 ప్రాథమిక విధులను (అధికరణ 51A) రాజ్యాంగంలో చేర్చారు."
+    },
+    {
+      "id": 108,
+      "qNumber": 108,
+      "section": "General Studies",
+      "topic": "Indian Polity - President of India: Minimum Age",
+      "question_en": "What is the minimum age prescribed by the Constitution to be eligible for election as the President of India?",
+      "question_te": "భారత రాష్ట్రపతి పదవికి పోటీ చేయడానికి రాజ్యాంగం నిర్దేశించిన కనీస వయస్సు ఎంత?",
+      "options_en": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "options_te": [
+        "25 సంవత్సరాలు",
+        "30 సంవత్సరాలు",
+        "35 సంవత్సరాలు",
+        "40 సంవత్సరాలు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Under Article 58, a candidate must have completed the age of 35 years to be eligible for election as President of India.",
+      "explanation_te": "అధికరణ 58 ప్రకారం భారత రాష్ట్రపతి పదవికి పోటీ చేసే వ్యక్తికి కనీసం 35 సంవత్సరాల వయస్సు నిండి ఉండాలి."
+    },
+    {
+      "id": 109,
+      "qNumber": 109,
+      "section": "General Studies",
+      "topic": "Indian Polity - Rajya Sabha Tenure",
+      "question_en": "What is the tenure of an elected member of the Rajya Sabha (Council of States)?",
+      "question_te": "రాజ్యసభకు ఎన్నికైన ఒక సభ్యుని పదవీకాలం ఎంత?",
+      "options_en": [
+        "4 years",
+        "5 years",
+        "6 years",
+        "Permanent"
+      ],
+      "options_te": [
+        "4 సంవత్సరాలు",
+        "5 సంవత్సరాలు",
+        "6 సంవత్సరాలు",
+        "శాశ్వతం"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Rajya Sabha is a permanent body not subject to dissolution, and an individual member's tenure is 6 years with 1/3 of members retiring every 2 years.",
+      "explanation_te": "రాజ్యసభ శాశ్వత సభ, రద్దు కాదు. రాజ్యసభ సభ్యుని పదవీకాలం 6 సంవత్సరాలు (ప్రతి రెండేళ్లకు మూడింట ఒకవంతు సభ్యులు పదవీ విరమణ చేస్తారు)."
+    },
+    {
+      "id": 110,
+      "qNumber": 110,
+      "section": "General Studies",
+      "topic": "Indian Polity - Governor Appointment",
+      "question_en": "Who appoints the Governor of an Indian State under Article 155 of the Constitution?",
+      "question_te": "రాజ్యాంగంలోని అధికరణ 155 ప్రకారం ఒక భారతీయ రాష్ట్ర గవర్నర్‌ను ఎవరు నియమిస్తారు?",
+      "options_en": [
+        "Prime Minister",
+        "Chief Justice of India",
+        "President of India",
+        "Chief Minister of the State"
+      ],
+      "options_te": [
+        "ప్రధానమంత్రి",
+        "సుప్రీంకోర్టు ప్రధాన న్యాయమూర్తి",
+        "భారత రాష్ట్రపతి",
+        "ఆ రాష్ట్ర ముఖ్యమంత్రి"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Under Article 155, the Governor of a State is appointed by the President by warrant under his hand and seal.",
+      "explanation_te": "అధికరణ 155 ప్రకారం రాష్ట్ర గవర్నర్‌ను భారత రాష్ట్రపతి నియమిస్తారు."
+    },
+    {
+      "id": 111,
+      "qNumber": 111,
+      "section": "General Studies",
+      "topic": "Indian Polity - Voting Age Reform",
+      "question_en": "Which Constitutional Amendment Act reduced the voting age for Lok Sabha and Assembly elections from 21 years to 18 years?",
+      "question_te": "లోక్‌సభ మరియు శాసనసభ ఎన్నికలలో ఓటు హక్కు వయోపరిమితిని 21 సంవత్సరాల నుండి 18 సంవత్సరాలకు తగ్గించిన రాజ్యాంగ సవరణ చట్టం ఏది?",
+      "options_en": [
+        "44th Amendment Act, 1978",
+        "52nd Amendment Act, 1985",
+        "61st Amendment Act, 1988",
+        "73rd Amendment Act, 1992"
+      ],
+      "options_te": [
+        "44వ రాజ్యాంగ సవరణ చట్టం, 1978",
+        "52వ రాజ్యాంగ సవరణ చట్టం, 1985",
+        "61వ రాజ్యాంగ సవరణ చట్టం, 1988",
+        "73వ రాజ్యాంగ సవరణ చట్టం, 1992"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The 61st Constitutional Amendment Act, 1988 (which came into force in March 1989) lowered the voting age from 21 to 18 years.",
+      "explanation_te": "1988 లోని 61వ రాజ్యాంగ సవరణ చట్టం ద్వారా ఓటు హక్కు కనీస వయస్సును 21 నుండి 18 సంవత్సరాలకు తగ్గించారు."
+    },
+    {
+      "id": 112,
+      "qNumber": 112,
+      "section": "General Studies",
+      "topic": "Indian Polity - Supreme Court: Number of Judges",
+      "question_en": "Who administers the oath of office to the Chief Justice of India (CJI)?",
+      "question_te": "భారత ప్రధాన న్యాయమూర్తి (CJI) చేత పదవీ ప్రమాణ స్వీకారం ఎవరు చేయిస్తారు?",
+      "options_en": [
+        "The President of India",
+        "The Prime Minister",
+        "The Vice-President",
+        "The Speaker of Lok Sabha"
+      ],
+      "options_te": [
+        "భారత రాష్ట్రపతి",
+        "ప్రధానమంత్రి",
+        "ఉపరాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Chief Justice of India takes oath before the President of India under Article 124(6).",
+      "explanation_te": "అధికరణ 124(6) ప్రకారం భారత ప్రధాన న్యాయమూర్తి చేత రాష్ట్రపతి ప్రమాణ స్వీకారం చేయిస్తారు."
+    },
+    {
+      "id": 113,
+      "qNumber": 113,
+      "section": "General Studies",
+      "topic": "Indian Polity - Money Bill Introduction",
+      "question_en": "A Money Bill under Article 110 of the Indian Constitution can be introduced only in which House of Parliament?",
+      "question_te": "భారత రాజ్యాంగంలోని అధికరణ 110 ప్రకారం ద్రవ్య బిల్లును (Money Bill) పార్లమెంటులోని ఏ సభలో మాత్రమే ప్రవేశపెట్టాలి?",
+      "options_en": [
+        "Rajya Sabha only",
+        "Lok Sabha only",
+        "Either House of Parliament",
+        "Joint Sitting of both Houses"
+      ],
+      "options_te": [
+        "రాజ్యసభలో మాత్రమే",
+        "లోక్‌సభలో మాత్రమే",
+        "ఏ సభలోనైనా",
+        "ఉభయ సభల సంయుక్త సమావేశంలో"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Under Article 109, a Money Bill can be introduced only in the Lok Sabha with the prior recommendation of the President.",
+      "explanation_te": "అధికరణ 109 ప్రకారం ద్రవ్య బిల్లును కేవలం లోక్‌సభలో మాత్రమే రాష్ట్రపతి పూర్వానుమతితో ప్రవేశపెట్టాలి."
+    },
+    {
+      "id": 114,
+      "qNumber": 114,
+      "section": "General Studies",
+      "topic": "Indian Polity - Panchayati Raj Day",
+      "question_en": "National Panchayati Raj Day is observed every year across India on which date?",
+      "question_te": "భారతదేశంలో ప్రతి సంవత్సరం 'జాతీయ పంచాయతీరాజ్ దినోత్సవం' ఏ తేదీన జరుపుకుంటారు?",
+      "options_en": [
+        "24th April",
+        "26th January",
+        "15th August",
+        "2nd October"
+      ],
+      "options_te": [
+        "24 ఏప్రిల్",
+        "26 జనవరి",
+        "15 ఆగస్టు",
+        "2 అక్టోబర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "National Panchayati Raj Day is commemorated on April 24, marking the coming into force of the 73rd Constitutional Amendment Act on April 24, 1993.",
+      "explanation_te": "73వ రాజ్యాంగ సవరణ చట్టం 1993 ఏప్రిల్ 24 నుండి అమలులోకి వచ్చిన సందర్భంగా ప్రతి ఏటా ఏప్రిల్ 24న జాతీయ పంచాయతీరాజ్ దినోత్సవం జరుపుకుంటారు."
+    },
+    {
+      "id": 115,
+      "qNumber": 115,
+      "section": "General Studies",
+      "topic": "Indian Polity - State Reorganisation: Linguistic Basis",
+      "question_en": "Which was the first state in independent India created on a linguistic basis in 1953?",
+      "question_te": "స్వతంత్ర భారతదేశంలో 1953 లో భాషా ప్రయుక్తంగా ఏర్పడిన మొట్టమొదటి రాష్ట్రం ఏది?",
+      "options_en": [
+        "Andhra State",
+        "Kerala",
+        "Tamil Nadu",
+        "Karnataka"
+      ],
+      "options_te": [
+        "ఆంధ్ర రాష్ట్రం",
+        "కేరళ",
+        "తమిళనాడు",
+        "కర్ణాటక"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Andhra State was created on October 1, 1953, with Kurnool as capital, becoming the first state in India formed on linguistic grounds.",
+      "explanation_te": "పొట్టి శ్రీరాములు ఆమరణ నిరాహారదీక్ష త్యాగ ఫలితంగా 1953 అక్టోబర్ 1న కర్నూలు రాజధానిగా తెలుగు మాట్లాడే ప్రాంతాలతో ఆంధ్ర రాష్ట్రం ఏర్పడింది."
+    },
+    {
+      "id": 116,
+      "qNumber": 116,
+      "section": "General Studies",
+      "topic": "Indian Polity - Basic Rights Count",
+      "question_en": "How many Fundamental Rights are currently guaranteed to Indian citizens under Part III of the Constitution?",
+      "question_te": "ప్రస్తుతం భారత రాజ్యాంగంలోని 3వ భాగం కింద పౌరులకు ఎన్ని ప్రాథమిక హక్కులు హామీ ఇవ్వబడ్డాయి?",
+      "options_en": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "options_te": [
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Originally there were 7 Fundamental Rights. The Right to Property was removed by the 44th Amendment in 1978, leaving 6 Fundamental Rights today.",
+      "explanation_te": "ప్రారంభంలో 7 ఉండేవి. 1978 లో 44వ సవరణ ద్వారా ఆస్తి హక్కును తొలగించడంతో ప్రస్తుతం 6 ప్రాథమిక హక్కులు ఉన్నాయి."
+    },
+    {
+      "id": 117,
+      "qNumber": 117,
+      "section": "General Studies",
+      "topic": "Telangana Formation - Appointed Day",
+      "question_en": "On which date did Telangana officially come into existence as the 29th State of the Indian Union?",
+      "question_te": "భారత యూనియన్‌లో 29వ రాష్ట్రంగా తెలంగాణ అధికారికంగా ఏ తేదీన ఆవిర్భవించింది?",
+      "options_en": [
+        "June 2, 2014",
+        "June 2, 2013",
+        "August 15, 2014",
+        "November 1, 2014"
+      ],
+      "options_te": [
+        "2014 జూన్ 2",
+        "2013 జూన్ 2",
+        "2014 ఆగస్టు 15",
+        "2014 నవంబర్ 1"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Under Section 3 of the AP Reorganisation Act, 2014, the Appointed Day for the formation of Telangana was June 2, 2014.",
+      "explanation_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం 2014 ప్రకారం 2014 జూన్ 2న తెలంగాణ రాష్ట్రం అధికారికంగా ఆవిర్భవించింది."
+    },
+    {
+      "id": 118,
+      "qNumber": 118,
+      "section": "General Studies",
+      "topic": "Telangana History - Charminar",
+      "question_en": "In which year and by which ruler was the world-famous Charminar constructed in Hyderabad?",
+      "question_te": "హైదరాబాద్‌లోని ప్రపంచ ప్రసిద్ధ చార్మినార్‌ను ఏ సంవత్సరంలో మరియు ఏ పాలకుడు నిర్మించాడు?",
+      "options_en": [
+        "1591 by Muhammad Quli Qutb Shah",
+        "1512 by Sultan Quli",
+        "1687 by Aurangzeb",
+        "1724 by Nizam-ul-Mulk"
+      ],
+      "options_te": [
+        "1591 లో మహమ్మద్ కులీ కుతుబ్ షా",
+        "1512 లో సుల్తాన్ కులీ",
+        "1687 లో ఔరంగజేబు",
+        "1724 లో నిజాం-ఉల్-ముల్క్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Charminar was constructed in 1591 AD by Muhammad Quli Qutb Shah, the fifth ruler of the Qutb Shahi dynasty, to commemorate the eradication of plague.",
+      "explanation_te": "ప్లేగు వ్యాధి నిర్మూలనకు గుర్తుగా 1591 లో కుతుబ్ షాహీ వంశ 5వ సుల్తాన్ మహమ్మద్ కులీ కుతుబ్ షా చార్మినార్‌ను నిర్మించాడు."
+    },
+    {
+      "id": 119,
+      "qNumber": 119,
+      "section": "General Studies",
+      "topic": "Telangana History - Thousand Pillar Temple",
+      "question_en": "The historic Thousand Pillar Temple (Veyi Sthambala Gudi) at Hanamkonda was built by which Kakatiya ruler?",
+      "question_te": "హనుమకొండలోని ప్రసిద్ధ వేయి స్తంభాల గుడిని ఏ కాకతీయ పాలకుడు నిర్మించాడు?",
+      "options_en": [
+        "Rudradeva (Prataparudra I)",
+        "Ganapati Deva",
+        "Rani Rudrama Devi",
+        "Prola II"
+      ],
+      "options_te": [
+        "రుద్రదేవుడు (మొదటి ప్రతాపరుద్రుడు)",
+        "గణపతి దేవుడు",
+        "రాణి రుద్రమదేవి",
+        "రెండవ ప్రోలరాజు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Thousand Pillar Temple at Hanamkonda was built in 1163 AD by Kakatiya King Rudradeva (Prataparudra I).",
+      "explanation_te": "క్రీ.శ. 1163 లో కాకతీయ రాజు రుద్రదేవుడు హనుమకొండలో వేయి స్తంభాల దేవాలయాన్ని నిర్మించాడు."
+    },
+    {
+      "id": 120,
+      "qNumber": 120,
+      "section": "General Studies",
+      "topic": "Telangana History - Rani Rudrama Devi",
+      "question_en": "Which foreign traveller visited the Kakatiya kingdom during the reign of Rani Rudrama Devi and praised her administration?",
+      "question_te": "రాణి రుద్రమదేవి పాలనా కాలంలో కాకతీయ రాజ్యాన్ని సందర్శించి ఆమె పరిపాలనను ప్రశంసించిన విదేశీ యాత్రికుడు ఎవరు?",
+      "options_en": [
+        "Marco Polo",
+        "Ibn Battuta",
+        "Niccolo de Conti",
+        "Hiuen Tsang"
+      ],
+      "options_te": [
+        "మార్కో పోలో",
+        "ఇబన్ బటూటా",
+        "నికోలో డి కాంటి",
+        "హుయాన్ త్సాంగ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Venetian traveller Marco Polo visited Motupalli port during Rani Rudrama Devi's reign (around 1292 AD) and lavishly praised her valour and justice.",
+      "explanation_te": "వెనీస్ యాత్రికుడు మార్కో పోలో క్రీ.శ. 1292 లో మోటుపల్లి రేవును సందర్శించి రుద్రమదేవి పరిపాలనను, న్యాయపాలనను కొనియాడాడు."
+    },
+    {
+      "id": 121,
+      "qNumber": 121,
+      "section": "General Studies",
+      "topic": "Telangana Integration - Operation Polo",
+      "question_en": "What was the code name of the police action launched by the Indian Army in September 1948 to integrate Hyderabad State into the Indian Union?",
+      "question_te": "1948 సెప్టెంబర్‌లో హైదరాబాద్ సంస్థానాన్ని భారత యూనియన్‌లో విలీనం చేయడానికి భారత సైన్యం చేపట్టిన పోలీస్ చర్య సంకేత నామం (కోడ్ నేమ్) ఏమిటి?",
+      "options_en": [
+        "Operation Polo",
+        "Operation Vijay",
+        "Operation Meghdoot",
+        "Operation Blue Star"
+      ],
+      "options_te": [
+        "ఆపరేషన్ పోలో",
+        "ఆపరేషన్ విజయ్",
+        "ఆపరేషన్ మేఘదూత్",
+        "ఆపరేషన్ బ్లూ స్టార్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Operation Polo was launched on 13 September 1948 and concluded on 17 September 1948 with the surrender of the Nizam's forces.",
+      "explanation_te": "1948 సెప్టెంబర్ 13 నుండి 17 వరకు జరిగిన సైనిక చర్యకు 'ఆపరేషన్ పోలో' అని పేరు పెట్టారు."
+    },
+    {
+      "id": 122,
+      "qNumber": 122,
+      "section": "General Studies",
+      "topic": "Telangana Statehood - First Hyderabad CM",
+      "question_en": "Who served as the first democratically elected Chief Minister of Hyderabad State following the 1952 general elections?",
+      "question_te": "1952 సాధారణ ఎన్నికల తర్వాత హైదరాబాద్ రాష్ట్ర మొట్టమొదటి ప్రజాస్వామ్యబద్ధ ముఖ్యమంత్రిగా ఎవరు పనిచేశారు?",
+      "options_en": [
+        "Burgula Ramakrishna Rao",
+        "K.V. Ranga Reddy",
+        "Marri Chenna Reddy",
+        "J.N. Chaudhuri"
+      ],
+      "options_te": [
+        "బూర్గుల రామకృష్ణారావు",
+        "కె.వి. రంగా రెడ్డి",
+        "మర్రి చెన్నారెడ్డి",
+        "జె.ఎన్. చౌధురి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Dr. Burgula Ramakrishna Rao served as the first and only Chief Minister of Hyderabad State from 1952 until its merger into Andhra Pradesh in 1956.",
+      "explanation_te": "1952 నుండి 1956 వరకు హైదరాబాద్ రాష్ట్ర ఏకైక ఎన్నికైన ముఖ్యమంత్రిగా డాక్టర్ బూర్గుల రామకృష్ణారావు పనిచేశారు."
+    },
+    {
+      "id": 123,
+      "qNumber": 123,
+      "section": "General Studies",
+      "topic": "Telangana Movement - Gentlemen's Agreement",
+      "question_en": "In which year was the historic 'Gentlemen's Agreement' (Peddamanushula Oppandam) signed between leaders of Telangana and Andhra?",
+      "question_te": "తెలంగాణ మరియు ఆంధ్ర ప్రాంత నాయకుల మధ్య చారిత్రక 'పెద్దమనుషుల ఒప్పందం' ఏ సంవత్సరంలో కుదిరింది?",
+      "options_en": [
+        "1953",
+        "1956",
+        "1969",
+        "1972"
+      ],
+      "options_te": [
+        "1953",
+        "1956",
+        "1969",
+        "1972"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Gentlemen's Agreement was signed on 20 February 1956 at Hyderabad House in New Delhi to safeguard Telangana's interests before merging into Andhra Pradesh.",
+      "explanation_te": "1956 ఫిబ్రవరి 20న న్యూఢిల్లీలో తెలంగాణ హక్కుల పరిరక్షణ కోసం పెద్దమనుషుల ఒప్పందం కుదిరింది."
+    },
+    {
+      "id": 124,
+      "qNumber": 124,
+      "section": "General Studies",
+      "topic": "Telangana Movement - 1969 Agitation",
+      "question_en": "The historic 1969 Telangana agitation for statehood gained massive momentum primarily from students of which university?",
+      "question_te": "1969 ప్రత్యేక తెలంగాణ ఉద్యమం ప్రధానంగా ఏ విశ్వవిద్యాలయ విద్యార్థుల నాయకత్వంలో తీవ్రరూపం దాల్చింది?",
+      "options_en": [
+        "Osmania University",
+        "Kakatiya University",
+        "University of Hyderabad",
+        "Telangana University"
+      ],
+      "options_te": [
+        "ఉస్మానియా విశ్వవిద్యాలయం",
+        "కాకతీయ విశ్వవిద్యాలయం",
+        "హైదరాబాద్ సెంట్రల్ యూనివర్సిటీ",
+        "తెలంగాణ యూనివర్సిటీ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Osmania University students formed the Telangana Students Action Committee and spearheaded the 1969 agitation.",
+      "explanation_te": "ఉస్మానియా విశ్వవిద్యాలయ విద్యార్థులు 1969 ప్రత్యేక తెలంగాణ ఉద్యమంలో అగ్రభాగాన నిలిచి పోరాడారు."
+    },
+    {
+      "id": 125,
+      "qNumber": 125,
+      "section": "General Studies",
+      "topic": "Telangana State Symbols - State Bird",
+      "question_en": "What is the official State Bird of Telangana?",
+      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక పక్షి ఏది?",
+      "options_en": [
+        "Palapitta (Indian Roller)",
+        "Peacock",
+        "Great Indian Bustard",
+        "Koel"
+      ],
+      "options_te": [
+        "పాలపిట్ట (Indian Roller)",
+        "నెమలి",
+        "బట్టమేక పిట్ట",
+        "కోకిల"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Palapitta (Coracias benghalensis / Indian Roller) is the official State Bird of Telangana.",
+      "explanation_te": "పాలపిట్ట తెలంగాణ రాష్ట్ర అధికారిక పక్షిగా ఎంపిక చేయబడింది."
+    },
+    {
+      "id": 126,
+      "qNumber": 126,
+      "section": "General Studies",
+      "topic": "Telangana State Symbols - State Animal",
+      "question_en": "What is the official State Animal of Telangana?",
+      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక జంతువు ఏది?",
+      "options_en": [
+        "Jinka (Spotted Deer)",
+        "Tiger",
+        "Blackbuck",
+        "Nilgai"
+      ],
+      "options_te": [
+        "జింక (Spotted Deer)",
+        "పులి",
+        "కృష్ణజింక",
+        "నీలుగాయి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Jinka (Spotted Deer / Axis axis) is the official State Animal of Telangana.",
+      "explanation_te": "జింక (స్పాటెడ్ డీర్) తెలంగాణ అధికారిక రాష్ట్ర జంతువు."
+    },
+    {
+      "id": 127,
+      "qNumber": 127,
+      "section": "General Studies",
+      "topic": "Telangana State Symbols - State Tree",
+      "question_en": "Which tree is designated as the official State Tree of Telangana?",
+      "question_te": "తెలంగాణ రాష్ట్ర అధికారిక వృక్షం ఏది?",
+      "options_en": [
+        "Jammi Chettu (Prosopis cineraria)",
+        "Neem Tree",
+        "Banyan Tree",
+        "Teak Tree"
+      ],
+      "options_te": [
+        "జమ్మి చెట్టు (Prosopis cineraria)",
+        "వేప చెట్టు",
+        "మర్రి చెట్టు",
+        "టేకు చెట్టు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Jammi Chettu (Prosopis cineraria), sacred during Vijaya Dasami (Dussehra), is the State Tree of Telangana.",
+      "explanation_te": "దసరా పండుగకు పవిత్రమైన జమ్మి చెట్టు తెలంగాణ రాష్ట్ర వృక్షం."
+    },
+    {
+      "id": 128,
+      "qNumber": 128,
+      "section": "General Studies",
+      "topic": "Telangana State Symbols - State Flower",
+      "question_en": "Which flower, celebrated prominently during the Bathukamma floral festival, is the State Flower of Telangana?",
+      "question_te": "బతుకమ్మ పండుగలో ప్రముఖంగా ఉపయోగించే ఏ పువ్వు తెలంగాణ రాష్ట్ర పుష్పంగా గుర్తింపు పొందింది?",
+      "options_en": [
+        "Tangedu (Senna auriculata)",
+        "Gunugu",
+        "Lotus",
+        "Jasmine"
+      ],
+      "options_te": [
+        "తంగేడు పువ్వు (Senna auriculata)",
+        "గునుగు పువ్వు",
+        "తామర పువ్వు",
+        "మల్లెపువ్వు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Tangedu Puvvu (Senna auriculata) is the official State Flower of Telangana.",
+      "explanation_te": "తంగేడు పువ్వు తెలంగాణ రాష్ట్ర అధికారిక పుష్పం."
+    },
+    {
+      "id": 129,
+      "qNumber": 129,
+      "section": "General Studies",
+      "topic": "Telangana Culture - Official State Song",
+      "question_en": "Who composed the historic song 'Jaya Jaya He Telangana Janani Jayaketanam', adopted as the official State Song of Telangana?",
+      "question_te": "తెలంగాణ అధికారిక రాష్ట్ర గీతంగా ఆమోదించబడిన 'జయ జయ హే తెలంగాణ జననీ జయకేతనం' పాటను రచించినది ఎవరు?",
+      "options_en": [
+        "Ande Sri",
+        "Goreti Venkanna",
+        "Gaddar",
+        "Suddala Ashok Teja"
+      ],
+      "options_te": [
+        "అందెశ్రీ",
+        "గోరటి వెంకన్న",
+        "గద్దర్",
+        "సుద్దాల అశోక్ తేజ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Poet Ande Sri composed the stirring anthem 'Jaya Jaya He Telangana', declared the official state song by the Government of Telangana in 2024.",
+      "explanation_te": "ప్రసిద్ధ ప్రజాకవి అందెశ్రీ 'జయ జయ హే తెలంగాణ' గీతాన్ని రచించారు."
+    },
+    {
+      "id": 130,
+      "qNumber": 130,
+      "section": "General Studies",
+      "topic": "Telangana Culture - Medaram Jatara",
+      "question_en": "The biennial Sammakka-Sarakka (Medaram) Jatara, one of the largest tribal congregations in Asia, is celebrated in which district of Telangana?",
+      "question_te": "ఆసియాలోనే అతిపెద్ద గిరిజన జాతరగా గుర్తింపు పొందిన సమ్మక్క-సారలమ్మ (మేడారం) జాతర తెలంగాణలోని ఏ జిల్లాలో జరుగుతుంది?",
+      "options_en": [
+        "Mulugu",
+        "Bhadradri Kothagudem",
+        "Warangal",
+        "Khammam"
+      ],
+      "options_te": [
+        "ములుగు",
+        "భద్రాద్రి కొత్తగూడెం",
+        "వరంగల్",
+        "ఖమ్మం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Medaram Jatara takes place at Medaram in Tadvai mandal of Mulugu district once every two years.",
+      "explanation_te": "మేడారం జాతర ములుగు జిల్లా తాడ్వాయి మండలంలోని మేడారంలో రెండేళ్లకోసారి అత్యంత వైభవంగా జరుగుతుంది."
+    },
+    {
+      "id": 131,
+      "qNumber": 131,
+      "section": "General Studies",
+      "topic": "Telangana Geography - Major Dams",
+      "question_en": "The Nagarjuna Sagar Dam, one of the earliest multipurpose masonry dams in India, is built across which river?",
+      "question_te": "భారతదేశంలోనే అత్యంత ప్రతిష్టాత్మక బహుళార్ధసాధక రాతి కట్టడమైన నాగార్జున సాగర్ ఆనకట్ట ఏ నదిపై నిర్మించబడింది?",
+      "options_en": [
+        "Krishna River",
+        "Godavari River",
+        "Manjeera River",
+        "Tungabhadra River"
+      ],
+      "options_te": [
+        "కృష్ణా నది",
+        "గోదావరి నది",
+        "మంజీరా నది",
+        "తుంగభద్ర నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Nagarjuna Sagar Dam was built across the Krishna River between Nalgonda district (Telangana) and Palnadu district (Andhra Pradesh).",
+      "explanation_te": "నాగార్జున సాగర్ ప్రాజెక్టు కృష్ణా నదిపై నల్గొండ మరియు పల్నాడు సరిహద్దులో నిర్మించబడింది."
+    },
+    {
+      "id": 132,
+      "qNumber": 132,
+      "section": "General Studies",
+      "topic": "Telangana Geography - SRSP Dam",
+      "question_en": "The Sriram Sagar Project (SRSP), also known as Pochampad Project, is constructed across which river in Telangana?",
+      "question_te": "శ్రీరాం సాగర్ ప్రాజెక్ట్ (పోచంపాడు ప్రాజెక్ట్) తెలంగాణలో ఏ నదిపై నిర్మించబడింది?",
+      "options_en": [
+        "Godavari River",
+        "Krishna River",
+        "Pranhita River",
+        "Musi River"
+      ],
+      "options_te": [
+        "గోదావరి నది",
+        "కృష్ణా నది",
+        "ప్రాణహిత నది",
+        "మూసీ నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Sriram Sagar Project (SRSP) is a major irrigation dam across the Godavari River in Nizamabad district of Telangana.",
+      "explanation_te": "శ్రీరాం సాగర్ ప్రాజెక్ట్ నిజామాబాద్ జిల్లాలోని గోదావరి నదిపై నిర్మించబడిన ప్రధాన సాగునీటి ఆనకట్ట."
+    },
+    {
+      "id": 133,
+      "qNumber": 133,
+      "section": "General Studies",
+      "topic": "Telangana Culture - Bathukamma Duration",
+      "question_en": "For how many continuous days is the floral Bathukamma festival celebrated leading up to Durgashtami / Saddula Bathukamma?",
+      "question_te": "సద్దుల బతుకమ్మ వరకు కొనసాగే బతుకమ్మ పూల పండుగను మొత్తం ఎన్ని రోజుల పాటు జరుపుకుంటారు?",
+      "options_en": [
+        "7 days",
+        "9 days",
+        "11 days",
+        "15 days"
+      ],
+      "options_te": [
+        "7 రోజులు",
+        "9 రోజులు",
+        "11 రోజులు",
+        "15 రోజులు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Bathukamma is celebrated for 9 continuous days, beginning on Mahalaya Amavasya (Engili Pula Bathukamma) and concluding on Saddula Bathukamma.",
+      "explanation_te": "బతుకమ్మ పండుగ ఎంగిలిపూల బతుకమ్మ నుండి సద్దుల బతుకమ్మ వరకు 9 రోజుల పాటు జరుపుకుంటారు."
+    },
+    {
+      "id": 134,
+      "qNumber": 134,
+      "section": "General Studies",
+      "topic": "Telangana History - Golconda Fort",
+      "question_en": "The historic Golconda Fort was originally built as a mud fort during the reign of which dynasty?",
+      "question_te": "చారిత్రాత్మక గోల్కొండ కోటను మొదట మట్టి కోటగా ఏ రాజవంశం పాలనా కాలంలో నిర్మించారు?",
+      "options_en": [
+        "Kakatiyas",
+        "Bahmani Sultans",
+        "Qutb Shahis",
+        "Mughals"
+      ],
+      "options_te": [
+        "కాకతీయులు",
+        "బహమనీ సుల్తానులు",
+        "కుతుబ్ షాహీలు",
+        "మొఘలులు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Golconda fort was originally founded as a mud fort by the Kakatiya rulers in the 13th century before being fortified by the Qutb Shahis.",
+      "explanation_te": "13వ శతాబ్దంలో కాకతీయులు మొదట గోల్కొండను మట్టి కోటగా నిర్మించగా, ఆ తర్వాత కుతుబ్ షాహీలు రాతి కోటగా విస్తరించారు."
+    },
+    {
+      "id": 135,
+      "qNumber": 135,
+      "section": "General Studies",
+      "topic": "Telangana Legislature - Assembly Seats",
+      "question_en": "How many total elected constituencies (seats) are there in the Telangana Legislative Assembly?",
+      "question_te": "తెలంగాణ శాసనసభలో మొత్తం ఎన్నికయ్యే అసెంబ్లీ నియోజకవర్గాల (స్థానాల) సంఖ్య ఎంత?",
+      "options_en": [
+        "117",
+        "119",
+        "120",
+        "125"
+      ],
+      "options_te": [
+        "117",
+        "119",
+        "120",
+        "125"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Telangana Legislative Assembly has 119 directly elected member constituencies.",
+      "explanation_te": "తెలంగాణ శాసనసభలో మొత్తం 119 ప్రత్యక్ష ఎన్నికైన స్థానాలు ఉన్నాయి."
+    },
+    {
+      "id": 136,
+      "qNumber": 136,
+      "section": "General Studies",
+      "topic": "Telangana Movement - First Political Party",
+      "question_en": "Which political party formed in 1969 under the presidency of Marri Chenna Reddy spearheaded the 1969 statehood movement and won 10 parliamentary seats in 1971?",
+      "question_te": "1969 లో మర్రి చెన్నారెడ్డి అధ్యక్షతన ఏర్పడి, 1971 లోక్‌సభ ఎన్నికల్లో 10 స్థానాలను గెలుచుకున్న పార్టీ ఏది?",
+      "options_en": [
+        "Telangana Praja Samithi (TPS)",
+        "Telangana Rashtra Samithi (TRS)",
+        "Hyderabad State Congress",
+        "Telangana Sadhana Samithi"
+      ],
+      "options_te": [
+        "తెలంగాణ ప్రజా సమితి (TPS)",
+        "తెలంగాణ రాష్ట్ర సమితి (TRS)",
+        "హైదరాబాద్ స్టేట్ కాంగ్రెస్",
+        "తెలంగాణ సాధన సమితి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Telangana Praja Samithi (TPS), founded in 1969 and led by Dr. M. Chenna Reddy, won 10 out of 14 Lok Sabha seats in Telangana in 1971.",
+      "explanation_te": "1969 ప్రత్యేక ఉద్యమంలో తెలంగాణ ప్రజా సమితి (TPS) 1971 ఎన్నికల్లో 14 స్థానాలకు గాను 10 లోక్‌సభ స్థానాలు గెలుచుకుంది."
+    },
+    {
+      "id": 137,
+      "qNumber": 137,
+      "section": "General Studies",
+      "topic": "Ancient India - Indus Valley: Great Bath",
+      "question_en": "At which prominent Indus Valley Civilisation site was the famous 'Great Bath' discovered?",
+      "question_te": "ప్రసిద్ధ 'మహా స్నానవాటిక' (Great Bath) సింధు నాగరికతకు చెందిన ఏ ప్రధాన నగరంలో కనుగొనబడింది?",
+      "options_en": [
+        "Harappa",
+        "Mohenjo-daro",
+        "Lothal",
+        "Kalibangan"
+      ],
+      "options_te": [
+        "హరప్పా",
+        "మొహెంజొదారో",
+        "లోథాల్",
+        "కాలిబంగన్"
+      ],
+      "correct_option": 1,
+      "explanation_en": "The Great Bath, lined with waterproof bitumen bricks, was unearthed at Mohenjo-daro in Sindh (now Pakistan).",
+      "explanation_te": "మొహెంజొదారో తవ్వకాలలో అతిపెద్ద ప్రజా స్నానవాటిక (మహా స్నానవాటిక) బయల్పడింది."
+    },
+    {
+      "id": 138,
+      "qNumber": 138,
+      "section": "General Studies",
+      "topic": "Ancient India - Mauryan Dynasty Founder",
+      "question_en": "Who was the founder of the Mauryan Empire in ancient India, established with the guidance of Chanakya (Kautilya)?",
+      "question_te": "చాణక్యుని (కౌటిల్యుని) సహాయంతో ప్రాచీన భారతదేశంలో మౌర్య సామ్రాజ్యాన్ని స్థాపించినది ఎవరు?",
+      "options_en": [
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Ashoka the Great",
+        "Brihadratha"
+      ],
+      "options_te": [
+        "చంద్రగుప్త మౌర్యుడు",
+        "బిందుసారుడు",
+        "అశోకుడు",
+        "బృహద్రథుడు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Chandragupta Maurya defeated Dhana Nanda in 321 BC with the strategic guidance of Chanakya and founded the Mauryan dynasty.",
+      "explanation_te": "చాణక్యుని వ్యూహాత్మక మార్గదర్శకత్వంలో నంద వంశాన్ని అంతమొందించి చంద్రగుప్త మౌర్యుడు మౌర్య సామ్రాజ్యాన్ని స్థాపించాడు."
+    },
+    {
+      "id": 139,
+      "qNumber": 139,
+      "section": "General Studies",
+      "topic": "Ancient India - Third Buddhist Council",
+      "question_en": "The Third Buddhist Council was convened at Pataliputra under the royal patronage of which emperor?",
+      "question_te": "పాటలీపుత్రంలో మూడవ బౌద్ధ సంగీతి ఏ చక్రవర్తి ఆధ్వర్యంలో నిర్వహించబడింది?",
+      "options_en": [
+        "Ajatashatru",
+        "Kalashoka",
+        "Emperor Ashoka",
+        "Kanishka"
+      ],
+      "options_te": [
+        "అజాతశత్రువు",
+        "కాలాశోకుడు",
+        "అశోక చక్రవర్తి",
+        "కనిష్కుడు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "The Third Buddhist Council was patronized by Emperor Ashoka at Pataliputra around 250 BC, presided over by Moggaliputta Tissa.",
+      "explanation_te": "మొగ్గలిపుత్త తిస్స అధ్యక్షతన క్రీ.పూ 250 లో అశోక చక్రవర్తి పాటలీపుత్రంలో 3వ బౌద్ధ సంగీతిని నిర్వహించాడు."
+    },
+    {
+      "id": 140,
+      "qNumber": 140,
+      "section": "General Studies",
+      "topic": "Medieval India - Vijayanagara Capital",
+      "question_en": "Hampi, the magnificent UNESCO World Heritage capital city of the Vijayanagara Empire, is situated on the banks of which river?",
+      "question_te": "విజయనగర సామ్రాజ్య చారిత్రక రాజధాని హంపి ఏ నదీ తీరాన ఉంది?",
+      "options_en": [
+        "Tungabhadra River",
+        "Krishna River",
+        "Cauvery River",
+        "Godavari River"
+      ],
+      "options_te": [
+        "తుంగభద్ర నది",
+        "కృష్ణా నది",
+        "కావేరి నది",
+        "గోదావరి నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Hampi was founded on the banks of the Tungabhadra River in Bellary district of Karnataka.",
+      "explanation_te": "కర్ణాటకలోని తుంగభద్ర నదీ తీరాన హరిహర రాయలు మరియు బుక్క రాయలు విజయనగర రాజధాని హంపిని స్థాపించారు."
+    },
+    {
+      "id": 141,
+      "qNumber": 141,
+      "section": "General Studies",
+      "topic": "Medieval India - Taj Mahal Builder",
+      "question_en": "Which Mughal Emperor built the world-renowned white marble monument Taj Mahal in Agra in memory of his beloved wife Mumtaz Mahal?",
+      "question_te": "తన భార్య ముంతాజ్ మహల్ జ్ఞాపకార్థం ఆగ్రాలో ప్రపంచ ప్రసిద్ధ తాజ్ మహల్‌ను నిర్మించిన మొఘల్ చక్రవర్తి ఎవరు?",
+      "options_en": [
+        "Akbar",
+        "Jahangir",
+        "Shah Jahan",
+        "Aurangzeb"
+      ],
+      "options_te": [
+        "అక్బర్",
+        "జహంగీర్",
+        "షాజహాన్",
+        "ఔరంగజేబు"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Mughal Emperor Shah Jahan commissioned the construction of the Taj Mahal in Agra around 1632 AD.",
+      "explanation_te": "మొఘల్ చక్రవర్తి షాజహాన్ ఆగ్రాలో యమునా నది ఒడ్డున తాజ్ మహల్‌ను పాలరాతితో నిర్మించాడు."
+    },
+    {
+      "id": 142,
+      "qNumber": 142,
+      "section": "General Studies",
+      "topic": "Modern India - Revolt of 1857 Beginning",
+      "question_en": "The historic Sepoy Mutiny (First War of Indian Independence) of 1857 officially broke out on May 10, 1857, in which garrison town?",
+      "question_te": "1857 మే 10న ప్రథమ స్వాతంత్ర్య సంగ్రామం (సిపాయిల తిరుగుబాటు) అధికారికంగా ఏ సైనిక పట్టణంలో ప్రారంభమైంది?",
+      "options_en": [
+        "Meerut",
+        "Barrackpore",
+        "Delhi",
+        "Lucknow"
+      ],
+      "options_te": [
+        "మీరట్",
+        "బారక్‌పూర్",
+        "ఢిల్లీ",
+        "లక్నో"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The revolt broke out on 10 May 1857 in the cantonment town of Meerut, after which sepoys marched to Delhi.",
+      "explanation_te": "1857 మే 10న మీరట్ కంటోన్మెంట్‌లో సిపాయిలు బ్రిటిష్ అధికారులపై తిరుగుబాటు చేసి ఢిల్లీకి తరలివెళ్లారు."
+    },
+    {
+      "id": 143,
+      "qNumber": 143,
+      "section": "General Studies",
+      "topic": "Modern India - Arya Samaj Founder",
+      "question_en": "Who founded the reformist Hindu movement 'Arya Samaj' in Bombay in 1875 with the call 'Go Back to the Vedas'?",
+      "question_te": "'వేదాలకు తరలిరండి' అనే నినాదంతో 1875 లో బొంబాయిలో 'ఆర్య సమాజం' ను స్థాపించినది ఎవరు?",
+      "options_en": [
+        "Swami Dayananda Saraswati",
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "options_te": [
+        "స్వామి దయానంద సరస్వతి",
+        "రాజా రామ్ మోహన్ రాయ్",
+        "స్వామి వివేకానంద",
+        "ఈశ్వర చంద్ర విద్యాసాగర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Swami Dayananda Saraswati established Arya Samaj in 1875 to oppose idol worship and caste orthodoxy and advocate Vedic teachings.",
+      "explanation_te": "స్వామి దయానంద సరస్వతి 1875 లో ఆర్య సమాజాన్ని స్థాపించి 'సత్యార్థ ప్రకాశిక' గ్రంథాన్ని రచించారు."
+    },
+    {
+      "id": 144,
+      "qNumber": 144,
+      "section": "General Studies",
+      "topic": "Modern India - Partition of Bengal",
+      "question_en": "Which British Viceroy announced the controversial Partition of Bengal in 1905, triggering the nationwide Swadeshi Movement?",
+      "question_te": "1905 లో స్వదేశీ ఉద్యమానికి కారణమైన బెంగాల్ విభజనను ప్రకటించిన బ్రిటిష్ వైస్రాయ్ ఎవరు?",
+      "options_en": [
+        "Lord Curzon",
+        "Lord Ripon",
+        "Lord Dalhousie",
+        "Lord Canning"
+      ],
+      "options_te": [
+        "లార్డ్ కర్జన్",
+        "లార్డ్ రిప్పన్",
+        "లార్డ్ డల్హౌసీ",
+        "లార్డ్ కానింగ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Lord Curzon partitioned Bengal in October 1905 on communal lines, sparking widespread boycott and the Vande Mataram movement.",
+      "explanation_te": "వైస్రాయ్ లార్డ్ కర్జన్ 1905 లో బెంగాల్‌ను విభజించగా, దీనికి వ్యతిరేకంగా వందేమాతరం (స్వదేశీ) ఉద్యమం ఉవ్వెత్తున లేచింది."
+    },
+    {
+      "id": 145,
+      "qNumber": 145,
+      "section": "General Studies",
+      "topic": "Modern India - Jallianwala Bagh Massacre",
+      "question_en": "The tragic Jallianwala Bagh massacre ordered by General Dyer occurred on which date in Amritsar?",
+      "question_te": "జనరల్ డయర్ ఆదేశాలతో జరిగిన ఘోర జలియన్ వాలాబాగ్ దురంతం అమృత్‌సర్‌లో ఏ తేదీన జరిగింది?",
+      "options_en": [
+        "April 13, 1919",
+        "March 23, 1931",
+        "August 8, 1942",
+        "January 26, 1930"
+      ],
+      "options_te": [
+        "1919 ఏప్రిల్ 13",
+        "1931 మార్చి 23",
+        "1942 ఆగస్టు 8",
+        "1930 జనవరి 26"
+      ],
+      "correct_option": 0,
+      "explanation_en": "On Baisakhi day, April 13, 1919, British troops fired on unarmed peaceful protesters protesting against the Rowlatt Act.",
+      "explanation_te": "రౌలట్ చట్టానికి వ్యతిరేకంగా శాంతియుతంగా సమావేశమైన నిరాయుధులపై 1919 ఏప్రిల్ 13న జనరల్ డయర్ కాల్పులు జరిపించాడు."
+    },
+    {
+      "id": 146,
+      "qNumber": 146,
+      "section": "General Studies",
+      "topic": "Modern India - Non-Cooperation Movement",
+      "question_en": "In which year was the nationwide Non-Cooperation Movement launched under the leadership of Mahatma Gandhi?",
+      "question_te": "మహాత్మా గాంధీ నాయకత్వంలో దేశవ్యాప్త సహాయ నిరాకరణ ఉద్యమం ఏ సంవత్సరంలో ప్రారంభించబడింది?",
+      "options_en": [
+        "1920",
+        "1925",
+        "1930",
+        "1942"
+      ],
+      "options_te": [
+        "1920",
+        "1925",
+        "1930",
+        "1942"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mahatma Gandhi launched the Non-Cooperation Movement in 1920 following the Rowlatt Act and Jallianwala Bagh massacre.",
+      "explanation_te": "1920 లో గాంధీజీ నాయకత్వంలో సహాయ నిరాకరణ ఉద్యమం ప్రారంభమైంది (చౌరీ చౌరా ఘటన తర్వాత 1922 లో నిలిపివేయబడింది)."
+    },
+    {
+      "id": 147,
+      "qNumber": 147,
+      "section": "General Studies",
+      "topic": "Modern India - Dandi March",
+      "question_en": "The historic Dandi Salt March (Civil Disobedience Movement) undertaken by Mahatma Gandhi started from which location in March 1930?",
+      "question_te": "1930 మార్చిలో మహాత్మా గాంధీ చేపట్టిన చారిత్రక దండి ఉప్పు సత్యాగ్రహం ఎక్కడి నుండి ప్రారంభమైంది?",
+      "options_en": [
+        "Sabarmati Ashram (Ahmedabad)",
+        "Wardha Ashram",
+        "Sevagram",
+        "Champaran"
+      ],
+      "options_te": [
+        "సబర్మతి ఆశ్రమం (అహ్మదాబాద్)",
+        "వర్ధా ఆశ్రమం",
+        "సేవాగ్రామ్",
+        "చంపారన్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mahatma Gandhi commenced the Dandi March with 78 chosen followers from Sabarmati Ashram on 12 March 1930 to break the salt law.",
+      "explanation_te": "1930 మార్చి 12న గాంధీజీ అహ్మదాబాద్‌లోని సబర్మతి ఆశ్రమం నుండి దండి యాత్రను ప్రారంభించి ఉప్పు చట్టాన్ని ఉల్లంఘించారు."
+    },
+    {
+      "id": 148,
+      "qNumber": 148,
+      "section": "General Studies",
+      "topic": "Modern India - Quit India Movement Slogan",
+      "question_en": "What was the immortal rallying slogan coined by Mahatma Gandhi at the launch of the Quit India Movement in August 1942?",
+      "question_te": "1942 ఆగస్టులో క్విట్ ఇండియా ఉద్యమం సందర్భంగా మహాత్మా గాంధీ ఇచ్చిన చారిత్రక నినాదం ఏమిటి?",
+      "options_en": [
+        "Do or Die",
+        "Jai Hind",
+        "Inquilab Zindabad",
+        "Swaraj is my birthright"
+      ],
+      "options_te": [
+        "డూ ఆర్ డై (సాధించండి లేదా మరణించండి)",
+        "జై హింద్",
+        "ఇంక్విలాబ్ జిందాబాద్",
+        "స్వరాజ్యం నా జన్మహక్కు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Gandhi delivered the call 'Do or Die' (Karo ya Maro) at the Gowalia Tank Maidan in Bombay on August 8, 1942.",
+      "explanation_te": "1942 ఆగస్టు 8న బొంబాయి గోవాలియా ట్యాంక్ మైదానంలో గాంధీజీ 'డూ ఆర్ డై' (చేయండి లేదా చావండి) నినాదాన్ని ఇచ్చారు."
+    },
+    {
+      "id": 149,
+      "qNumber": 149,
+      "section": "General Studies",
+      "topic": "Modern India - First Indian Governor General",
+      "question_en": "Who was the first and only Indian Governor-General of independent India?",
+      "question_te": "స్వతంత్ర భారతదేశపు మొట్టమొదటి మరియు ఏకైక భారతీయ గవర్నర్-జనరల్ ఎవరు?",
+      "options_en": [
+        "C. Rajagopalachari",
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Jawaharlal Nehru"
+      ],
+      "options_te": [
+        "సి. రాజగోపాలాచారి (రాజాజీ)",
+        "డా. రాజేంద్ర ప్రసాద్",
+        "డా. ఎస్. రాధాకృష్ణన్",
+        "జవహర్‌లాల్ నెహ్రూ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Chakravarti Rajagopalachari succeeded Lord Mountbatten and served as the Governor-General of India from June 1948 to January 1950.",
+      "explanation_te": "1948 నుండి 1950 వరకు స్వతంత్ర భారతదేశానికి ఏకైక భారతీయ గవర్నర్ జనరల్‌గా చక్రవర్తుల రాజగోపాలాచారి పనిచేశారు."
+    },
+    {
+      "id": 150,
+      "qNumber": 150,
+      "section": "General Studies",
+      "topic": "Modern India - Tilak Slogan",
+      "question_en": "Who proclaimed the famous words: 'Swaraj is my birthright, and I shall have it'?",
+      "question_te": "'స్వరాజ్యం నా జన్మహక్కు, దానిని నేను పొంది తీరుతాను' అని ప్రకటించిన జాతీయ నాయకుడు ఎవరు?",
+      "options_en": [
+        "Bal Gangadhar Tilak",
+        "Bipin Chandra Pal",
+        "Lala Lajpat Rai",
+        "Subhas Chandra Bose"
+      ],
+      "options_te": [
+        "బాల గంగాధర తిలక్",
+        "బిపిన్ చంద్ర పాల్",
+        "లాలా లజపతి రాయ్",
+        "సుభాష్ చంద్రబోస్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Lokmanya Bal Gangadhar Tilak, leader of the extremist faction in Congress and founder of Kesari, declared this famous slogan.",
+      "explanation_te": "లోకమాన్య బాల గంగాధర తిలక్ స్వరాజ్యం నా జన్మహక్కు అని నినదించి గణేష్ మరియు శివాజీ ఉత్సవాల ద్వారా ప్రజలను ఉత్తేజపరిచారు."
+    },
+    {
+      "id": 151,
+      "qNumber": 151,
+      "section": "General Studies",
+      "topic": "Indian Geography - Longest River",
+      "question_en": "Which is the longest river flowing entirely within the geographical territory of India?",
+      "question_te": "భారతదేశ భూభాగంలో ప్రవహించే అత్యంత పొడవైన నది ఏది?",
+      "options_en": [
+        "Ganga",
+        "Godavari",
+        "Yamuna",
+        "Brahmaputra"
+      ],
+      "options_te": [
+        "గంగా నది",
+        "గోదావరి నది",
+        "యమునా నది",
+        "బ్రహ్మపుత్ర నది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Ganga is India's longest river with a total length of 2,525 km.",
+      "explanation_te": "గంగా నది 2,525 కి.మీ పొడవుతో భారతదేశంలో అత్యంత పొడవైన పవిత్ర నది."
+    },
+    {
+      "id": 152,
+      "qNumber": 152,
+      "section": "General Studies",
+      "topic": "Indian Geography - Dakshin Ganga",
+      "question_en": "Which river is known as 'Dakshin Ganga' (Ganga of the South) owing to its immense length and religious significance?",
+      "question_te": "విస్తారమైన పొడవు మరియు పవిత్రత కారణంగా 'దక్షిణ గంగ' అని ఏ నదిని పిలుస్తారు?",
+      "options_en": [
+        "Godavari",
+        "Krishna",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "options_te": [
+        "గోదావరి నది",
+        "కృష్ణా నది",
+        "కావేరి నది",
+        "మహానది"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Godavari (1,465 km), originating at Trimbakeshwar in Maharashtra, is the longest peninsular river and is called Dakshin Ganga.",
+      "explanation_te": "మహారాష్ట్రలోని త్రయంబకేశ్వర్ వద్ద జన్మించే గోదావరి నది (1,465 కి.మీ) ద్వీపకల్పంలో అతిపెద్దది మరియు దక్షిణ గంగగా ప్రసిద్ధి."
+    },
+    {
+      "id": 153,
+      "qNumber": 153,
+      "section": "General Studies",
+      "topic": "Indian Geography - Highest Peak in India",
+      "question_en": "Which is the highest mountain peak located within the undisputed sovereign territory of India?",
+      "question_te": "భారత సార్వభౌమ భూభాగంలో ఉన్న అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
+      "options_en": [
+        "Kanchenjunga",
+        "Nanda Devi",
+        "Kamet",
+        "K2 (Godwin Austen)"
+      ],
+      "options_te": [
+        "కాంచనగంగ",
+        "నందా దేవి",
+        "కామెట్",
+        "K2 (గాడ్విన్ ఆస్టెన్)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kanchenjunga (8,586 m in Sikkim) is the highest peak in Indian sovereign territory. (K2 is in Pakistan-occupied Kashmir).",
+      "explanation_te": "సిక్కింలో ఉన్న కాంచనగంగ (8,586 మీ) భారతదేశ భూభాగంలోని అత్యున్నత పర్వత శిఖరం (K2 పాక్ ఆక్రమిత కాశ్మీర్‌లో ఉంది)."
+    },
+    {
+      "id": 154,
+      "qNumber": 154,
+      "section": "General Studies",
+      "topic": "Indian Geography - Highest Peak of South India",
+      "question_en": "Which is the highest peak in Peninsular / Southern India and the Western Ghats?",
+      "question_te": "దక్షిణ భారతదేశంలో మరియు పశ్చిమ కనుమలలో అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
+      "options_en": [
+        "Anamudi",
+        "Doddabetta",
+        "Arma Konda",
+        "Kalsubai"
+      ],
+      "options_te": [
+        "ఆనైముడి",
+        "దొడ్డబెట్ట",
+        "అరోమా కొండ",
+        "కలసుబాయి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Anamudi (2,695 m), situated in the Anamalai Hills of Kerala, is the highest peak in South India.",
+      "explanation_te": "కేరళలోని అనైమలై కొండలలో గల ఆనైముడి (2,695 మీ) దక్షిణ భారతదేశంలోనే అత్యంత ఎత్తైన శిఖరం."
+    },
+    {
+      "id": 155,
+      "qNumber": 155,
+      "section": "General Studies",
+      "topic": "Indian Geography - Largest Freshwater Lake",
+      "question_en": "Which is the largest natural freshwater lake in India?",
+      "question_te": "భారతదేశంలో సహజసిద్ధమైన అతిపెద్ద మంచినీటి సరస్సు ఏది?",
+      "options_en": [
+        "Wular Lake",
+        "Chilika Lake",
+        "Sambhar Lake",
+        "Vembanad Lake"
+      ],
+      "options_te": [
+        "ఊలార్ సరస్సు",
+        "చిల్కా సరస్సు",
+        "సాంబార్ సరస్సు",
+        "వెంబనాడ్ సరస్సు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Wular Lake in Bandipora district of Jammu & Kashmir, fed by the Jhelum river, is India's largest freshwater lake.",
+      "explanation_te": "జమ్మూ కాశ్మీర్‌లోని జీలం నది ద్వారా ఏర్పడిన ఊలార్ సరస్సు భారతదేశపు అతిపెద్ద మంచినీటి సరస్సు."
+    },
+    {
+      "id": 156,
+      "qNumber": 156,
+      "section": "General Studies",
+      "topic": "Indian Geography - Largest Lagoon",
+      "question_en": "Which is the largest brackish water coastal lagoon in India and Asia?",
+      "question_te": "భారతదేశంలో మరియు ఆసియాలోనే అతిపెద్ద ఉప్పునీటి తీరప్రాంత సరస్సు (లగూన్) ఏది?",
+      "options_en": [
+        "Chilika Lake",
+        "Pulicat Lake",
+        "Kolleru Lake",
+        "Lonar Lake"
+      ],
+      "options_te": [
+        "చిల్కా సరస్సు",
+        "పులికాట్ సరస్సు",
+        "కొల్లేరు సరస్సు",
+        "లోనార్ సరస్సు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Chilika Lake in Odisha is Asia's largest brackish water lagoon and India's first designated Ramsar site (1981).",
+      "explanation_te": "ఒడిశాలోని చిల్కా సరస్సు ఆసియాలోనే అతిపెద్ద ఉప్పునీటి లగూన్ మరియు భారతదేశపు మొదటి రామ్‌సర్ ప్రాంతం."
+    },
+    {
+      "id": 157,
+      "qNumber": 157,
+      "section": "General Studies",
+      "topic": "Indian Geography - Tropic of Cancer",
+      "question_en": "Through how many Indian states does the Tropic of Cancer (23.5° N latitude) pass?",
+      "question_te": "కర్కట రేఖ (23.5° ఉత్తర అక్షాంశం) భారతదేశంలోని ఎన్ని రాష్ట్రాల గుండా పోతుంది?",
+      "options_en": [
+        "7 states",
+        "8 states",
+        "9 states",
+        "10 states"
+      ],
+      "options_te": [
+        "7 రాష్ట్రాలు",
+        "8 రాష్ట్రాలు",
+        "9 రాష్ట్రాలు",
+        "10 రాష్ట్రాలు"
+      ],
+      "correct_option": 1,
+      "explanation_en": "Tropic of Cancer passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, West Bengal, Tripura, and Mizoram.",
+      "explanation_te": "కర్కట రేఖ 8 రాష్ట్రాల గుండా పోతుంది: గుజరాత్, రాజస్థాన్, మధ్యప్రదేశ్, ఛత్తీస్‌గఢ్, జార్ఖండ్, పశ్చిమ బెంగాల్, త్రిపుర, మిజోరం."
+    },
+    {
+      "id": 158,
+      "qNumber": 158,
+      "section": "General Studies",
+      "topic": "Indian Geography - Longest Coastline",
+      "question_en": "Which Indian state has the longest coastline among all mainland coastal states?",
+      "question_te": "భారత ప్రధాన భూభాగంలో అత్యంత పొడవైన తీరరేఖ కలిగిన రాష్ట్రం ఏది?",
+      "options_en": [
+        "Gujarat",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Maharashtra"
+      ],
+      "options_te": [
+        "గుజరాత్",
+        "ఆంధ్రప్రదేశ్",
+        "తమిళనాడు",
+        "మహారాష్ట్ర"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Gujarat has the longest coastline in mainland India (approx. 1,600 km), followed by Andhra Pradesh (~974 km).",
+      "explanation_te": "గుజరాత్ దాదాపు 1,600 కి.మీ తో దేశంలోనే అత్యంత పొడవైన తీరరేఖను కలిగి ఉంది (రెండవ స్థానంలో ఆంధ్రప్రదేశ్ ఉంది)."
+    },
+    {
+      "id": 159,
+      "qNumber": 159,
+      "section": "General Studies",
+      "topic": "Environment - First National Park",
+      "question_en": "Which was the first National Park established in India in 1936, originally known as Hailey National Park?",
+      "question_te": "1936 లో 'హైలీ నేషనల్ పార్క్' పేరుతో భారతదేశంలో ఏర్పాటైన మొట్టమొదటి జాతీయ పార్కు ఏది?",
+      "options_en": [
+        "Jim Corbett National Park",
+        "Kaziranga National Park",
+        "Gir National Park",
+        "Kanha National Park"
+      ],
+      "options_te": [
+        "జిమ్ కార్బెట్ జాతీయ పార్కు",
+        "కాజిరంగా జాతీయ పార్కు",
+        "గిర్ జాతీయ పార్కు",
+        "కన్హా జాతీయ పార్కు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Jim Corbett National Park in Nainital (Uttarakhand) was established in 1936 as Hailey National Park.",
+      "explanation_te": "ఉత్తరాఖండ్‌లోని జిమ్ కార్బెట్ నేషనల్ పార్క్ 1936 లో భారతదేశపు మొట్టమొదటి జాతీయ పార్కుగా ఏర్పాటైంది."
+    },
+    {
+      "id": 160,
+      "qNumber": 160,
+      "section": "General Studies",
+      "topic": "Environment - Kaziranga Rhino",
+      "question_en": "Kaziranga National Park, world-famous for the great Indian one-horned rhinoceros, is situated in which state?",
+      "question_te": "ఒంటికొమ్ము ఖడ్గమృగాలకు ప్రపంచ ప్రసిద్ధి చెందిన కాజిరంగా జాతీయ పార్కు ఏ రాష్ట్రంలో ఉంది?",
+      "options_en": [
+        "Assam",
+        "West Bengal",
+        "Odisha",
+        "Madhya Pradesh"
+      ],
+      "options_te": [
+        "అసోం (అస్సాం)",
+        "పశ్చిమ బెంగాల్",
+        "ఒడిశా",
+        "మధ్యప్రదేశ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Kaziranga National Park is located on the floodplains of the Brahmaputra River in Assam.",
+      "explanation_te": "అసోంలోని బ్రహ్మపుత్ర నది పరీవాహక ప్రాంతంలో కాజిరంగా జాతీయ పార్కు విస్తరించి ఉంది."
+    },
+    {
+      "id": 161,
+      "qNumber": 161,
+      "section": "General Studies",
+      "topic": "Indian Geography - Standard Meridian",
+      "question_en": "The Standard Meridian of India (determining Indian Standard Time - IST) passes through Mirzapur along which longitude?",
+      "question_te": "భారత ప్రామాణిక కాలాన్ని (IST) నిర్ణయించే ప్రామాణిక రేఖాంశం (Standard Meridian) మీర్జాపూర్ గుండా వెళ్లే ఏ రేఖాంశం?",
+      "options_en": [
+        "82.5° East longitude",
+        "80.5° East longitude",
+        "85.5° East longitude",
+        "75.5° East longitude"
+      ],
+      "options_te": [
+        "82.5° తూర్పు రేఖాంశం",
+        "80.5° తూర్పు రేఖాంశం",
+        "85.5° తూర్పు రేఖాంశం",
+        "75.5° తూర్పు రేఖాంశం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "82°30' E (82.5° E) longitude passing through Mirzapur (near Prayagraj, UP) is the Standard Meridian, 5 hours 30 minutes ahead of GMT.",
+      "explanation_te": "82.5° తూర్పు రేఖాంశాన్ని భారత ప్రామాణిక రేఖాంశంగా తీసుకుంటారు. ఇది గ్రీనిచ్ సమయం కంటే 5 గంటల 30 నిమిషాలు ముందుంటుంది."
+    },
+    {
+      "id": 162,
+      "qNumber": 162,
+      "section": "General Studies",
+      "topic": "Indian Agriculture - Black Soil Crop",
+      "question_en": "Black cotton soil (Regur) is most suitable for the commercial cultivation of which cash crop in India?",
+      "question_te": "నల్లరేగడి నేలలు (రెగూర్) భారతదేశంలో ఏ వాణిజ్య పంట సాగుకు అత్యంత అనుకూలమైనవి?",
+      "options_en": [
+        "Cotton",
+        "Tea",
+        "Rubber",
+        "Jute"
+      ],
+      "options_te": [
+        "పత్తి (Cotton)",
+        "తేయాకు",
+        "రబ్బరు",
+        "జనపనార"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Black soil has high clay content and moisture retention, making it ideal for cotton cultivation ('Black Cotton Soil').",
+      "explanation_te": "తేమను నిలిపి ఉంచే లక్షణం ఎక్కువగా ఉండటం వలన నల్లరేగడి నేలలు పత్తి పంటకు అత్యంత ప్రసిద్ధి."
+    },
+    {
+      "id": 163,
+      "qNumber": 163,
+      "section": "General Studies",
+      "topic": "Atmospheric Science - Weather Layer",
+      "question_en": "In which layer of Earth's atmosphere do almost all weather phenomena (such as clouds, rain, storms, and fog) occur?",
+      "question_te": "భూ వాతావరణంలోని ఏ పొరలో మేఘాలు, వర్షం, తుఫానులు మరియు పొగమంచు వంటి వాతావరణ మార్పులన్నీ సంభవిస్తాయి?",
+      "options_en": [
+        "Troposphere",
+        "Stratosphere",
+        "Mesosphere",
+        "Thermosphere"
+      ],
+      "options_te": [
+        "ట్రోపోస్ఫియర్ (Troposphere)",
+        "స్ట్రాటోస్ఫియర్",
+        "మీసోస్ఫియర్",
+        "థర్మోస్ఫియర్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Troposphere is the lowest atmospheric layer extending up to ~13 km where all clouds and weather events take place.",
+      "explanation_te": "భూమికి అత్యంత దగ్గరగా ఉండే ట్రోపోస్ఫియర్‌లో మాత్రమే సమస్త వాతావరణ మార్పులు మరియు వర్షాలు సంభవిస్తాయి."
+    },
+    {
+      "id": 164,
+      "qNumber": 164,
+      "section": "General Studies",
+      "topic": "Environment - World Environment Day",
+      "question_en": "On which date is World Environment Day observed globally every year?",
+      "question_te": "ప్రపంచవ్యాప్తంగా ప్రతి సంవత్సరం 'ప్రపంచ పర్యావరణ దినోత్సవం' ఏ తేదీన జరుపుకుంటారు?",
+      "options_en": [
+        "June 5",
+        "April 22",
+        "March 21",
+        "September 16"
+      ],
+      "options_te": [
+        "జూన్ 5",
+        "ఏప్రిల్ 22",
+        "మార్చి 21",
+        "సెప్టెంబర్ 16"
+      ],
+      "correct_option": 0,
+      "explanation_en": "World Environment Day is observed on June 5 every year under the auspices of the United Nations Environment Programme (UNEP).",
+      "explanation_te": "ఐక్యరాజ్యసమితి పర్యావరణ విభాగం (UNEP) ఆధ్వర్యంలో ప్రతి ఏటా జూన్ 5న ప్రపంచ పర్యావరణ దినోత్సవం నిర్వహిస్తారు."
+    },
+    {
+      "id": 165,
+      "qNumber": 165,
+      "section": "General Studies",
+      "topic": "Indian Economy - RBI Establishment",
+      "question_en": "The Reserve Bank of India (RBI), India's central banking institution, was established on which date?",
+      "question_te": "భారత కేంద్ర బ్యాంకింగ్ వ్యవస్థ అయిన రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా (RBI) ఏ తేదీన స్థాపించబడింది?",
+      "options_en": [
+        "April 1, 1935",
+        "January 26, 1950",
+        "August 15, 1947",
+        "July 1, 1955"
+      ],
+      "options_te": [
+        "1935 ఏప్రిల్ 1",
+        "1950 జనవరి 26",
+        "1947 ఆగస్టు 15",
+        "1955 జూలై 1"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Reserve Bank of India was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934.",
+      "explanation_te": "హిల్టన్ యంగ్ కమిషన్ సిఫార్సుల ప్రకారం ఆర్బీఐ చట్టం 1934 కింద 1935 ఏప్రిల్ 1న రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ఏర్పాటైంది."
+    },
+    {
+      "id": 166,
+      "qNumber": 166,
+      "section": "General Studies",
+      "topic": "Indian Economy - SBI Formation",
+      "question_en": "In July 1955, the Imperial Bank of India was nationalised and reconstituted as which premier public sector bank?",
+      "question_te": "1955 జూలైలో ఇంపీరియల్ బ్యాంక్ ఆఫ్ ఇండియాను జాతీయం చేసి ఏ ప్రముఖ ప్రభుత్వ రంగ బ్యాంకుగా పునర్నామకరణం చేశారు?",
+      "options_en": [
+        "State Bank of India (SBI)",
+        "Punjab National Bank (PNB)",
+        "Bank of Baroda",
+        "Canara Bank"
+      ],
+      "options_te": [
+        "స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI)",
+        "పంజాబ్ నేషనల్ బ్యాంక్ (PNB)",
+        "బ్యాంక్ ఆఫ్ బరోడా",
+        "కెనరా బ్యాంక్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Under the State Bank of India Act, 1955, the Imperial Bank of India was nationalised on July 1, 1955, and reconstituted as the State Bank of India (SBI).",
+      "explanation_te": "1955 స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా చట్టం ద్వారా ఇంపీరియల్ బ్యాంక్ ఆఫ్ ఇండియాను 1955 జూలై 1న జాతీయం చేసి స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI) గా మార్చారు."
+    },
+    {
+      "id": 167,
+      "qNumber": 167,
+      "section": "General Studies",
+      "topic": "Indian Economy - Green Revolution Father",
+      "question_en": "Who is widely recognized as the 'Father of the Green Revolution in India'?",
+      "question_te": "భారతదేశంలో 'హరిత విప్లవ పితామహుడు'గా ఎవరిని కొనియాడతారు?",
+      "options_en": [
+        "M.S. Swaminathan",
+        "Verghese Kurien",
+        "Norman Borlaug",
+        "Homi Bhabha"
+      ],
+      "options_te": [
+        "ఎం.ఎస్. స్వామినాథన్",
+        "వర్గీస్ కురియన్",
+        "నార్మన్ బోర్లాగ్",
+        "హోమీ బాబా"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Professor M.S. Swaminathan led the introduction of high-yielding semi-dwarf wheat and rice varieties in India in the 1960s.",
+      "explanation_te": "భారతదేశంలో అధిక దిగుబడినిచ్చే వంగడాలను ప్రవేశపెట్టి ఆహార ధాన్యాల ఉత్పత్తిని పెంచిన డాక్టర్ ఎం.ఎస్. స్వామినాథన్ హరిత విప్లవ పితామహుడు."
+    },
+    {
+      "id": 168,
+      "qNumber": 168,
+      "section": "General Studies",
+      "topic": "Indian Economy - Highest Contributing Sector",
+      "question_en": "Which sector of the economy contributes the largest share to both India's GDP and Telangana's GSDP?",
+      "question_te": "భారతదేశ జిడిపి మరియు తెలంగాణ జిఎస్‌డిపి రెండింటిలోనూ అత్యధిక వాటాను కలిగి ఉన్న ఆర్థిక రంగం ఏది?",
+      "options_en": [
+        "Tertiary (Services) Sector",
+        "Secondary (Manufacturing) Sector",
+        "Primary (Agriculture) Sector",
+        "Mining Sector"
+      ],
+      "options_te": [
+        "తృతీయ (సేవా) రంగం",
+        "ద్వితీయ (తయారీ/పారిశ్రామిక) రంగం",
+        "ప్రాథమిక (వ్యవసాయ) రంగం",
+        "గనుల రంగం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The Services (Tertiary) sector accounts for over 54% of India's GDP and over 64% of Telangana's GSDP.",
+      "explanation_te": "సేవా రంగం (తృతీయ రంగం) దేశంలో 54% కంటే ఎక్కువగా మరియు తెలంగాణలో 64% కంటే ఎక్కువ వాటాతో అతిపెద్ద రంగంగా ఉంది."
+    },
+    {
+      "id": 169,
+      "qNumber": 169,
+      "section": "General Studies",
+      "topic": "Indian Economy - Direct Tax Example",
+      "question_en": "Which of the following is an example of a Direct Tax in India?",
+      "question_te": "క్రింది వాటిలో భారతదేశంలో ప్రత్యక్ష పన్నుకు (Direct Tax) సరైన ఉదాహరణ ఏది?",
+      "options_en": [
+        "Personal Income Tax",
+        "Goods and Services Tax (GST)",
+        "Customs Duty",
+        "Excise Duty"
+      ],
+      "options_te": [
+        "వ్యక్తిగత ఆదాయ పన్ను (Income Tax)",
+        "వస్తు సేవల పన్ను (GST)",
+        "కస్టమ్స్ సుంకం",
+        "ఎక్సైజ్ సుంకం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Income tax and Corporate tax are direct taxes paid directly by the entity on whom it is levied, whereas GST and Customs are indirect taxes.",
+      "explanation_te": "ఆదాయపు పన్ను ప్రత్యక్ష పన్ను. GST మరియు కస్టమ్స్ డ్యూటీలు పరోక్ష పన్నులు."
+    },
+    {
+      "id": 170,
+      "qNumber": 170,
+      "section": "General Studies",
+      "topic": "Indian Economy - GST Launch Date",
+      "question_en": "On which date was the Goods and Services Tax (GST) nationwide regime launched in India?",
+      "question_te": "భారతదేశంలో దేశవ్యాప్త వస్తు మరియు సేవల పన్ను (GST) ఏ తేదీన అధికారికంగా అమలులోకి వచ్చింది?",
+      "options_en": [
+        "July 1, 2017",
+        "April 1, 2017",
+        "November 8, 2016",
+        "January 1, 2018"
+      ],
+      "options_te": [
+        "2017 జూలై 1",
+        "2017 ఏప్రిల్ 1",
+        "2016 నవంబర్ 8",
+        "2018 జనవరి 1"
+      ],
+      "correct_option": 0,
+      "explanation_en": "GST was rolled out on July 1, 2017, pursuant to the 101st Constitutional Amendment Act, 2016, subsuming 17 major central and state levies.",
+      "explanation_te": "101వ రాజ్యాంగ సవరణ చట్టం ద్వారా 'ఒకే దేశం - ఒకే పన్ను' విధానంలో 2017 జూలై 1న GST అమలులోకి వచ్చింది."
+    },
+    {
+      "id": 171,
+      "qNumber": 171,
+      "section": "General Studies",
+      "topic": "Indian Economy - Repo Rate Definition",
+      "question_en": "What is the term for the interest rate at which the Reserve Bank of India lends short-term funds to commercial banks against approved securities?",
+      "question_te": "వాణిజ్య బ్యాంకులకు స్వల్పకాలిక నిధుల కోసం ఆమోదిత సెక్యూరిటీల పూచీకత్తుతో ఆర్‌బీఐ ఇచ్చే రుణాలపై వసూలు చేసే వడ్డీ రేటును ఏమంటారు?",
+      "options_en": [
+        "Repo Rate",
+        "Reverse Repo Rate",
+        "Bank Rate",
+        "Cash Reserve Ratio"
+      ],
+      "options_te": [
+        "రెపో రేటు (Repo Rate)",
+        "రివర్స్ రెపో రేటు",
+        "బ్యాంక్ రేటు",
+        "నగదు నిల్వల నిష్పత్తి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Repo Rate (Repurchase Option Rate) is the policy rate at which RBI lends money to commercial banks against government collateral.",
+      "explanation_te": "కమర్షియల్ బ్యాంకులకు ఆర్‌బీఐ ఇచ్చే స్వల్పకాలిక రుణాలపై విధించే ప్రామాణిక వడ్డీ రేటును రెపో రేటు అంటారు."
+    },
+    {
+      "id": 172,
+      "qNumber": 172,
+      "section": "General Studies",
+      "topic": "Indian Economy - First Five-Year Plan",
+      "question_en": "The First Five-Year Plan (1951–1956) of India was primarily focused on the development of which critical sector?",
+      "question_te": "భారతదేశపు మొదటి పంచవర్ష ప్రణాళిక (1951–1956) ప్రధానంగా ఏ కీలక రంగ అభివృద్ధిపై దృష్టి సారించింది?",
+      "options_en": [
+        "Agriculture and Irrigation",
+        "Heavy Capital Industries",
+        "Information Technology",
+        "Export Promotion"
+      ],
+      "options_te": [
+        "వ్యవసాయం మరియు నీటిపారుదల",
+        "భారీ మూలధన పరిశ్రమలు",
+        "సమాచార సాంకేతిక రంగం (IT)",
+        "ఎగుమతుల ప్రోత్సాహం"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Based on the Harrod-Domar model, the First Plan prioritized food grain self-sufficiency through major dams like Bhakra-Nangal, Hirakud, and Damodar Valley.",
+      "explanation_te": "మొదటి ప్రణాళిక హారడ్-డోమర్ నమూనాపై ఆధారపడి ఆహార కొరతను అధిగమించడానికి వ్యవసాయం మరియు సాగునీటి ప్రాజెక్టులకు అత్యధిక ప్రాధాన్యతనిచ్చింది."
+    },
+    {
+      "id": 173,
+      "qNumber": 173,
+      "section": "General Studies",
+      "topic": "Indian Economy - PM-KISAN Annual Benefit",
+      "question_en": "Under the Central Government's PM-KISAN scheme, what is the total annual financial support provided to eligible farmers?",
+      "question_te": "కేంద్ర ప్రభుత్వ PM-KISAN పథకం కింద అర్హులైన రైతులకు సంవత్సరానికి అందించే మొత్తం ఆర్థిక సాయం ఎంత?",
+      "options_en": [
+        "Rs 6,000",
+        "Rs 8,000",
+        "Rs 10,000",
+        "Rs 12,000"
+      ],
+      "options_te": [
+        "రూ. 6,000",
+        "రూ. 8,000",
+        "రూ. 10,000",
+        "రూ. 12,000"
+      ],
+      "correct_option": 0,
+      "explanation_en": "PM-KISAN provides Rs 6,000 per year per eligible landholding farmer family, distributed in 3 equal installments of Rs 2,000 each.",
+      "explanation_te": "పీఎం కిసాన్ పథకం కింద అర్హులైన రైతులకు ఏటా రూ. 6,000 చొప్పున మూడు విడతల్లో (విడతకు రూ. 2,000) నేరుగా బ్యాంక్ ఖాతాల్లో జమ చేస్తారు."
+    },
+    {
+      "id": 174,
+      "qNumber": 174,
+      "section": "General Studies",
+      "topic": "Telangana Economy - IRDAI Headquarters",
+      "question_en": "The national headquarters of the Insurance Regulatory and Development Authority of India (IRDAI) is situated in which city?",
+      "question_te": "భారత బీమా నియంత్రణ మరియు అభివృద్ధి ప్రాధికార సంస్థ (IRDAI) ప్రధాన కార్యాలయం ఏ నగరంలో ఉంది?",
+      "options_en": [
+        "Hyderabad",
+        "Mumbai",
+        "New Delhi",
+        "Bengaluru"
+      ],
+      "options_te": [
+        "హైదరాబాద్",
+        "ముంబై",
+        "న్యూఢిల్లీ",
+        "బెంగళూరు"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The apex insurance regulator IRDAI was shifted from New Delhi to Hyderabad (Telangana) in 2001 and remains headquartered at Nanakramguda, Hyderabad.",
+      "explanation_te": "భారత బీమా రంగ నియంత్రణ సంస్థ IRDAI జాతీయ ప్రధాన కార్యాలయం హైదరాబాద్‌లోని నానక్‌రామ్‌గూడలో ఉంది."
+    },
+    {
+      "id": 175,
+      "qNumber": 175,
+      "section": "General Studies",
+      "topic": "General Science - Physics: SI Unit of Force",
+      "question_en": "What is the standard International System (SI) unit of Force?",
+      "question_te": "అంతర్జాతీయ ప్రమాణాల (SI) ప్రకారం బలానికి (Force) ప్రామాణిక ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "options_te": [
+        "న్యూటన్ (Newton)",
+        "జౌల్ (Joule)",
+        "పాస్కల్ (Pascal)",
+        "వాట్ (Watt)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of force is the Newton (N), named after Sir Isaac Newton (1 N = 1 kg·m/s^2).",
+      "explanation_te": "బలానికి SI ప్రమాణం న్యూటన్ (1 N = 1 kg·m/s^2)."
+    },
+    {
+      "id": 176,
+      "qNumber": 176,
+      "section": "General Studies",
+      "topic": "General Science - Physics: SI Unit of Power",
+      "question_en": "What is the SI unit of electrical and mechanical Power?",
+      "question_te": "విద్యుత్ మరియు యాంత్రిక సామర్థ్యానికి (Power) SI ప్రమాణం ఏమిటి?",
+      "options_en": [
+        "Watt",
+        "Joule",
+        "Volt",
+        "Ampere"
+      ],
+      "options_te": [
+        "వాట్ (Watt)",
+        "జౌల్ (Joule)",
+        "వోల్ట్ (Volt)",
+        "ఆంపియర్ (Ampere)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "The SI unit of power is the Watt (W), equivalent to one joule per second (1 W = 1 J/s).",
+      "explanation_te": "సామర్థ్యానికి SI ప్రమాణం వాట్ (సెకనుకు ఒక జౌల్ పని)."
+    },
+    {
+      "id": 177,
+      "qNumber": 177,
+      "section": "General Studies",
+      "topic": "General Science - Physics: Electric Current",
+      "question_en": "Which unit is used to measure Electric Current in the SI system?",
+      "question_te": "SI పద్ధతిలో విద్యుత్ ప్రవాహాన్ని (Electric Current) కొలవడానికి ఏ ప్రమాణాన్ని ఉపయోగిస్తారు?",
+      "options_en": [
+        "Ampere",
+        "Ohm",
+        "Volt",
+        "Coulomb"
+      ],
+      "options_te": [
+        "ఆంపియర్ (Ampere)",
+        "ఓమ్ (Ohm)",
+        "వోల్ట్ (Volt)",
+        "కూలూంబ్ (Coulomb)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Electric current is measured in Ampere (A), one of the fundamental SI base units.",
+      "explanation_te": "విద్యుత్ ప్రవాహాన్ని ఆంపియర్లలో కొలుస్తారు."
+    },
+    {
+      "id": 178,
+      "qNumber": 178,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Scurvy Vitamin",
+      "question_en": "The deficiency of which vitamin leads to the bleeding gums disease known as Scurvy?",
+      "question_te": "ఏ విటమిన్ లోపం వల్ల చిగుళ్ల నుండి రక్తం కారే 'స్కర్వీ' (Scurvy) వ్యాధి వస్తుంది?",
+      "options_en": [
+        "Vitamin C (Ascorbic Acid)",
+        "Vitamin A (Retinol)",
+        "Vitamin D (Calciferol)",
+        "Vitamin B1 (Thiamine)"
+      ],
+      "options_te": [
+        "విటమిన్ సి (ఆస్కార్బిక్ ఆమ్లం)",
+        "విటమిన్ ఎ (రెటినాల్)",
+        "విటమిన్ డి (కాల్సిఫెరాల్)",
+        "విటమిన్ బి1 (థయామిన్)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Vitamin C (ascorbic acid), abundant in citrus fruits and amla, prevents scurvy.",
+      "explanation_te": "విటమిన్ సి (ఆస్కార్బిక్ యాసిడ్) లోపం వల్ల చిగుళ్లు వాచి రక్తం కారే స్కర్వీ వ్యాధి వస్తుంది."
+    },
+    {
+      "id": 179,
+      "qNumber": 179,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Vitamin D Deficiency",
+      "question_en": "Rickets, a bone-weakening disorder in children, is caused by the deficiency of which vitamin?",
+      "question_te": "పిల్లలలో ఎముకలు బలహీనపడే 'రికెట్స్' (Rickets) వ్యాధి ఏ విటమిన్ లోపం వల్ల కలుగుతుంది?",
+      "options_en": [
+        "Vitamin D",
+        "Vitamin K",
+        "Vitamin E",
+        "Vitamin B12"
+      ],
+      "options_te": [
+        "విటమిన్ డి",
+        "విటమిన్ కె",
+        "విటమిన్ ఇ",
+        "విటమిన్ బి12"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Vitamin D (synthesized in the skin via sunlight) aids calcium absorption; its deficiency causes rickets in children and osteomalacia in adults.",
+      "explanation_te": "సూర్యరశ్మి ద్వారా లభించే విటమిన్ డి లోపం వల్ల పిల్లల్లో ఎముకలు వంకర్లు తిరిగే రికెట్స్ వ్యాధి వస్తుంది."
+    },
+    {
+      "id": 180,
+      "qNumber": 180,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Night Blindness",
+      "question_en": "Night blindness (Nyctalopia) is caused primarily by the deficiency of which vitamin?",
+      "question_te": "రేచీకటి (Night Blindness) ప్రధానంగా ఏ విటమిన్ లోపం వల్ల వస్తుంది?",
+      "options_en": [
+        "Vitamin A",
+        "Vitamin B2",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "options_te": [
+        "విటమిన్ ఎ",
+        "విటమిన్ బి2",
+        "విటమిన్ సి",
+        "విటమిన్ డి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Vitamin A (Retinol) is essential for rhodopsin synthesis in retina rods; its deficiency causes night blindness.",
+      "explanation_te": "కంటి చూపుకు అవసరమైన విటమిన్ ఎ లోపం వల్ల రేచీకటి వస్తుంది."
+    },
+    {
+      "id": 181,
+      "qNumber": 181,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Universal Blood Donor",
+      "question_en": "Which blood group is universally known as the 'Universal Blood Donor'?",
+      "question_te": "ఏ రక్త వర్గాన్ని 'సార్వత్రిక దాత' (Universal Donor) గా పరిగణిస్తారు?",
+      "options_en": [
+        "O negative (O-)",
+        "AB positive (AB+)",
+        "A positive",
+        "B negative"
+      ],
+      "options_te": [
+        "ఓ నెగెటివ్ (O-)",
+        "ఎబి పాజిటివ్ (AB+)",
+        "ఎ పాజిటివ్",
+        "బి నెగెటివ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "O negative blood lacks A, B, and Rh antigens on red blood cells, allowing it to be safely transfused to recipients of any blood group in emergencies.",
+      "explanation_te": "ఓ నెగెటివ్ రక్త కణాలపై ఎటువంటి యాంటిజెన్లు ఉండవు కాబట్టి దీనిని ఎవరికైనా ఎక్కించవచ్చు (సార్వత్రిక దాత). ఎబి పాజిటివ్ సార్వత్రిక స్వీకర్త."
+    },
+    {
+      "id": 182,
+      "qNumber": 182,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Normal Body Temperature",
+      "question_en": "What is the average normal human body temperature on the Celsius scale?",
+      "question_te": "సెల్సియస్ స్కేల్ ప్రకారం సాధారణ మానవ శరీర సగటు ఉష్ణోగ్రత ఎంత?",
+      "options_en": [
+        "37°C",
+        "35°C",
+        "39°C",
+        "40°C"
+      ],
+      "options_te": [
+        "37°C",
+        "35°C",
+        "39°C",
+        "40°C"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Normal human body temperature is approximately 37°C (equivalent to 98.6°F).",
+      "explanation_te": "సాధారణ మానవ శరీర ఉష్ణోగ్రత దాదాపు 37 డిగ్రీల సెల్సియస్ (98.6 డిగ్రీల ఫారెన్‌హీట్)."
+    },
+    {
+      "id": 183,
+      "qNumber": 183,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Powerhouse of Cell",
+      "question_en": "Which cell organelle is widely termed as the 'Powerhouse of the Cell' because it generates ATP through cellular respiration?",
+      "question_te": "కణ శ్వాసక్రియ ద్వారా ATP రూపంలో శక్తిని ఉత్పత్తి చేయడం వల్ల ఏ కణాంగాన్ని 'కణ శక్త్యాగారం' (Powerhouse of the Cell) అంటారు?",
+      "options_en": [
+        "Mitochondria",
+        "Ribosome",
+        "Golgi Apparatus",
+        "Lysosome"
+      ],
+      "options_te": [
+        "మైటోకాండ్రియా (Mitochondria)",
+        "రైబోజోమ్",
+        "గాల్జీ సంక్లిష్టం",
+        "లైసోజోమ్"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Mitochondria generate adenosine triphosphate (ATP), the chemical energy currency of the cell.",
+      "explanation_te": "కణానికి అవసరమైన శక్తిని ATP రూపంలో ఉత్పత్తి చేసే మైటోకాండ్రియాలను కణ శక్త్యాగారాలు అంటారు."
+    },
+    {
+      "id": 184,
+      "qNumber": 184,
+      "section": "General Studies",
+      "topic": "General Science - Chemistry: Common Salt",
+      "question_en": "What is the chemical name and chemical formula of common table salt?",
+      "question_te": "మనం రోజూ ఆహారంలో వాడే సాధారణ ఉప్పు యొక్క రసాయన నామం మరియు సంకేతం ఏమిటి?",
+      "options_en": [
+        "Sodium Chloride (NaCl)",
+        "Sodium Bicarbonate (NaHCO3)",
+        "Potassium Chloride (KCl)",
+        "Calcium Carbonate (CaCO3)"
+      ],
+      "options_te": [
+        "సోడియం క్లోరైడ్ (NaCl)",
+        "సోడియం బైకార్బోనేట్ (NaHCO3)",
+        "పొటాషియం క్లోరైడ్ (KCl)",
+        "కాల్షియం కార్బోనేట్ (CaCO3)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Common salt is Sodium Chloride (NaCl).",
+      "explanation_te": "సాధారణ ఉప్పు రసాయన నామం సోడియం క్లోరైడ్ (NaCl)."
+    },
+    {
+      "id": 185,
+      "qNumber": 185,
+      "section": "General Studies",
+      "topic": "General Science - Chemistry: Neutral Water pH",
+      "question_en": "What is the pH value of pure distilled neutral water at room temperature (25°C)?",
+      "question_te": "గది ఉష్ణోగ్రత (25°C) వద్ద స్వచ్ఛమైన తటస్థ నీటి pH విలువ ఎంత?",
+      "options_en": [
+        "7",
+        "0",
+        "14",
+        "5.5"
+      ],
+      "options_te": [
+        "7",
+        "0",
+        "14",
+        "5.5"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A pH of 7 represents exact neutrality on the 0-14 pH scale.",
+      "explanation_te": "pH స్కేల్‌పై 7 తటస్థ విలువను సూచిస్తుంది. స్వచ్ఛమైన నీటి pH విలువ 7."
+    },
+    {
+      "id": 186,
+      "qNumber": 186,
+      "section": "General Studies",
+      "topic": "General Science - Biology: Photosynthesis Gas",
+      "question_en": "Which vital gas is produced and released into the atmosphere by green plants as a byproduct of photosynthesis?",
+      "question_te": "కిరణజన్య సంయోగక్రియ ప్రక్రియలో ఆకుపచ్చని మొక్కలు వాతావరణంలోకి విడుదల చేసే ప్రాణవాయువు ఏది?",
+      "options_en": [
+        "Oxygen (O2)",
+        "Carbon Dioxide (CO2)",
+        "Nitrogen (N2)",
+        "Methane (CH4)"
+      ],
+      "options_te": [
+        "ఆక్సిజన్ (O2)",
+        "కార్బన్ డయాక్సైడ్ (CO2)",
+        "నత్రజని (N2)",
+        "మీథేన్ (CH4)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Plants take in CO2 and water in the presence of sunlight and chlorophyll to produce glucose and release Oxygen (O2) into the air.",
+      "explanation_te": "మొక్కలు కిరణజన్య సంయోగక్రియలో కార్బన్ డయాక్సైడ్‌ను గ్రహించి ఆక్సిజన్‌ను విడుదల చేస్తాయి."
+    },
+    {
+      "id": 187,
+      "qNumber": 187,
+      "section": "General Studies",
+      "topic": "General Science - Physics: Sound Propagation",
+      "question_en": "Sound waves require a material medium to propagate. Through which of the following can sound waves NOT travel at all?",
+      "question_te": "ధ్వని ప్రసారానికి యానకం అవసరం. క్రింది వాటిలో దేని గుండా ధ్వని తరంగాలు అస్సలు ప్రయాణించలేవు?",
+      "options_en": [
+        "Vacuum (Empty space)",
+        "Water",
+        "Steel",
+        "Air"
+      ],
+      "options_te": [
+        "శూన్యం (Vacuum)",
+        "నీరు",
+        "ఉక్కు",
+        "గాలి"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Sound is a mechanical longitudinal wave requiring physical particles to oscillate. It cannot travel through a vacuum.",
+      "explanation_te": "ధ్వని యాంత్రిక తరంగం కాబట్టి శూన్యంలో ప్రయాణించలేదు."
+    },
+    {
+      "id": 188,
+      "qNumber": 188,
+      "section": "General Studies",
+      "topic": "General Science - Chemistry: Rusting of Iron",
+      "question_en": "Rusting of iron in moist air is an example of which type of chemical reaction?",
+      "question_te": "తేమగల గాలిలో ఇనుము తుప్పు పట్టడం అనేది ఏ రకమైన రసాయన చర్యకు ఉదాహరణ?",
+      "options_en": [
+        "Oxidation reaction",
+        "Reduction only",
+        "Neutralization reaction",
+        "Decomposition reaction"
+      ],
+      "options_te": [
+        "ఆక్సీకరణ చర్య (Oxidation)",
+        "క్షయకరణం మాత్రమే",
+        "తటస్థీకరణ చర్య",
+        "వియోగ చర్య"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Rusting is an electrochemical oxidation reaction where iron reacts with oxygen and moisture to form hydrated ferric oxide (Fe2O3·xH2O).",
+      "explanation_te": "గాలిలోని ఆక్సిజన్ మరియు తేమతో ఇనుము చర్య పొంది ఫెర్రిక్ ఆక్సైడ్‌గా మారే ఆక్సీకరణ చర్య వల్ల తుప్పు పడుతుంది."
+    },
+    {
+      "id": 189,
+      "qNumber": 189,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "Which Team Won The 2025–26 Syed Mushtaq Ali Trophy?",
+      "question_te": "2025–26 స్యయద్ ముసాీక్ అలీ టోరఫ్ని ఏ జటల్ గెలుచుకుంది?",
+      "options_en": [
+        "Mumbai",
+        "Karnataka",
+        "Jharkhand",
+        "Baroda"
+      ],
+      "options_te": [
+        "ముంబర",
+        "కరాటక",
+        "జార్ఖండ్",
+        "బరలడ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "2025–26 Syed Mushtaq Ali Trophy → Cricket Tournament Edition : 18th Winner : Jharkhand (1 st Title) Runner Up : Haryana Player Of The Series : Anukul Roy (Jharkhand)",
+      "explanation_te": "సరైన సమాధానం: జార్ఖండ్. (2025–26 Syed Mushtaq Ali Trophy → Cricket Tournament Edition : 18th Winner : Jharkhand (1 st Title) Runner Up : Haryana Player Of The Series : Anukul Roy (Jharkhand))"
+    },
+    {
+      "id": 190,
+      "qNumber": 190,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is The Rank Of India In “World Happiness Report 2026”? *",
+      "question_te": "\"పరపంచ స్ంతోష్ట నివేదిక 2026\" (World Happiness Report 2026)లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత? *",
+      "options_en": [
+        "110",
+        "116",
+        "120",
+        "130"
+      ],
+      "options_te": [
+        "110",
+        "116",
+        "120",
+        "130"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A. 110 Published By : UN Sustainable Development Solution Network B. 116 • INDIA Rank : 116th • Nepal (99nd), Pakistan (104th), Bangladesh (127th) C. 120 • Top Countries : FINLAND (Top) → ICELAND (2nd) → D. 130 DENMARK • Last : Afganistan",
+      "explanation_te": "సరైన సమాధానం: 110. (A. 110 Published By : UN Sustainable Development Solution Network B. 116 • INDIA Rank : 116th • Nepal (99nd), Pakistan (104th), Bangladesh (127th) C. 120 • Top Countries : FINLAND (Top) → ICELAND (2nd) → D. 130 DENMARK • Last : Afganistan)"
+    },
+    {
+      "id": 191,
+      "qNumber": 191,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is The Rank Of India In ‘World Press Freedom Index 2026’ ?*",
+      "question_te": "'పరపంచ పత్రరకా సేవచ ా స్ూచక 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?*",
+      "options_en": [
+        "120",
+        "140",
+        "157",
+        "170"
+      ],
+      "options_te": [
+        "120",
+        "140",
+        "157",
+        "170"
+      ],
+      "correct_option": 0,
+      "explanation_en": "World Press Freedom Index 2026 A. 120 B. 140 Released by : Reporters Without Borders C. 157 *IND’s Rank → 157 {Last Year — 151} D. 170 Top Countries 1. NORWAY 2. Netherlands 3. Estonia » Last → Eritrea (180 Rank)",
+      "explanation_te": "సరైన సమాధానం: 120. (World Press Freedom Index 2026 A. 120 B. 140 Released by : Reporters Without Borders C. 157 *IND’s Rank → 157 {Last Year — 151} D. 170 Top Countries 1. NORWAY 2. Netherlands 3. Estonia » Last → Eritrea (180 Rank))"
+    },
+    {
+      "id": 192,
+      "qNumber": 192,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "According To SIPRI, What Was India’s Global Rank In Defence Spending In 2025?",
+      "question_te": "SIPRI పరకార్ం, 2025లో ర్క్ష్ణ వయయంలో భార్తదేశ్ం యొక్ పరపంచ సాయి (రాయంక్) ఎంత?",
+      "options_en": [
+        "3rd",
+        "5th",
+        "7th",
+        "10th"
+      ],
+      "options_te": [
+        "3వ",
+        "5వ",
+        "7వ",
+        "10వ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "According To SIPRI (Stockholm International Peace Research INSTITUTE) Report 2026 ➢ Top 5 Military Spenders (2025) 1. United States 2. China 3. Russia 4. Germany 5. India — $92.1 Billion (@2025)",
+      "explanation_te": "సరైన సమాధానం: 3వ. (According To SIPRI (Stockholm International Peace Research INSTITUTE) Report 2026 ➢ Top 5 Military Spenders (2025) 1. United States 2. China 3. Russia 4. Germany 5. India — $92.1 Billion (@2025))"
+    },
+    {
+      "id": 193,
+      "qNumber": 193,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "Which Country Ranks 3rd In Renewable Energy Capacity?",
+      "question_te": "పునర్ుత ాదక ఇంధన సామర్ాయంలో ఏ దేశ్ం మమడ్వ సానంలో ఉంది?",
+      "options_en": [
+        "China",
+        "USA",
+        "India",
+        "Germany"
+      ],
+      "options_te": [
+        "చరన",
+        "అమరికా",
+        "భార్తదేశ్ం",
+        "జర్మనీ"
+      ],
+      "correct_option": 0,
+      "explanation_en": "According To — International Renewable Energy Agency (IRENA) ➢ Global Ranking (Top 3) o 1 st → China (2258.02 GW) o 2 nd → United States (467.92 GW) o 3 rd → India {Total 250.52 GW RE Installed Capacity}",
+      "explanation_te": "సరైన సమాధానం: చరన. (According To — International Renewable Energy Agency (IRENA) ➢ Global Ranking (Top 3) o 1 st → China (2258.02 GW) o 2 nd → United States (467.92 GW) o 3 rd → India {Total 250.52 GW RE Installed Capacity})"
+    },
+    {
+      "id": 194,
+      "qNumber": 194,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "Which Country Was The Largest Arms Importer During 2021–25?",
+      "question_te": "2021–25 కాలంలో అతయధికంగా ఆయుధ లను దిగుమత్ర చేస్ుకుని దేశ్ం ఏది?",
+      "options_en": [
+        "India",
+        "China",
+        "Saudi Arabia",
+        "Ukraine"
+      ],
+      "options_te": [
+        "భార్తదేశ్ం",
+        "చరన",
+        "సౌదీ అరేబియా",
+        "ఉకెియిన"
+      ],
+      "correct_option": 0,
+      "explanation_en": "According To — SIPRI ( Stockholm International Peace Research Institute World’s Largest Arms Importer (2021–25) 1. Ukraine 2. India 3. Saudi Arabia ❑ Largest Suppliers — USA",
+      "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (According To — SIPRI ( Stockholm International Peace Research Institute World’s Largest Arms Importer (2021–25) 1. Ukraine 2. India 3. Saudi Arabia ❑ Largest Suppliers — USA)"
+    },
+    {
+      "id": 195,
+      "qNumber": 195,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "Who launched the “Fiscal Health Index 2026”?",
+      "question_te": "\"ఫిస్్ల్ హ్ెల్ీ ఇండక్్ 2026\"ను ఎవర్ు పారర్ంభంచ ర్ు?",
+      "options_en": [
+        "Finance Ministry",
+        "Reserve Bank of India",
+        "NITI Aayog",
+        "SEBI"
+      ],
+      "options_te": [
+        "ఆరిాక మంత్రరతవ శాఖ",
+        "రిజర్వ బాయంక్ ఆఫ్ ఇండియా",
+        "నీత్ర ఆయోగ్",
+        "సబీ (SEBI)"
+      ],
+      "correct_option": 0,
+      "explanation_en": "• Top-performing States 1. Odisha 2. Goa 3. Jharkhand ➢ NE & Himalayan States : Top Performer — Arunachal Pradesh & Uttarakhand",
+      "explanation_te": "సరైన సమాధానం: ఆరిాక మంత్రరతవ శాఖ. (• Top-performing States 1. Odisha 2. Goa 3. Jharkhand ➢ NE & Himalayan States : Top Performer — Arunachal Pradesh & Uttarakhand)"
+    },
+    {
+      "id": 196,
+      "qNumber": 196,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is The Rank Of India In “Henley Pasport Index 2026",
+      "question_te": "\"హ్ెనీు పాసపో ర్్ ఇండక్్ 2026\"లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "80",
+        "87",
+        "78",
+        "90"
+      ],
+      "options_te": [
+        "80",
+        "87",
+        "78",
+        "90"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association",
+      "explanation_te": "సరైన సమాధానం: 80. (A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association)"
+    },
+    {
+      "id": 197,
+      "qNumber": 197,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+      "question_te": "గలుబల్ సాఫ్ట్ పవర్ ఇండక్్ 2026లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "28",
+        "32",
+        "40",
+        "50"
+      ],
+      "options_te": [
+        "28",
+        "32",
+        "40",
+        "50"
+      ],
+      "correct_option": 0,
+      "explanation_en": "Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48)",
+      "explanation_te": "సరైన సమాధానం: 28. (Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48))"
+    },
+    {
+      "id": 198,
+      "qNumber": 198,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is India’s Rank In Corruption Perceptions Index 2025?",
+      "question_te": "అవినీత్ర అవగాహన స్ూచక (Corruption Perceptions Index) 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "84",
+        "91",
+        "96",
+        "102"
+      ],
+      "options_te": [
+        "84",
+        "91",
+        "96",
+        "102"
+      ],
+      "correct_option": 3,
+      "explanation_en": "Corruption Perceptions Index 2025 A. 84 • Published By : Non Governmental Org → B. 91 Transparency International C. 96 • IND‘s Rank : 91 (Score 39) D. 102 Top Countries 1. DENMARK (Least Corrupt) 2. Finland & 3. Singapore • Most Corrupt : South Sudan",
+      "explanation_te": "సరైన సమాధానం: 102. (Corruption Perceptions Index 2025 A. 84 • Published By : Non Governmental Org → B. 91 Transparency International C. 96 • IND‘s Rank : 91 (Score 39) D. 102 Top Countries 1. DENMARK (Least Corrupt) 2. Finland & 3. Singapore • Most Corrupt : South Sudan)"
+    },
+    {
+      "id": 199,
+      "qNumber": 199,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is India’s Rank In The Network Readiness Index 2025?",
+      "question_te": "నెట్వర్్ రెడీనెస ఇండక్్ 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "38",
+        "45",
+        "52",
+        "60"
+      ],
+      "options_te": [
+        "38",
+        "45",
+        "52",
+        "60"
+      ],
+      "correct_option": 0,
+      "explanation_en": "A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact",
+      "explanation_te": "సరైన సమాధానం: 38. (A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact)"
+    },
+    {
+      "id": 200,
+      "qNumber": 200,
+      "section": "General Studies",
+      "topic": "Current Affairs 2026",
+      "question_en": "What Is India’s Rank In The Responsible Nations Index 2026?",
+      "question_te": "'రెసాాని్బుల్ నేష్టన్ ఇండక్్ 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "options_en": [
+        "12th",
+        "14th",
+        "16th",
+        "20th"
+      ],
+      "options_te": [
+        "12వ",
+        "14వ",
+        "16వ",
+        "20వ"
+      ],
+      "correct_option": 2,
+      "explanation_en": "Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK",
+      "explanation_te": "సరైన సమాధానం: 16వ. (Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK)"
+    }
+  ]
+}

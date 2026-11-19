@@ -482,6 +482,17 @@ export default function Dashboard() {
       isFree: false,
       description: 'Comprehensive 200Q benchmark paper assembled from verified reserve faculty pools: Speed-Distance-Time, Mensuration 2D/3D, Calendar Repetition, Telangana Armed Struggle & Statehood, Indian Polity, National Movement, and 2026 Current Affairs.',
     },
+    {
+      testId: 'tsplrb-si-mock-full-200-12',
+      title: 'TSPLRB SI Mock Test 12 (Easy • Foundational Speed & High-Accuracy PWT)',
+      difficulty: 'Easy',
+      badge: 'EASY • FOUNDATIONAL SPEED & ACCURACY',
+      questions: 200,
+      duration: '180 Mins (3 Hrs)',
+      marks: 200,
+      isFree: false,
+      description: 'High-yield foundational 200Q paper designed for rapid solving, formula mastery, and concept reinforcement: Direct Arithmetic, Essential Reasoning, Core Polity Articles, Telangana Heritage & Statehood, and Vital Science.',
+    },
   ];
 
   const filteredTests = testCatalog.filter(
