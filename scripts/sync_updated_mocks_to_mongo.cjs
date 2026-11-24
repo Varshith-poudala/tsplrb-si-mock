@@ -57,6 +57,7 @@ async function sync() {
     { testId: 'tsplrb-si-mock-full-200-10', file: 'mock_test_full_200_10.json' },
     { testId: 'tsplrb-si-mock-full-200-11', file: 'mock_test_full_200_11.json' },
     { testId: 'tsplrb-si-mock-full-200-12', file: 'mock_test_full_200_12.json' },
+    { testId: 'tsplrb-si-mock-full-200-13', file: 'mock_test_full_200_13.json' },
   ];
 
   for (const t of testsToSync) {

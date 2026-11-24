@@ -493,6 +493,17 @@ export default function Dashboard() {
       isFree: false,
       description: 'High-yield foundational 200Q paper designed for rapid solving, formula mastery, and concept reinforcement: Direct Arithmetic, Essential Reasoning, Core Polity Articles, Telangana Heritage & Statehood, and Vital Science.',
     },
+    {
+      testId: 'tsplrb-si-mock-full-200-13',
+      title: 'TSPLRB SI Mock Test 13 (Medium • Official Standard PWT Blueprint)',
+      difficulty: 'Medium',
+      badge: 'MEDIUM • 2026 PWT BLUEPRINT',
+      questions: 200,
+      duration: '180 Mins (3 Hrs)',
+      marks: 200,
+      isFree: false,
+      description: 'Official 200Q Standard Blueprint calibrated for TSPLRB SI Prelims: 50 Arithmetic & Quantitative Reasoning + 50 Mental Ability & Logical Reasoning + 100 General Studies (Telangana Movement, History, Polity, Geography, Economy, Science & 2026 Current Affairs) with standard 1/5th (-0.20) negative marking.',
+    },
   ];
 
   const filteredTests = testCatalog.filter(
