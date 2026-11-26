@@ -144,8 +144,8 @@
       "qNumber": 7,
       "section": "Arithmetic",
       "topic": "Partnership",
-      "question_en": "A, B and C enter into a partnership. A invests Rs. 25,600 for 4 months, B invests Rs. 20,000 for 6 months and C invests Rs. 15,000 for 8 months. Out of a total profit of Rs. 51,300, what is A's share?",
-      "question_te": "A, B మరియు C లు ఒక వ్యాపారాన్ని ప్రారంభించారు. A రూ. 25,600 లను 4 నెలలు, B రూ. 20,000 లను 6 నెలలు, C రూ. 15,000 లను 8 నెలలు పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 51,300 లో A వాటా ఎంత?",
+      "question_en": "A, B and C enter into a partnership. A invests Rs. 25,600 for 4 months, B invests Rs. 20,000 for 6 months and C invests Rs. 15,000 for 8 months. Out of a total profit of Rs. 51,360, what is A's share?",
+      "question_te": "A, B మరియు C లు ఒక వ్యాపారాన్ని ప్రారంభించారు. A రూ. 25,600 లను 4 నెలలు, B రూ. 20,000 లను 6 నెలలు, C రూ. 15,000 లను 8 నెలలు పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 51,360 లో A వాటా ఎంత?",
       "options_en": [
         "Rs. 15,360",
         "Rs. 16,800",
@@ -159,8 +159,8 @@
         "రూ. 18,000"
       ],
       "correct_option": 0,
-      "explanation_en": "Ratio of profit = (25600 * 4) : (20000 * 6) : (15000 * 8) = 102400 : 120000 : 120000 = 1024 : 1200 : 1200 = 128 : 150 : 150 = 64 : 75 : 75. Wait: 1024/16 = 64, 1200/16 = 75. Sum of parts = 64 + 75 + 75 = 214. A's share = (64 / 214) * 51300 = 64 * 240 = Rs. 15,360.",
-      "explanation_te": "లాభాల నిష్పత్తి = 102400 : 120000 : 120000 = 64 : 75 : 75. మొత్తం భాగాలు = 214. A వాటా = (64 / 214) * 51300 = రూ. 15,360."
+      "explanation_en": "Ratio of profit = (25600 * 4) : (20000 * 6) : (15000 * 8) = 102400 : 120000 : 120000 = 64 : 75 : 75. Sum of parts = 64 + 75 + 75 = 214. A's share = (64 / 214) * 51360 = 64 * 240 = Rs. 15,360.",
+      "explanation_te": "లాభాల నిష్పత్తి = 102400 : 120000 : 120000 = 64 : 75 : 75. మొత్తం భాగాలు = 214. A వాటా = (64 / 214) * 51360 = రూ. 15,360."
     },
     {
       "id": 8,

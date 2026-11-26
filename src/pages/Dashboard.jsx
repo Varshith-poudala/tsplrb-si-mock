@@ -504,6 +504,17 @@ export default function Dashboard() {
       isFree: false,
       description: 'Official 200Q Standard Blueprint calibrated for TSPLRB SI Prelims: 50 Arithmetic & Quantitative Reasoning + 50 Mental Ability & Logical Reasoning + 100 General Studies (Telangana Movement, History, Polity, Geography, Economy, Science & 2026 Current Affairs) with standard 1/5th (-0.20) negative marking.',
     },
+    {
+      testId: 'tsplrb-si-mock-full-200-14',
+      title: 'TSPLRB SI Mock Test 14 (Hard • Advanced Mains & PWT Standard)',
+      difficulty: 'Hard',
+      badge: 'HARD • 2026 MAINS BLUEPRINT',
+      questions: 200,
+      duration: '180 Mins (3 Hrs)',
+      marks: 200,
+      isFree: false,
+      description: 'High-difficulty 200Q Analytical Blueprint for TSPLRB SI Prelims & Mains: 50 Hard Arithmetic & Quantitative Reasoning + 50 Complex Reasoning & Puzzles + 100 Multi-Statement & Matching General Studies (Telangana Policies, Polity Judgments, Economy, Science & Verified 2026 Current Affairs) with 1/5th (-0.20) negative marking.',
+    },
   ];
 
   const filteredTests = testCatalog.filter(

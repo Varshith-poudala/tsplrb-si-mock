@@ -169,8 +169,8 @@
       "id": 7,
       "section": "Arithmetic",
       "topic": "Partnership",
-      "question_en": "A, B and C enter into a partnership. A invests Rs. 25,600 for 4 months, B invests Rs. 20,000 for 6 months and C invests Rs. 15,000 for 8 months. Out of a total profit of Rs. 51,300, what is A's share?",
-      "question_te": "A, B మరియు C లు ఒక వ్యాపారాన్ని ప్రారంభించారు. A రూ. 25,600 లను 4 నెలలు, B రూ. 20,000 లను 6 నెలలు, C రూ. 15,000 లను 8 నెలలు పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 51,300 లో A వాటా ఎంత?",
+      "question_en": "A, B and C enter into a partnership. A invests Rs. 25,600 for 4 months, B invests Rs. 20,000 for 6 months and C invests Rs. 15,000 for 8 months. Out of a total profit of Rs. 51,360, what is A's share?",
+      "question_te": "A, B మరియు C లు ఒక వ్యాపారంలో భాగస్వామ్యం అయ్యారు. A రూ. 25,600 లను 4 నెలలు, B రూ. 20,000 లను 6 నెలలు మరియు C రూ. 15,000 లను 8 నెలలు పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 51,360 లో A యొక్క వాటా ఎంత?",
       "options_en": [
         "Rs. 17,200",
         "Rs. 16,800",
@@ -184,8 +184,8 @@
         "రూ. 18,000"
       ],
       "correct_option": 2,
-      "explanation_en": "Ratio of profit = (25600 * 4) : (20000 * 6) : (15000 * 8) = 102400 : 120000 : 120000 = 1024 : 1200 : 1200 = 128 : 150 : 150 = 64 : 75 : 75. Wait: 1024/16 = 64, 1200/16 = 75. Sum of parts = 64 + 75 + 75 = 214. A's share = (64 / 214) * 51300 = 64 * 240 = Rs. 15,360.",
-      "explanation_te": "లాభాల నిష్పత్తి = 102400 : 120000 : 120000 = 64 : 75 : 75. మొత్తం భాగాలు = 214. A వాటా = (64 / 214) * 51300 = రూ. 15,360."
+      "explanation_en": "Ratio of profit = (25600 * 4) : (20000 * 6) : (15000 * 8) = 102400 : 120000 : 120000 = 64 : 75 : 75. Sum of parts = 64 + 75 + 75 = 214. A's share = (64 / 214) * 51360 = 64 * 240 = Rs. 15,360.",
+      "explanation_te": "లాభాల నిష్పత్తి = 102400 : 120000 : 120000 = 64 : 75 : 75. మొత్తం భాగాలు = 214. A వాటా = (64 / 214) * 51360 = రూ. 15,360."
     },
     {
       "id": 8,
@@ -2010,7 +2010,7 @@
         "HJL"
       ],
       "correct_option": 1,
-      "explanation_en": "BDF (+2, +2), HJL (+2, +2), NPR (+2, +2). KMO is also (+2, +2)? Wait: K(11), M(13), O(15). All are +2. Let's look at vowels: KMO contains a vowel 'O', while BDF, HJL, NPR have no vowels! So KMO is the odd one.",
+      "explanation_en": "All four groups step forward by (+2, +2) sequentially, so we compare letter types and alphabetical positions: BDF (2, 4, 6), HJL (8, 10, 12), and NPR (14, 16, 18) consist solely of consonants at even positions, whereas KMO (11, 13, 15) contains the vowel 'O' and uses odd positions. Thus, KMO is the odd one out.",
       "explanation_te": "BDF, HJL, NPR లలో ఎటువంటి అచ్చులు లేవు. KMO లో 'O' అనే అచ్చు (vowel) కలదు."
     },
     {

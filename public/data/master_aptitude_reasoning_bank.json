@@ -222,20 +222,20 @@
       "question_en": "Police Station A and Police Outpost B are 260 km apart on a highway. A police jeep leaves Station A at 8:00 AM towards B at 40 km/h. Another patrol van leaves Outpost B at 9:00 AM towards A at 50 km/h. At what time will they cross each other?",
       "question_te": "పోలీస్ స్టేషన్ A మరియు పోలీస్ అవుట్‌పోస్ట్ B జాతీయ రహదారిపై 260 కి.మీ దూరంలో ఉన్నాయి. ఒక పోలీస్ జీపు ఉదయం 8:00 గంటలకు A నుండి 40 కి.మీ/గం వేగంతో B వైపు బయలుదేరింది. మరొక పెట్రోలింగ్ వ్యాన్ ఉదయం 9:00 గంటలకు B నుండి 50 కి.మీ/గం వేగంతో A వైపు బయలుదేరింది. అవి ఏ సమయానికి ఎదురుపడతాయి?",
       "options_en": [
-        "11:00 AM",
-        "11:24 AM",
-        "11:30 AM",
-        "12:00 Noon"
+        "11:00:00 AM",
+        "11:26:40 AM",
+        "11:24:00 AM",
+        "11:30:00 AM"
       ],
       "options_te": [
-        "ఉదయం 11:00",
-        "ఉదయం 11:24",
-        "ఉదయం 11:30",
-        "మధ్యాహ్నం 12:00"
+        "ఉదయం 11:00:00",
+        "ఉదయం 11:26:40",
+        "ఉదయం 11:24:00",
+        "ఉదయం 11:30:00"
       ],
       "correct_option": 1,
-      "explanation_en": "Distance covered by first jeep by 9 AM = 40 km. Remaining distance = 260 - 40 = 220 km. Combined speed = 40 + 50 = 90 km/h. Time = 220/90 = 2h 24m. Crossing time = 9:00 AM + 2h 24m = 11:24 AM.",
-      "explanation_te": "9 గంటల సమయానికి మిగిలిన దూరం = 220 కి.మీ. సాపేక్ష వేగం = 90 కి.మీ/గం. సమయం = 2 గంటల 24 నిమిషాలు. కలిసే సమయం = ఉదయం 11:24."
+      "explanation_en": "Distance covered by the first jeep by 9:00 AM = 40 km. Remaining distance = 260 - 40 = 220 km. Combined relative speed = 40 + 50 = 90 km/h. Time taken = 220 / 90 = 2 4/9 hours = 2 hours 26 minutes 40 seconds. Crossing time = 9:00 AM + 2h 26m 40s = 11:26:40 AM.",
+      "explanation_te": "ఉదయం 9:00 గంటల వరకు మొదటి జీప్ ప్రయాణించిన దూరం = 40 కి.మీ. మిగిలిన దూరం = 220 కి.మీ. సాపేక్ష వేగం = 90 కి.మీ/గం. సమయం = 220/90 = 2 4/9 గంటలు = 2 గం. 26 ని. 40 సె. కనుక 11:26:40 AM కు కలుసుకుంటాయి."
     },
     {
       "id": 11,
@@ -426,8 +426,8 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Boats & Streams - River Width",
       "difficulty": "Hard",
-      "question_en": "A river 400 metres wide flows at 3 km/h. A swimmer who swims at 5 km/h in still water wants to cross the river along the shortest possible path (perpendicular to river bank). In which direction should he head and how many minutes will he take to cross?",
-      "question_te": "400 మీటర్ల వెడల్పు గల నది 3 కి.మీ/గం వేగంతో ప్రవహిస్తుంది. నిలకడ నీటిలో 5 కి.మీ/గం ఈదగల ఈతగాడు నదిని అతి తక్కువ మార్గంలో (లంబంగా) దాటాలనుకుంటున్నాడు. అతను ఎంత సమయం (నిమిషాల్లో) లో నదిని దాటగలడు?",
+      "question_en": "A river 400 metres wide flows at 3 km/h. A swimmer who swims at 5 km/h in still water wants to cross the river along the shortest possible path (perpendicular to the river bank). How many minutes will he take to cross?",
+      "question_te": "400 మీటర్ల వెడల్పు గల ఒక నది గంటకు 3 కి.మీ వేగంతో ప్రవహిస్తోంది. నిలకడ నీటిలో గంటకు 5 కి.మీ వేగంతో ఈదగల ఈతగాడు, అతి తక్కువ దూర మార్గంలో (నది ఒడ్డుకు లంబంగా) అవతలి ఒడ్డుకు చేరాలనుకుంటున్నాడు. నదిని దాటడానికి అతనికి ఎన్ని నిమిషాలు పడుతుంది?",
       "options_en": [
         "6 minutes",
         "5 minutes",
@@ -510,7 +510,7 @@
         "60 కి.మీ/గం"
       ],
       "correct_option": 1,
-      "explanation_en": "The 15-minute time difference (40 - 25 = 15 min = 1/4 hr) is due to travelling 30 km at 3/4 speed vs original speed S.\n30/(3S/4) - 30/S = 1/4 => 40/S - 30/S = 1/4 => 10/S = 1/4 => S = 40? Wait: 40/S - 30/S = 10/S = 1/4 => S = 40 km/h. Let's verify: 30 / 30 = 1 hr. 30 / 40 = 3/4 hr = 45 min. Difference = 15 min! Yes! Option 0 is 40 km/h.",
+      "explanation_en": "The 15-minute time difference (40 - 25 = 15 min = 1/4 hr) arises from travelling the 30 km stretch at 3/4 speed instead of original speed S: 30/(3S/4) - 30/S = 1/4 => 40/S - 30/S = 1/4 => 10/S = 1/4 => S = 40 km/h. Verification: 30/30 - 30/40 = 1 - 0.75 = 0.25 hr = 15 min.",
       "explanation_te": "30 కి.మీ దూరాన్ని 3/4 వేగంతో వెళ్ళినప్పటి సమయానికి, అసలు వేగంతో వెళ్ళిన సమయానికి తేడా = 15 నిమిషాలు (1/4 గంట). 40/S - 30/S = 1/4 => 10/S = 1/4 => S = 40 కి.మీ/గం."
     },
     {
@@ -3071,7 +3071,7 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Percentages - Reduction in Price Enables Buying More",
       "difficulty": "Hard",
-      "question_en": "A 20% reduction in the price of sugar enables a consumer to purchase 5 kg more sugar for Rs. 600. What is the original (reduced vs original) price of sugar per kg?",
+      "question_en": "A 20% reduction in the price of sugar enables a consumer to purchase 5 kg more sugar for Rs. 600. What is the original price of sugar per kg?",
       "question_te": "చక్కెర ధరలో 20% తగ్గుదల వల్ల ఒక వినియోగదారుడు రూ. 600 కు 5 కిలోల చక్కెరను అదనంగా కొనగలుగుతాడు. చక్కెర యొక్క అసలు ధర (Original Price) కిలోకు ఎంత?",
       "options_en": [
         "Rs. 24 per kg",
@@ -3439,8 +3439,8 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Partnership - Ratio of Investment Periods",
       "difficulty": "Medium",
-      "question_en": "A and B entered into a partnership. A contributed Rs. 3,200 for 4 months and B contributed Rs. 5,100 for some period. If the total profit was Rs. 3,500 and B received Rs. 2,550 as his share, for how many months was B's money invested?",
-      "question_te": "A మరియు B భాగస్వామ్యంలోకి ప్రవేశించారు. A రూ. 3,200 ను 4 నెలలు, B రూ. 5,100 ను కొంత కాలం పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 3,500 లో B కి రూ. 2,550 వాటాగా వస్తే, B యొక్క పెట్టుబడి ఎన్ని నెలలు కొనసాగింది?",
+      "question_en": "A and B entered into a partnership. A contributed Rs. 3,000 for 4 months and B contributed Rs. 4,000 for some period. If the total profit was Rs. 3,000 and B received Rs. 2,000 as his share, for how many months was B's money invested?",
+      "question_te": "A మరియు B భాగస్వామ్యంలోకి ప్రవేశించారు. A రూ. 3,000 ను 4 నెలలు, B రూ. 4,000 ను కొంత కాలం పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 3,000 లో B కి రూ. 2,000 వాటాగా వస్తే, B యొక్క పెట్టుబడి ఎన్ని నెలలు కొనసాగింది?",
       "options_en": [
         "8 months",
         "6 months",
@@ -3454,7 +3454,7 @@
         "7 నెలలు"
       ],
       "correct_option": 1,
-      "explanation_en": "B's profit = Rs. 2,550 => A's profit = 3,500 - 2,550 = Rs. 950.\nRatio of profits A : B = 950 : 2550 = 19 : 51.\nRatio of capital * time = (3,200 * 4) / (5,100 * t) = 19 / 51\n12,800 / (5,100 * t) = 19 / 51 => 128 / (51 * t) = 19 / 51 => 128 / t = 19 => wait, let's fix numbers:\nLet A invest Rs. 3,000 for 4 months = 12,000. B invests Rs. 4,000 for t months = 4000t.\nProfits: A gets Rs. 1,000, B gets Rs. 2,000 (Ratio 1 : 2). Total = 3,000.\n12,000 / 4000t = 1 / 2 => 3 / t = 1 / 2 => t = 6 months. Clean!",
+      "explanation_en": "A's profit = 3,000 - 2,000 = Rs. 1,000, so profit ratio A : B = 1 : 2. Equating capital * time ratio: (3,000 * 4) / (4,000 * t) = 1 / 2 => 3 / t = 1 / 2 => t = 6 months.",
       "explanation_te": "లాభాల నిష్పత్తి A : B = 1 : 2. (3,000 * 4) / (4,000 * t) = 1 / 2 => t = 6 నెలలు."
     },
     {
@@ -3462,8 +3462,8 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Partnership - Sleeping Partner Silent",
       "difficulty": "Medium",
-      "question_en": "In a partnership, A invests 1/3 of the capital for 1/3 of the time, B invests 1/6 of the capital for 1/6 of the time, and C invests the rest of the capital for the entire time. If the total profit is Rs. 1,820, what is A's share of the profit?",
-      "question_te": "ఒక భాగస్వామ్యంలో, A మొత్తం పెట్టుబడిలో 1/3 వంతును 1/3 కాలానికి, B 1/6 వంతు పెట్టుబడిని 1/6 కాలానికి, C మిగిలిన పెట్టుబడిని మొత్తం కాలానికి పెట్టారు. మొత్తం లాభం రూ. 1,820 అయితే, A వాటా ఎంత?",
+      "question_en": "In a partnership, A invests 1/3 of the capital for 1/3 of the time, B invests 1/6 of the capital for 1/6 of the time, and C invests the rest of the capital for the entire time. If the total profit is Rs. 920, what is A's share of the profit?",
+      "question_te": "ఒక భాగస్వామ్యంలో, A మొత్తం పెట్టుబడిలో 1/3 వంతును 1/3 కాలానికి, B 1/6 వంతు పెట్టుబడిని 1/6 కాలానికి, C మిగిలిన పెట్టుబడిని మొత్తం కాలానికి పెట్టారు. మొత్తం లాభం రూ. 920 అయితే, A వాటా ఎంత?",
       "options_en": [
         "Rs. 160",
         "Rs. 180",
@@ -3477,8 +3477,8 @@
         "రూ. 140"
       ],
       "correct_option": 0,
-      "explanation_en": "C's capital = 1 - (1/3 + 1/6) = 1 - 3/6 = 1/2. C's time = 1.\nRatio = (1/3 * 1/3) : (1/6 * 1/6) : (1/2 * 1)\n= 1/9 : 1/36 : 1/2 = Multiply by 36:\n= 4 : 1 : 18 (Total = 23 parts? Wait: 4 + 1 + 18 = 23 parts. 1820 / 23 is not integer. Let total profit be Rs. 2,300 => A gets (4/23)*2300 = Rs. 400).",
-      "explanation_te": "A : B : C = 4 : 1 : 18 (మొత్తం = 23 భాగాలు)."
+      "explanation_en": "C's capital share = 1 - (1/3 + 1/6) = 1/2 for time 1. Effective ratio A : B : C = (1/3 * 1/3) : (1/6 * 1/6) : (1/2 * 1) = 1/9 : 1/36 : 1/2 = 4 : 1 : 18. Total parts = 4 + 1 + 18 = 23. A's share = (4 / 23) * 920 = Rs. 160.",
+      "explanation_te": "A : B : C = 4 : 1 : 18 (మొత్తం 23 భాగాలు). A వాటా = (4 / 23) * 920 = రూ. 160."
     },
     {
       "id": 152,
@@ -4359,8 +4359,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Calendar - Future Target Date 2026",
       "difficulty": "Hard",
-      "question_en": "What day of the week will 1st January 2026 be?",
-      "question_te": "2026 జనవరి 1వ తేదీ వారంలో ఏ రోజు అవుతుంది?",
+      "question_en": "What day of the week was 1st January 2026?",
+      "question_te": "జనవరి 1, 2026 ఏ వారం అవుతుంది?",
       "options_en": [
         "Wednesday",
         "Thursday",
@@ -4819,23 +4819,23 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Blood Relations - Family Tree 6 Members",
       "difficulty": "Hard",
-      "question_en": "In a family of six members A, B, C, D, E, and F, there are two married couples. D is the grandmother of A and mother of B. C is the wife of B and mother of F. E is the granddaughter of D. What is the relation of A to F?",
-      "question_te": "A, B, C, D, E మరియు F అనే ఆరుగురు సభ్యుల కుటుంబంలో ఇద్దరు వివాహిత జంటలు ఉన్నారు. D అనే వ్యక్తి A కి నానమ్మ మరియు B కి తల్లి. C అనే వ్యక్తి B యొక్క భార్య మరియు F యొక్క తల్లి. E అనే వ్యక్తి D యొక్క మనవరాలు. A కి F తో గల సంబంధం ఏమిటి?",
+      "question_en": "In a family of six members A, B, C, D, E, and F, there are two married couples. D is the grandmother of E and mother of B. A is married to D. C is the wife of B and mother of F. E is the granddaughter of D. What is the relation of E to F?",
+      "question_te": "A, B, C, D, E మరియు F అనే ఆరుగురు సభ్యులు గల కుటుంబంలో రెండు వివాహిత జంటలు ఉన్నాయి. D, E కి నాయనమ్మ మరియు B కి తల్లి. A, D ని వివాహం చేసుకున్నాడు. C, B యొక్క భార్య మరియు F యొక్క తల్లి. E, D యొక్క మనుమరాలు. E కు F తో గల సంబంధం ఏమిటి?",
       "options_en": [
         "Cousin",
-        "Brother or Sister",
+        "Sister",
         "Mother",
         "Aunt"
       ],
       "options_te": [
         "కజిన్",
-        "సోదరుడు లేదా సోదరి",
+        "సోదరి",
         "తల్లి",
         "అత్త"
       ],
       "correct_option": 1,
-      "explanation_en": "D is grandmother of A and mother of B.\nC is wife of B and mother of F => B and C are married couple, parents of F.\nSince D is grandmother of A and E is granddaughter of D, A, E, and F are all children of the couple B and C.\nTherefore, A and F are siblings (Brother or Sister, depending on gender).",
-      "explanation_te": "B మరియు C భార్యాభర్తలు, వారి పిల్లలు A, E, F.\nకాబట్టి A మరియు F లు తోబుట్టువులు (సోదరుడు లేదా సోదరి)."
+      "explanation_en": "A and D form the older married couple, and B and C form the second married couple (since B is D's child and C is B's wife). E is D's granddaughter and belongs to the third generation alongside F (child of B and C). Since there are only two couples and A, D, B, C are in the upper two generations, E and F are children of B and C. Since E is a granddaughter (female), E is the sister of F.",
+      "explanation_te": "A-D మరియు B-C రెండు వివాహిత జంటలు. తల్లిదండ్రులు B, C ల సంతానమైన E (ఆడపిల్ల) మరియు F లు తోబుట్టువులు. కాబట్టి E, F కు సోదరి."
     },
     {
       "id": 211,
@@ -5003,23 +5003,23 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Blood Relations - Professional Family",
       "difficulty": "Hard",
-      "question_en": "P, Q, R, S, T, and U are six members of a family. P is a doctor and father of T. R is a lawyer and grandfather of U. S is the grandmother of T and is a housewife. There is one doctor, one lawyer, one teacher, one engineer, and two students in the family. What is the profession of Q if Q is the mother of T?",
-      "question_te": "ఒక కుటుంబంలో P, Q, R, S, T, U అనే ఆరుగురు సభ్యులు ఉన్నారు. P డాక్టర్ మరియు T కి తండ్రి. R లాయర్ మరియు U కి తాత. S గృహిణి మరియు T కి నానమ్మ/అమ్మమ్మ. కుటుంబంలో ఒక డాక్టర్, లాయర్, టీచర్, ఇంజనీర్ మరియు ఇద్దరు విద్యార్థులు ఉన్నారు. Q, T కి తల్లి అయితే Q వృత్తి ఏమిటి?",
+      "question_en": "P, Q, R, S, T, and U are six members of a family. P is a doctor and father of T. R is a lawyer and grandfather of U. S is the grandmother of T and is a housewife. There is one doctor, one lawyer, one housewife, one engineer, and two students in the family. If Q is the mother of T, what is the profession of Q?",
+      "question_te": "P, Q, R, S, T మరియు U ఒక కుటుంబంలోని ఆరుగురు సభ్యులు. P ఒక డాక్టర్ మరియు T యొక్క తండ్రి. R ఒక న్యాయవాది మరియు U యొక్క తాత. S, T యొక్క నాయనమ్మ మరియు గృహిణి. కుటుంబంలో ఒక డాక్టర్, ఒక న్యాయవాది, ఒక గృహిణి, ఒక ఇంజనీర్ మరియు ఇద్దరు విద్యార్థులు ఉన్నారు. Q, T కి తల్లి అయితే Q యొక్క వృత్తి ఏమిటి?",
       "options_en": [
         "Doctor",
-        "Teacher or Engineer",
+        "Engineer",
         "Lawyer",
         "Student"
       ],
       "options_te": [
         "డాక్టర్",
-        "టీచర్ లేదా ఇంజనీర్",
-        "లాయర్",
+        "ఇంజనీర్",
+        "న్యాయవాది",
         "విద్యార్థి"
       ],
       "correct_option": 1,
-      "explanation_en": "P = Doctor, R = Lawyer, S = Housewife.\nT and U are the youngest generation (Students).\nRemaining professions are Teacher and Engineer.\nSince Q is the mother of T (married to P), Q must be either Teacher or Engineer.",
-      "explanation_te": "P డాక్టర్, R లాయర్, S గృహిణి. T మరియు U లు విద్యార్థులు.\nమిగిలిన వృత్తులు టీచర్ లేదా ఇంజనీర్. కావున Q వృత్తి టీచర్ లేదా ఇంజనీర్."
+      "explanation_en": "P = Doctor, R = Lawyer, S = Housewife, and the grandchildren T and U are the two Students. The only remaining profession in the group of six is Engineer, so Q must be an Engineer.",
+      "explanation_te": "P డాక్టర్, R న్యాయవాది, S గృహిణి మరియు T, U విద్యార్థులు. మిగిలిన ఒకే వృత్తి ఇంజనీర్ కనుక Q ఇంజనీర్."
     },
     {
       "id": 219,
@@ -5187,8 +5187,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Coded Inequalities - Symbol Substitution",
       "difficulty": "Hard",
-      "question_en": "In the following question, symbols @, #, $, %, and * are used as follows:\n'A @ B' means 'A is not smaller than B' (A >= B)\n'A # B' means 'A is neither smaller than nor equal to B' (A > B)\n'A $ B' means 'A is neither greater than nor smaller than B' (A = B)\n'A % B' means 'A is not greater than B' (A <= B)\n'A * B' means 'A is neither greater than nor equal to B' (A < B)\nStatements: P @ Q, Q # R, R $ S\nConclusions:\nI. P # S\nII. P @ S\nWhich follows?",
-      "question_te": "సమాసాలలో గుర్తుల అర్థాలు:\n'@' అనగా '>='\n'#' అనగా '>'\n'$' అనగా '='\n'%' అనగా '<='\n'*' అనగా '<'\nప్రకటనలు: P @ Q, Q # R, R $ S\nతీర్మానాలు:\nI. P # S (P > S)\nII. P @ S (P >= S)\nఏది సరైనది?",
+      "question_en": "In the following question, symbols @, #, $, %, and * are used as follows:\n'A @ B' means 'A is not smaller than B' (A >= B)\n'A # B' means 'A is neither smaller than nor equal to B' (A > B)\n'A $ B' means 'A is neither greater than nor smaller than B' (A = B)\n'A % B' means 'A is not greater than B' (A <= B)\n'A * B' means 'A is neither greater than nor equal to B' (A < B)\nStatements: P @ Q, Q # R, R $ S\nConclusions:\nI. P # S\nII. Q $ S\nWhich follows?",
+      "question_te": "సమాసాలలో గుర్తుల అర్థాలు:\n'@' అనగా '>='\n'#' అనగా '>'\n'$' అనగా '='\n'%' అనగా '<='\n'*' అనగా '<'\nప్రకటనలు: P @ Q, Q # R, R $ S\nతీర్మానాలు:\nI. P # S (P > S)\nII. Q $ S (Q = S)\nఏది సరైనది?",
       "options_en": [
         "Only II follows",
         "Only I follows",
@@ -5202,8 +5202,8 @@
         "ఏదీ అనుసరించదు"
       ],
       "correct_option": 1,
-      "explanation_en": "Decode statements: P >= Q > R = S => P > S (which is P # S).\nSince P > S is strictly true, P >= S is technically implied or P # S is the exact strict statement.\nStandard reasoning format: Conclusion I (P # S, i.e., P > S) is definitely true.",
-      "explanation_te": "P >= Q > R = S => P > S (P # S). తీర్మానం I మాత్రమే అనుసరిస్తుంది."
+      "explanation_en": "Combining statements: P >= Q > R = S. Conclusion I (P > S) definitely holds because there is a strict '>' relation between Q and R along the path from P to S. Conclusion II (Q = S) is definitely false because Q > R = S implies Q > S. Therefore, Only I follows.",
+      "explanation_te": "ప్రకటనల నుండి: P >= Q > R = S. కాబట్టి P > S (తీర్మానం I) తప్పనిసరిగా నిజం, కానీ Q > S కావున Q = S (తీర్మానం II) తప్పు. కనుక I మాత్రమే అనుసరిస్తుంది."
     },
     {
       "id": 227,
@@ -5537,7 +5537,7 @@
       "options_en": [
         "Only II follows",
         "Only I follows",
-        "Neither follows (Flowers cannot belong to anything else unless Red is inside Roses exclusively)",
+        "Neither follows",
         "Both follow"
       ],
       "options_te": [
@@ -5546,9 +5546,9 @@
         "ఏదీ అనుసరించదు",
         "రెండూ అనుసరిస్తాయి"
       ],
-      "correct_option": 2,
-      "explanation_en": "'Only Roses are Flowers' means 'All Flowers are Roses' and Flowers CANNOT belong to any other category except Roses! Therefore, Flowers can never interact with any other entity like Red unless specifically stated.\nConclusion I is false because Flowers are restricted to Roses only. Conclusion II is also not definitely true.\nNeither follows.",
-      "explanation_te": "'Only A are B' అనగా 'All B are A' మరియు B మరే ఇతర వర్గంతోనూ కలవదు. కాబట్టి ఏదీ అనుసరించదు."
+      "correct_option": 0,
+      "explanation_en": "'Only Roses are Flowers' implies all Flowers are strictly inside Roses and Flowers cannot have any relationship with any other group outside Roses. Thus No Flower is Red (Conclusion II) definitely follows, and Conclusion I is false.",
+      "explanation_te": "'కేవలం గులాబీలు మాత్రమే పూలు' అనగా అన్ని పూలు గులాబీలలోనే ఉంటాయి మరియు ఇతర సమూహాలతో సంబంధం కలిగి ఉండవు. కనుక ఏ పువ్వు ఎరుపు కాదు (తీర్మానం II) అనుసరిస్తుంది."
     },
     {
       "id": 242,
@@ -5923,8 +5923,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Seating Arrangement - Parallel Rows",
       "difficulty": "Hard",
-      "question_en": "Eight persons A, B, C, D in Row 1 facing South and P, Q, R, S in Row 2 facing North are seated facing each other. B is seated opposite to Q. P is at one of the extreme ends. C sits second to the left of B. S sits to the immediate right of Q. Who sits opposite to A?",
-      "question_te": "ఎనిమిది మంది వ్యక్తులలో Row 1 లో A, B, C, D దక్షిణాభిముఖంగా, Row 2 లో P, Q, R, S ఉత్తరాభిముఖంగా ఒకరికొకరు ఎదురెదురుగా కూర్చున్నారు. B, Q కి ఎదురుగా కూర్చున్నాడు. P ఒక చివరన ఉన్నాడు. C, B కి ఎడమవైపు రెండవ స్థానంలో కూర్చున్నాడు. S, Q కి వెంటనే కుడివైపున ఉన్నాడు. A కి ఎదురుగా కూర్చున్నది ఎవరు?",
+      "question_en": "Eight persons A, B, C, D in Row 1 facing South and P, Q, R, S in Row 2 facing North are seated facing each other. B is seated opposite to Q. P is at one of the extreme ends. C sits second to the left of B. D sits between B and C. S sits to the immediate right of Q. Who sits opposite to A?",
+      "question_te": "ఎనిమిది మంది వ్యక్తులలో Row 1 లో A, B, C, D దక్షిణాభిముఖంగా, Row 2 లో P, Q, R, S ఉత్తరాభిముఖంగా ఒకరికొకరు ఎదురెదురుగా కూర్చున్నారు. B, Q కి ఎదురుగా కూర్చున్నాడు. P ఒక చివరన ఉన్నాడు. C, B కి ఎడమవైపు రెండవ స్థానంలో కూర్చున్నాడు. B మరియు C ల మధ్య D కూర్చున్నాడు. S, Q కి వెంటనే కుడివైపున ఉన్నాడు. A కి ఎదురుగా కూర్చున్నది ఎవరు?",
       "options_en": [
         "R",
         "P",
@@ -5938,15 +5938,15 @@
         "Q"
       ],
       "correct_option": 1,
-      "explanation_en": "Facing South means Left is towards the viewer's right.\nC sits 2nd left of B. Q is opposite B. S is immediate right of Q.\nP is at extreme end opposite A.\nA sits opposite P.",
-      "explanation_te": "సమాంతర వరుసల అమరిక ప్రకారం, A కి ఎదురుగా P కూర్చున్నాడు."
+      "explanation_en": "Numbering seats 1 to 4 from left to right on screen: C is 2nd left of B (since Row 1 faces South, left is +1 on screen), so (B, C) are either (1, 3) or (2, 4). Since D sits between B and C, A must take the lone outer seat next to C or B. If (B, C) = (1, 3), D = 2, A = 4; Row 2 has Q = 1, S = 2, R = 3, leaving extreme end P = 4 opposite A. If (B, C) = (2, 4), D = 3, A = 1; Row 2 has Q = 2, S = 3, R = 4, leaving extreme end P = 1 opposite A. In both arrangements, P uniquely sits opposite to A.",
+      "explanation_te": "రెండు అమరికల ప్రకారం కూర్చోబెడితే (Row 1: B, D, C, A లేదా A, B, D, C; Row 2: Q, S, R, P లేదా P, Q, S, R), ఏ విధంగా చూసినా A కి ఎదురుగా చివరన P కూర్చుంటాడు."
     },
     {
       "id": 259,
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Puzzles - Floor Puzzle 8 Floors",
       "difficulty": "Hard",
-      "question_en": "Eight police inspectors Live on eight different floors of a building numbered 1 to 8 from bottom to top. Inspector A lives on an odd-numbered floor above floor 4. Exactly three persons live between A and B. Inspector C lives on the floor immediately above B. How many persons live between C and A?",
+      "question_en": "Eight police inspectors live on eight different floors of a building numbered 1 to 8 from bottom to top. Inspector A lives on an odd-numbered floor above floor 4. Exactly three persons live between A and B. Inspector C lives on the floor immediately above B. How many persons live between C and A?",
       "question_te": "ఎనిమిది మంది పోలీస్ ఇన్‌స్పెక్టర్లు ఒక భవనంలోని 1 నుండి 8 అంతస్తులలో నివసిస్తున్నారు (క్రింది అంతస్తు 1, పై అంతస్తు 8). ఇన్‌స్పెక్టర్ A 4వ అంతస్తు కంటే పైన గల ఒక బేసి సంఖ్య అంతస్తులో నివసిస్తున్నాడు. A మరియు B ల మధ్య సరిగ్గా ముగ్గురు నివసిస్తున్నారు. ఇన్‌స్పెక్టర్ C, B కి వెంటనే పై అంతస్తులో నివసిస్తున్నాడు. C మరియు A ల మధ్య ఎంతమంది నివసిస్తున్నారు?",
       "options_en": [
         "2 persons",
@@ -5992,8 +5992,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Seating Arrangement - Circular Mixed Facing",
       "difficulty": "Hard",
-      "question_en": "Six officers A, B, C, D, E, and F sit around a circular table. Three face inside towards the centre and three face outside. B faces inside and sits second to the left of E. C sits to the immediate right of B and faces outside. A sits opposite B and faces the same direction as B. What direction does E face?",
-      "question_te": "ఆరుగురు అధికారులు A, B, C, D, E మరియు F ఒక వృత్తాకార బల్ల చుట్టూ కూర్చున్నారు. ముగ్గురు లోపలి వైపు, ముగ్గురు వెలుపలి వైపు చూస్తున్నారు. B లోపలికి చూస్తూ E కి ఎడమవైపు రెండవ స్థానంలో కూర్చున్నాడు. C, B కి వెంటనే కుడివైపున కూర్చుని వెలుపలికి చూస్తున్నాడు. A, B కి ఎదురుగా కూర్చుని B చూసే దిశలోనే చూస్తున్నాడు. E ఏ దిశను చూస్తున్నాడు?",
+      "question_en": "Six officers A, B, C, D, E, and F sit around a circular table. Three face inside towards the centre and three face outside. B faces inside and sits second to the left of E. C sits to the immediate right of B and faces outside. E is an immediate neighbour of C. A sits opposite B and faces the same direction as B. What direction does E face?",
+      "question_te": "ఆరుగురు అధికారులు A, B, C, D, E మరియు F ఒక వృత్తాకార బల్ల చుట్టూ కూర్చున్నారు. ముగ్గురు లోపలి వైపు, ముగ్గురు వెలుపలి వైపు చూస్తున్నారు. B లోపలికి చూస్తూ E కి ఎడమవైపు రెండవ స్థానంలో కూర్చున్నాడు. C, B కి వెంటనే కుడివైపున కూర్చుని వెలుపలికి చూస్తున్నాడు. E అనునది C యొక్క తక్షణ పొరుగువాడు. A, B కి ఎదురుగా కూర్చుని B చూసే దిశలోనే చూస్తున్నాడు. E ఏ దిశను చూస్తున్నాడు?",
       "options_en": [
         "Cannot be determined",
         "Facing Outside",
@@ -6007,8 +6007,8 @@
         "దక్షిణం వైపు"
       ],
       "correct_option": 2,
-      "explanation_en": "B is at 2nd left of E. Since B is at 2nd position, if E faces Inside, Left is clockwise; if Outside, Left is counter-clockwise.\nTracing the remaining constraints shows that E must face Inside to satisfy non-overlapping orientation count (3 inside, 3 outside).\nE faces Inside (towards the centre).",
-      "explanation_te": "నిబంధనల ప్రకారం, 3 లోపలికి మరియు 3 వెలుపలికి ఉండాలి. విశ్లేషించగా E కేంద్రాభిముఖంగా (లోపలి వైపు) చూస్తున్నాడు."
+      "explanation_en": "Place B at position 2 (12, 2, 4, 6, 8, 10 o'clock = 0..5) facing Inside. C sits immediately right of B at position 1 (facing Outside), and A sits opposite B at position 5 (facing Inside). For B (at 2) to be second to the left of E, E must be at either position 0 or 4. Since E is an immediate neighbour of C (at 1), E must sit at position 0. From position 0, position 2 lies two seats clockwise, which is second to the left only when E faces Inside (towards the centre). Thus, A, B, E face Inside and C, D, F face Outside.",
+      "explanation_te": "B లోపలికి చూస్తూ కూర్చుండగా, C B కి తక్షణ కుడివైపున (వెలుపలికి) మరియు A B కి ఎదురుగా (లోపలికి) ఉంటారు. E, C కి తక్షణ పొరుగున ఉన్నందున E నుండి రెండవ ఎడమ స్థానం B కావాలంటే E తప్పనిసరిగా లోపలి వైపు (కేంద్రాభిముఖంగా) చూడాలి."
     },
     {
       "id": 262,
@@ -6107,8 +6107,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Puzzles - Department Allocation",
       "difficulty": "Hard",
-      "question_en": "Six officers worked in three departments: Cyber Crime, Law & Order, and Intelligence, with at least one and at most three officers in each department. A works only with E. Neither B nor C works in Cyber Crime. D works in Intelligence. Where does B work if Intelligence has the maximum number of officers?",
-      "question_te": "ఆరుగురు అధికారులు సైబర్ క్రైమ్, లా & ఆర్డర్, మరియు ఇంటెలిజెన్స్ అనే మూడు విభాగాలలో పనిచేస్తున్నారు. A కేవలం E తో మాత్రమే పనిచేస్తున్నాడు. B మరియు C లు సైబర్ క్రైమ్‌లో లేరు. D ఇంటెలిజెన్స్‌లో ఉన్నాడు. ఇంటెలిజెన్స్‌లో గరిష్ట సంఖ్యలో అధికారులు ఉంటే, B ఏ విభాగంలో పనిచేస్తున్నాడు?",
+      "question_en": "Six officers work in three departments: Cyber Crime, Law & Order, and Intelligence, with at least one and at most three officers in each department. A works only with E. Neither B nor C works in Cyber Crime. D works in Intelligence and F works in Law & Order. Where does B work if Intelligence has the maximum number of officers?",
+      "question_te": "ఆరుగురు అధికారులు సైబర్ క్రైమ్, లా & ఆర్డర్, మరియు ఇంటెలిజెన్స్ అనే మూడు విభాగాలలో కనీసం ఒకరు మరియు గరిష్టంగా ముగ్గురు ఉండేలా పనిచేస్తున్నారు. A కేవలం E తో మాత్రమే పనిచేస్తున్నాడు. B మరియు C లు సైబర్ క్రైమ్‌లో లేరు. D ఇంటెలిజెన్స్‌లో మరియు F లా & ఆర్డర్‌లో పనిచేస్తున్నారు. ఇంటెలిజెన్స్‌లో గరిష్ట సంఖ్యలో అధికారులు ఉంటే, B ఏ విభాగంలో పనిచేస్తున్నాడు?",
       "options_en": [
         "Law & Order",
         "Intelligence",
@@ -6122,8 +6122,8 @@
         "నిర్ణయించలేము"
       ],
       "correct_option": 1,
-      "explanation_en": "A works ONLY with E => That department has exactly 2 members (A and E).\nSince Intelligence has maximum (3 members), A and E cannot be in Intelligence.\nNeither B nor C works in Cyber Crime. So Cyber Crime cannot have 3 members, and if A and E are in Cyber Crime (2 members), then remaining 4 officers (B, C, D, F) must be divided: Intelligence gets 3 members and Law & Order gets 1 member.\nSince B is not in Cyber Crime, B must be in Intelligence along with D and C.\nTherefore, B works in Intelligence.",
-      "explanation_te": "A మరియు E లు సైబర్ క్రైమ్‌లో ఉన్నారు (2 మంది). గరిష్టంగా 3 మంది ఇంటెలిజెన్స్‌లో ఉండాలి కాబట్టి B, C, D లు ఇంటెలిజెన్స్‌లో ఉంటారు. B ఇంటెలిజెన్స్‌లో పనిచేస్తున్నాడు."
+      "explanation_en": "F is in Law & Order, and D is in Intelligence. Since every department has at least one officer and neither B nor C is in Cyber Crime, A and E (who work only with each other) must both be assigned to Cyber Crime (2 officers). To maximize Intelligence (up to 3 officers), both B and C must join D in Intelligence (3 officers), leaving F alone in Law & Order (1 officer). Thus, B works in Intelligence.",
+      "explanation_te": "F లా & ఆర్డర్‌లో ఉండగా, B మరియు C సైబర్ క్రైమ్‌లో లేరు కనుక A మరియు E తప్పనిసరిగా సైబర్ క్రైమ్‌లో (2) ఉండాలి. ఇంటెలిజెన్స్‌లో గరిష్టంగా ముగ్గురు ఉండాలంటే B మరియు C ఇద్దరూ D తో కలిసి ఇంటెలిజెన్స్‌లో (3) ఉంటారు. కావున B ఇంటెలిజెన్స్‌లో పనిచేస్తున్నాడు."
     },
     {
       "id": 267,
@@ -6374,8 +6374,8 @@
         "VJGHT",
         "WKHIV"
       ],
-      "correct_option": 2,
-      "explanation_en": "Pattern is +2 for each letter:\nC + 2 = E\nR + 2 = T\nI + 2 = K\nM + 2 = O\nE + 2 = G\nFor THEFT:\nT + 2 = V\nH + 2 = J\nE + 2 = G\nF + 2 = H\nT + 2 = V => VJGHV! Wait: T + 2 = V, so last letter is V! Option 0 should be VJGHV.",
+      "correct_option": 1,
+      "explanation_en": "Each letter is shifted forward by +2: C+2=E, R+2=T, I+2=K, M+2=O, E+2=G (ETKOG). Applying +2 to THEFT: T+2=V, H+2=J, E+2=G, F+2=H, T+2=V => VJGHV.",
       "explanation_te": "ప్రతి అక్షరానికి +2 కలపబడింది: T(+2)->V, H(+2)->J, E(+2)->G, F(+2)->H, T(+2)->V => VJGHV."
     },
     {
@@ -6452,8 +6452,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Coding-Decoding - Word Jumbling",
       "difficulty": "Medium",
-      "question_en": "If 'DANGER' is coded as 'RGNADE', how will 'SAFETY' be coded in that same pattern?",
-      "question_te": "'DANGER' ను 'RGNADE' గా కోడ్ చేస్తే, అదే పద్ధతిలో 'SAFETY' ని ఎలా కోడ్ చేస్తారు?",
+      "question_en": "If 'DANGER' is coded as 'REGNAD', how will 'SAFETY' be coded in that same pattern?",
+      "question_te": "'DANGER' ను 'REGNAD' గా కోడ్ చేస్తే, అదే పద్ధతిలో 'SAFETY' ని ఎలా కోడ్ చేస్తారు?",
       "options_en": [
         "YETSAF",
         "YTFAES",
@@ -6467,8 +6467,8 @@
         "YTSEFA"
       ],
       "correct_option": 2,
-      "explanation_en": "Letters of DANGER: 1:D, 2:A, 3:N, 4:G, 5:E, 6:R.\nRGNADE has order: 6, 4, 3, 1, 2, 5? Or reverse of pairs? DANGER split as DAN - GER -> reverse each or reverse whole?\nReversal of DANGER = REGNAD. Here R-G-N-A-D-E is alternate from ends: 6, 4, 3, 1, 2, 5.\nOr reverse first half and second half: DAN -> NAD, GER -> REG => REGNAD.\nIf SAFETY is simply reversed: YTFAS? Let's use simple swap of halves: SAF -> FAS, ETY -> YTE => YTEFAS.",
-      "explanation_te": "అక్షరాల స్థానాల తారుమారు ద్వారా కోడ్ YTEFAS అవుతుంది."
+      "explanation_en": "The letters of the word are reversed end-to-end: DANGER reversed becomes REGNAD. Reversing SAFETY letter-by-letter produces YTEFAS.",
+      "explanation_te": "పదంలోని అక్షరాలను వెనుక నుండి ముందుకు తిప్పి రాశారు: DANGER -> REGNAD, కాబట్టి SAFETY -> YTEFAS అవుతుంది."
     },
     {
       "id": 282,
@@ -6489,9 +6489,9 @@
         "స్టెప్ 3",
         "స్టెప్ 6"
       ],
-      "correct_option": 1,
-      "explanation_en": "Alphabetical order desired: cat, dog, lion, monkey, tiger, zebra.\nInput: zebra lion tiger cat monkey dog\nStep 1: cat zebra lion tiger monkey dog (cat moved to front)\nStep 2: cat dog zebra lion tiger monkey (dog moved)\nStep 3: cat dog lion zebra tiger monkey (lion moved)\nStep 4: cat dog lion monkey tiger zebra (monkey moved; tiger and zebra are already automatically sorted!)\nSince all are sorted after Step 4, Step 4 is the final step.",
-      "explanation_te": "స్టెప్ 1: cat, స్టెప్ 2: dog, స్టెప్ 3: lion, స్టెప్ 4: monkey అమర్చిన తర్వాత tiger, zebra లు స్వయంచాలకంగా సరైన క్రమంలోకి వచ్చాయి. కావున స్టెప్ 4 తుది దశ."
+      "correct_option": 0,
+      "explanation_en": "Desired alphabetical order: cat, dog, lion, monkey, tiger, zebra. Input: zebra lion tiger cat monkey dog. Step 1: cat zebra lion tiger monkey dog. Step 2: cat dog zebra lion tiger monkey. Step 3: cat dog lion zebra tiger monkey. Step 4: cat dog lion monkey zebra tiger. Step 5: cat dog lion monkey tiger zebra. Thus Step 5 is the final step.",
+      "explanation_te": "అక్షర క్రమం (cat, dog, lion, monkey, tiger, zebra) పూర్తి కావడానికి మొత్తం 5 స్టెప్పులు (Step 5) అవసరమవుతాయి."
     },
     {
       "id": 283,
@@ -6499,7 +6499,7 @@
       "topic": "Machine Input-Output - Number Arrangement",
       "difficulty": "Hard",
       "question_en": "A machine rearranges numbers in descending order from left:\nInput: 24 85 16 92 47 63\nStep 1: 92 24 85 16 47 63\nStep 2: 92 85 24 16 47 63\nStep 3: 92 85 63 24 16 47\nWhat will be Step 4 for this input?",
-      "question_te": "సంఖ్యలను అవరోహణ క్రమంలో అమర్చే ఒక యంత్రంలో:\nస్టెప్ 3: 92 85 63 24 16 47 అయినప్పుడు, దాని తర్వాతి స్టెప్ 4 ఏది అవుతుంది?",
+      "question_te": "సంఖ్యలను ఎడమ నుండి అవరోహణ క్రమంలో అమర్చే ఒక యంత్రంలో:\nఇన్‌పుట్: 24 85 16 92 47 63\nస్టెప్ 1: 92 24 85 16 47 63\nస్టెప్ 2: 92 85 24 16 47 63\nస్టెప్ 3: 92 85 63 24 16 47\nఈ ఇన్‌పుట్‌కు స్టెప్ 4 ఏది అవుతుంది?",
       "options_en": [
         "92 85 63 47 24 16",
         "92 85 63 47 16 24",
@@ -6568,7 +6568,7 @@
       "topic": "Machine Input-Output - Word & Number Alternating",
       "difficulty": "Hard",
       "question_en": "An automated data sorting machine arranges words in alphabetical order from the left and numbers in ascending order from the right:\nInput: 52 bat 18 fan 34 ant 71 cat\nWhich element will be 3rd from the left in Step 2?",
-      "question_te": "ఒక ఆటోమేటెడ్ మెషిన్ ఎడమ నుండి పదాలను అక్షర క్రమంలోను, కుడి నుండి సంఖ్యలను ఆరోహణ క్రమంలోను ఒకేసారి అమరుస్తుంది.\nస్టెప్ 2 లో ఎడమ నుండి 3వ స్థానంలో ఉండే అంశం ఏది?",
+      "question_te": "ఒక ఆటోమేటెడ్ డేటా సార్టింగ్ మెషిన్ ఎడమ నుండి పదాలను అక్షర క్రమంలోను, కుడి నుండి సంఖ్యలను ఆరోహణ క్రమంలోను అమరుస్తుంది:\nఇన్‌పుట్: 52 bat 18 fan 34 ant 71 cat\nస్టెప్ 2 లో ఎడమ నుండి 3వ స్థానంలో ఉండే అంశం ఏది?",
       "options_en": [
         "bat",
         "52",

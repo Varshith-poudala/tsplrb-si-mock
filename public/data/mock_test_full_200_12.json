@@ -2237,8 +2237,8 @@
       "qNumber": 98,
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Reasoning - Coding-Decoding",
-      "question_en": "If 'GO' is coded as '32' (G=7, O=15, sum = 22... wait, reverse: G=20, O=12, sum = 32), how will 'SHE' be coded? (S=8, H=19, E=22 in reverse)",
-      "question_te": "వ్యతిరేక స్థాన విలువల ప్రకారం 'GO' = 32 (G=20, O=12) అయితే, 'SHE' విలువ ఎంత? (S=8, H=19, E=22)",
+      "question_en": "If 'GO' is coded as '32' using reverse alphabetical positions (G=20, O=12), how will 'SHE' be coded?",
+      "question_te": "వ్యతిరేక స్థాన విలువల ప్రకారం 'GO' = 32 (G=20, O=12) అయితే, 'SHE' విలువ ఎంత?",
       "options_en": [
         "45",
         "48",

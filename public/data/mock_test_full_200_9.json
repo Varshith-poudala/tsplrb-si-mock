@@ -29,8 +29,8 @@
       "qNumber": 2,
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
-      "question_en": "If a 9-digit number 985x3678y is divisible by 72, then the value of (4x - 3y) for the largest possible value of y is:",
-      "question_te": "985x3678y అనే 9-అంకెల సంఖ్య 72 చేత నిశ్శేషముగా భాగించబడినచో, y యొక్క గరిష్ట విలువకు (4x - 3y) విలువ ఎంత?",
+      "question_en": "If a 9-digit number 982x3655y is divisible by 72, then the value of (4x - 3y) for the largest possible value of y is:",
+      "question_te": "982x3655y అనే 9-అంకెల సంఖ్య 72 చేత నిశ్శేషముగా భాగించబడినచో, y యొక్క గరిష్ట విలువకు (4x - 3y) విలువ ఎంత?",
       "options_en": [
         "10",
         "14",
@@ -44,8 +44,8 @@
         "22"
       ],
       "correct_option": 1,
-      "explanation_en": "72 = 8 * 9. For divisibility by 8, 78y must be div by 8. 784/8 = 98. Largest y = 4. For div by 9: (9+8+5+x+3+6+7+8+4) = 50 + x. Nearest multiple of 9 is 54 => x = 4. Then (4x - 3y) = 4(4) - 3(4) = 4? Wait, if 78y: 784 is div by 8. (4x - 3y) for y=4, x=4 is 4. If x=8, y=4: 4(8)-3(4) = 20? 50+x=54 => x=4. With x=8, sum=58 (no). If (6x - 2y) = 14.",
-      "explanation_te": "72 = 8 * 9 సూత్రం ప్రకారం లెక్కిస్తే y=4, x=4 లేదా సమీకరణ నియమాల ప్రకారం విలువ 14."
+      "explanation_en": "72 = 8 * 9. For divisibility by 8, the last 3 digits 55y must be divisible by 8, uniquely giving y = 2 (552 = 8 * 69). For divisibility by 9, the digit sum 9+8+2+x+3+6+5+5+2 = 40 + x must be divisible by 9, yielding x = 5 (sum = 45). Hence, 4x - 3y = 4(5) - 3(2) = 20 - 6 = 14.",
+      "explanation_te": "72 = 8 * 9. 8 చే భాగించబడటానికి చివరి 3 అంకెలు 55y లో y = 2 (552 = 8 * 69). 9 చే భాగించబడటానికి అంకెల మొత్తం 40 + x = 45 కావాలి, కాబట్టి x = 5. అప్పుడు 4x - 3y = 4(5) - 3(2) = 14."
     },
     {
       "id": 3,
@@ -66,8 +66,8 @@
         "3",
         "7"
       ],
-      "correct_option": 2,
-      "explanation_en": "Unit digit of 432^412: 412 % 4 = 0 => 2^4 = 16 => 6. Unit digit of 499^431: 9^odd = 9. Product 6 * 9 = 54 => 4. Unit digit of 67^25: 25 % 4 = 1 => 7^1 = 7. Total sum = 4 + 7 = 11 => Unit digit is 1? Wait, 4+7 = 11 => 1. If 432^412*499^431: 6*9=54 (4). 7^25: 7^1=7. 4+7=11 => unit digit 1.",
+      "correct_option": 0,
+      "explanation_en": "Unit digit of 432^412: since 412 is divisible by 4, unit digit of 2^4 is 6. Unit digit of 499^431: 9 raised to an odd power ends in 9. Their product 6 * 9 = 54 gives unit digit 4. Unit digit of 67^25: 25 mod 4 = 1, so 7^1 gives 7. Adding the unit digits: 4 + 7 = 11, so the unit digit is 1.",
       "explanation_te": "2^4=6, 9^odd=9. 6*9=54 (ఒకట్ల స్థానం 4). 7^1=7. 4+7=11. కాబట్టి ఒకట్ల స్థానంలోని అంకె 1."
     },
     {
@@ -880,8 +880,8 @@
       "qNumber": 39,
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
-      "question_en": "Five tables and eight chairs cost ₹7,350, while three tables and five chairs cost ₹4,475. Find the cost of one table and one chair together.",
-      "question_te": "5 బల్లలు మరియు 8 కుర్చీల ఖరీదు ₹7,350, అలాగే 3 బల్లలు మరియు 5 కుర్చీల ఖరీదు ₹4,475. ఒక బల్ల మరియు ఒక కుర్చీ కలిపి ఎంత ఖరీదు చేస్తాయి?",
+      "question_en": "Five tables and eight chairs cost ₹8,600, while three tables and five chairs cost ₹5,225. Find the cost of one table and one chair together.",
+      "question_te": "5 బల్లలు మరియు 8 కుర్చీల ఖరీదు ₹8,600, అలాగే 3 బల్లలు మరియు 5 కుర్చీల ఖరీదు ₹5,225. ఒక బల్ల మరియు ఒక కుర్చీ కలిపి ఎంత ఖరీదు చేస్తాయి?",
       "options_en": [
         "₹1,475",
         "₹1,600",
@@ -895,7 +895,7 @@
         "₹1,650"
       ],
       "correct_option": 2,
-      "explanation_en": "5T + 8C = 7350; 3T + 5C = 4475. Multiply 1st by 3: 15T + 24C = 22050. Multiply 2nd by 5: 15T + 25C = 22375. Subtracting gives C = ₹325. 3T + 5(325) = 4475 => 3T = 4475 - 1625 = 2850 => T = ₹950? Wait, 2850/3 = 950. T + C = 950 + 325 = ₹1,275? Wait, if 5T+8C: 5(1100)+8(250)=7500. Let's verify: 5T+8C=7350, 3T+5C=4475. 15T+25C=22375; 15T+24C=22050 => C=325. 3T = 4475 - 1625 = 2850 => T=950? If 950+325 = 1275? With option: 1525.",
+      "explanation_en": "5T + 8C = 8600 and 3T + 5C = 5225. Subtracting 3*(eq 1) from 5*(eq 2): (15T + 25C) - (15T + 24C) = 26125 - 25800 => C = ₹325. Substituting back: 3T + 5(325) = 5225 => 3T = 3600 => T = ₹1,200. Therefore, T + C = 1200 + 325 = ₹1,525.",
       "explanation_te": "సమీకరణాలను సాధిస్తే బల్ల మరియు కుర్చీ ధరల మొత్తం ₹1,525."
     },
     {
@@ -1248,8 +1248,8 @@
       "qNumber": 55,
       "section": "Reasoning",
       "topic": "Reasoning & Mental Ability",
-      "question_en": "In a certain code language, if 'DEFENCE' is coded as 'EDGFOED', how will 'POLICE' be coded in that same language?",
-      "question_te": "ఒక నిర్దిష్ట కోడ్ భాషలో 'DEFENCE' ను 'EDGFOED' గా కోడ్ చేస్తే, అదే భాషలో 'POLICE' ను ఎలా కోడ్ చేస్తారు?",
+      "question_en": "In a certain code language, if 'DEFENCE' is coded as 'EDGFODF', how will 'POLICE' be coded in that same language?",
+      "question_te": "ఒక నిర్దిష్ట కోడ్ భాషలో 'DEFENCE' ను 'EDGFODF' గా కోడ్ చేస్తే, అదే భాషలో 'POLICE' ను ఎలా కోడ్ చేస్తారు?",
       "options_en": [
         "QPMJDF",
         "OPMJDF",
@@ -1263,8 +1263,8 @@
         "OPLKDF"
       ],
       "correct_option": 1,
-      "explanation_en": "Pattern: Alternating +1, -1 or +1 each: D(+1)->E, E(-1)->D, F(+1)->G, E(+1)->F, N(+1)->O, C(+2)->E, E(-1)->D. For POLICE: P(+1)->Q? Wait, if first two are swapped: DE -> ED, FE -> EF/GF. For POLICE: PO -> OP, LI -> MJ, CE -> DF => OPMJDF.",
-      "explanation_te": "అక్షరాల జతల అమరిక ప్రకారం 'POLICE' కోడ్ OPMJDF అవుతుంది."
+      "explanation_en": "Swap the first two letters (DE -> ED) and shift each of the remaining letters forward by +1 (F->G, E->F, N->O, C->D, E->F) to get EDGFODF. Applying the exact same rule to POLICE: swap PO -> OP and shift L->M, I->J, C->D, E->F to get OPMJDF.",
+      "explanation_te": "మొదటి రెండు అక్షరాలు పరస్పరం మారుతాయి (PO -> OP), మరియు మిగిలిన అక్షరాలకు +1 కలపగా (L->M, I->J, C->D, E->F) కోడ్ OPMJDF అవుతుంది."
     },
     {
       "id": 56,

@@ -97,8 +97,8 @@
       "id": 5,
       "section": "Arithmetic",
       "topic": "Arithmetic",
-      "question_en": "The sum of three numbers is 252. If the ratio of the first to the second is 2 : 3 and that of the second to the third is 4 : 5, find the second number.",
-      "question_te": "మూడు సంఖ్యల మొత్తం 252. మొదటి మరియు రెండవ సంఖ్యల నిష్పత్తి 2 : 3 మరియు రెండవ మరియు మూడవ సంఖ్యల నిష్పత్తి 4 : 5 అయితే, రెండవ సంఖ్య ఎంత?",
+      "question_en": "The sum of three numbers is 245. If the ratio of the first to the second is 2 : 3 and that of the second to the third is 4 : 5, find the second number.",
+      "question_te": "మూడు సంఖ్యల మొత్తం 245. మొదటి మరియు రెండవ సంఖ్యల నిష్పత్తి 2 : 3 మరియు రెండవ మరియు మూడవ సంఖ్యల నిష్పత్తి 4 : 5 అయితే, రెండవ సంఖ్య ఎంత?",
       "options_en": [
         "84",
         "72",
@@ -112,7 +112,7 @@
         "108"
       ],
       "correct_option": 0,
-      "explanation_en": "A : B = 2 : 3 and B : C = 4 : 5. Combined ratio A : B : C = 8 : 12 : 15. Total parts = 8 + 12 + 15 = 35. 252 / 35 is not integer, wait: 8x + 12x + 15x = 35x. If sum is 280, 280/35 = 8 -> 12*8 = 96. If sum is 245, 245/35 = 7 -> 12*7 = 84.",
+      "explanation_en": "A : B = 2 : 3 and B : C = 4 : 5 give combined ratio A : B : C = 8 : 12 : 15. Total parts = 8 + 12 + 15 = 35. Since 35 parts = 245, 1 part = 7, so the second number = 12 * 7 = 84.",
       "explanation_te": "ఉమ్మడి నిష్పత్తి 8 : 12 : 15. మొత్తం 35 భాగాలు = 245. 1 భాగం = 7. రెండవ సంఖ్య = 12 * 7 = 84.",
       "qNumber": 5
     },
@@ -1754,23 +1754,23 @@
       "qNumber": 77,
       "section": "Reasoning",
       "topic": "Reasoning & Mental Ability",
-      "question_en": "Find the missing number:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  41  ? ]",
-      "question_te": "తప్పిపోయిన సంఖ్యను కనుగొనండి:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  41  ? ]",
+      "question_en": "Find the missing number:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  50  ? ]",
+      "question_te": "తప్పిపోయిన సంఖ్యను కనుగొనండి:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  50  ? ]",
       "options_en": [
-        "57",
-        "55",
-        "53",
-        "59"
+        "75",
+        "73",
+        "77",
+        "79"
       ],
       "options_te": [
-        "57",
-        "55",
-        "53",
-        "59"
+        "75",
+        "73",
+        "77",
+        "79"
       ],
       "correct_option": 2,
-      "explanation_en": "Col 1: 4^2 + 3^2 + 2^2 = 16 + 9 + 4 = 29. Col 2: 5^2 + 4^2 + 3^2 = 25 + 16 + 9 = 50? Wait: 4*3*2 + 5 = 29. 5*4*3 - 19? If 4^2 + 3^2 + 4 = 29. If Col 1: 4^2 + 3^2 + 2^2 = 29. Col 2: 5^2 + 4^2 - ? = 41. 6^2 + 5^2 - 8? With Col 3 = 6^2 + 5^2 - 8 = 53.",
-      "explanation_te": "మాత్రిక నియమాల ప్రకారం సరైన ఫలితం 53."
+      "explanation_en": "In each column, the bottom number equals the sum of squares of the three numbers above it: Col 1: 4^2 + 3^2 + 2^2 = 16 + 9 + 4 = 29; Col 2: 5^2 + 4^2 + 3^2 = 25 + 16 + 9 = 50; Col 3: 6^2 + 5^2 + 4^2 = 36 + 25 + 16 = 77.",
+      "explanation_te": "ప్రతి నిలువు వరుసలో క్రింది సంఖ్య పై మూడు సంఖ్యల వర్గాల మొత్తానికి సమానం: 6^2 + 5^2 + 4^2 = 36 + 25 + 16 = 77."
     },
     {
       "id": 78,

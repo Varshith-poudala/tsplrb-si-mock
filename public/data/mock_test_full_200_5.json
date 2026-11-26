@@ -1608,7 +1608,7 @@
         "NPR"
       ],
       "correct_option": 2,
-      "explanation_en": "BDF (+2, +2), HJL (+2, +2), NPR (+2, +2). KMO is also (+2, +2)? Wait: K(11), M(13), O(15). All are +2. Let's look at vowels: KMO contains a vowel 'O', while BDF, HJL, NPR have no vowels! So KMO is the odd one.",
+      "explanation_en": "All four groups step forward by (+2, +2) sequentially, so we compare letter types and alphabetical positions: BDF (2, 4, 6), HJL (8, 10, 12), and NPR (14, 16, 18) consist solely of consonants at even positions, whereas KMO (11, 13, 15) contains the vowel 'O' and uses odd positions. Thus, KMO is the odd one out.",
       "explanation_te": "BDF, HJL, NPR లలో ఎటువంటి అచ్చులు లేవు. KMO లో 'O' అనే అచ్చు (vowel) కలదు."
     },
     {

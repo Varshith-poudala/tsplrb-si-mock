@@ -259,8 +259,8 @@
       "qNumber": 12,
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
-      "question_en": "The average age of a family of 5 members was 28 years three years ago. If a baby was born into the family in the interim, and the present average age of the family is still 28 years, what is the present age of the baby?",
-      "question_te": "మూడేళ్ల క్రితం 5 గురు సభ్యులు గల కుటుంబం సగటు వయస్సు 28 సంవత్సరాలు. ఈ మధ్యకాలంలో ఒక శిశువు జన్మించగా, ప్రస్తుతం ఆ కుటుంబం సగటు వయస్సు ఇంకా 28 సంవత్సరాలుగానే ఉంది. ఆ శిశువు ప్రస్తుత వయస్సు ఎంత?",
+      "question_en": "The average age of a family of 5 members was 23 years four years ago. If a baby was born into the family in the interim, and the present average age of the family is still 23 years, what is the present age of the baby?",
+      "question_te": "నాలుగు సంవత్సరాల క్రితం 5 గురు సభ్యులు గల కుటుంబం సగటు వయస్సు 23 సంవత్సరాలు. ఈ మధ్యకాలంలో ఒక శిశువు జన్మించగా, ప్రస్తుతం ఆ కుటుంబం సగటు వయస్సు ఇంకా 23 సంవత్సరాలుగానే ఉంది. ఆ శిశువు ప్రస్తుత వయస్సు ఎంత?",
       "options_en": [
         "1 year",
         "2 years",
@@ -274,8 +274,8 @@
         "3 సంవత్సరాలు"
       ],
       "correct_option": 3,
-      "explanation_en": "Present total age of 5 members without baby = 5 * (28 + 3) = 5 * 31 = 155 years. Present total age of 6 members including baby = 6 * 28 = 168 years. Age of baby = 168 - 155 = 13 years? Wait, 5*(28+3) = 155. 6*28 = 168. Difference is 13? But 3 years ago! If family was 5 members: 5*28 = 140. 3 years later, 140 + 15 = 155. If 6 members have average 26: 156-155=1. If present average is 26, baby is 1. If 6*26 = 156. Here 168-155 = 13 (impossible for baby). If average 3 years ago was 24: 5*27 = 135. 6*23 = 138. Age is 3 years.",
-      "explanation_te": "కుటుంబ వయస్సుల వ్యత్యాసం ఆధారంగా శిశువు వయస్సు 3 సంవత్సరాలు."
+      "explanation_en": "Total age of 5 members 4 years ago = 5 * 23 = 115 years. Present total age of those 5 members = 115 + (5 * 4) = 135 years. Present total age of 6 members including the baby = 6 * 23 = 138 years. Hence, the baby's present age = 138 - 135 = 3 years.",
+      "explanation_te": "4 ఏళ్ల క్రితం 5 గురు సభ్యుల మొత్తం వయస్సు = 5 * 23 = 115. ప్రస్తుతం ఆ 5 గురు సభ్యుల మొత్తం వయస్సు = 115 + 20 = 135. శిశువుతో కలిపి 6 గురు సభ్యుల మొత్తం వయస్సు = 6 * 23 = 138. శిశువు వయస్సు = 138 - 135 = 3 సంవత్సరాలు."
     },
     {
       "id": 13,
@@ -305,8 +305,8 @@
       "qNumber": 14,
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
-      "question_en": "A and B have monthly incomes in the ratio 4 : 5 and their monthly expenses are in the ratio 7 : 9. If each saves ₹2,500 per month, find the monthly income of B.",
-      "question_te": "A మరియు B ల నెలవారీ ఆదాయాల నిష్పత్తి 4 : 5 మరియు వారి ఖర్చుల నిష్పత్తి 7 : 9. వారిద్దరూ నెలకు ₹2,500 చొప్పున ఆదా చేస్తే B నెలవారీ ఆదాయం ఎంత?",
+      "question_en": "A and B have monthly incomes in the ratio 4 : 5 and their monthly expenses are in the ratio 7 : 9. If each saves ₹1,250 per month, find the monthly income of B.",
+      "question_te": "A మరియు B ల నెలవారీ ఆదాయాల నిష్పత్తి 4 : 5 మరియు వారి ఖర్చుల నిష్పత్తి 7 : 9. వారిద్దరూ నెలకు ₹1,250 చొప్పున ఆదా చేస్తే B నెలవారీ ఆదాయం ఎంత?",
       "options_en": [
         "₹10,000",
         "₹12,500",
@@ -320,8 +320,8 @@
         "₹17,500"
       ],
       "correct_option": 1,
-      "explanation_en": "Income: 4x, 5x. Savings: (4x - 2500) / (5x - 2500) = 7 / 9 => 36x - 22500 = 35x - 17500 => x = 5000. Monthly income of B = 5 * 5000 = ₹25,000? Wait, if 5000: 5*5000 = 25000. If 4x: (4x - 2500)/(5x - 2500) = 7/9 => 36x - 22500 = 35x - 17500 => x = 5000. If B is 5x = 25000 (not in opts). If ratio is 3:4 and 5:7: (3x-2500)/(4x-2500)=5/7 => 21x-17500 = 20x-12500 => x=5000. Then 4*5000=20000. For ₹12,500: if x = 2500, B = 5*2500 = ₹12,500.",
-      "explanation_te": "ఆదాయ వ్యయాల సమీకరణాన్ని సాధిస్తే B యొక్క నెలవారీ ఆదాయం ₹12,500."
+      "explanation_en": "Let monthly incomes be 4x and 5x. Since each saves ₹1,250: (4x - 1250) / (5x - 1250) = 7 / 9 => 36x - 11250 = 35x - 8750 => x = 2500. Thus B's monthly income = 5 * 2500 = ₹12,500.",
+      "explanation_te": "ఆదాయాలు 4x, 5x అనుకుంటే (4x - 1250)/(5x - 1250) = 7/9 => x = 2500. కాబట్టి B నెలవారీ ఆదాయం = 5 * 2500 = ₹12,500."
     },
     {
       "id": 15,
@@ -466,8 +466,8 @@
       "qNumber": 21,
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
-      "question_en": "The difference between compound interest and simple interest on ₹8,000 for 2 years at r% per annum is ₹72. Find the rate of interest per annum r.",
-      "question_te": "₹8,000 అసలుపై 2 సంవత్సరాలకు r% వార్షిక రేటుతో చక్రవడ్డీ మరియు బారువడ్డీల మధ్య వ్యత్యాసం ₹72. వార్షిక వడ్డీ రేటు r ఎంత?",
+      "question_en": "The difference between compound interest and simple interest on ₹8,000 for 2 years at r% per annum is ₹64.80. Find the rate of interest per annum r.",
+      "question_te": "₹8,000 అసలుపై 2 సంవత్సరాలకు r% వార్షిక రేటుతో చక్రవడ్డీ మరియు బారువడ్డీల మధ్య వ్యత్యాసం ₹64.80. వార్షిక వడ్డీ రేటు r ఎంత?",
       "options_en": [
         "9%",
         "8%",
@@ -481,7 +481,7 @@
         "10%"
       ],
       "correct_option": 0,
-      "explanation_en": "For 2 years, CI - SI = P * (r/100)^2. 72 = 8000 * (r/100)^2 => (r/100)^2 = 72 / 8000 = 9 / 1000 = 0.009? Wait: 7200 / 800000? 72 / 8000 = 9 / 1000? If P = 8000, 72 = 8000 * r^2 / 10000 => 72 = 0.8 r^2 => r^2 = 72 / 0.8 = 90? If CI - SI = P*(r/100)^2 = 72. If r = 9.48? But if P = 8000, 8000 * 81 / 10000 = 64.8. For 72: r^2 = 90. If P = 5000 and 72? For 9%: 8000 * (0.09)^2 = 64.8. If difference is ₹64.80 or ₹72, with r = 9%.",
+      "explanation_en": "For 2 years, CI - SI = P * (r/100)^2. Substituting values: 64.80 = 8000 * (r/100)^2 => r^2 = (64.80 * 10000) / 8000 = 81 => r = 9%.",
       "explanation_te": "2 సంవత్సరాల వ్యత్యాస సూత్రం: CI - SI = P(r/100)². లెక్కించగా వడ్డీ రేటు 9%."
     },
     {
@@ -1432,8 +1432,8 @@
       "qNumber": 63,
       "section": "Reasoning",
       "topic": "Reasoning & Mental Ability",
-      "question_en": "Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the center. B is third to the right of A. E is third to the left of B. C is fourth to the right of A. D is not an immediate neighbor of B or C. Who is sitting immediately to the left of A?",
-      "question_te": "ఎనిమిది మంది వ్యక్తులు కేంద్రం వైపు చూస్తూ వృత్తాకార బల్ల చుట్టూ కూర్చున్నారు. A కి కుడివైపున మూడవ స్థానంలో B, B కి ఎడమవైపున మూడవ స్థానంలో E, A కి కుడివైపున నాల్గవ స్థానంలో C కూర్చున్నారు. D అనువ్యక్తి B లేదా C ల పొరుగున లేడు. A కి తక్షణ ఎడమవైపున ఎవరున్నారు?",
+      "question_en": "Eight persons A, B, C, D, E, F, G, and H are sitting around a circular table facing the centre. B sits third to the right of A. C sits opposite to A. E sits immediately to the right of C, and F sits opposite to E. G sits immediately to the left of B, and H sits opposite to G. Who is sitting immediately to the left of A?",
+      "question_te": "ఎనిమిది మంది వ్యక్తులు A, B, C, D, E, F, G మరియు H లు కేంద్రం వైపు చూస్తూ ఒక వృత్తాకార బల్ల చుట్టూ కూర్చున్నారు. A కి కుడివైపున మూడవ స్థానంలో B కూర్చున్నాడు. A కి ఎదురుగా C కూర్చున్నాడు. C కి తక్షణ కుడివైపున E, మరియు E కి ఎదురుగా F కూర్చున్నారు. B కి తక్షణ ఎడమవైపున G, మరియు G కి ఎదురుగా H కూర్చున్నారు. అయితే A కి తక్షణ ఎడమవైపున ఎవరు కూర్చున్నారు?",
       "options_en": [
         "F",
         "D",
@@ -1447,8 +1447,8 @@
         "G"
       ],
       "correct_option": 1,
-      "explanation_en": "Arranging around 8 positions: A at 1. B at 4. E at 1 (wait: 3rd left of B is 4-3=1=A? Then E is adjacent). Solving the relative circle positions places D immediately to the left of A.",
-      "explanation_te": "వృత్తాకార అమరిక నిబంధనల ప్రకారం A కి తక్షణ ఎడమవైపున D ఉంటాడు."
+      "explanation_en": "Numbering seats 1 to 8 counter-clockwise around the table facing centre (so +1 is immediate right): place A at 1. B is 3rd right of A at 4; C is opposite A at 5; E is immediately right of C at 6; F is opposite E at 2; G is immediately left of B at 3; H is opposite G at 7. The only remaining seat, position 8, is occupied by D, who sits immediately to the left of A.",
+      "explanation_te": "వృత్తాకార బల్లపై స్థానాలను క్రమంగా గుర్తిస్తే (1:A, 2:F, 3:G, 4:B, 5:C, 6:E, 7:H), మిగిలిన 8వ స్థానంలో (A కి తక్షణ ఎడమవైపు) D ఉంటాడు."
     },
     {
       "id": 64,
@@ -1754,23 +1754,23 @@
       "qNumber": 77,
       "section": "Reasoning",
       "topic": "Reasoning & Mental Ability",
-      "question_en": "Find the missing number:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  41  ? ]",
-      "question_te": "తప్పిపోయిన సంఖ్యను కనుగొనండి:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  41  ? ]",
+      "question_en": "Find the missing number:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  50  ? ]",
+      "question_te": "తప్పిపోయిన సంఖ్యను కనుగొనండి:\n[ 4   5   6 ]\n[ 3   4   5 ]\n[ 2   3   4 ]\n[ 29  50  ? ]",
       "options_en": [
-        "57",
-        "55",
-        "53",
-        "59"
+        "75",
+        "73",
+        "77",
+        "79"
       ],
       "options_te": [
-        "57",
-        "55",
-        "53",
-        "59"
+        "75",
+        "73",
+        "77",
+        "79"
       ],
       "correct_option": 2,
-      "explanation_en": "Col 1: 4^2 + 3^2 + 2^2 = 16 + 9 + 4 = 29. Col 2: 5^2 + 4^2 + 3^2 = 25 + 16 + 9 = 50? Wait: 4*3*2 + 5 = 29. 5*4*3 - 19? If 4^2 + 3^2 + 4 = 29. If Col 1: 4^2 + 3^2 + 2^2 = 29. Col 2: 5^2 + 4^2 - ? = 41. 6^2 + 5^2 - 8? With Col 3 = 6^2 + 5^2 - 8 = 53.",
-      "explanation_te": "మాత్రిక నియమాల ప్రకారం సరైన ఫలితం 53."
+      "explanation_en": "In each column, the bottom number equals the sum of squares of the three numbers above it: Col 1: 4^2 + 3^2 + 2^2 = 16 + 9 + 4 = 29; Col 2: 5^2 + 4^2 + 3^2 = 25 + 16 + 9 = 50; Col 3: 6^2 + 5^2 + 4^2 = 36 + 25 + 16 = 77.",
+      "explanation_te": "ప్రతి నిలువు వరుసలో క్రింది సంఖ్య పై మూడు సంఖ్యల వర్గాల మొత్తానికి సమానం: 6^2 + 5^2 + 4^2 = 36 + 25 + 16 = 77."
     },
     {
       "id": 78,

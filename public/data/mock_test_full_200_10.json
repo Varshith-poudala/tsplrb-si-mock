@@ -941,7 +941,7 @@
         "14"
       ],
       "correct_option": 0,
-      "explanation_en": "72 = 8 * 9. For divisibility by 8, last 3 digits 78y must be divisible by 8 => 784 is divisible by 8 (784 = 8 * 98) => y = 4. For divisibility by 9: sum of digits = 7+8+5+x+3+6+7+8+4 = 48 + x. For 48 + x to be divisible by 9, x = 6. So x + y = 6 + 4 = 10? Wait: 48 + 6 = 54. So x = 6, y = 4 => x + y = 10. Correct option is 1 (value 10).",
+      "explanation_en": "72 = 8 * 9. For divisibility by 8, the last 3 digits 78y must be divisible by 8 => y = 4 (784 = 8 * 98). For divisibility by 9, sum of digits = 7+8+5+x+3+6+7+8+4 = 48 + x => x = 6 (sum = 54). Thus, x + y = 6 + 4 = 10.",
       "explanation_te": "72 = 8 * 9. 8 చే భాగించబడటానికి: 78y లో y = 4 (784 = 8*98). 9 చే భాగించబడటానికి: అంకెల మొత్తం = 48 + x => x = 6 (54 divisible by 9). x + y = 6 + 4 = 10."
     },
     {

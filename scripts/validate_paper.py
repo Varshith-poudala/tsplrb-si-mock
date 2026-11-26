@@ -15,7 +15,7 @@ import sys
 from collections import Counter
 
 DRAFT_ARTIFACT_PAT = re.compile(
-    r"\b(?:wait\s*[:,?]|let's\s+(?:make|adjust|check|test|specify|change)|lets\s+(?:make|adjust)|let us make|check option|fix this)\b",
+    r"(?:\bwait\b\s*[:,?]|let['’]?s\s+(?:make|adjust|check|test|specify|change|verify|use)\b|\blets\s+(?:make|adjust|verify)\b|\blet us make\b|\bcheck option\b|\bfix this\b)",
     re.I,
 )
 # Detect merged options (even single inline B/C/D like "డెన్నిస్ P. సుల్లివన్ బి. గెర్డ్ ఫాల్టింగ్స్"),

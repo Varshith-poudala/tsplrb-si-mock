@@ -466,8 +466,8 @@
       "qNumber": 21,
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
-      "question_en": "A sum of ₹3,700 is divided among A, B, and C such that A's share : B's share = 3 : 4 and B's share : C's share = 5 : 6. What is B's share?",
-      "question_te": "₹3,700 మొత్తాన్ని A, B మరియు C లకు పంచగా A : B = 3 : 4 మరియు B : C = 5 : 6 అయినచో, B యొక్క వాటా ఎంత?",
+      "question_en": "A sum of ₹3,540 is divided among A, B, and C such that A's share : B's share = 3 : 4 and B's share : C's share = 5 : 6. What is B's share?",
+      "question_te": "₹3,540 మొత్తాన్ని A, B మరియు C లకు పంచగా A : B = 3 : 4 మరియు B : C = 5 : 6 అయినచో, B యొక్క వాటా ఎంత?",
       "options_en": [
         "₹1,200",
         "₹1,000",
@@ -481,7 +481,7 @@
         "₹1,500"
       ],
       "correct_option": 0,
-      "explanation_en": "Combined ratio A : B : C = (3*5) : (4*5) : (4*6) = 15 : 20 : 24. Total parts = 15 + 20 + 24 = 59. No: 3700 / ? Wait: if 15 + 20 + 24 = 59. For ₹3,700: 59 does not divide 3700. If A:B = 2:3 and B:C = 4:5 -> 8:12:15 = 35 parts. If A:B = 1:2 and B:C = 3:4 -> 3:6:8 = 17 parts. For 15:20:24: 3700/59 ≈ 62.7. Let ratio be A:B = 3:4, B:C = 2:3 -> 3:4:6 = 13 parts. If 15:20:24: B share = ₹1,200 if total 3540. Let sum be ₹3,540 -> B = ₹1,200.",
+      "explanation_en": "Combined ratio A : B : C = (3*5) : (4*5) : (4*6) = 15 : 20 : 24. Total parts = 15 + 20 + 24 = 59. B's share = (20 / 59) * 3540 = 20 * 60 = ₹1,200.",
       "explanation_te": "ఉమ్మడి నిష్పత్తి 15 : 20 : 24 ప్రకారం B వాటా ₹1,200."
     },
     {

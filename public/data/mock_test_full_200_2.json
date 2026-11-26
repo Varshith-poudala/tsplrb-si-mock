@@ -1270,22 +1270,22 @@
       "id": 56,
       "section": "Reasoning",
       "topic": "Coding and Decoding",
-      "question_en": "In a certain code language, 'POLICE' is coded as 'QNMKBD'. How will 'ARREST' be coded in that same code?",
-      "question_te": "ఒక నిర్దిష్ట కోడ్ భాషలో 'POLICE' ను 'QNMKBD' గా కోడ్ చేస్తే, అదే కోడ్‌లో 'ARREST' ను ఎలా కోడ్ చేస్తారు?",
+      "question_en": "In a certain code language, 'POLICE' is coded as 'QNMHDD'. How will 'ARREST' be coded in that same code?",
+      "question_te": "ఒక నిర్దిష్ట కోడ్ భాషలో 'POLICE' ను 'QNMHDD' గా కోడ్ చేస్తే, అదే కోడ్‌లో 'ARREST' ను ఎలా కోడ్ చేస్తారు?",
       "options_en": [
         "BQQDRS",
         "BSSDRS",
         "BSQDTU",
-        "BQQFRU"
+        "BQSDTS"
       ],
       "options_te": [
         "BQQDRS",
         "BSSDRS",
         "BSQDTU",
-        "BQQFRU"
+        "BQSDTS"
       ],
       "correct_option": 3,
-      "explanation_en": "Pattern is alternating (+1, -1, +1, -1, +1, -1):\nP(+1)=Q, O(-1)=N, L(+1)=M, I(-1)=H? Wait: P(+1)=Q, O(-1)=N, L(+1)=M, I(-1)? If POLICE -> QNMKBD: P+1=Q, O-1=N, L+1=M, I+2=K, C-1=B, E-1=D. Let's look at standard +1, -1:\nA(+1)=B, R(-1)=Q, R(+1)=S... Let's use strict +1/-1:\nP(+1)=Q, O(-1)=N, L(+1)=M, I(-1)=H, C(+1)=D, E(-1)=D. For ARREST with (+1, -1, +1, -1, +1, -1):\nA(+1)=B, R(-1)=Q, R(+1)=S, E(-1)=D, S(+1)=T, T(-1)=S => BQSDTS.",
+      "explanation_en": "Pattern is alternating (+1, -1, +1, -1, +1, -1): P(+1)=Q, O(-1)=N, L(+1)=M, I(-1)=H, C(+1)=D, E(-1)=D => QNMHDD. Applying this to ARREST: A(+1)=B, R(-1)=Q, R(+1)=S, E(-1)=D, S(+1)=T, T(-1)=S => BQSDTS.",
       "explanation_te": "నియమం: +1, -1, +1, -1, +1, -1.\nA(+1)=B, R(-1)=Q, R(+1)=S, E(-1)=D, S(+1)=T, T(-1)=S => BQSDTS.",
       "qNumber": 56
     },
