@@ -18,9 +18,13 @@ DRAFT_ARTIFACT_PAT = re.compile(
     r"\b(?:wait\s*[:,?]|let's\s+(?:make|adjust|check|test|specify|change)|lets\s+(?:make|adjust)|let us make|check option|fix this)\b",
     re.I,
 )
-# Detect merged options like "ఒడిశా బి. జార్ఖండ్ సి. కర్ణాటక" without flagging initials like "సి. రాజగోపాలాచారి"
+# Detect merged options (even single inline B/C/D like "డెన్నిస్ P. సుల్లివన్ బి. గెర్డ్ ఫాల్టింగ్స్"),
+# while avoiding honorifics + initial like "డాక్టర్ సి. రంగరాజన్" or "డా. బి. ఆర్. అంబేద్కర్".
+HONORIFIC_BEFORE_INITIAL_RE = re.compile(
+    r"(?:డాక్టర్|డా\.|ప్రొఫెసర్|ప్రొ\.|శ్రీ|మిస్టర్|జనరల్|లెఫ్టినెంట్|జస్టిస్)\s+(?:బి|సి|డి)\.\s+"
+)
 MERGED_OPT_PAT = re.compile(
-    r"(?:.+?\s+(?:బి|సి|డి)\.\s+.+?\s+(?:సి|డి)\.\s+|.+?\s+[B-D]\.\s+.+?\s+[C-D]\.\s+)"
+    r"(?:[\u0c00-\u0c7f]{2,}\s+(?:బి|సి|డి)\.\s+[\u0c00-\u0c7fA-Za-z]|.{6,}\s+[B-D]\.\s+.{3,})"
 )
 OCR_GARBLE_HINTS = [
     "భార్తదేశ్",
@@ -35,6 +39,40 @@ OCR_GARBLE_HINTS = [
     "బరలడ",
     "జటల్",
     "యొక్ ",
+    "డనిిస",
+    "ఫాలి్ంగ్",
+    "వెరర్ముతు",
+    "కానూార్",
+    "వార్ణ",
+    "లకోి",
+    "పరయాగాి",
+    "ఆసా్ర్",
+    "హాయమ్స",
+    "సినిర్",
+    "భార్త్తయ",
+    "బమంగ్",
+    "షాహ్లన",
+    "ఆర్యన ",
+    "ఎరిగెై",
+    "ఆంటోనెలి",
+    "లెకు",
+    "రాఫల్",
+    "కారలుస",
+    "అల్రాజ్",
+    "హ్ిజ్కత",
+    "మదవదేవ్",
+    "సికత్ం",
+    "అసా్ం",
+    "ఫారన్",
+    "సాయిన",
+    "బంగళూర్ు",
+    "గలర్ఖపూర్",
+    "గలవా ",
+    "గలవా.",
+    "డ క్ర్",
+    "పరర ఫస్ర్",
+    "ఆసే్లి",
+    "బంగాు",
 ]
 
 
@@ -90,10 +128,16 @@ def validate_file(filepath: str) -> dict:
             if m:
                 issues.append(f"Q{qn} ({field_name}): Draft note leak ({m.group(0)!r}): {txt[:100]}")
 
-        # 4. Merged options / OCR garble in Telugu
+        # 4. Merged options / OCR garble / unparenthesized English leaks in Telugu
         for oi, ot in enumerate(opts_te):
-            if MERGED_OPT_PAT.search(ot):
+            cleaned_honorific = HONORIFIC_BEFORE_INITIAL_RE.sub("", ot)
+            if MERGED_OPT_PAT.search(cleaned_honorific):
                 issues.append(f"Q{qn} options_te[{oi}]: Merged option text: {ot[:80]}")
+            no_parens = re.sub(r"\([^)]*\)", "", ot)
+            if re.search(r"[\u0c00-\u0c7f]", no_parens) and re.search(
+                r"[A-Za-z]{2,}\s+[A-Za-z]{2,}\s+[A-Za-z]{2,}", no_parens
+            ):
+                issues.append(f"Q{qn} options_te[{oi}]: Unparenthesized English leak in Telugu: {ot[:80]}")
         for garble in OCR_GARBLE_HINTS:
             if garble in q_te or any(garble in o for o in opts_te) or garble in exp_te:
                 issues.append(f"Q{qn}: Telugu OCR garble ({garble!r}) detected")

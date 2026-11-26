@@ -280,7 +280,7 @@
         "108 కి.మీ/గం"
       ],
       "correct_option": 3,
-      "explanation_en": "Distance sound travels in (12 - 11 = 1) minute = Distance car travels in 11 minutes.\nSpeed_car * 11 = Speed_sound * 1 => Speed_car = 330 * (1/11) = 30 m/s.\nConvert to km/h: 30 * (18/5) = 108 km/h. Wait: 30 * 18 / 5 = 6 * 18 = 108 km/h! Let's check option 0: 108 km/h.",
+      "explanation_en": "Distance sound travels in (12 - 11 = 1) minute equals distance the car travels in 11 minutes. Speed_car * 11 = 330 * 1 => Speed_car = 30 m/s = 30 * (18/5) = 108 km/h.",
       "explanation_te": "ధ్వని 1 నిమిషంలో ప్రయాణించే దూరం = కారు 11 నిమిషాల్లో ప్రయాణించే దూరం. కారు వేగం = 330 * (1/11) = 30 మీ/సె = 108 కి.మీ/గం."
     },
     {
@@ -579,7 +579,7 @@
         "3 కి.మీ/గం"
       ],
       "correct_option": 2,
-      "explanation_en": "Let downstream speed be D and upstream speed be U.\n32/D + 14/U = 6 and 40/D + 21/U = 8.\nNotice HCF of (32, 40) is 8 => Test D = 8: 32/8 = 4 => 14/U = 2 => U = 7.\nCheck second eq: 40/8 + 21/7 = 5 + 3 = 8! Perfect.\nSpeed of stream = (D - U) / 2 = (8 - 7) / 2 = 0.5? Wait: if D = 10? 40/10=4, 21/U=4 => U=5.25. If D=8, stream is 0.5. If D=12, U=6? Let's check: 32/8 + 14/7 = 4 + 2 = 6. 40/8 + 21/7 = 5 + 3 = 8. Downstream D = 8, Upstream U = 7. Stream = (8 - 7)/2 = 0.5. Let's adjust numbers for clean integer: 36 km downstream & 24 km upstream in 6 hrs; 48 downstream & 40 upstream in 9 hrs => D = 12, U = 8 => Boat = 10, Stream = (12-8)/2 = 2 km/h!",
+      "explanation_en": "Let downstream speed be D and upstream speed be U. 36/D + 24/U = 6 and 48/D + 40/U = 9. Solving gives D = 12 km/h and U = 8 km/h. Speed of stream = (D - U)/2 = (12 - 8)/2 = 2 km/h.",
       "explanation_te": "D = 12 కి.మీ/గం, U = 8 కి.మీ/గం అయినప్పుడు ప్రవాహ వేగం = (12 - 8) / 2 = 2 కి.మీ/గం."
     },
     {
@@ -3025,23 +3025,23 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Ratios - Proportional Split Across 4 Parts",
       "difficulty": "Medium",
-      "question_en": "A reward of Rs. 3,400 is divided among four police personnel P, Q, R, and S such that P's share / Q's share = Q's share / R's share = R's share / S's share = 2/3. What is the share received by P?",
-      "question_te": "రూ. 3,400 రివార్డును నలుగురు పోలీస్ సిబ్బంది P, Q, R మరియు S లకు P వాటా / Q వాటా = Q వాటా / R వాటా = R వాటా / S వాటా = 2/3 అయ్యేలా పంచారు. P పొందిన వాటా ఎంత?",
+      "question_en": "A reward of Rs. 3,250 is divided among four police personnel P, Q, R, and S such that P's share / Q's share = Q's share / R's share = R's share / S's share = 2/3. What is the share received by P?",
+      "question_te": "రూ. 3,250 రివార్డును నలుగురు పోలీస్ సిబ్బంది P, Q, R మరియు S లకు P వాటా / Q వాటా = Q వాటా / R వాటా = R వాటా / S వాటా = 2/3 అయ్యేలా పంచారు. P పొందిన వాటా ఎంత?",
       "options_en": [
         "Rs. 360",
         "Rs. 480",
         "Rs. 240",
-        "Rs. 320"
+        "Rs. 400"
       ],
       "options_te": [
         "రూ. 360",
         "రూ. 480",
         "రూ. 240",
-        "రూ. 320"
+        "రూ. 400"
       ],
       "correct_option": 3,
-      "explanation_en": "P : Q = 2 : 3; Q : R = 2 : 3; R : S = 2 : 3\nCombined ratio P : Q : R : S = 2^3 : (2^2 * 3) : (2 * 3^2) : 3^3 = 8 : 12 : 18 : 27\nSum of ratio terms = 8 + 12 + 18 + 27 = 65 parts.\nWait: 3400 / 65 is not integer. Let's check: 8 + 12 + 18 + 27 = 65. If sum is Rs. 3,250 or 6500: 3250 / 65 = 50 => P = 8 * 50 = 400. Or let ratio be 1/2: P:Q = Q:R = R:S = 1:2 => 1:2:4:8 sum = 15. If sum = 3000 => 200.\nLet's keep P:Q:R:S = 8:12:18:27 and make total reward = Rs. 3,250: P = (8/65)*3250 = 8 * 50 = Rs. 400. Let's use total = Rs. 6,500 => P = Rs. 800.",
-      "explanation_te": "ఉమ్మడి నిష్పత్తి P : Q : R : S = 8 : 12 : 18 : 27 (మొత్తం = 65 భాగాలు)."
+      "explanation_en": "P : Q = Q : R = R : S = 2 : 3. Combining gives P : Q : R : S = 8 : 12 : 18 : 27. Total parts = 8 + 12 + 18 + 27 = 65. P's share = (8 / 65) * 3250 = 8 * 50 = Rs. 400.",
+      "explanation_te": "సరైన సమాధానం: రూ. 400. (ఉమ్మడి నిష్పత్తి P : Q : R : S = 8 : 12 : 18 : 27, మొత్తం = 65 భాగాలు. P వాటా = (8 / 65) * 3250 = రూ. 400.)"
     },
     {
       "id": 133,
@@ -3393,8 +3393,8 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Partnership - Mid-Year Capital Changes",
       "difficulty": "Hard",
-      "question_en": "A starts a venture with an investment of Rs. 50,000. After 4 months, B joins with Rs. 60,000, while A withdraws Rs. 10,000 from his capital. At the end of the year, the total profit earned is Rs. 88,000. What is A's share of the profit?",
-      "question_te": "A రూ. 50,000 పెట్టుబడితో ఒక వ్యాపారాన్ని ప్రారంభించాడు. 4 నెలల తర్వాత B రూ. 60,000 తో చేరగా, A తన పెట్టుబడి నుండి రూ. 10,000 ఉపసంహరించుకున్నాడు. సంవత్సరాంతంలో మొత్తం లాభం రూ. 88,000 అయితే, A వాటా ఎంత?",
+      "question_en": "A starts a venture with an investment of Rs. 50,000. After 4 months, B joins with Rs. 60,000, while A withdraws Rs. 15,000 from his capital. At the end of the year, the total profit earned is Rs. 88,000. What is A's share of the profit?",
+      "question_te": "A రూ. 50,000 పెట్టుబడితో ఒక వ్యాపారాన్ని ప్రారంభించాడు. 4 నెలల తర్వాత B రూ. 60,000 తో చేరగా, A తన పెట్టుబడి నుండి రూ. 15,000 ఉపసంహరించుకున్నాడు. సంవత్సరాంతంలో మొత్తం లాభం రూ. 88,000 అయితే, A వాటా ఎంత?",
       "options_en": [
         "Rs. 42,000",
         "Rs. 40,000",
@@ -3408,8 +3408,8 @@
         "రూ. 44,000"
       ],
       "correct_option": 3,
-      "explanation_en": "A's equivalent capital = (50,000 * 4) + (40,000 * 8) = 200,000 + 320,000 = Rs. 520,000.\nB's equivalent capital = 60,000 * 8 = Rs. 480,000.\nRatio of A : B = 520,000 : 480,000 = 52 : 48 = 13 : 12 (Total = 25 parts)? Wait: 88,000 / 25 is not integer.\nLet's check: If A withdraws Rs. 15,000 => (50,000*4) + (35,000*8) = 200,000 + 280,000 = 480,000. Then A:B = 480,000 : 480,000 = 1 : 1!\nThen each gets 88,000 / 2 = Rs. 44,000! Let's update question to: A withdraws Rs. 15,000 from his capital.",
-      "explanation_te": "A పెట్టుబడి = (50,000 * 4) + (35,000 * 8) = 4,80,000.\nB పెట్టుబడి = 60,000 * 8 = 4,80,000.\nనిష్పత్తి = 1 : 1. A వాటా = 88,000 / 2 = రూ. 44,000."
+      "explanation_en": "A's equivalent monthly capital = (50,000 * 4) + (35,000 * 8) = 200,000 + 280,000 = Rs. 480,000. B's equivalent capital = 60,000 * 8 = Rs. 480,000. Ratio A : B = 1 : 1. A's share = 88,000 / 2 = Rs. 44,000.",
+      "explanation_te": "A పెట్టుబడి = (50,000 * 4) + (35,000 * 8) = 4,80,000. B పెట్టుబడి = 60,000 * 8 = 4,80,000. నిష్పత్తి = 1 : 1. కాబట్టి A వాటా = 88,000 / 2 = రూ. 44,000."
     },
     {
       "id": 149,
@@ -4520,23 +4520,23 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Clocks - Losing Clock Set Right",
       "difficulty": "Hard",
-      "question_en": "A clock loses 16 minutes in 24 hours. It was set right at 12 noon on Monday. What is the true time when the clock indicates 1:00 PM on the following Friday?",
-      "question_te": "ఒక గడియారం ప్రతి 24 గంటలకు 16 నిమిషాలు వెనుకబడుతుంది. సోమవారం మధ్యాహ్నం 12 గంటలకు దానిని సరిచేశారు. ఆ తర్వాత వచ్చే శుక్రవారం మధ్యాహ్నం 1:00 గంటను ఆ గడియారం చూపినప్పుడు అసలు సరైన సమయం ఎంత?",
+      "question_en": "A defective clock loses 16 minutes in 24 hours. It was set right at 12 noon on Monday. What is the true time when the clock indicates 5:00 AM on the following Friday?",
+      "question_te": "ఒక లోపభూయిష్ట గడియారం ప్రతి 24 గంటలకు 16 నిమిషాలు వెనుకబడుతుంది. సోమవారం మధ్యాహ్నం 12 గంటలకు దానిని సరిచేశారు. ఆ తర్వాత వచ్చే శుక్రవారం ఉదయం 5:00 గంటలను ఆ గడియారం చూపినప్పుడు అసలు సరైన సమయం ఎంత?",
       "options_en": [
-        "2:15 PM on Friday",
-        "1:48 PM on Friday",
-        "2:00 PM on Friday",
-        "1:30 PM on Friday"
+        "5:45 AM on Friday",
+        "6:00 AM on Friday",
+        "6:15 AM on Friday",
+        "5:30 AM on Friday"
       ],
       "options_te": [
-        "శుక్రవారం మధ్యాహ్నం 2:15",
-        "శుక్రవారం మధ్యాహ్నం 1:48",
-        "శుక్రవారం మధ్యాహ్నం 2:00",
-        "శుక్రవారం మధ్యాహ్నం 1:30"
+        "శుక్రవారం ఉదయం 5:45",
+        "శుక్రవారం ఉదయం 6:00",
+        "శుక్రవారం ఉదయం 6:15",
+        "శుక్రవారం ఉదయం 5:30"
       ],
-      "correct_option": 2,
-      "explanation_en": "Defective clock runs (24 hours - 16 mins) = 23 hrs 44 mins = 356/15 hours in 24 true hours.\nRatio of True Time / Defective Time = 24 / (356/15) = (24 * 15) / 356 = 90 / 89.\nTotal defective time from Mon 12 noon to Fri 1 PM = 4 days + 1 hr = 97 hours? Wait: Mon 12 to Fri 12 = 96 hrs + 1 = 97 hrs. 97 is not divisible by 89.\nLet's adjust numbers to make clean standard problem: Clock loses 15 minutes in 24 hours. Mon 12 noon to Wed ... Or: Clock loses 2 minutes per hour. 90/89 is standard when clock loses 16 min in 24 hrs and reaches 1 PM on 4th day... wait, 89 hours defective = 90 hours true. If elapsed time is 89 hours defective (Fri 5 AM), then true is Fri 6 AM.\nLet's use clean numbers: Clock gains 20 minutes in 24 hours. Set right at 7 AM. At 9 PM next day, it indicates 9 PM: (true = 8 PM).",
-      "explanation_te": "సమస్య సాధన: లోపభూయిష్ట కాలం మరియు అసలు కాలాల నిష్పత్తి ద్వారా లెక్కించబడుతుంది."
+      "correct_option": 1,
+      "explanation_en": "Defective clock covers 23 hrs 44 mins (356/15 hrs) for every 24 true hours, so True / Defective = 24 / (356/15) = 90 / 89. Elapsed defective time from Monday 12:00 noon to Friday 5:00 AM = 89 hours. True elapsed time = (90 / 89) * 89 = 90 hours, which is 6:00 AM on Friday.",
+      "explanation_te": "సరైన సమాధానం: శుక్రవారం ఉదయం 6:00. (లోపభూయిష్ట గడియారం 89 గంటలు = అసలు సమయం 90 గంటలు. సోమవారం మధ్యాహ్నం 12 నుండి 90 గంటలు అనగా శుక్రవారం ఉదయం 6:00 అవుతుంది.)"
     },
     {
       "id": 198,
@@ -4718,9 +4718,9 @@
         "1:15",
         "2:45"
       ],
-      "correct_option": 2,
-      "explanation_en": "Formula for Water Image: Subtract from 18:30 (or 17:90 if minutes > 30).\nHere minutes = 15 <= 30:\nWater image time = 18:30 - 4:15 = 14:15 = 2:15 or 1:15 depending on hour roundoff (standard answer: 18:30 - 4:15 = 14:15 = 2:15, or 1:15 with hour hand adjustment. Standard: 18:30 - 4:15 = 14:15 -> 1:15 / 2:15). Let's make options: [1:15, 2:45, 1:45, 2:30].",
-      "explanation_te": "నీటి ప్రతిబింబం = 18:30 - 4:15 = 1:15."
+      "correct_option": 0,
+      "explanation_en": "Water image formula: Subtract the given time from 18:30 (when minutes <= 30). 18:30 - 4:15 = 14:15 = 2:15.",
+      "explanation_te": "సరైన సమాధానం: 2:15. (గడియారపు నీటి ప్రతిబింబ సూత్రం: 18:30 - 4:15 = 14:15 = 2:15.)"
     },
     {
       "id": 206,
@@ -5881,19 +5881,19 @@
       "question_te": "ఎనిమిది మంది పోలీస్ అధికారులు A, B, C, D, E, F, G మరియు H ఒక వృత్తాకార బ్రీఫింగ్ టేబుల్ చుట్టూ కేంద్రాభిముఖంగా కూర్చున్నారు. C, A కి ఎడమవైపు మూడవ స్థానంలో మరియు E కి కుడివైపు రెండవ స్థానంలో ఉన్నాడు. B, C కి కుడివైపు రెండవ స్థానంలో ఉన్నాడు. D, A లేదా C లకు పొరుగున లేడు. F, D కి కుడివైపు రెండవ స్థానంలో ఉన్నాడు. G, C కి పొరుగున లేడు. H కి ఎదురుగా కూర్చున్నది ఎవరు?",
       "options_en": [
         "E",
-        "A",
+        "D",
         "B",
         "C"
       ],
       "options_te": [
         "E",
-        "A",
+        "D",
         "B",
         "C"
       ],
-      "correct_option": 3,
-      "explanation_en": "Positions around table (1 to 8 clockwise):\nPlace A at Pos 1. C is 3rd left of A => Pos 6.\nC is 2nd right of E => E is at Pos 4.\nB is 2nd right of C => B is at Pos 8.\nD cannot be neighbour of A (Pos 2, 8) or C (Pos 5, 7) => D is at Pos 3.\nF is 2nd right of D => F is at Pos 5.\nG cannot be neighbour of C (Pos 7) => G is at Pos 2.\nRemaining Pos 7 must be H.\nOpposite to H (Pos 7) is Pos 3? Wait: In an 8-person circle, opposite of Pos k is k + 4 mod 8.\nOpposite of Pos 7 is 7 - 4 = Pos 3 (D) or Pos 6 (C)?\nLet's check: Pos 1 opposite Pos 5; Pos 2 opp Pos 6; Pos 3 opp Pos 7; Pos 4 opp Pos 8.\nIf H is at Pos 2: opposite is Pos 6 (C)!",
-      "explanation_te": "వృత్తాకార అమరికను విశ్లేషించగా, H కి సరిగ్గా ఎదురుగా కూర్చున్న అధికారి C."
+      "correct_option": 1,
+      "explanation_en": "Placing officers counter-clockwise around positions 1 to 8 facing centre: A=1, C=6 (3rd left of A), E=4 (since C is 2nd right of E), B=8 (2nd right of C). D cannot sit next to A (2,8) or C (5,7), so D=3. F=5 (2nd right of D), G=2 (not next to C), leaving H=7. Position 7 (H) is directly opposite Position 3 (D).",
+      "explanation_te": "సరైన సమాధానం: D. (కూర్చున్న క్రమం ప్రకారం 1:A, 2:G, 3:D, 4:E, 5:F, 6:C, 7:H, 8:B. కాబట్టి H (7) కి ఎదురుగా D (3) ఉంటాడు.)"
     },
     {
       "id": 257,
@@ -5983,9 +5983,9 @@
         "S",
         "Q"
       ],
-      "correct_option": 3,
-      "explanation_en": "Positions 7 (top) to 1 (bottom):\nPos 1 = T (bottom-most).\nQ is immediately above U => Q, U are contiguous.\nArrangement from top: 7:Q, 6:U, 5:R, 4:P, 3:V, 2:S, 1:T? Wait, P (4) and S (2) have 1 box between them.\nLet's check: 7:R, 6:P, 5:Q, 4:U, 3:S, 2:V, 1:T. Here P(6) and S(3) have 2 boxes (Q, U) between them! And V is immediately below S (Pos 2), T at bottom (Pos 1). Q is immediately above U (5 and 4). R is immediately above P (7 and 6).\nTop-most box is R! Let's check options: [R, Q, S, P].",
-      "explanation_te": "అమరిక: 7:R, 6:P, 5:Q, 4:U, 3:S, 2:V, 1:T.\nP మరియు S ల మధ్య రెండు పెట్టెలు (Q, U) ఉన్నాయి. అత్యంత పై స్థానంలో ఉన్న పెట్టె R."
+      "correct_option": 1,
+      "explanation_en": "Order from top (7) to bottom (1): 7:R, 6:P, 5:Q, 4:U, 3:S, 2:V, 1:T. Here R is immediately above P; Q and U sit between P and S; V is immediately below S; T is at the bottom. Therefore, Box R is at the top-most position.",
+      "explanation_te": "సరైన సమాధానం: R. (పై నుండి కిందకు అమరిక: 7:R, 6:P, 5:Q, 4:U, 3:S, 2:V, 1:T. కాబట్టి అన్నింటికంటే పైన R పెట్టె ఉంటుంది.)"
     },
     {
       "id": 261,
@@ -6340,19 +6340,19 @@
       "question_en": "In a military cipher code, if 'PATROL' is coded as 'KZGILM', how will 'POLICE' be coded in that same system?",
       "question_te": "ఒక సైనిక సంకేత భాషలో 'PATROL' ను 'KZGILM' గా కోడ్ చేస్తే, అదే విధానంలో 'POLICE' ను ఎలా కోడ్ చేస్తారు?",
       "options_en": [
-        "KSPRZW",
+        "KLORXV",
         "KQRNXV",
         "LROPYV",
         "KRORXV"
       ],
       "options_te": [
-        "KSPRZW",
+        "KLORXV",
         "KQRNXV",
         "LROPYV",
         "KRORXV"
       ],
-      "correct_option": 3,
-      "explanation_en": "Each letter is replaced by its opposite letter in the alphabet (Sum of positional values = 27):\nP(16) -> K(11) [16+11=27]\nA(1) -> Z(26)\nT(20) -> G(7)\nR(18) -> I(9)\nO(15) -> L(12)\nL(12) -> O(15)\nFor POLICE:\nP(16) -> K\nO(15) -> L... wait, P->K, O->L, L->O, I->R, C->X, E->V => KLORXV!\nWait, option 0 has KRORXV vs KLORXV: let's verify: P(K), O(L), L(O), I(R), C(X), E(V) = KLORXV.\nLet's make option 0: KLORXV.",
+      "correct_option": 0,
+      "explanation_en": "Each letter is replaced by its opposite alphabetical letter (sum of positions = 27): P->K, O->L, L->O, I->R, C->X, E->V. Hence POLICE is coded as KLORXV.",
       "explanation_te": "వ్యతిరేక అక్షరాల కోడింగ్ (మొత్తం = 27): P->K, O->L, L->O, I->R, C->X, E->V. కోడ్ = KLORXV."
     },
     {
@@ -6406,8 +6406,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Coding-Decoding - Number Coding Sum",
       "difficulty": "Medium",
-      "question_en": "If 'COP' = 38 and 'DSP' = 40, what will be the code for 'SI'?",
-      "question_te": "'COP' = 38 మరియు 'DSP' = 40 అయితే, 'SI' యొక్క సంఖ్యా కోడ్ ఎంత?",
+      "question_en": "If 'COP' = 34 and 'DSP' = 39, what will be the code for 'SI'?",
+      "question_te": "'COP' = 34 మరియు 'DSP' = 39 అయితే, 'SI' యొక్క సంఖ్యా కోడ్ ఎంత?",
       "options_en": [
         "28",
         "29",
@@ -6421,7 +6421,7 @@
         "30"
       ],
       "correct_option": 0,
-      "explanation_en": "Sum of alphabetical positional values:\nCOP = C(3) + O(15) + P(16) = 34? Wait: 34 + 4 (letters + 1)? Or let's check: C(3) + O(15) + P(16) = 34.\nIf DSP = D(4) + S(19) + P(16) = 39.\nIf COP = 34 and DSP = 39, then SI = S(19) + I(9) = 28.\nLet's set: If COP = 34 and DSP = 39, what is the code for SI? Answer = 19 + 9 = 28.",
+      "explanation_en": "Sum of alphabetical positional values: C(3) + O(15) + P(16) = 34, and D(4) + S(19) + P(16) = 39. Therefore, SI = S(19) + I(9) = 28.",
       "explanation_te": "అక్షరాల స్థాన విలువల మొత్తం: S(19) + I(9) = 28."
     },
     {
@@ -6429,23 +6429,23 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Coding-Decoding - Vowel Consonant Alternation",
       "difficulty": "Hard",
-      "question_en": "In a special code, vowels are replaced by their immediate next vowel (A->E, E->I, I->O, O->U, U->A) and consonants are replaced by their immediate predecessor consonant in the alphabet. How is 'PRISON' coded?",
-      "question_te": "ఒక ప్రత్యేక కోడ్‌లో అచ్చులను వాటి తర్వాతి అచ్చుతోను (A->E, E->I, I->O, O->U, U->A), హల్లులను వాటి మునుపటి హల్లుతోను మార్చారు. 'PRISON' అనే పదం ఎలా కోడ్ చేయబడుతుంది?",
+      "question_en": "In a special code, vowels are replaced by their immediate next vowel (A->E, E->I, I->O, O->U, U->A) and consonants are replaced by the immediate next letter in the alphabet (+1). How is 'PRISON' coded?",
+      "question_te": "ఒక ప్రత్యేక కోడ్‌లో అచ్చులను వాటి తర్వాతి అచ్చుతోను (A->E, E->I, I->O, O->U, U->A), హల్లులను వాటి తర్వాతి అక్షరంతోను (+1) మార్చారు. 'PRISON' అనే పదం ఎలా కోడ్ చేయబడుతుంది?",
       "options_en": [
         "OPPTON",
-        "OPOUON",
+        "QSOTUP",
         "NPOUNM",
         "OQOUOM"
       ],
       "options_te": [
         "OPPTON",
-        "OPOUON",
+        "QSOTUP",
         "NPOUNM",
         "OQOUOM"
       ],
-      "correct_option": 3,
-      "explanation_en": "P (consonant) -> predecessor is O (wait, O is vowel, previous consonant is N). If previous letter in alphabet:\nP - 1 = O\nR - 1 = Q\nI (vowel) -> next vowel O\nS - 1 = R\nO (vowel) -> next vowel U\nN - 1 = M\nResult = OQORUM? Let's check: P->O, R->Q, I->O, S->R, O->U, N->M => OQORUM.\nLet's use clean rule: +1 for consonant, next vowel for vowel: P->Q, R->S, I->O, S->T, O->U, N->P => QSOTUP.",
-      "explanation_te": "నిబంధన ప్రకారం అక్షరాల మార్పు ద్వారా సాధించబడుతుంది."
+      "correct_option": 1,
+      "explanation_en": "Consonants (+1) and vowels (next vowel): P(+1)=Q, R(+1)=S, I->O, S(+1)=T, O->U, N(+1)=P => QSOTUP.",
+      "explanation_te": "సరైన సమాధానం: QSOTUP. (హల్లులకు +1 మరియు అచ్చులకు తర్వాతి అచ్చు వేయగా: P->Q, R->S, I->O, S->T, O->U, N->P => QSOTUP.)"
     },
     {
       "id": 281,
@@ -6544,8 +6544,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Coding-Decoding - Cross Letter Shift",
       "difficulty": "Medium",
-      "question_en": "If 'BEAT' is coded as 'GIDF', what is the pattern and how will 'SOUP' be coded?",
-      "question_te": "'BEAT' ను 'GIDF' గా కోడ్ చేస్తే, అదే విధానంలో 'SOUP' ను ఎలా కోడ్ చేస్తారు?",
+      "question_en": "If 'BEAT' is coded as 'GJFY', what is the pattern and how will 'SOUP' be coded?",
+      "question_te": "'BEAT' ను 'GJFY' గా కోడ్ చేస్తే, అదే విధానంలో 'SOUP' ను ఎలా కోడ్ చేస్తారు?",
       "options_en": [
         "WTYU",
         "XTYU",
@@ -6559,7 +6559,7 @@
         "XSYU"
       ],
       "correct_option": 2,
-      "explanation_en": "Pattern is +5 for each letter:\nB(2) + 5 = G(7)\nE(5) + 4? Wait: B->G (+5), E->I (+4), A->D (+3), T->F (+? T is 20, F is 6: -14 or +12?)\nLet's check standard +5: B+5=G, E+5=J, A+5=F, T+5=Y.\nIf +2, +3, +4, +5: B+2=D, E+3=H, A+4=E, T+5=Y.\nIf SOUP with +5: S(19)+5=X(24), O(15)+5=T(20), U(21)+5=Z(26), P(16)+5=U(21) => XTZU! Beautiful clean logic (+5 each).",
+      "explanation_en": "Each letter is shifted forward by +5: B(+5)=G, E(+5)=J, A(+5)=F, T(+5)=Y => GJFY. Applying +5 to SOUP: S(19)+5=X, O(15)+5=T, U(21)+5=Z, P(16)+5=U => XTZU.",
       "explanation_te": "ప్రతి అక్షరానికి +5 కలపబడింది: S(+5)->X, O(+5)->T, U(+5)->Z, P(+5)->U => XTZU."
     },
     {
@@ -6613,8 +6613,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Coding-Decoding - Reverse String and Shift",
       "difficulty": "Medium",
-      "question_en": "If 'LEAD' is written as 'EBEM', how is 'GOLD' written in that same cipher code?",
-      "question_te": "'LEAD' ను 'EBEM' గా రాస్తే, అదే కోడ్‌లో 'GOLD' ను ఎలా రాస్తారు?",
+      "question_en": "If 'LEAD' is written as 'EBFM', how is 'GOLD' written in that same cipher code?",
+      "question_te": "'LEAD' ను 'EBFM' గా రాస్తే, అదే కోడ్‌లో 'GOLD' ను ఎలా రాస్తారు?",
       "options_en": [
         "EOPH",
         "EPOH",
@@ -6628,7 +6628,7 @@
         "EMPH"
       ],
       "correct_option": 3,
-      "explanation_en": "Reverse the word LEAD -> DAEL, then add +1 to each letter:\nD + 1 = E\nA + 1 = B\nE + 1 = F (here E+1? If D+1=E, A+1=B, E+0=E, L+1=M).\nLet's check: Reverse GOLD -> DLOG.\nD + 1 = E\nL + 1 = M\nO + 1 = P\nG + 1 = H\nCode = EMPH. Simple, clean, elegant!",
+      "explanation_en": "Reverse the word LEAD -> DAEL, then add +1 to each letter: D+1=E, A+1=B, E+1=F, L+1=M => EBFM. Applying the same rule to GOLD: Reverse -> DLOG; add +1 to each letter -> EMPH.",
       "explanation_te": "పదాన్ని తిరగేసి (Reverse), ప్రతి అక్షరానికి +1 కలపడం: GOLD -> DLOG -> (+1) => EMPH."
     },
     {
@@ -6650,8 +6650,8 @@
         "3 స్టెప్పులు",
         "5 స్టెప్పులు"
       ],
-      "correct_option": 2,
-      "explanation_en": "Input: 45 12 78 34 89\nStep 1: 12 45 78 34 89 (12 moved to front)\nStep 2: 12 34 45 78 89 (34 moved to position 2)\nNow check the sequence: 12, 34, 45, 78, 89. It is already fully sorted in ascending order!\nWait, in Step 2: 12 34 45 78 89 is already fully sorted! So it took only 2 steps!\nWait, if 34 moved: 12, 34, 45, 78, 89. That's 2 steps. Let's make options: [2 steps, 3 steps, 4 steps, 5 steps] and correct_option = 0.",
+      "correct_option": 0,
+      "explanation_en": "Input: 45 12 78 34 89. Step 1: 12 45 78 34 89 (12 moved left). Step 2: 12 34 45 78 89 (34 moved left). The sequence is now completely sorted in ascending order in 2 steps.",
       "explanation_te": "ఇన్‌పుట్: 45 12 78 34 89.\nస్టెప్ 1: 12 45 78 34 89\nస్టెప్ 2: 12 34 45 78 89 (పూర్తిగా అమర్చబడింది). మొత్తం 2 స్టెప్పులు."
     },
     {
@@ -6696,8 +6696,8 @@
         "G",
         "S"
       ],
-      "correct_option": 0,
-      "explanation_en": "Original word: I(1) N(2) V(3) E(4) S(5) T(6) I(7) G(8) A(9) T(10) I(11) O(12) N(13).\nPairs interchanged:\n(1,2): N I\n(3,4): E V\n(5,6): T S\n(7,8): G I\nThe 7th letter is G! Wait: pair (7,8) is 'I G'. When interchanged, it becomes 'G I'.\nSo 7th letter is G, and 8th letter is I!\nTherefore, 7th letter is G. Let's make options: [G, I, T, S].",
+      "correct_option": 2,
+      "explanation_en": "Word: I N V E S T I G A T I O N. Interchanging adjacent pairs: (1,2)->NI, (3,4)->EV, (5,6)->TS, (7,8)->GI. Hence, the 7th letter from the left is G.",
       "explanation_te": "జతలు: (I N)->N I, (V E)->E V, (S T)->T S, (I G)->G I. 7వ అక్షరం G."
     },
     {
@@ -6843,8 +6843,8 @@
       "section": "Mental Ability & Logical Reasoning",
       "topic": "Direction Sense - Shortest Distance Pythagoras",
       "difficulty": "Medium",
-      "question_en": "A patrol vehicle drives 12 km North from a police station, then turns right and drives 9 km, and finally turns right and drives 4 km. How far and in which direction is the vehicle from the police station?",
-      "question_te": "ఒక పెట్రోలింగ్ వాహనం పోలీస్ స్టేషన్ నుండి ఉత్తరం వైపు 12 కి.మీ ప్రయాణించి, కుడివైపు తిరిగి 9 కి.మీ, చివరగా కుడివైపు తిరిగి 4 కి.మీ ప్రయాణించింది. ఆ వాహనం పోలీస్ స్టేషన్ నుండి ఎంత దూరంలో మరియు ఏ దిశలో ఉంది?",
+      "question_en": "A patrol vehicle drives 12 km North from a police station, then turns right and drives 8 km, and finally turns right and drives 6 km South. How far and in which direction is the vehicle from the police station?",
+      "question_te": "ఒక పెట్రోలింగ్ వాహనం పోలీస్ స్టేషన్ నుండి ఉత్తరం వైపు 12 కి.మీ ప్రయాణించి, కుడివైపు తిరిగి 8 కి.మీ, చివరగా కుడివైపు తిరిగి 6 కి.మీ దక్షిణం వైపు ప్రయాణించింది. ఆ వాహనం పోలీస్ స్టేషన్ నుండి ఎంత దూరంలో మరియు ఏ దిశలో ఉంది?",
       "options_en": [
         "12 km, North-East",
         "10 km, North-East",
@@ -6858,7 +6858,7 @@
         "15 కి.మీ, ఉత్తరం"
       ],
       "correct_option": 1,
-      "explanation_en": "Net North displacement = 12 - 4 = 8 km North.\nNet East displacement = 9 km East.\nShortest Distance = sqrt(8^2 + 9^2)? Wait: 8^2 + 9^2 = 64 + 81 = 145.\nWait! Let's check numbers: If patrol vehicle drives 12 km North, turns right and drives 9 km... wait, if 12 km North, right and 8 km East, then right and 6 km South: Net North = 12 - 6 = 6 km, Net East = 8 km => sqrt(6^2 + 8^2) = 10 km!\nOr: 16 km North, right and 12 km East, right and 7 km South => Net North = 9 km, Net East = 12 km => sqrt(9^2 + 12^2) = 15 km.\nLet's use 10 km: Patrol vehicle drives 12 km North, turns right and drives 8 km, turns right and drives 6 km South.\nNet displacement: 6 km North, 8 km East. Distance = sqrt(6^2 + 8^2) = 10 km North-East.",
+      "explanation_en": "Net North displacement = 12 - 6 = 6 km North. Net East displacement = 8 km East. Shortest distance = sqrt(6^2 + 8^2) = sqrt(36 + 64) = 10 km, North-East.",
       "explanation_te": "నికర స్థానభ్రంశం = 6 కి.మీ ఉత్తరం, 8 కి.మీ తూర్పు.\nకనిష్ట దూరం = sqrt(6^2 + 8^2) = 10 కి.మీ, ఈశాన్యం (North-East)."
     },
     {
@@ -7110,8 +7110,8 @@
         "తూర్పు",
         "ఉత్తరం"
       ],
-      "correct_option": 2,
-      "explanation_en": "S faces North => S sits at the South side of table.\nOpposite to S is Q, who sits at the North side facing South? Wait:\nS is facing North. Since P is opposite R, S must be opposite Q!\nIf S sits on South side facing North, Q must sit on North side facing South, or if S is at bottom...\nWait, if Q sits to the right of P: Let P face East, then P's right is South (Q). Then S is North facing South? Let's check:\nP opposite R; Q opposite S.\nIf S is facing North => S sits at the South edge of the table.\nIf S sits at South edge facing North, Q sits at North edge facing South? Wait: if Q is to the right of P, P must be facing West (right of West is North) => S is at North? But S is facing North, so S is at South edge.\nP faces East => right of P is South => Q is at South? But Q faces table centre (faces North). Then Q faces North!\nLet's verify: If S faces North, and P sits at West facing East, then right of P is South => Q sits at South facing North! Then S is at North facing South.\nTo make Q face East: P sits at South facing North (right of P is East => Q sits at East facing West). S sits at West facing East. Then Q is facing West or East.\nLet's set: If S is facing North, Q is opposite S and faces South.",
+      "correct_option": 0,
+      "explanation_en": "Around the square table facing centre, P is opposite R, so S must sit opposite Q. Since S faces North, Q sits directly opposite S and faces South.",
       "explanation_te": "S మరియు Q లు పరస్పరం ఎదురెదురుగా ఉంటారు. S ఉత్తరం వైపు చూస్తుంటే, Q దక్షిణం వైపు చూస్తున్నాడు."
     },
     {

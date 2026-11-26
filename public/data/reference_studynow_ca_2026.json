@@ -24,49 +24,49 @@
     "id": 2,
     "page": 2,
     "question_en": "Who Became The First Fast Bowler To Take 200 IPL Wickets?",
-    "question_te": "IPLలో 200 వికెటు ల త్తసిన మొదటి ఫాస్ బౌలర్ ఎవర్ు?",
+    "question_te": "IPLలో 200 వికెట్లు తీసిన మొదటి ఫాస్ట్ బౌలర్ ఎవరు?",
     "options_en": [
-      "Bhuvneshwar Kumar",
-      "Jasprit Bumrah",
       "Mohammed Shami",
+      "Jasprit Bumrah",
+      "Bhuvneshwar Kumar",
       "Umesh Yadav"
     ],
     "options_te": [
+      "మహమ్మద్ షమీ",
+      "జస్‌ప్రీత్ బుమ్రా",
       "భువనేశ్వర్ కుమార్",
-      "జస్రీత్ బుమా",
-      "మహమమద్ ష్టమీ",
       "ఉమేష్ యాదవ్"
     ],
-    "correct_option": 0,
+    "correct_option": 2,
     "explanation_en": "Correct Answer: Bhuvneshwar Kumar",
-    "explanation_te": "సరైన సమాధానం: భువనేశ్వర్ కుమార్."
+    "explanation_te": "సరైన సమాధానం: భువనేశ్వర్ కుమార్. (ఐపీఎల్ చరిత్రలో 200 వికెట్లు పడగొట్టిన మొట్టమొదటి ఫాస్ట్ బౌలర్‌గా భువనేశ్వర్ కుమార్ నిలిచారు.)"
   },
   {
     "id": 3,
     "page": 3,
     "question_en": "Who Became The First Quadruple Amputee To Win An International Gold In Para Archery?",
-    "question_te": "పారా ఆర్చరీలో అంతరాత్తయ స్వర్ా పతకం సాధించన మొదటి 'కావడ్రపుల్ యాంపుటీ' (న లుగు అవయవాలు లేని వయకతీ) ఎవర్ు?",
+    "question_te": "పారా ఆర్చరీలో అంతర్జాతీయ స్వర్ణ పతకం సాధించిన మొదటి 'క్వాడ్రపుల్ యాంపుటీ' (నాలుగు అవయవాలు లేని క్రీడాకారిణి) ఎవరు?",
     "options_en": [
-      "Payal Nag",
+      "Avani Lekhara",
       "Sheetal Devi",
       "Deepa Malik",
-      "Avani Lekhara"
+      "Payal Nag"
     ],
     "options_te": [
-      "పాయల్ న గ్",
+      "అవని లేఖరా",
       "శీతల్ దేవి",
       "దీపా మాలిక్",
-      "అవని లేఖరా Series in Bangkok"
+      "పాయల్ నాగ్"
     ],
-    "correct_option": 0,
+    "correct_option": 3,
     "explanation_en": "Payal Nag : Indian para archer from Odisha Won : Gold medal — at World Archery Para Beating — Sheetal Devi",
-    "explanation_te": "సరైన సమాధానం: పాయల్ న గ్. (Payal Nag : Indian para archer from Odisha Won : Gold medal — at World Archery Para Beating — Sheetal Devi)"
+    "explanation_te": "సరైన సమాధానం: పాయల్ నాగ్. (ఒడిశాకు చెందిన పారా ఆర్చర్ పాయల్ నాగ్ వరల్డ్ ఆర్చరీ పారా సిరీస్‌లో శీతల్ దేవిని ఓడించి స్వర్ణ పతకం గెలుచుకున్నారు.)"
   },
   {
     "id": 4,
     "page": 4,
     "question_en": "How Many Total Medals Did India Win At The 2026 Asian Wrestling Championships?",
-    "question_te": "2026 ఆసియా రెజ్ుంగ్ ఛ ంపియనషిపలలో భార్త్ మొతీం ఎనిి పతకాలను గెలుచుకుంది?",
+    "question_te": "2026 ఆసియా రెజ్లింగ్ ఛాంపియన్‌షిప్‌లో భారత్ మొత్తం ఎన్ని పతకాలను గెలుచుకుంది?",
     "options_en": [
       "17",
       "14",
@@ -81,139 +81,139 @@
     ],
     "correct_option": 0,
     "explanation_en": "Held In — Bishkek, Kyrgyzstan Medal Table A. 17 1. Iran (6G + 6S + 6B) B. 14 2. Japan 3. China C. 21 ➢ India Won 17 Medals (5th Rank) : D. 10 2 Gold | 7 Silver | 8 Bronze 1. Sujeet Kalkal — Gold In 65kg Freestyle 2. Abhimanyou Mandwal — Gold In 70kg Freestyle",
-    "explanation_te": "సరైన సమాధానం: 17. (Held In — Bishkek, Kyrgyzstan Medal Table A. 17 1. Iran (6G + 6S + 6B) B. 14 2. Japan 3. China C. 21 ➢ India Won 17 Medals (5th Rank) : D. 10 2 Gold | 7 Silver | 8 Bronze 1. Sujeet Kalkal — Gold In 65kg Freestyle 2. Abhimanyou Mandwal — Gold In 70kg Freestyle)"
+    "explanation_te": "సరైన సమాధానం: 17. (కిర్గిస్తాన్‌లోని బిష్కెక్‌లో జరిగిన 2026 ఆసియా రెజ్లింగ్ ఛాంపియన్‌షిప్‌లో భారత్ 2 స్వర్ణం, 7 రజతం, 8 కాంస్యంతో సహా మొత్తం 17 పతకాలు గెలుచుకుంది.)"
   },
   {
     "id": 5,
     "page": 5,
     "question_en": "Who Scored The Fastest Century In T20 World Cup History (2026)?",
-    "question_te": "T20 పరపంచ కప చరితల ర ో (2026) అతయంత వేగవంతమైన సంచరీని ఎవర్ు సాధించ ర్ు?",
+    "question_te": "2026 T20 ప్రపంచ కప్ చరిత్రలో అత్యంత వేగవంతమైన సెంచరీని ఎవరు సాధించారు?",
     "options_en": [
       "Glen Maxwell",
-      "Jos Buttler",
       "Finn Allen",
+      "Jos Buttler",
       "Virat Kohli"
     ],
     "options_te": [
-      "గెున మాక్్వెల్",
-      "జోస బటుర్",
-      "ఫిన అలెన",
-      "విరాట్ కోహ్లు"
+      "గ్లెన్ మాక్స్‌వెల్",
+      "ఫిన్ అలెన్",
+      "జోస్ బట్లర్",
+      "విరాట్ కోహ్లీ"
     ],
-    "correct_option": 2,
+    "correct_option": 1,
     "explanation_en": "Finn Allen : New Zealand Cricketer 100 Runs In 33 Balls — Against South Africa",
-    "explanation_te": "సరైన సమాధానం: ఫిన అలెన. (Finn Allen : New Zealand Cricketer 100 Runs In 33 Balls — Against South Africa)"
+    "explanation_te": "సరైన సమాధానం: ఫిన్ అలెన్. (న్యూజిలాండ్ క్రికెటర్ ఫిన్ అలెన్ దక్షిణాఫ్రికాపై కేవలం 33 బంతుల్లో సెంచరీ బాది T20 ప్రపంచ కప్ రికార్డు సృష్టించాడు.)"
   },
   {
     "id": 6,
     "page": 6,
     "question_en": "Who Won Men’s Singles At All England Open 2026?",
-    "question_te": "ఆల్ ఇంగాుండ్ ఓపన 2026లో పుర్ుష్టుల సింగిల్్ విజేత ఎవర్ు?",
+    "question_te": "ఆల్ ఇంగ్లాండ్ ఓపెన్ బ్యాడ్మింటన్ 2026లో పురుషుల సింగిల్స్ విజేత ఎవరు?",
     "options_en": [
-      "Lin Chun-yi",
-      "Viktor Axelsen",
       "Lee Zii Jia",
+      "Viktor Axelsen",
+      "Lin Chun-yi",
       "Lakshya Sen"
     ],
     "options_te": [
-      "లిన చున-యి",
-      "విక్ర్ అకె్లె్న",
-      "లీ జీ జ్యా",
-      "లక్ష్య సేన"
+      "లీ జీ జియా",
+      "విక్టర్ అక్సెల్సెన్",
+      "లిన్ చున్-యి",
+      "లక్ష్య సేన్"
     ],
-    "correct_option": 0,
+    "correct_option": 2,
     "explanation_en": "All England Open 2026 (Badminton) Men’s Singles : Lin Chun-yi (China) Defeated : Lakshya Sen (India) Women's singles : Wang Zhiyi (China)",
-    "explanation_te": "సరైన సమాధానం: లిన చున-యి. (All England Open 2026 (Badminton) Men’s Singles : Lin Chun-yi (China) Defeated : Lakshya Sen (India) Women's singles : Wang Zhiyi (China))"
+    "explanation_te": "సరైన సమాధానం: లిన్ చున్-యి. (ఆల్ ఇంగ్లాండ్ ఓపెన్ 2026 ఫైనల్‌లో భారత ఆటగాడు లక్ష్య సేన్‌ను ఓడించి లిన్ చున్-యి టైటిల్ గెలుచుకున్నాడు.)"
   },
   {
     "id": 7,
     "page": 7,
     "question_en": "Which Country Won The ICC Under-19 Men’s Cricket World Cup 2026?",
-    "question_te": "2026 ICC అండ్ర్-19 పుర్ుష్టుల కతికెట్ పరపంచ కపను ఏ దేశ్ం గెలుచుకుంది?",
+    "question_te": "2026 ICC అండర్-19 పురుషుల క్రికెట్ ప్రపంచ కప్‌ను ఏ దేశం గెలుచుకుంది?",
     "options_en": [
-      "India",
+      "Srilanka",
       "England",
       "Australia",
-      "Srilanka"
+      "India"
     ],
     "options_te": [
-      "భార్తదేశ్ం",
-      "ఇంగాుండ్",
-      "ఆసే్లి యా ర",
-      "శీిలంక"
+      "శ్రీలంక",
+      "ఇంగ్లాండ్",
+      "ఆస్ట్రేలియా",
+      "భారతదేశం"
     ],
-    "correct_option": 0,
+    "correct_option": 3,
     "explanation_en": "2026 Under-19 Men's Cricket World Cup Hosts : Zimbabwe & Namibia Champions : INDIA(6th title) Runners-up : England Player of the series : Vaibhav Sooryavanshi (India)",
-    "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (2026 Under-19 Men's Cricket World Cup Hosts : Zimbabwe & Namibia Champions : INDIA(6th title) Runners-up : England Player of the series : Vaibhav Sooryavanshi (India))"
+    "explanation_te": "సరైన సమాధానం: భారతదేశం. (జింబాబ్వే మరియు నమీబియా ఆతిథ్యం ఇచ్చిన 2026 అండర్-19 ప్రపంచ కప్ ఫైనల్‌లో ఇంగ్లాండ్‌ను ఓడించి భారత్ రికార్డు స్థాయిలో 6వ టైటిల్ గెలుచుకుంది.)"
   },
   {
     "id": 8,
     "page": 8,
     "question_en": "Who Won The Chinese Grand Prix 2026?",
-    "question_te": "2026 చరనీస గాిండ్ పిరక్్ను ఎవర్ు గెలుచుకున ిర్ు?",
+    "question_te": "2026 చైనీస్ గ్రాండ్ ప్రిక్స్ (Chinese Grand Prix 2026) ను ఎవరు గెలుచుకున్నారు?",
     "options_en": [
       "Max Verstappen",
-      "Lewis Hamilton",
       "Andrea Kimi Antonelli",
+      "Lewis Hamilton",
       "Charles Leclerc"
     ],
     "options_te": [
-      "మాక్్ వెరాటాపన బి. లూయిస హామిల్న సి. ఆండిరయా కతమి ఆంటోనెలిు డి. చ రెుస లెకు ెర్్",
-      "Lewis Hamilton",
-      "Andrea Kimi Antonelli",
-      "Charles Leclerc"
+      "మాక్స్ వెర్స్టాపెన్",
+      "ఆండ్రియా కిమి ఆంటోనెల్లి",
+      "లూయిస్ హామిల్టన్",
+      "చార్లెస్ లెక్లెర్క్"
     ],
-    "correct_option": 2,
-    "explanation_en": "Andrea Kimi Antonelli (19 Year Old) : 2 nd Youngest Winners In Formula 1 History Belongs To — Italy",
-    "explanation_te": "సరైన సమాధానం: Andrea Kimi Antonelli. (Andrea Kimi Antonelli (19 Year Old) : 2 nd Youngest Winners In Formula 1 History Belongs To — Italy)"
+    "correct_option": 1,
+    "explanation_en": "19-year-old Andrea Kimi Antonelli (Italy) won the 2026 Chinese Grand Prix, becoming the second-youngest race winner in Formula 1 history.",
+    "explanation_te": "సరైన సమాధానం: ఆండ్రియా కిమి ఆంటోనెల్లి. (ఇటలీకి చెందిన 19 ఏళ్ల ఆండ్రియా కిమి ఆంటోనెల్లి 2026 చైనీస్ గ్రాండ్ ప్రిక్స్‌ను గెలుచుకుని ఫార్ములా 1 చరిత్రలో రెండవ అత్యంత పిన్న వయస్కుడైన విజేతగా నిలిచారు.)"
   },
   {
     "id": 9,
     "page": 9,
     "question_en": "Who Won The Singles Title At Delhi Open 2026?",
-    "question_te": "ఢిలీు ఓపన 2026లో సింగిల్్ ట్రటిల్ను ఎవర్ు గెలుచుకున ిర్ు?",
+    "question_te": "ఢిల్లీ ఓపెన్ 2026 టెన్నిస్ టోర్నీలో సింగిల్స్ టైటిల్‌ను ఎవరు గెలుచుకున్నారు?",
     "options_en": [
-      "Stefanos Sakellaridis",
-      "Oliver Crawford",
       "Jay Clarke",
+      "Oliver Crawford",
+      "Stefanos Sakellaridis",
       "Rei Sakamoto"
     ],
     "options_te": [
-      "స్ ఫానోస స్కెలు ారిడిస",
-      "ఆలివర్ కాిఫో ర్్",
-      "జే కాుర్్",
-      "రే స్కమోటో"
+      "జే క్లార్క్",
+      "ఆలివర్ క్రాఫోర్డ్",
+      "స్టెఫానోస్ సకెల్లారిడిస్",
+      "రే సకమోటో"
     ],
-    "correct_option": 0,
+    "correct_option": 2,
     "explanation_en": "Delhi Open 2026 : TennisTournament Singles Title : Stefanos Sakellaridis (Greece) Doubles Title : Siddhant Banthia (India) & Alexander Donski (Bulgaria)",
-    "explanation_te": "సరైన సమాధానం: స్ ఫానోస స్కెలు ారిడిస. (Delhi Open 2026 : TennisTournament Singles Title : Stefanos Sakellaridis (Greece) Doubles Title : Siddhant Banthia (India) & Alexander Donski (Bulgaria))"
+    "explanation_te": "సరైన సమాధానం: స్టెఫానోస్ సకెల్లారిడిస్. (ఢిల్లీ ఓపెన్ 2026 టెన్నిస్ టోర్నమెంట్ సింగిల్స్ టైటిల్‌ను గ్రీస్ ఆటగాడు స్టెఫానోస్ సకెల్లారిడిస్ గెలుచుకున్నాడు.)"
   },
   {
     "id": 10,
     "page": 10,
-    "question_en": "Which Country Won The Title Of ‘2026 ICC Men’s T20 World Cup?",
-    "question_te": "2026 ICC పుర్ుష్టుల T20 పరపంచ కప ట్రటిల్ను ఏ దేశ్ం గెలుచుకుంది?",
+    "question_en": "Which Country Won The Title Of ‘2026 ICC Men’s T20 World Cup’?",
+    "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్ టైటిల్‌ను ఏ దేశం గెలుచుకుంది?",
     "options_en": [
       "Australia",
-      "India",
+      "Bangladesh",
       "S Africa",
-      "Bangladesh"
+      "India"
     ],
     "options_te": [
-      "ఆసే్లి ర యా",
-      "భార్తదేశ్ం",
-      "దక్షిణ ఫిరకా",
-      "బంగాుదేశ్"
+      "ఆస్ట్రేలియా",
+      "బంగ్లాదేశ్",
+      "దక్షిణాఫ్రికా",
+      "భారతదేశం"
     ],
-    "correct_option": 1,
-    "explanation_en": "2026 ICC Men’s T20 World Cup Champions : INDIA(3 rd title) Runners-up : New Zealand Edition : 10th Total Teams : 20 Teams Host Countries : India And Sri Lanka Administrator : International Cricket Council (ICC) Final Match : Narendra Modi Stadium, Ahmedabad, Gujarat",
-    "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (2026 ICC Men’s T20 World Cup Champions : INDIA(3 rd title) Runners-up : New Zealand Edition : 10th Total Teams : 20 Teams Host Countries : India And Sri Lanka Administrator : International Cricket Council (ICC) Final Match : Narendra Modi Stadium, Ahmedabad, Gujarat)"
+    "correct_option": 3,
+    "explanation_en": "India won the 10th edition of the 2026 ICC Men's T20 World Cup (their 3rd title), defeating New Zealand in the final at Narendra Modi Stadium, Ahmedabad.",
+    "explanation_te": "సరైన సమాధానం: భారతదేశం. (అహ్మదాబాద్‌లోని నరేంద్ర మోదీ స్టేడియంలో జరిగిన 2026 ICC పురుషుల T20 ప్రపంచ కప్ ఫైనల్‌లో న్యూజిలాండ్‌ను ఓడించి భారతదేశం తమ 3వ టైటిల్‌ను గెలుచుకుంది.)"
   },
   {
     "id": 11,
     "page": 11,
     "question_en": "Who Was Named Player Of The Series In The 2026 ICC Men’s T20 World Cup?",
-    "question_te": "2026 ICC పుర్ుష్టుల T20 పరపంచ కపలో 'పేుయర్ ఆఫ్ ది సిరీస'గా ఎవర్ు ఎంపికయాయర్ు?",
+    "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో 'ప్లేయర్ ఆఫ్ ది సిరీస్'గా ఎవరు ఎంపికయ్యారు?",
     "options_en": [
       "Virat Kohli",
       "Sanju Samson",
@@ -221,14 +221,14 @@
       "Joe Root"
     ],
     "options_te": [
-      "విరాట్ కోహ్లు",
-      "స్ంజు శాంస్న",
-      "స్ూర్యకుమార్ యాదవ్",
-      "జో ర్ూట్"
+      "విరాట్ కోహ్లీ",
+      "సంజు శాంసన్",
+      "సూర్యకుమార్ యాదవ్",
+      "జో రూట్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Virat Kohli",
-    "explanation_te": "సరైన సమాధానం: విరాట్ కోహ్లు."
+    "correct_option": 1,
+    "explanation_en": "Sanju Samson was named Player of the Series (Tournament) in the 2026 ICC Men’s T20 World Cup after scoring 321 runs in 5 innings (avg 80.25), including twin 89s in the semi-final and final.",
+    "explanation_te": "సరైన సమాధానం: సంజు శాంసన్. (2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో 5 ఇన్నింగ్స్‌లలో 321 పరుగులు చేసి, సెమీ-ఫైనల్ మరియు ఫైనల్‌లో 89 పరుగులతో మెరిసిన సంజు శాంసన్ ప్లేయర్ ఆఫ్ ది టోర్నమెంట్‌గా ఎంపికయ్యారు.)"
   },
   {
     "id": 12,
@@ -237,17 +237,17 @@
     "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో అత్యధిక వికెట్లు తీసిన బౌలర్లు ఎవరు?",
     "options_en": [
       "Shaheen Afridi",
-      "Jasprit Bumrah & Varun Chakravarthy",
       "Trent Boult",
+      "Jasprit Bumrah & Varun Chakravarthy",
       "Adam Zampa"
     ],
     "options_te": [
       "షాహీన్ అఫ్రిది",
-      "జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి",
       "ట్రెంట్ బౌల్ట్",
+      "జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి",
       "ఆడమ్ జంపా"
     ],
-    "correct_option": 1,
+    "correct_option": 2,
     "explanation_en": "Most Wickets: Jasprit Bumrah and Varun Chakravarthy jointly took 14 wickets each in the tournament, leading the bowling charts. Most runs were scored by Sahibzada Farhan (PAK).",
     "explanation_te": "సరైన సమాధానం: జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి. (2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో జస్‌ప్రీత్ బుమ్రా మరియు వరుణ్ చక్రవర్తి చెరో 14 వికెట్లు తీసి సంయుక్తంగా అత్యధిక వికెట్ల వీరులుగా నిలిచారు.)"
   },
@@ -297,64 +297,64 @@
     "id": 15,
     "page": 15,
     "question_en": "Which Country Hosted 2026 Winter Olympics?",
-    "question_te": "2026 వింటర్ ఒలింపిక్్ను ఏ దేశ్ం నిర్వహ్ించంది?",
+    "question_te": "2026 వింటర్ ఒలింపిక్స్ క్రీడలను ఏ దేశం నిర్వహించింది?",
     "options_en": [
       "Japan",
       "France",
-      "Canada",
-      "Italy"
+      "Italy",
+      "Canada"
     ],
     "options_te": [
-      "జపాన",
-      "ఫారన్",
-      "కెనడ",
-      "ఇటలీ"
+      "జపాన్",
+      "ఫ్రాన్స్",
+      "ఇటలీ",
+      "కెనడా"
     ],
-    "correct_option": 3,
+    "correct_option": 2,
     "explanation_en": "2026 Winter Olympics o Host Cities : Milan & Cortina (Italy) Motto : IT's Your Vibe Total Sports : 8 New Sports Introduced : Ski Mountaineering India’s Participants : Arif Mohammad Khan (Alpine Skiing) & Stanzin Lundup",
-    "explanation_te": "సరైన సమాధానం: ఇటలీ. (2026 Winter Olympics o Host Cities : Milan & Cortina (Italy) Motto : IT's Your Vibe Total Sports : 8 New Sports Introduced : Ski Mountaineering India’s Participants : Arif Mohammad Khan (Alpine Skiing) & Stanzin Lundup)"
+    "explanation_te": "సరైన సమాధానం: ఇటలీ. (2026 వింటర్ ఒలింపిక్స్ క్రీడలు ఇటలీలోని మిలన్ మరియు కోర్టినా నగరాల్లో జరిగాయి.)"
   },
   {
     "id": 16,
     "page": 16,
-    "question_en": "Which Team Won The Title Of 79th ‘2025–26 Santosh Trophy’",
-    "question_te": "79వ '2025–26 స్ంతోష్ టోరఫ్' ట్రటిల్ను ఏ జటల్ గెలుచుకుంది?",
+    "question_en": "Which Team Won The Title Of 79th ‘2025–26 Santosh Trophy’?",
+    "question_te": "79వ '2025–26 సంతోష్ ట్రోఫీ' టైటిల్‌ను ఏ జట్టు గెలుచుకుంది?",
     "options_en": [
       "Meghalaya",
       "Uttrakhand",
-      "Services",
-      "West Bengal"
+      "West Bengal",
+      "Services"
     ],
     "options_te": [
       "మేఘాలయ",
-      "ఉతీరాఖండ్",
-      "స్రీవసస",
-      "పశ్చచమ బంగాల్"
+      "ఉత్తరాఖండ్",
+      "పశ్చిమ బెంగాల్",
+      "సర్వీసెస్"
     ],
-    "correct_option": 2,
+    "correct_option": 3,
     "explanation_en": "2025–26 Santosh Trophy” → Football Tournament • Final Held @ : Assam WINNERS • Champions : SERVICES (8th Title) • Runner Up : KERALA __________ • Best player (Top Goal Scorer) : Himanshu Jangra",
-    "explanation_te": "సరైన సమాధానం: స్రీవసస. (2025–26 Santosh Trophy” → Football Tournament • Final Held @ : Assam WINNERS • Champions : SERVICES (8th Title) • Runner Up : KERALA __________ • Best player (Top Goal Scorer) : Himanshu Jangra)"
+    "explanation_te": "సరైన సమాధానం: సర్వీసెస్. (అస్సాంలో జరిగిన 79వ సంతోష్ ట్రోఫీ ఫుట్‌బాల్ ఫైనల్‌లో కేరళను ఓడించి సర్వీసెస్ జట్టు 8వ సారి విజేతగా నిలిచింది.)"
   },
   {
     "id": 17,
     "page": 17,
     "question_en": "Which Team Won The Title Of 2026 Women’s Premier League?",
-    "question_te": "2026 మహ్ిళల ప్రమియర్ లీగ్ ట్రటిల్ను ఏ జటల్ గెలుచుకుంది?",
+    "question_te": "2026 మహిళల ప్రీమియర్ లీగ్ (WPL) టైటిల్‌ను ఏ జట్టు గెలుచుకుంది?",
     "options_en": [
-      "RCB",
       "Delhi Capitals",
+      "RCB",
       "Mumbai Indian",
       "RR"
     ],
     "options_te": [
-      "RCB",
-      "ఢిలీు కాయపిటల్్",
-      "ముంబర ఇండియన్",
-      "RR"
+      "ఢిల్లీ క్యాపిటల్స్",
+      "ఆర్‌సీబీ (RCB)",
+      "ముంబై ఇండియన్స్",
+      "రాజస్థాన్ రాయల్స్"
     ],
-    "correct_option": 0,
+    "correct_option": 1,
     "explanation_en": "A. RCB 2026 Women’s Premier League (WPL) ❖ Champions : Royal Challengers Bengaluru Runners-up : Delhi Capitals D. RR Player of the series : Sophie Devine (Gujarat Giants) Most runs : Smriti Mandhana",
-    "explanation_te": "సరైన సమాధానం: RCB. (A. RCB 2026 Women’s Premier League (WPL) ❖ Champions : Royal Challengers Bengaluru Runners-up : Delhi Capitals D. RR Player of the series : Sophie Devine (Gujarat Giants) Most runs : Smriti Mandhana)"
+    "explanation_te": "సరైన సమాధానం: ఆర్‌సీబీ (RCB). (2026 WPL ఫైనల్‌లో ఢిల్లీ క్యాపిటల్స్‌ను ఓడించి రాయల్ ఛాలెంజర్స్ బెంగళూరు ఛాంపియన్‌గా నిలిచింది.)"
   },
   {
     "id": 18,
@@ -384,17 +384,17 @@
     "question_te": "భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా ఎవరు నిలిచారు?",
     "options_en": [
       "Aaryan Varshney",
-      "R Praggnanandhaa",
       "Mayank Chakraborty",
+      "R Praggnanandhaa",
       "Arjun Erigaisi"
     ],
     "options_te": [
       "ఆర్యన్ వర్ష్ణే",
-      "ఆర్. ప్రజ్ఞానంద",
       "మయాంక్ చక్రవర్తి",
+      "ఆర్. ప్రజ్ఞానంద",
       "అర్జున్ ఎరిగైసి"
     ],
-    "correct_option": 2,
+    "correct_option": 1,
     "explanation_en": "Mayank Chakraborty became India's 94th Grandmaster, and the first-ever Grandmaster from Assam and the entire Northeastern region of India. (92nd GM: Aaryan Varshney; 93rd GM: Aarav Dengla).",
     "explanation_te": "సరైన సమాధానం: మయాంక్ చక్రవర్తి. (మయాంక్ చక్రవర్తి భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా నిలిచారు. అలాగే అస్సాం మరియు మొత్తం ఈశాన్య భారతదేశం నుండి తొలి గ్రాండ్‌మాస్టర్‌గా నిలిచారు.)"
   },
@@ -1263,22 +1263,22 @@
     "id": 61,
     "page": 61,
     "question_en": "Who Received The Prof. M.S. Swaminathan Award 2026?",
-    "question_te": "2026 పరర ఫస్ర్ ఎం.ఎస. సావమిన థన అవార్ు్ను ఎవర్ు అందుకున ిర్ు?",
+    "question_te": "2026 ప్రొఫెసర్ ఎం.ఎస్. స్వామినాథన్ అవార్డును ఎవరు అందుకున్నారు?",
     "options_en": [
-      "Dr. Ch. Srinivasa Rao",
+      "Ashok Gulati",
       "Rattan Lal",
       "M. S. Swaminathan",
-      "Ashok Gulati"
+      "Dr. Ch. Srinivasa Rao"
     ],
     "options_te": [
-      "డ క్ర్ సిహ్ెచ్. శీినివాస్ రావు Prestigious 9th Prof. M.S. Swaminathan",
-      "ర్తన లాల్",
-      "ఎం.ఎస. సావమిన థన",
-      "అశోక్ గులాటీ"
+      "అశోక్ గులాటీ",
+      "రతన్ లాల్",
+      "ఎం.ఎస్. స్వామినాథన్",
+      "డాక్టర్ సిహెచ్. శ్రీనివాసరావు"
     ],
-    "correct_option": 0,
+    "correct_option": 3,
     "explanation_en": "Award Given To — Dr. Ch. Srinivasa Rao MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024)",
-    "explanation_te": "సరైన సమాధానం: డ క్ర్ సిహ్ెచ్. శీినివాస్ రావు Prestigious 9th Prof. M.S. Swaminathan. (Award Given To — Dr. Ch. Srinivasa Rao MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024))"
+    "explanation_te": "సరైన సమాధానం: డాక్టర్ సిహెచ్. శ్రీనివాసరావు. (భారత హరిత విప్లవ పితామహుడు ఎం.ఎస్. స్వామినాథన్ పేరిట ఇచ్చే 2026 ప్రతిష్టాత్మక అవార్డును డాక్టర్ సిహెచ్. శ్రీనివాసరావు అందుకున్నారు.)"
   },
   {
     "id": 62,
@@ -1305,7 +1305,7 @@
     "id": 63,
     "page": 63,
     "question_en": "Who has been awarded with the “Abel Prize 2026”",
-    "question_te": "\"ఏబల్ పరైజ్ 2026\" ఎవర్ు పర ంద ర్ు",
+    "question_te": "\"ఏబెల్ ప్రైజ్ 2026\" (Abel Prize 2026) పురస్కారాన్ని ఎవరు పొందారు?",
     "options_en": [
       "Dennis P. Sullivan",
       "Gerd Faltings",
@@ -1313,41 +1313,41 @@
       "Masaki Kashiwara"
     ],
     "options_te": [
-      "డనిిస P. స్ులిువన బి. గెర్్ ఫాలి్ంగ్్",
-      "Gerd Faltings",
-      "లూయిస కాఫరెలిు",
-      "మసాకత కాశీవారా"
+      "డెన్నిస్ పి. సుల్లివన్",
+      "గెర్డ్ ఫాల్టింగ్స్",
+      "లూయిస్ కాఫరెల్లి",
+      "మసాకి కాశీవారా"
     ],
     "correct_option": 1,
     "explanation_en": "Abel Prize 2026 (Mathematics Award) • Winner : Gerd Faltings (German Mathematician) • Given By : The Norwegian Academy of Science and Letters",
-    "explanation_te": "సరైన సమాధానం: Gerd Faltings. (Abel Prize 2026 (Mathematics Award) • Winner : Gerd Faltings (German Mathematician) • Given By : The Norwegian Academy of Science and Letters)"
+    "explanation_te": "సరైన సమాధానం: గెర్డ్ ఫాల్టింగ్స్. (గణితశాస్త్ర నోబెల్‌గా పిలువబడే 2026 ఏబెల్ ప్రైజ్‌ను జర్మన్ గణిత శాస్త్రవేత్త గెర్డ్ ఫాల్టింగ్స్ గెలుచుకున్నారు.)"
   },
   {
     "id": 64,
     "page": 64,
     "question_en": "Who Has Been Awarded The 60th Jnanpith Award For 2025?",
-    "question_te": "2025లో 60వ జానప్ఠ్ అవార్ు్ ఎవరికత లభంచంది?",
+    "question_te": "2025 సంవత్సరానికి గాను 60వ జ్ఞానపీఠ అవార్డు ఎవరికి లభించింది?",
     "options_en": [
-      "R. Vairamuthu",
-      "Naresh Mehta",
       "Liladhar Mandloi",
+      "Naresh Mehta",
+      "R. Vairamuthu",
       "Nagarjun"
     ],
     "options_te": [
-      "ఆర్. వెరర్ముతు ీ బి. నరేష్ మహత సి.లీలాధర్ మాండలు య్ డి. న గార్ుాన",
-      "Naresh Mehta",
-      "Liladhar Mandloi",
-      "Nagarjun"
+      "లీలాధర్ మండలోయ్",
+      "నరేష్ మెహతా",
+      "ఆర్. వైరముత్తు",
+      "నాగార్జున్"
     ],
-    "correct_option": 0,
+    "correct_option": 2,
     "explanation_en": "Jnanpith Award : Oldest & Highest Indian Literary Award First Winner : 1965 → G. Sankara Kurup Cash Prize : ₹11 Lakhs 60th Jnanpith Award (2025) ➢ R. Vairamuthu — Tamil Poet & Lyricist • 59th Jnanpith Award (2024) — Vinod Kumar Shukla",
-    "explanation_te": "సరైన సమాధానం: ఆర్. వెరర్ముతు ీ బి. నరేష్ మహత సి.లీలాధర్ మాండలు య్ డి. న గార్ుాన. (Jnanpith Award : Oldest & Highest Indian Literary Award First Winner : 1965 → G. Sankara Kurup Cash Prize : ₹11 Lakhs 60th Jnanpith Award (2025) ➢ R. Vairamuthu — Tamil Poet & Lyricist • 59th Jnanpith Award (2024) — Vinod Kumar Shukla)"
+    "explanation_te": "సరైన సమాధానం: ఆర్. వైరముత్తు. (భారతదేశపు అత్యున్నత సాహిత్య పురస్కారమైన 60వ జ్ఞానపీఠ అవార్డు (2025) తమిళ కవి మరియు గీత రచయిత ఆర్. వైరముత్తుకు లభించింది.)"
   },
   {
     "id": 65,
     "page": 65,
     "question_en": "Who Won The Stockholm Water Prize 2026?",
-    "question_te": "సా్క్హో మ్స వాటర్ పరైజ్ 2026ను ఎవర్ు గెలుచుకున ిర్ు?",
+    "question_te": "స్టాక్‌హోమ్ వాటర్ ప్రైజ్ 2026ను ఎవరు గెలుచుకున్నారు?",
     "options_en": [
       "Günter Blöschl",
       "Roger Falconer",
@@ -1355,14 +1355,14 @@
       "Kaveh Madani"
     ],
     "options_te": [
-      "గుంటర్ బలు ష్ు",
-      "రలజర్ ఫాల్నర్",
-      "స్ునీత న రెైన",
-      "కావహ్ మద ని"
+      "గుంటర్ బ్లోష్ల్",
+      "రోజర్ ఫాల్కనర్",
+      "సునీతా నరైన్",
+      "కావేహ్ మదాని"
     ],
     "correct_option": 3,
     "explanation_en": "Stockholm Water Prize (Called Nobel Prize Of Water) o Estd. : 1991 o Awarded By : Stockholm Water Foundation ➢ 2026 Winner : Kaveh Madani → Iranian Scientist (Youngest Winner)",
-    "explanation_te": "సరైన సమాధానం: కావహ్ మద ని. (Stockholm Water Prize (Called Nobel Prize Of Water) o Estd. : 1991 o Awarded By : Stockholm Water Foundation ➢ 2026 Winner : Kaveh Madani → Iranian Scientist (Youngest Winner))"
+    "explanation_te": "సరైన సమాధానం: కావేహ్ మదాని. ('జల నోబెల్'గా పిలువబడే స్టాక్‌హోమ్ వాటర్ ప్రైజ్ 2026ను ఇరానియన్ శాస్త్రవేత్త కావేహ్ మదాని గెలుచుకున్నారు.)"
   },
   {
     "id": 66,
@@ -1556,23 +1556,23 @@
   {
     "id": 75,
     "page": 77,
-    "question_en": "Which State Police Has Been Awarded With The President’s Police Colour Award 2026? President’s Police Colour (Nishaan)",
-    "question_te": "ఏ రాష్ట్ర పో లీస్ులకు 'పరసిడంట్్ పో లీస కలర్ అవార్ు్ 2026' లభంచంది?",
+    "question_en": "Which State Police Has Been Awarded With The President’s Police Colour Award 2026?",
+    "question_te": "ఏ రాష్ట్ర పోలీసులకు 'ప్రెసిడెంట్స్ పోలీస్ కలర్ అవార్డు (నిషాన్) 2026' లభించింది?",
     "options_en": [
-      "Sikkim",
       "Assam",
+      "Sikkim",
       "Meghalaya",
       "Bihar"
     ],
     "options_te": [
-      "సికత్ం",
-      "అసా్ం",
+      "అస్సాం",
+      "సిక్కిం",
       "మేఘాలయ",
       "బీహార్"
     ],
-    "correct_option": 0,
-    "explanation_en": "is the highest ceremonial honor — granted to police forces",
-    "explanation_te": "సరైన సమాధానం: సికత్ం. (is the highest ceremonial honor — granted to police forces)"
+    "correct_option": 1,
+    "explanation_en": "The President’s Police Colour (Nishaan), the highest ceremonial honour granted to a state police force, was awarded to the Sikkim Police in 2026.",
+    "explanation_te": "సరైన సమాధానం: సిక్కిం. (పోలీస్ దళాలకు ఇచ్చే అత్యున్నత గౌరవమైన 'ప్రెసిడెంట్స్ పోలీస్ కలర్' అవార్డును 2026లో సిక్కిం పోలీసులకు ప్రదానం చేశారు.)"
   },
   {
     "id": 76,
@@ -1599,22 +1599,22 @@
     "id": 77,
     "page": 87,
     "question_en": "India’s First Fully Paperless District Court Has Been Inaugurated In Which State ?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి పూరిీగా కాగిత ర్హ్ిత జ్లాు కోర్ు్ ఏ రాష్ట్ంర లో పారర్ంభంచబడింది?",
+    "question_te": "భారతదేశపు మొట్టమొదటి పూర్తిగా కాగిత రహిత జిల్లా కోర్టు (Paperless District Court) ఏ రాష్ట్రంలో ప్రారంభించబడింది?",
     "options_en": [
       "Bihar",
       "Gujarat",
-      "Maharashtra",
-      "Kerala"
+      "Kerala",
+      "Maharashtra"
     ],
     "options_te": [
       "బీహార్",
       "గుజరాత్",
-      "మహారాష్ట్ర",
-      "కేర్ళ"
+      "కేరళ",
+      "మహారాష్ట్ర"
     ],
-    "correct_option": 3,
+    "correct_option": 2,
     "explanation_en": "Inaugurated by : Chief Justice of India — Surya Kant Where : Kalpetta, Wayanad district, Kerala",
-    "explanation_te": "సరైన సమాధానం: కేర్ళ. (Inaugurated by : Chief Justice of India — Surya Kant Where : Kalpetta, Wayanad district, Kerala)"
+    "explanation_te": "సరైన సమాధానం: కేరళ. (భారత ప్రధాన న్యాయమూర్తి జస్టిస్ సూర్యకాంత్ కేరళలోని వయనాడ్ జిల్లా కల్పెట్టాలో దేశంలోనే తొలి కాగిత రహిత జిల్లా కోర్టును ప్రారంభించారు.)"
   },
   {
     "id": 78,
@@ -1640,8 +1640,8 @@
   {
     "id": 79,
     "page": 89,
-    "question_en": "Which Country Became The First In Europe To Ban Social Media For Children Under 16?",
-    "question_te": "16 ఏళులోపు పిలులకు సో ష్టల్ మీడియాను నిషేధించన ఐరలపాలోని మొదటి దేశ్ం ఏది?",
+    "question_en": "Which Country Became The First In Europe To Pass A Law Banning Social Media For Children Under 15?",
+    "question_te": "ఐరోపాలో 15 ఏళ్లలోపు పిల్లలకు సోషల్ మీడియాను నిషేధించే చట్టాన్ని ఆమోదించిన మొదటి దేశం ఏది?",
     "options_en": [
       "France",
       "Germany",
@@ -1649,14 +1649,14 @@
       "Italy"
     ],
     "options_te": [
-      "ఫారన్",
+      "ఫ్రాన్స్",
       "జర్మనీ",
-      "సాయిన",
-      "ఇటలీ First Country In The World To Ban"
+      "స్పెయిన్",
+      "ఇటలీ"
     ],
     "correct_option": 0,
-    "explanation_en": "Social Media For Children — AUSTRALIA",
-    "explanation_te": "సరైన సమాధానం: ఫారన్. (Social Media For Children — AUSTRALIA)"
+    "explanation_en": "France became the first country in Europe (EU) to pass a statutory ban on social media for children under 15, following Australia's world-first under-16 ban.",
+    "explanation_te": "సరైన సమాధానం: ఫ్రాన్స్. (ఆస్ట్రేలియా తర్వాత ఐరోపాలో 15 ఏళ్లలోపు పిల్లలకు సోషల్ మీడియాను నిషేధించే చట్టాన్ని ఆమోదించిన మొదటి దేశంగా ఫ్రాన్స్ నిలిచింది.)"
   },
   {
     "id": 80,
@@ -1704,7 +1704,7 @@
     "id": 82,
     "page": 92,
     "question_en": "Which District Became The First In India To Achieve 100% Insurance Coverage?",
-    "question_te": "భార్తదేశ్ంలో 100% బీమా కవరేజీని సాధించన మొదటి జ్లాు ఏది?",
+    "question_te": "భారతదేశంలో 100% బీమా కవరేజీని సాధించిన మొదటి జిల్లా ఏది?",
     "options_en": [
       "Indore",
       "Jaipur",
@@ -1712,20 +1712,20 @@
       "Alwar"
     ],
     "options_te": [
-      "ఇండల ర్",
-      "జెరపూర్",
-      "స్ూర్త్",
-      "అలావర్"
+      "ఇండోర్",
+      "జైపూర్",
+      "సూరత్",
+      "అల్వార్"
     ],
     "correct_option": 3,
     "explanation_en": "Alwar District (Rajasthan) : 1st In India To Achieve 100% Insurance Coverage Under — ‘Insurance for All by 2047' roadmap",
-    "explanation_te": "సరైన సమాధానం: అలావర్. (Alwar District (Rajasthan) : 1st In India To Achieve 100% Insurance Coverage Under — ‘Insurance for All by 2047' roadmap)"
+    "explanation_te": "సరైన సమాధానం: అల్వార్. ('అందరికీ బీమా 2047' లక్ష్యంలో భాగంగా రాజస్థాన్‌లోని అల్వార్ జిల్లా దేశంలో 100% బీమా కవరేజీ సాధించిన తొలి జిల్లాగా నిలిచింది.)"
   },
   {
     "id": 83,
     "page": 93,
     "question_en": "India’s First Musical Road Was Launched In Which City?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి మమయజ్కల్ రలడ్ ఏ నగర్ంలో పారర్ంభంచబడింది?",
+    "question_te": "భారతదేశపు మొట్టమొదటి మ్యూజికల్ రోడ్ (Musical Road) ఏ నగరంలో ప్రారంభించబడింది?",
     "options_en": [
       "Mumbai",
       "Pune",
@@ -1733,20 +1733,20 @@
       "Ahmedabad"
     ],
     "options_te": [
-      "ముంబర",
+      "ముంబై",
       "పూణే",
-      "బంగళూర్ు",
-      "అహమద బాద్"
+      "బెంగళూరు",
+      "అహ్మదాబాద్"
     ],
     "correct_option": 0,
     "explanation_en": "Music Played: “Jai Ho” (from Slumdog Millionaire)",
-    "explanation_te": "సరైన సమాధానం: ముంబర. (Music Played: “Jai Ho” (from Slumdog Millionaire))"
+    "explanation_te": "సరైన సమాధానం: ముంబై. (ముంబై కోస్టల్ రోడ్డుపై వాహనాలు నిర్దిష్ట వేగంతో వెళ్ళినప్పుడు 'జై హో' గీతం వినిపించే దేశంలోనే తొలి మ్యూజికల్ రోడ్డును ప్రారంభించారు.)"
   },
   {
     "id": 84,
     "page": 94,
-    "question_en": "India’s First Namo Bharat Rapid Rail Transit System Connects Which Two Cities? India’s First Namo Bharat Rapid Rail Transit",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి 'నమో భార్త్' రాపిడ్ రెైల్ టారని్ట్ వయవస్ా ఏ రెండ్ు నగరాలను కలుపుతుంది?",
+    "question_en": "India’s First Namo Bharat Rapid Rail Transit System Connects Which Two Cities?",
+    "question_te": "భారతదేశపు మొట్టమొదటి 'నమో భారత్' రాపిడ్ రైల్ ట్రాన్సిట్ వ్యవస్థ ఏ రెండు నగరాలను కలుపుతుంది?",
     "options_en": [
       "Delhi – Jaipur",
       "Delhi – Meerut",
@@ -1754,14 +1754,14 @@
       "Delhi – Agra"
     ],
     "options_te": [
-      "ఢిలీు – జెరపూర్",
-      "ఢిలీు – మీర్ట్",
-      "ఢిలీు – చండీగఢ్",
-      "ఢిలీు – ఆగాి"
+      "ఢిల్లీ – జైపూర్",
+      "ఢిల్లీ – మీరట్",
+      "ఢిల్లీ – చండీగఢ్",
+      "ఢిల్లీ – ఆగ్రా"
     ],
     "correct_option": 1,
     "explanation_en": "System (RRTS) Inaugurated By : PM Narendra Modi Corridor Connects : Delhi – Meerut",
-    "explanation_te": "సరైన సమాధానం: ఢిలీు – మీర్ట్. (System (RRTS) Inaugurated By : PM Narendra Modi Corridor Connects : Delhi – Meerut)"
+    "explanation_te": "సరైన సమాధానం: ఢిల్లీ – మీరట్. (ప్రధానమంత్రి నరేంద్ర మోదీ ప్రారంభించిన భారతదేశపు తొలి నమో భారత్ రాపిడ్ రైల్ (RRTS) కారిడార్ ఢిల్లీ మరియు మీరట్‌లను కలుపుతుంది.)"
   },
   {
     "id": 85,
@@ -1787,23 +1787,23 @@
   {
     "id": 86,
     "page": 97,
-    "question_en": "Which Country Became The First In The World To Commercially Produce Bio-Bitumen?",
-    "question_te": "వాణిజయపర్ంగా బయో-బిటలమనను ఉతాత్రీ చేసిన పరపంచంలోనే మొదటి దేశ్ం ఏది?",
+    "question_en": "Which Country Became The First In Europe To Pass A Law Banning Social Media For Children Under 15?",
+    "question_te": "ఐరోపాలో 15 ఏళ్లలోపు పిల్లలకు సోషల్ మీడియాను నిషేధించే చట్టాన్ని ఆమోదించిన మొదటి దేశం ఏది?",
     "options_en": [
-      "China",
-      "Japan",
-      "India",
-      "France"
+      "France",
+      "Germany",
+      "Spain",
+      "Italy"
     ],
     "options_te": [
-      "చరన",
-      "జపాన",
-      "భార్తదేశ్ం",
-      "ఫారన్"
+      "ఫ్రాన్స్",
+      "జర్మనీ",
+      "స్పెయిన్",
+      "ఇటలీ"
     ],
-    "correct_option": 2,
-    "explanation_en": "Bio-bitumen : Obtained from → crop residue (Agriculture Waste) called Lignin India’s 1st Highway Using Bio-Bitumen : Inaugurated On → NH-44, Nagpur Maharashtra",
-    "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (Bio-bitumen : Obtained from → crop residue (Agriculture Waste) called Lignin India’s 1st Highway Using Bio-Bitumen : Inaugurated On → NH-44, Nagpur Maharashtra)"
+    "correct_option": 0,
+    "explanation_en": "France became the first country in Europe (EU) to pass a statutory ban on social media for children under 15, following Australia's world-first under-16 ban.",
+    "explanation_te": "సరైన సమాధానం: ఫ్రాన్స్. (ఆస్ట్రేలియా తర్వాత ఐరోపాలో 15 ఏళ్లలోపు పిల్లలకు సోషల్ మీడియాను నిషేధించే చట్టాన్ని ఆమోదించిన మొదటి దేశంగా ఫ్రాన్స్ నిలిచింది.)"
   },
   {
     "id": 87,
@@ -1893,7 +1893,7 @@
     "id": 91,
     "page": 102,
     "question_en": "Where Will India’s First Forest University Be Established?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి అటవీ విశ్వవిద యలయం ఎక్డ్ ఏరాాటల కానుంది?",
+    "question_te": "భారతదేశపు మొట్టమొదటి అటవీ విశ్వవిద్యాలయం (Forest University) ఎక్కడ ఏర్పాటు కానుంది?",
     "options_en": [
       "Jabalpur",
       "Dehradun",
@@ -1901,14 +1901,14 @@
       "Gorakhpur"
     ],
     "options_te": [
-      "జబల్పూర్",
-      "డహాాడ్ూన",
-      "షిలు ాంగ్",
-      "గలర్ఖపూర్"
+      "జబల్‌పూర్",
+      "డెహ్రాడూన్",
+      "షిల్లాంగ్",
+      "గోరఖ్‌పూర్"
     ],
     "correct_option": 3,
     "explanation_en": "Location : Gorakhpur, Uttar Pradesh",
-    "explanation_te": "సరైన సమాధానం: గలర్ఖపూర్. (Location : Gorakhpur, Uttar Pradesh)"
+    "explanation_te": "సరైన సమాధానం: గోరఖ్‌పూర్. (ఉత్తరప్రదేశ్‌లోని గోరఖ్‌పూర్‌లో భారతదేశపు మొట్టమొదటి అటవీ విశ్వవిద్యాలయాన్ని ఏర్పాటు చేయనున్నారు.)"
   },
   {
     "id": 92,

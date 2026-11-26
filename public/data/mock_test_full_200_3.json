@@ -112,9 +112,9 @@
         "18",
         "24"
       ],
-      "correct_option": 1,
-      "explanation_en": "Required number = HCF(148 - 4, 246 - 6, 623 - 11) = HCF(144, 240, 612). 144 = 16 * 9, 240 = 16 * 15, wait: HCF(144, 240) = 48. 612 / 48 = not integer. HCF(48, 612): 612 = 48 * 12 + 36; 48 = 36 * 1 + 12; HCF is 12? Wait: 144=12*12, 240=12*20, 612=12*51. Let's check 12: remainder must be less than divisor. But remainder for 623 is 11, which is < 12. Wait, 612/12=51. But 612 is not divisible by 16. So HCF is 12! Wait, let's fix options: if divisor is 12, remainders are valid.",
-      "explanation_te": "HCF(144, 240, 612) = 12. కావున గరిష్ట సంఖ్య 12."
+      "correct_option": 0,
+      "explanation_en": "Required greatest divisor = HCF(148 - 4, 246 - 6, 623 - 11) = HCF(144, 240, 612). Since 144 = 12 * 12, 240 = 12 * 20, and 612 = 12 * 51 (with gcd(12, 20, 51) = 1), HCF = 12.",
+      "explanation_te": "సరైన సమాధానం: 12. (HCF(144, 240, 612) = 12. కావున గరిష్ట సంఖ్య 12.)"
     },
     {
       "id": 6,

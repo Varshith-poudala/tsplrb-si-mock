@@ -7,18 +7,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the adjudication of Inter-State River Water Disputes under Article 262 of the Indian Constitution:\n1. Under Article 262(1), Parliament may by law provide for the adjudication of any dispute or complaint with respect to the use, distribution, or control of the waters of any inter-state river or river valley.\n2. Under Article 262(2) and Section 11 of the Inter-State River Water Disputes Act, 1956, Parliament has barred both the Supreme Court and all other courts from exercising jurisdiction in respect of any water dispute referred to a Tribunal.\n3. Although original jurisdiction under Article 131 is excluded, the Supreme Court has ruled that it retains the constitutional power to hear Special Leave Petitions under Article 136 against the final order or award of a water disputes tribunal.\nWhich of the statements given above are correct?",
         "question_te": "భారత రాజ్యాంగంలోని అధికరణ 262 ప్రకారం అంతర్-రాష్ట్ర నదీ జల వివాదాల పరిష్కార వ్యవస్థకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. ఆర్టికల్ 262(1) ప్రకారం ఏదైనా అంతర్-రాష్ట్ర నది లేదా నదీ లోయ జలాల వినియోగం, పంపిణీ లేదా నియంత్రణపై వివాదాల పరిష్కారం కోసం పార్లమెంటు చట్టం ద్వారా ప్రత్యేక నిబంధనలను రూపొందించవచ్చు.\n2. ఆర్టికల్ 262(2) మరియు అంతర్-రాష్ట్ర నదీ జల వివాదాల చట్టం 1956 లోని సెక్షన్ 11 ప్రకారం, ట్రిబ్యునల్‌కు నివేదించిన నదీ జల వివాదాలపై సుప్రీంకోర్టుతో సహా ఏ న్యాయస్థానానికీ అధికార పరిధి లేకుండా పార్లమెంటు నిషేధించింది.\n3. ఆర్టికల్ 131 కింద ప్రారంభ అధికార పరిధి వర్తించనప్పటికీ, ట్రిబ్యునల్ ఇచ్చిన తుది అవార్డు లేదా ఆదేశాలపై ఆర్టికల్ 136 ప్రకారం స్పెషల్ లీవ్ పిటిషన్లను (SLP) విచారించే రాజ్యాంగ అధికారాలు సుప్రీంకోర్టుకు ఉంటాయని అత్యున్నత న్యాయస్థానం స్పష్టం చేసింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. Article 262 empowers Parliament to legislate on inter-state river disputes and oust court jurisdiction. In pursuance, Parliament enacted the Inter-State River Water Disputes Act, 1956. Section 11 of the Act bars courts from entertaining suits. However, in the Cauvery Water Disputes Tribunal case, the Supreme Court held that its extraordinary appellate jurisdiction under Article 136 cannot be curtailed by statutory exclusion.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. రాజ్యాంగంలోని ఆర్టికల్ 262 ప్రకారం అంతర్-రాష్ట్ర నదీ జల వివాదాలపై ట్రిబ్యునళ్లను ఏర్పాటు చేసి, కోర్టుల పరిధిని మినహాయించే అధికారం పార్లమెంటుకు ఉంది. 1956 నాటి అంతర్-రాష్ట్ర నదీ జల వివాదాల చట్టంలోని సెక్షన్ 11 ప్రకారం కోర్టుల జోక్యం నిషేధించబడింది. అయినప్పటికీ కావేరి జల వివాదం కేసులో సుప్రీంకోర్టు తీర్పునిస్తూ, ఆర్టికల్ 136 కింద ఎస్‌ఎల్‌పీలను స్వీకరించే విశిష్ట న్యాయ సమీక్ష అధికారాన్ని ఏ చట్టమూ తీసివేయలేదని స్పష్టం చేసింది."
     },
@@ -54,17 +54,17 @@ mock11_gs = [
         "question_te": "భారత రాజ్యాంగంలోని అధికరణ 143 కింద సుప్రీంకోర్టుకు గల 'సలహా అధికార పరిధి'కి (Advisory Jurisdiction) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఆర్టికల్ 143(1) ప్రకారం ప్రజా ప్రాముఖ్యత కలిగిన ఏదైనా చట్టపరమైన లేదా వాస్తవికమైన ప్రశ్న తలెత్తినప్పుడు లేదా తలెత్తే అవకాశం ఉన్నప్పుడు భారత రాష్ట్రపతి దానిని సుప్రీంకోర్టు పరిశీలనకు పంపవచ్చు; న్యాయస్థానం విచారణ జరిపి తన అభిప్రాయాన్ని రాష్ట్రపతికి నివేదించవచ్చు.\n2. ఆర్టికల్ 143(1) కింద వచ్చే రెఫరెన్సులపై సుప్రీంకోర్టు తప్పనిసరిగా సలహా ఇవ్వాల్సిన అవసరం లేదు; న్యాయస్థానం తగిన కారణాలతో సమాధానం ఇవ్వడానికి నిరాకరించవచ్చు (ఉదాహరణకు: 1994 నాటి అయోధ్య రామజన్మభూమి-బాబ్రీ మసీదు ప్రత్యేక రెఫరెన్స్ కేసు).\n3. ఆర్టికల్ 143(2) ప్రకారం రాజ్యాంగం అమలులోకి రాకముందు కుదిరిన సంధులు, ఒప్పందాల వివాదాలకు సంబంధించి రాష్ట్రపతి రెఫరెన్స్ పంపినప్పుడు సుప్రీంకోర్టు తప్పనిసరిగా తన సలహాను ఇవ్వాల్సి ఉంటుంది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
             "1 and 2 only",
-            "2 and 3 only",
+            "1, 2, and 3",
             "1 and 3 only",
-            "1, 2, and 3"
+            "2 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "2 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. Article 143 governs the President's power to consult the Supreme Court. Under clause (1), the court possesses discretion to decline answering (established in the Ismail Faruqui / Ayodhya Reference 1994). Under clause (2), concerning pre-constitutional treaties excluded from Art 131, the court 'shall' report its opinion (mandatory). The advisory opinion is not a judicial decree or binding precedent, though possessing highest persuasive authority.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ఆర్టికల్ 143 ప్రకారం రాష్ట్రపతి సుప్రీంకోర్టు సలహాను కోరవచ్చు. ఆర్టికల్ 143(1) కింద న్యాయస్థానానికి సలహా ఇవ్వకుండా నిరాకరించే విచక్షణాధికారం ఉంది (1994 అయోధ్య కేసులో సుప్రీంకోర్టు సలహా ఇవ్వడానికి నిరాకరించింది). ఆర్టికల్ 143(2) కింద రాజ్యాంగ పూర్వ ఒప్పందాలపై మాత్రం న్యాయస్థానం తప్పనిసరిగా సలహా ఇవ్వాలి. ఈ సలహా రాష్ట్రపతిపై లేదా దిగువ కోర్టులపై బైండింగ్ కాదు, కానీ అత్యున్నత ప్రామాణికతను కలిగి ఉంటుంది."
     },
@@ -78,16 +78,16 @@ mock11_gs = [
         "options_en": [
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only",
-            "1, 2, and 3"
+            "1, 2, and 3",
+            "1 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. Part XIV-A was added by the 42nd Amendment in 1976. Under Art 323A, only Parliament can set up CAT and SATs. Under Art 323B, both Union and State legislatures can establish specialized tribunals within their legislative competence. In L. Chandra Kumar (1997), the Supreme Court invalidated Section 28 of the Administrative Tribunals Act 1985 and constitutional exclusion clauses, ruling that power of judicial review under Arts 226/227 is an inviolable basic structure feature.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1976 లో 42వ సవరణ ద్వారా ట్రిబ్యునళ్లను రాజ్యాంగంలో చేర్చారు. సర్వీస్ వివాదాలపై ఆర్టికల్ 323A కింద కేవలం పార్లమెంటు మాత్రమే చట్టం చేయగలదు; ఇతర అంశాలపై ఆర్టికల్ 323B కింద కేంద్ర, రాష్ట్రాలు రెండూ ట్రిబ్యునళ్లను ఏర్పాటు చేయవచ్చు. 1997 నాటి ఎల్. చంద్రకుమార్ కేసులో సుప్రీంకోర్టు తీర్పునిస్తూ హైకోర్టుల న్యాయ సమీక్షను అడ్డుకునే క్లాజులు చెల్లవని, న్యాయ సమీక్ష ప్రాథమిక స్వరూపమని తేల్చిచెప్పింది."
     },
@@ -122,18 +122,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the Ordinance-making powers of the President and Governors under the Indian Constitution:\n1. An ordinance promulgated under Article 123 (President) or Article 213 (Governor) automatically lapses at the expiration of six weeks from the reassembly of Parliament or State Legislature unless approved or disapproved earlier.\n2. In D.C. Wadhwa v. State of Bihar (1987), the Supreme Court ruled that repetitive re-promulgation of ordinances without placing them before the legislature is a colourable exercise of power and a fraud on the Constitution.\n3. In Krishna Kumar Singh v. State of Bihar (2017), a 7-judge Constitution Bench held that the requirement of placing ordinances before the legislature is mandatory, and the satisfaction of the executive under Articles 123/213 is subject to judicial review.\nWhich of the statements given above are correct?",
         "question_te": "భారత రాజ్యాంగం ప్రకారం రాష్ట్రపతి మరియు గవర్నర్ ఆర్డినెన్స్ జారీ అధికారాలకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. అధికరణ 123 (రాష్ట్రపతి) లేదా అధికరణ 213 (గవర్నర్) కింద జారీ చేసిన ఆర్డినెన్స్, శాసనసభ తిరిగి సమావేశమైన తేదీ నుండి 6 వారాల ముగింపుతో స్వయంచాలకంగా రద్దవుతుంది (ముందే ఆమోదం లేదా తిరస్కరణ పొందకపోతే).\n2. డి.సి. వాధ్వా వర్సెస్ బీహార్ రాష్ట్రం (1987) కేసులో శాసనసభ ఆమోదం లేకుండా పదే పదే ఆర్డినెన్స్‌లను పునరుద్ధరించడం రాజ్యాంగ మోసం మరియు అధికార దుర్వినియోగమని సుప్రీంకోర్టు స్పష్టం చేసింది.\n3. కృష్ణకుమార్ సింగ్ వర్సెస్ బీహార్ రాష్ట్రం (2017) కేసులో ఏడుగురు న్యాయమూర్తుల రాజ్యాంగ ధర్మాసనం ఆర్డినెన్స్‌ను శాసనసభ ముందు ఉంచడం తప్పనిసరి అని మరియు కార్యనిర్వాహక వర్గం యొక్క సంతృప్తి న్యాయ సమీక్షకు లోబడి ఉంటుందని తీర్పునిచ్చింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. Ordinances must be laid before Parliament/State Legislature and lapse after 6 weeks from reassembly. In DC Wadhwa (1987) and reaffirmed in the 7-judge bench ruling Krishna Kumar Singh (2017), the Supreme Court held repromulgation without legislative laying as unconstitutional and subjected executive satisfaction to judicial scrutiny.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ఆర్డినెన్స్ గరిష్ట కాలపరిమితి సభ తిరిగి ప్రారంభమైన నాటి నుండి 6 వారాలు. డీసీ వాధ్వా మరియు కృష్ణకుమార్ సింగ్ కేసులలో పదే పదే ఆర్డినెన్సులు జారీ చేయడాన్ని సుప్రీంకోర్టు రాజ్యాంగ విరుద్ధమని తేల్చింది మరియు ఆర్డినెన్స్ జారీపై న్యాయ సమీక్ష ఉంటుందని స్పష్టం చేసింది."
     },
@@ -146,17 +146,17 @@ mock11_gs = [
         "question_te": "ఆర్టికల్ 368 కింద రాజ్యాంగ సవరణ ప్రక్రియకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. రాజ్యాంగ సవరణ బిల్లును పార్లమెంటులోని ఏ సభలోనైనా ప్రవేశపెట్టవచ్చు; దీనికి భారత రాష్ట్రపతి ముందస్తు అనుమతి అవసరం లేదు.\n2. రాష్ట్రపతి ఎన్నిక విధానం, పార్లమెంటులో రాష్ట్రాల ప్రాతినిధ్యం లేదా సుప్రీంకోర్టు అధికారాల వంటి సమాఖ్య లక్షణాలను సవరించేటప్పుడు పార్లమెంటు ప్రత్యేక మెజారిటీతో పాటు కనీసం సగం రాష్ట్రాల శాసనసభలు సాధారణ మెజారిటీతో ఆమోదించాలి.\n3. మినర్వా మిల్స్ వర్సెస్ యూనియన్ ఆఫ్ ఇండియా (1980) కేసులో 42వ సవరణ ద్వారా ఆర్టికల్ 368లో చేర్చిన క్లాజులు (4) మరియు (5)లను సుప్రీంకోర్టు కొట్టివేసింది; పార్లమెంటుకు గల పరిమిత సవరణ అధికారమే ప్రాథమిక లక్షణమని స్పష్టం చేసింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
             "1 and 2 only",
-            "2 and 3 only",
+            "1, 2, and 3",
             "1 and 3 only",
-            "1, 2, and 3"
+            "2 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "2 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. A constitutional amendment bill can be initiated in either House of Parliament without prior presidential sanction. Federal provisions require special majority in Parliament plus ratification by not less than 50% of state legislatures. In Minerva Mills (1980), Clauses (4) and (5) of Article 368, which sought to bar judicial review and grant unlimited amending power, were struck down as violative of the Basic Structure doctrine.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. రాజ్యాంగ సవరణ బిల్లుకు రాష్ట్రపతి పూర్వ అనుమతి అవసరం లేదు. సమాఖ్య సంబంధిత అంశాలకు కనీసం సగం రాష్ట్రాల సాధారణ మెజారిటీ ఆమోదం తప్పనిసరి. మినర్వా మిల్స్ కేసులో పార్లమెంటుకు అపరిమిత సవరణ అధికారం ఉండదని, న్యాయ సమీక్షే ప్రాథమిక స్వరూపమని సుప్రీంకోర్టు తీర్పునిచ్చింది."
     },
@@ -214,18 +214,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the constitutional powers of the Governor under the Constitution of India:\n\n1. Article 163 explicitly mentions that the Governor can exercise certain executive functions in their discretion, unlike the President under Article 74.\n2. Under Article 200, when a Bill passed by the State Legislature is presented to the Governor, the Constitution prescribes a mandatory time limit of six weeks for granting assent.\n3. The Governor must compulsorily reserve any Bill passed by the State Legislature for the consideration of the President if it derogates from the powers of the High Court.\n\nWhich of the statements given above is/are correct?",
         "question_te": "భారత రాజ్యాంగం ప్రకారం గవర్నర్ రాజ్యాంగ అధికారాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. అధికరణ 74 లోని రాష్ట్రపతికి భిన్నంగా, అధికరణ 163 ప్రకారం గవర్నర్ కొన్ని విధులను తన స్వవిచక్షణతో (Discretion) నిర్వర్తించవచ్చని రాజ్యాంగం స్పష్టంగా పేర్కొంది.\n2. అధికరణ 200 ప్రకారం రాష్ట్ర శాసనసభ ఆమోదించిన బిల్లును గవర్నర్‌కు సమర్పించినప్పుడు, ఆ బిల్లుకు ఆమోదం తెలపడానికి రాజ్యాంగం ఆరు వారాల గడువును తప్పనిసరిగా విధించింది.\n3. హైకోర్టు అధికారాలను తగ్గించే విధంగా రాష్ట్ర శాసనసభ ఆమోదించిన బిల్లును గవర్నర్ తప్పనిసరిగా రాష్ట్రపతి పరిశీలన కోసం రిజర్వ్ చేయాలి.\n\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
         "options_en": [
-            "1 and 3 only",
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
+            "1 and 3 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మరియు 3 మాత్రమే",
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
+            "1 మరియు 3 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Statements 1 and 3 are correct. Article 163(1) expressly reserves discretionary powers for the Governor, which Article 74 does not mention for the President. The second proviso to Article 200 mandates the Governor to reserve any Bill that endangers the constitutional position of the High Court for Presidential consideration. Statement 2 is incorrect because Article 200 does not specify any fixed time limit ('as soon as possible').",
         "explanation_te": "ప్రకటనలు 1 మరియు 3 సరైనవి. అధికరణ 163(1) లో గవర్నర్‌కు స్వవిచక్షణాధికారాలు స్పష్టంగా పేర్కొనబడ్డాయి. హైకోర్టు అధికారాలకు భంగం కలిగించే బిల్లులను తప్పనిసరిగా రాష్ట్రపతికి రిజర్వ్ చేయాలి (అధికరణ 200 రెండవ నిబంధన). ప్రకటన 2 తప్పు: బిల్లుల ఆమోదానికి రాజ్యాంగంలో ఎటువంటి నిర్దిష్ట కాలపరిమితి పేర్కొనబడలేదు ('సాధ్యమైనంత త్వరగా' అని మాత్రమే ఉంది)."
     },
@@ -237,18 +237,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the Basic Structure doctrine formulated by the Supreme Court of India:\n\n1. It was propounded in the historic Kesavananda Bharati v. State of Kerala case (1973) by a 7:6 majority.\n2. The Constitution of India explicitly defines the 'Basic Structure' under Article 368.\n3. Judicial review under Article 32 and Article 226 has been held by the Supreme Court to be an integral part of the basic structure.\n\nWhich of the statements given above are correct?",
         "question_te": "సుప్రీంకోర్టు రూపొందించిన 'మౌలిక స్వరూప సిద్ధాంతం' (Basic Structure Doctrine) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ఇది 1973 లో కేశవానంద భారతి వర్సెస్ కేరళ రాష్ట్రం కేసులో 7:6 మెజారిటీతో ప్రతిపాదించబడింది.\n2. భారత రాజ్యాంగంలోని అధికరణ 368 లో 'మౌలిక స్వరూపం' స్పష్టంగా నిర్వచించబడింది.\n3. అధికరణ 32 మరియు అధికరణ 226 క్రింద గల న్యాయసమీక్షాధికారం రాజ్యాంగ మౌలిక స్వరూపంలో అంతర్భాగమని సుప్రీంకోర్టు తీర్పునిచ్చింది.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1 and 3 only",
+            "1, 2 and 3",
             "1 and 2 only",
             "2 and 3 only",
-            "1, 2 and 3"
+            "1 and 3 only"
         ],
         "options_te": [
-            "1 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Statements 1 and 3 are correct. The Basic Structure doctrine was established in Kesavananda Bharati (1973) by the largest-ever 13-judge constitutional bench (7:6 majority). Judicial review was held to be part of the basic structure in the Minerva Mills (1980) and L. Chandra Kumar (1997) cases. Statement 2 is incorrect: The Constitution does not define 'Basic Structure' anywhere; it is a judicial creation.",
         "explanation_te": "ప్రకటనలు 1 మరియు 3 సరైనవి. కేశవానంద భారతి (1973) కేసులో 13 మంది న్యాయమూర్తుల ధర్మాసనం 7:6 మెజారిటీతో ఈ సిద్ధాంతాన్ని ప్రతిపాదించింది. న్యాయసమీక్ష రాజ్యాంగ మౌలిక స్వరూపంలో భాగం (L. చంద్రకుమార్ కేసు). ప్రకటన 2 తప్పు: రాజ్యాంగంలో ఎక్కడా 'మౌలిక స్వరూపం' అనే పదం నిర్వచించబడలేదు."
     },
@@ -283,18 +283,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding Money Bills under the Constitution of India:\n\n1. A Money Bill can be introduced only in the Lok Sabha and only on the recommendation of the President.\n2. The decision of the Speaker of the Lok Sabha whether a Bill is a Money Bill or not is final and cannot be challenged in any court.\n3. The Rajya Sabha has the power to reject or amend a Money Bill within a maximum period of 14 days.\n\nWhich of the statements given above is/are correct?",
         "question_te": "భారత రాజ్యాంగం ప్రకారం ద్రవ్య బిల్లులకు (Money Bills) సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ద్రవ్య బిల్లును లోక్‌సభలో మాత్రమే మరియు రాష్ట్రపతి పూర్వానుమతితో మాత్రమే ప్రవేశపెట్టవచ్చు.\n2. ఏదైనా బిల్లు ద్రవ్య బిల్లా కాదా అని లోక్‌సభ స్పీకర్ తీసుకునే నిర్ణయమే అంతిమమైనది మరియు దానిని ఏ న్యాయస్థానంలోనూ సవాలు చేయడానికి వీలులేదు.\n3. రాజ్యసభకు ద్రవ్య బిల్లును గరిష్టంగా 14 రోజుల వ్యవధిలో తిరస్కరించే లేదా సవరించే అధికారం ఉంది.\n\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
         "options_en": [
-            "1 only",
             "1 and 2 only",
+            "1 only",
             "1 and 3 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మాత్రమే",
             "1 మరియు 2 మాత్రమే",
+            "1 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Only Statement 1 is correct. Under Articles 109 and 117(1), a Money Bill can only be introduced in the Lok Sabha on the President's recommendation. Statement 2 is incorrect: In the Aadhaar Case (K.S. Puttaswamy, 2018), the Supreme Court ruled that the Speaker's certification of a Money Bill is subject to judicial review. Statement 3 is incorrect: Rajya Sabha cannot reject or amend a Money Bill; it can only make recommendations within 14 days, which Lok Sabha may accept or reject.",
         "explanation_te": "ప్రకటన 1 మాత్రమే సరైనది. అధికరణ 109 మరియు 117(1) ప్రకారం ద్రవ్య బిల్లును లోక్‌సభలో మాత్రమే రాష్ట్రపతి సిఫార్సుతో ప్రవేశపెట్టాలి. ప్రకటన 2 తప్పు: ఆధార్ తీర్పులో (2018) స్పీకర్ సర్టిఫికేషన్ న్యాయసమీక్షకు లోబడి ఉంటుందని సుప్రీంకోర్టు స్పష్టం చేసింది. ప్రకటన 3 తప్పు: రాజ్యసభ ద్రవ్య బిల్లును తిరస్కరించలేరు లేదా సవరించలేరు; 14 రోజుల్లో కేవలం సిఫార్సులు మాత్రమే చేయగలదు."
     },
@@ -306,18 +306,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the Anti-Defection Law under the Tenth Schedule of the Constitution of India:\n\n1. It was inserted by the 52nd Constitutional Amendment Act, 1985.\n2. The decision on disqualification of a member is decided by the Chairman or Speaker of the respective House.\n3. In the Kihoto Hollohan case (1992), the Supreme Court ruled that the Presiding Officer's decision is subject to judicial review only after the final decision is pronounced.\n\nWhich of the statements given above are correct?",
         "question_te": "భారత రాజ్యాంగంలోని 10వ షెడ్యూల్ (పార్టీ ఫిరాయింపుల నిరోధక చట్టం) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ఇది 1985 లో 52వ రాజ్యాంగ సవరణ చట్టం ద్వారా రాజ్యాంగంలో చేర్చబడింది.\n2. సభ్యుడి అనర్హతకు సంబంధించిన వివాదాలను ఆయా సభల ఛైర్మన్ లేదా స్పీకర్ నిర్ణయిస్తారు.\n3. కిహోతో హోల్లోహన్ కేసు (1992) లో ప్రిసైడింగ్ అధికారి తీసుకున్న నిర్ణయం తుది తీర్పు వెలువడిన తర్వాత మాత్రమే న్యాయసమీక్షకు లోబడి ఉంటుందని సుప్రీంకోర్టు తీర్పునిచ్చింది.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3",
             "1 and 3 only"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. The Tenth Schedule was added by the 52nd Amendment in 1985. The Chairman/Speaker is the designated deciding authority (Paragraph 6). In Kihoto Hollohan (1992), the Constitution Bench upheld the Speaker's jurisdiction as a tribunal whose final order is subject to judicial review, while barring prior interlocutory judicial intervention.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1985 లో 52వ సవరణ ద్వారా 10వ షెడ్యూల్ చేర్చబడింది. స్పీకర్/ఛైర్మన్ అనర్హతపై నిర్ణయం తీసుకుంటారు. కిహోతో హోల్లోహన్ (1992) కేసులో స్పీకర్ నిర్ణయం ఒక ట్రిబ్యునల్ తరహాలో పనిచేస్తుందని మరియు తుది నిర్ణయం వెలువడిన తర్వాత న్యాయసమీక్ష సాధ్యమని సుప్రీంకోర్టు స్పష్టం చేసింది."
     },
@@ -329,18 +329,18 @@ mock11_gs = [
         "question_en": "Consider the following statements comparing the writ jurisdiction of the Supreme Court under Article 32 and High Courts under Article 226:\n\n1. The Supreme Court can issue writs only for the enforcement of Fundamental Rights, whereas High Courts can issue writs for the enforcement of Fundamental Rights as well as for any other purpose.\n2. The right to move the Supreme Court under Article 32 is itself a Fundamental Right, whereas the remedy under Article 226 is discretionary.\n3. The territorial jurisdiction of the Supreme Court to issue writs is co-extensive with the entire territory of India, whereas that of a High Court is restricted to its state territory or where the cause of action arises.\n\nWhich of the statements given above are correct?",
         "question_te": "అధికరణ 32 (సుప్రీంకోర్టు) మరియు అధికరణ 226 (హైకోర్టులు) రిట్ అధికార పరిధిని పోల్చుతూ క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. సుప్రీంకోర్టు ప్రాథమిక హక్కుల అమలుకు మాత్రమే రిట్లను జారీ చేయగలదు, అయితే హైకోర్టులు ప్రాథమిక హక్కులతో పాటు ఇతర ప్రయోజనాల కోసం కూడా రిట్లను జారీ చేయగలవు.\n2. అధికరణ 32 ప్రకారం సుప్రీంకోర్టును ఆశ్రయించే హక్కు స్వయంగా ఒక ప్రాథమిక హక్కు, అయితే అధికరణ 226 కింద ఉపశమనం పొందడం హైకోర్టు విచక్షణాధికారం.\n3. సుప్రీంకోర్టు రిట్ పరిధి భారతదేశ భూభాగం అంతటా వర్తిస్తుంది, అయితే హైకోర్టు పరిధి ఆయా రాష్ట్ర సరిహద్దులకు లేదా వివాద కారణం (Cause of Action) ఉత్పన్నమైన ప్రాంతానికి పరిమితం.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
+            "1 and 3 only",
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only"
+            "1, 2 and 3"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే",
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే"
+            "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "All three statements are correct. Article 32 is limited strictly to Part III Fundamental Rights and is itself a fundamental right guaranteed by the Constitution. Article 226 has a wider subject matter scope ('any other ordinary legal right') and is discretionary. The Supreme Court has pan-India territorial writ jurisdiction.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. అధికరణ 32 ప్రాథమిక హక్కుల అమలుకు మాత్రమే పరిమితం మరియు స్వయంగా ఒక ప్రాథమిక హక్కు. అధికరణ 226 చట్టపరమైన ఇతర హక్కుల రక్షణకు కూడా వర్తిస్తుంది కాబట్టి హైకోర్టు రిట్ పరిధి సుప్రీంకోర్టు కంటే విస్తృతమైనది."
     },
@@ -375,18 +375,18 @@ mock11_gs = [
         "question_en": "What is the primary operational objective of 'Operation Crack Down' launched by the Telangana Cyber Security Bureau (TGCSB)?",
         "question_te": "తెలంగాణ సైబర్ సెక్యూరిటీ బ్యూరో (TGCSB) ప్రారంభించిన 'ఆపరేషన్ క్రాక్ డౌన్' యొక్క ప్రధాన కార్యాచరణ లక్ష్యం ఏమిటి?",
         "options_en": [
-            "Busting transnational mule bank account networks and freezing fraudulent investment app channels",
             "Installing facial recognition CCTV cameras across all rural police stations",
+            "Busting transnational mule bank account networks and freezing fraudulent investment app channels",
             "Providing cyber hygiene training exclusively to higher education teachers",
             "Conducting regular inspections of internet cafes and gaming parlors"
         ],
         "options_te": [
-            "మ్యూల్ బ్యాంక్ ఖాతాల (Mule Accounts) నెట్‌వర్క్‌లను ఛేదించడం మరియు మోసపూరిత సైబర్ పెట్టుబడి మార్గాలను స్తంభింపజేయడం",
             "అన్ని గ్రామీణ పోలీస్ స్టేషన్లలో ఫేషియల్ రికగ్నిషన్ సీసీటీవీలను ఏర్పాటు చేయడం",
+            "మ్యూల్ బ్యాంక్ ఖాతాల (Mule Accounts) నెట్‌వర్క్‌లను ఛేదించడం మరియు మోసపూరిత సైబర్ పెట్టుబడి మార్గాలను స్తంభింపజేయడం",
             "ఉన్నత విద్యా ఉపాధ్యాయులకు మాత్రమే సైబర్ సెక్యూరిటీ శిక్షణ ఇవ్వడం",
             "ఇంటర్నెట్ కేఫ్‌లు మరియు గేమింగ్ పార్లర్లలో తనిఖీలు చేపట్టడం"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Under 'Operation Crack Down', the Telangana Cyber Security Bureau tracked down hundreds of individuals across states who rented out their bank accounts (mule accounts) to international cyber syndicates operating digital arrest and trading scams.",
         "explanation_te": "సైబర్ నేరగాళ్లకు తమ బ్యాంక్ ఖాతాలను అద్దెకు ఇచ్చి (మ్యూల్ అకౌంట్స్) కమీషన్లు తీసుకునే ముఠాలను, పెట్టుబడి యాప్ స్కామ్‌లను అరికట్టేందుకు TGCSB దేశవ్యాప్తంగా చేపట్టిన ప్రత్యేక డ్రైవ్ 'ఆపరేషన్ క్రాక్ డౌన్'."
     },
@@ -398,18 +398,18 @@ mock11_gs = [
         "question_en": "India's first National Tribal Traditional Healers (Adivasi Vaidyulu) Capacity Building and Knowledge Exchange Conclave was organized in which city?",
         "question_te": "భారతదేశపు మొట్టమొదటి జాతీయ సాంప్రదాయ గిరిజన వైద్యుల (ఆదివాసీ వైద్యం) సామర్థ్యాభివృద్ధి సదస్సు ఏ నగరంలో నిర్వహించబడింది?",
         "options_en": [
-            "Hyderabad",
-            "Ranchi",
             "Raipur",
+            "Ranchi",
+            "Hyderabad",
             "Bhubaneswar"
         ],
         "options_te": [
-            "హైదరాబాద్",
-            "రాంచీ",
             "రాయ్‌పూర్",
+            "రాంచీ",
+            "హైదరాబాద్",
             "భువనేశ్వర్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Hyderabad hosted the first National Tribal Healers Workshop bringing together traditional Adivasi herbalists, ethnobotanists, and AYUSH researchers to document indigenous medicinal plants.",
         "explanation_te": "గిరిజన ప్రాంతాల్లోని సాంప్రదాయ వనమూలికా వైద్యుల జ్ఞానాన్ని భద్రపరచడానికి, ఆయుష్ మంత్రిత్వ శాఖతో సమన్వయం చేసేందుకు తొలి జాతీయ గిరిజన వైద్యుల సదస్సు హైదరాబాద్‌లో జరిగింది."
     },
@@ -467,18 +467,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the historic Sammakka-Saralamma Jatara (Medaram Jatara) celebrated in Telangana:\n1. It is celebrated biennially in Medaram village of Mulugu district by the Koya tribe, commemorating the heroic revolt of tribal chieftains against the Kakatiya King Prataparudra's harsh tax exactions during a severe famine.\n2. Devotees offer 'Bangaram' (pure jaggery) equivalent to their body weight (Tulabharam) to honor the deities at the sacred altar (*Gaddelu*).\n3. The Government declared it a State Festival in 1996, and it represents Asia's largest congregation of indigenous tribal communities.\nWhich of the statements given above are correct?",
         "question_te": "తెలంగాణలో జరిగే చారిత్రక సమ్మక్క-సారలమ్మ మేడారం జాతరకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ములుగు జిల్లా తాడ్వాయి మండలంలోని మేడారంలో కోయ గిరిజనులు రెండేళ్లకోసారి నిర్వహించే ఈ జాతర, తీవ్ర కరవు కాలంలో పన్నుల వసూళ్లకు వ్యతిరేకంగా కాకతీయ చక్రవర్తి ప్రతాపరుద్రుని సైన్యంతో సమ్మక్క-సారలమ్మలు చేసిన వీరోచిత పోరాటానికి ప్రతీక.\n2. భక్తులు తమ శరీర బరువుకు సమానమైన బెల్లాన్ని 'బంగారం' (తులాభారం) పేరుతో దేవతల గద్దెల వద్ద నైవేద్యంగా సమర్పిస్తారు.\n3. 1996 లో ఈ జాతరను ప్రభుత్వం అధికారిక రాష్ట్ర పండుగగా గుర్తించింది; ఇది ఆసియా ఖండంలోనే అతిపెద్ద గిరిజన మహాసమ్మేళనంగా పేరొందింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. Medaram Jatara is held biennially during Magha Suddha Pournami in Mulugu district. It honors the martyrdom of Koya ruler Pagididda Raju, his consort Sammakka, and daughter Saralamma fighting the tax collection regiments of Kakatiya Prataparudra. Rituals are administered by Koya priests. Jaggery is revered as 'Bangaram' and offered in Tulabharam.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. మేడారంలో రెండేళ్లకోసారి మాఘ పౌర్ణమి నాడు ఆసియాలోనే అతిపెద్ద గిరిజన జాతర జరుగుతుంది. కాకతీయ సేనలపై సమ్మక్క, సారలమ్మ, పగిడిద్దరాజు సాగించిన పోరాటానికి గుర్తుగా ఈ జాతర నిర్వహిస్తారు. భక్తులు బెల్లాన్ని బంగారం రూపంలో గద్దెలపై సమర్పిస్తారు. 1996 లో ఇది అధికారిక రాష్ట్ర పండుగగా గుర్తింపు పొందింది."
     },
@@ -491,17 +491,17 @@ mock11_gs = [
         "question_te": "గోల్కొండ కుతుబ్‌షాహీల పాలనా విధానం మరియు చారిత్రక సహకారాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఇబ్రహీం కుతుబ్‌షా తెలుగు కవులైన గంగాధర కవి, కందుకూరి రుద్రకవి వంటి పండితులను ఆదరించి, వారిచే 'మల్కిభరాముడు' అని అభిమానంగా పిలువబడ్డారు.\n2. హైదరాబాద్ ప్రాంత తాగునీరు, సాగునీటి అవసరాల కోసం హుస్సేన్ షా వలీ పర్యవేక్షణలో ప్రసిద్ధ 'హుస్సేన్‌సాగర్' సరస్సును ఇబ్రహీం కుతుబ్‌షా నిర్మించారు.\n3. మహమ్మద్ కులీ కుతుబ్‌షా భాగ్యనగరం (హైదరాబాద్) నూతన నగరాన్ని స్థాపించి, నగరంలో ప్లేగు వ్యాధి నిర్మూలనకు గుర్తుగా 1591 లో చార్మినార్‌ను నిర్మించారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
             "1 and 2 only",
-            "2 and 3 only",
+            "1, 2, and 3",
             "1 and 3 only",
-            "1, 2, and 3"
+            "2 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "2 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. Ibrahim Qutb Shah (reigned 1550–1580) was a patron of Telugu culture and was praised as 'Malkibharama' in works like 'Tapati Samvaranopakhyanam' by Gangadhara Kavi. He excavated Hussain Sagar and Ibrahimpatnam tanks. His son Muhammad Quli Qutb Shah laid the foundation of Hyderabad and erected Charminar in 1591 following the end of the deadly plague epidemic.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ఇబ్రహీం కుతుబ్‌షా తెలుగు భాషా పోషణతో 'మల్కిభరాముడు' అని ఖ్యాతి పొందారు. అద్దంకి గంగాధర కవి తన 'తపతీ సంవరణోపాఖ్యానం'ను ఆయనకే అంకితం చేశారు. హుస్సేన్‌సాగర్, ఇబ్రహీంపట్నం చెరువులను ఈయన హయాంలోనే తవ్వించారు. మహమ్మద్ కులీ కుతుబ్‌షా 1591 లో ప్లేగు మహమ్మారి ముగింపునకు ప్రతీకగా చార్మినార్‌ను నిర్మించారు."
     },
@@ -515,16 +515,16 @@ mock11_gs = [
         "options_en": [
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only",
-            "1, 2, and 3"
+            "1, 2, and 3",
+            "1 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. The 1952 Mulki movement began in Warangal following non-local teacher recruitments. It escalated to Hyderabad, culminating in police firing outside City College on September 3-4, 1952 under Police Commissioner Shiva Kumar Lal. The Burgula government appointed Justice Pingali Jaganmohan Reddy Commission, which critically scrutinized the police excessive use of force.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1952 ముల్కీ ఉద్యమం వరంగల్‌లో ప్రారంభమై రాజధానికి విస్తరించింది. సెప్టెంబర్ 3, 4 తేదీల్లో సిటీ కాలేజీ వద్ద పోలీసు కాల్పులు జరిగాయి. దీనిపై విచారణకు బూర్గుల ప్రభుత్వం సెప్టెంబర్ 5, 1952న జస్టిస్ పింగళి జగన్మోహన్ రెడ్డి ఏకసభ్య కమిషన్‌ను నియమించింది. కమిషన్ 1952 డిసెంబర్‌లో సమగ్ర నివేదిక సమర్పించింది."
     },
@@ -559,18 +559,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the 'Young India Integrated Residential Schools' (యంగ్ ఇండియా సమీకృత గురుకుల పాఠశాలలు) scheme introduced by the Government of Telangana:\n1. The initiative aims to construct state-of-the-art integrated residential schools across all 119 Assembly Constituencies with an outlay exceeding ₹5,000 crores.\n2. In each integrated complex, SC, ST, BC, and Minority residential schools are co-located within a single unified modern campus to promote social inclusion and bridge caste barriers.\n3. Each campus is planned over 20–25 acres equipped with smart digital classrooms, modern science laboratories, international-standard athletic grounds, and residential quarters.\nWhich of the statements given above are correct?",
         "question_te": "తెలంగాణ ప్రభుత్వం ప్రతిష్టాత్మకంగా ప్రారంభించిన 'యంగ్ ఇండియా సమీకృత గురుకుల పాఠశాలల' (Young India Integrated Residential Schools) పథకానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. రాష్ట్రంలోని మొత్తం 119 అసెంబ్లీ నియోజకవర్గాలలో ₹5,000 కోట్లకు పైగా వ్యయంతో అంతర్జాతీయ ప్రమాణాలతో కూడిన సమీకృత గురుకులాలను నిర్మించాలని ప్రభుత్వం నిర్ణయించింది.\n2. కుల వివక్షను రూపుమాపి సామాజిక సమగ్రతను సాధించేందుకు ఎస్సీ, ఎస్టీ, బీసీ మరియు మైనారిటీ గురుకుల పాఠశాలలను ఒకే సమీకృత క్యాంపస్‌లో ఏర్పాటు చేస్తున్నారు.\n3. ఒక్కో సమీకృత పాఠశాల సముదాయాన్ని 20 నుండి 25 ఎకరాల విస్తీర్ణంలో డిజిటల్ క్లాస్‌రూములు, ఆధునిక సైన్స్ ల్యాబ్‌లు, అంతర్జాతీయ స్థాయి క్రీడా మైదానాలతో నిర్మిస్తున్నారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. The Government of Telangana launched the Young India Integrated Residential Schools project across all 119 constituencies. Unlike earlier standalone welfare schools segregated by department, the integrated model co-locates SC, ST, BC, and Minority institutions on unified 20-25 acre campuses to foster social cohesion, equal opportunity, and world-class educational infrastructure.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. గతంలో శాఖల వారీగా వేర్వేరుగా అద్దె భవనాల్లో ఉన్న గురుకులాలను ఒకేచోట సమీకృతం చేస్తూ 119 నియోజకవర్గాల్లో 20-25 ఎకరాల ప్రాంగణాల్లో ఈ పాఠశాలలను నిర్మిస్తున్నారు. ఎస్సీ, ఎస్టీ, బీసీ, మైనారిటీ విద్యార్థులు కలిసి చదువుకోవడం ద్వారా సామాజిక ఐక్యత పెంపొందించడం, కార్పొరేట్ తరహా నాణ్యమైన విద్యనందించడం దీని లక్ష్యం."
     },
@@ -605,18 +605,18 @@ mock11_gs = [
         "question_en": "The Telangana Peasant Armed Struggle (1946–1951) against feudal Deshmukhs sparked off following the martyrdom of which peasant leader on 4 July 1946 at Kadavendi village (Jangaon)?",
         "question_te": "భూస్వామ్య దేశ్‌ముఖ్‌ల దౌర్జన్యాలకు వ్యతిరేకంగా తెలంగాణ రైతాంగ సాయుధ పోరాటం (1946–1951) 1946 జూలై 4న కడవెండి (జనగామ) గ్రామంలో ఏ వీరుని వీరమరణంతో ఉవ్వెత్తున ఎగిసిపడింది?",
         "options_en": [
-            "Doddi Komaraiah",
             "Chakali Ilamma",
+            "Doddi Komaraiah",
             "Bandi Yadagiri",
             "Shoebullah Khan"
         ],
         "options_te": [
-            "దొడ్డి కొమరయ్య",
             "చాకలి ఐలమ్మ",
+            "దొడ్డి కొమరయ్య",
             "బండి యాదగిరి",
             "షోయబుల్లా ఖాన్"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Doddi Komaraiah was shot dead on 4 July 1946 by Visnur Ramachandra Reddy's henchmen at Kadavendi while defending Chakali Ilamma's grain harvest, becoming the first martyr of the Telangana Armed Struggle.",
         "explanation_te": "విస్నూరు దేశ్‌ముఖ్ రాంచంద్రారెడ్డి గూండాల తూటాలకు 1946 జూలై 4న కడవెండిలో దొడ్డి కొమరయ్య నేలకొరిగాడు. ఇతడే తెలంగాణ రైతాంగ సాయుధ పోరాట తొలి అమరుడు."
     },
@@ -628,18 +628,18 @@ mock11_gs = [
         "question_en": "During 'Operation Polo' (September 13–17, 1948) that integrated Hyderabad State into the Indian Union, who served as the Commander of the Indian Military Forces and subsequently as Military Governor of Hyderabad?",
         "question_te": "హైదరాబాద్ రాష్ట్రాన్ని భారత యూనియన్‌లో విలీనం చేయడానికి చేపట్టిన 'ఆపరేషన్ పోలో' (సెప్టెంబర్ 13–17, 1948) కు నాయకత్వం వహించి, అనంతరం హైదరాబాద్ సైనిక గవర్నర్‌గా బాధ్యతలు చేపట్టిన భారత సైన్యాధికారి ఎవరు?",
         "options_en": [
-            "Major General J.N. Chaudhuri",
-            "General K.M. Cariappa",
             "Lt. General Srinagesh",
+            "General K.M. Cariappa",
+            "Major General J.N. Chaudhuri",
             "V.P. Menon"
         ],
         "options_te": [
-            "మేజర్ జనరల్ జె.ఎన్. చౌధురి (J.N. Chaudhuri)",
-            "జనరల్ కె.ఎం. కరియప్ప",
             "లెఫ్టినెంట్ జనరల్ శ్రీనగేష్",
+            "జనరల్ కె.ఎం. కరియప్ప",
+            "మేజర్ జనరల్ జె.ఎన్. చౌధురి (J.N. Chaudhuri)",
             "వి.పి. మీనన్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Major General Jayanto Nath Chaudhuri led the 1st Armoured Division in Operation Polo (Police Action) leading to Nizam's surrender on 17 September 1948, and became Military Governor until December 1949.",
         "explanation_te": "మేజర్ జనరల్ జె.ఎన్. చౌధురి నాయకత్వంలో ఆపరేషన్ పోలో విజయవంతమై 1948 సెప్టెంబర్ 17న నిజాం సైన్యం లొంగిపోయింది. అనంతరం చౌధురి హైదరాబాద్ సైనిక గవర్నర్‌గా పనిచేశారు."
     },
@@ -651,18 +651,18 @@ mock11_gs = [
         "question_en": "Which judicial commission was appointed by the Hyderabad State Government to investigate the police firing on students during the historic 1952 Mulki Agitation outside City College, Hyderabad?",
         "question_te": "1952 ముల్కీ ఉద్యమ సమయంలో హైదరాబాద్ సిటీ కాలేజీ వద్ద విద్యార్థులపై జరిగిన పోలీసు కాల్పుల ఘటనపై విచారణ జరిపేందుకు హైదరాబాద్ రాష్ట్ర ప్రభుత్వం ఏ న్యాయ కమిషన్‌ను నియమించింది?",
         "options_en": [
-            "Justice Pingali Jaganmohan Reddy Commission",
+            "Justice Srikrishna Commission",
             "Justice Bhargava Commission",
             "Justice Wanchoo Commission",
-            "Justice Srikrishna Commission"
+            "Justice Pingali Jaganmohan Reddy Commission"
         ],
         "options_te": [
-            "జస్టిస్ పింగళి జగన్మోహన్ రెడ్డి కమిషన్",
+            "జస్టిస్ శ్రీకృష్ణ కమిషన్",
             "జస్టిస్ భార్గవ కమిషన్",
             "జస్టిస్ వాంచూ కమిషన్",
-            "జస్టిస్ శ్రీకృష్ణ కమిషన్"
+            "జస్టిస్ పింగళి జగన్మోహన్ రెడ్డి కమిషన్"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The Burgula Ramakrishna Rao government appointed the Justice Pingali Jaganmohan Reddy Commission to probe the tragic police firings of 3-4 September 1952 outside City College, where several students were killed.",
         "explanation_te": "1952 సెప్టెంబర్ 3-4 తేదీల్లో సిటీ కాలేజీ వద్ద జరిగిన కాల్పులపై వాస్తవాలు నిగ్గుతేల్చడానికి బూర్గుల రామకృష్ణారావు ప్రభుత్వం జస్టిస్ పింగళి జగన్మోహన్ రెడ్డి విచారణ కమిషన్‌ను నియమించింది."
     },
@@ -697,18 +697,18 @@ mock11_gs = [
         "question_en": "For how many continuous days was the monumental 'Sakala Janula Samme' (All People's Strike) observed in Telangana in autumn 2011, bringing administrative machinery to a standstill?",
         "question_te": "2011 లో తెలంగాణ ప్రభుత్వ యంత్రాంగాన్ని, సింగరేణి బొగ్గు ఉత్పత్తిని, ఆర్టీసీని స్తంభింపజేస్తూ నిర్వహించిన చారిత్రక 'సకల జనుల సమ్మె' ఎన్ని రోజుల పాటు నిర్విరామంగా కొనసాగింది?",
         "options_en": [
-            "42 days",
             "30 days",
+            "42 days",
             "55 days",
             "21 days"
         ],
         "options_te": [
-            "42 రోజులు",
             "30 రోజులు",
+            "42 రోజులు",
             "55 రోజులు",
             "21 రోజులు"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Sakala Janula Samme lasted for 42 days from 13 September 2011 to 24 October 2011, making it one of the longest sustained non-violent civil strikes in modern democratic history.",
         "explanation_te": "2011 సెప్టెంబర్ 13 నుండి అక్టోబర్ 24 వరకు 42 రోజుల పాటు నిరంతరాయంగా సకల జనుల సమ్మె జరిగింది."
     },
@@ -720,18 +720,18 @@ mock11_gs = [
         "question_en": "Under Section 3 of the Andhra Pradesh Reorganisation Act, 2014, which date was officially designated by the Central Government as the 'Appointed Day' on which the State of Telangana came into existence as the 29th State of India?",
         "question_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం, 2014 లోని సెక్షన్ 3 ప్రకారం, భారత 29వ రాష్ట్రంగా తెలంగాణ రాష్ట్రం అధికారికంగా ఆవిర్భవించిన 'నిర్ణీత దినం' (Appointed Day) ఏది?",
         "options_en": [
-            "2 June 2014",
-            "18 February 2014",
             "1 March 2014",
+            "18 February 2014",
+            "2 June 2014",
             "1 November 2014"
         ],
         "options_te": [
-            "2 జూన్ 2014",
-            "18 ఫిబ్రవరి 2014",
             "1 మార్చి 2014",
+            "18 ఫిబ్రవరి 2014",
+            "2 జూన్ 2014",
             "1 నవంబర్ 2014"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "The Union Ministry of Home Affairs notified 2 June 2014 as the 'Appointed Day', the official birth date of Telangana State.",
         "explanation_te": "కేంద్ర హోంశాఖ 2014 జూన్ 2వ తేదీని అపాయింటెడ్ డేగా ప్రకటించింది. ఆ రోజున తెలంగాణ రాష్ట్రం లాంఛనంగా ఆవిర్భవించింది."
     },
@@ -743,18 +743,18 @@ mock11_gs = [
         "question_en": "Bathukamma, the unique floral festival of Telangana, is celebrated for 9 days during Bhadrapada Amavasya (Mahalaya Amavasya / Engili Pula Bathukamma) and concludes on Durgashtami with which grand finale?",
         "question_te": "తెలంగాణ సాంస్కృతిక ప్రతీక అయిన బతుకమ్మ పూల పండుగ భాద్రపద అమావాస్య (ఎంగిలి పూల బతుకమ్మ) నాడు ప్రారంభమై 9వ రోజున ఏ పేరుతో వైభవంగా ముగుస్తుంది?",
         "options_en": [
-            "Saddula Bathukamma",
+            "Mudda Pappu Bathukamma",
             "Atla Bathukamma",
             "Aligina Bathukamma",
-            "Mudda Pappu Bathukamma"
+            "Saddula Bathukamma"
         ],
         "options_te": [
-            "సద్దుల బతుకమ్మ",
+            "ముద్దపప్పు బతుకమ్మ",
             "అట్ల బతుకమ్మ",
             "అలిగిన బతుకమ్మ",
-            "ముద్దపప్పు బతుకమ్మ"
+            "సద్దుల బతుకమ్మ"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The 9-day Bathukamma festival begins with Engili Pula Bathukamma and culminates on Durgashtami as Saddula Bathukamma, where women prepare five varieties of saddulu and immerse beautifully arranged conical flower stacks in local water bodies.",
         "explanation_te": "బతుకమ్మ పండుగ 9వ రోజున 'సద్దుల బతుకమ్మ'గా అత్యంత వైభవంగా ముగుస్తుంది. ఇందులో తంగేడు, గునుగు పూలతో పేర్చిన బతుకమ్మలను చెరువుల్లో నిమజ్జనం చేస్తారు."
     },
@@ -789,18 +789,18 @@ mock11_gs = [
         "question_en": "During the historic Bonalu festival in Hyderabad and Secunderabad, which prophetic ritual is performed the day after the main offering where a woman standing on an earthen pot predicts the future?",
         "question_te": "హైదరాబాద్-సికింద్రాబాద్ బోనాల పండుగలో భాగంగా బోనం సమర్పించిన మరుసటి రోజున పచ్చి మట్టి కుండపై నిలబడి భవిష్యవాణి వినిపించే ఆచారాన్ని ఏమంటారు?",
         "options_en": [
-            "Rangam (Bhavishyavani by Matangi)",
             "Thottelu",
+            "Rangam (Bhavishyavani by Matangi)",
             "Pothuraju dance",
             "Ghatam procession"
         ],
         "options_te": [
-            "రంగం (మాతంగి భవిష్యవాణి)",
             "తొట్టెల సమర్పణ",
+            "రంగం (మాతంగి భవిష్యవాణి)",
             "పోతురాజు నాట్యం",
             "ఘటాల ఊరేగింపు"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Rangam is performed on the morning following Bonalu offerings (especially at Secunderabad Ujjaini Mahankali Temple) where an oracle standing on an unbaked earthen pot invokes Goddess Mahankali to forecast agricultural and societal fortunes.",
         "explanation_te": "బోనాల మరుసటి రోజు ఉజ్జయిని మహంకాళి ఆలయం వద్ద మాతంగి స్త్రీ పచ్చి కుండపై నిలబడి భవిష్యత్తును అంచనా వేసే ఘట్టాన్ని 'రంగం' (భవిష్యవాణి) అంటారు."
     },
@@ -812,18 +812,18 @@ mock11_gs = [
         "question_en": "Which of the following handicrafts from Telangana holds a Geographical Indication (GI) tag?\n1. Pochampally Ikat (Telia Rumal)\n2. Nirmal Toys and Paintings\n3. Bidriware\n4. Silver Filigree of Karimnagar",
         "question_te": "తెలంగాణకు చెందిన కింది హస్తకళలలో భౌగోళిక గుర్తింపు (GI Tag) పొందినవి ఏవి?\n1. పోచంపల్లి ఇకత్ / తేలియా రుమాల్\n2. నిర్మల్ బొమ్మలు మరియు పెయింటింగ్స్\n3. బిద్రీ క్రాఫ్ట్\n4. కరీంనగర్ వెండి తీగ పని (Silver Filigree)",
         "options_en": [
-            "All 1, 2, 3, and 4",
-            "Only 1 and 2",
             "Only 1, 2, and 4",
+            "Only 1 and 2",
+            "All 1, 2, 3, and 4",
             "Only 2 and 4"
         ],
         "options_te": [
-            "1, 2, 3, మరియు 4 అన్నీ",
-            "1 మరియు 2 మాత్రమే",
             "1, 2, మరియు 4 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
+            "1, 2, 3, మరియు 4 అన్నీ",
             "2 మరియు 4 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "All four crafts hold prestigious GI tags: Pochampally Ikat (first in AP/Telangana in 2004), Nirmal toys, Hyderabad Bidriware, and Karimnagar Silver Filigree (Tarkashi).",
         "explanation_te": "పోచంపల్లి ఇకత్, నిర్మల్ బొమ్మలు, బిద్రీవేర్, మరియు కరీంనగర్ సిల్వర్ ఫిలిగ్రీ అన్నీ తెలంగాణ రాష్ట్రం నుండి GI ట్యాగ్ పొందిన ప్రసిద్ధ హస్తకళలే."
     },
@@ -858,18 +858,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the Government of India Act, 1919 (Montagu-Chelmsford Reforms):\n1. It introduced 'Dyarchy' in the provincial governments, bifurcating provincial subjects into 'Transferred' and 'Reserved'.\n2. It introduced bicameralism and direct elections in the country at the Central Legislature for the first time.\n3. It provided for the establishment of a Public Service Commission for recruiting civil servants.\nWhich of the statements given above are correct?",
         "question_te": "భారత ప్రభుత్వ చట్టం 1919 (మాంటేగ్-చెమ్స్‌ఫర్డ్ సంస్కరణలు) కు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. ఇది ప్రావిన్సులలో పాలనాంశాలను 'బదిలీ చేయబడినవి' (Transferred) మరియు 'రిజర్వ్ చేయబడినవి' (Reserved) గా విభజిస్తూ 'ద్వంద్వ పాలన'ను (Dyarchy) ప్రవేశపెట్టింది.\n2. కేంద్ర శాసనసభలో మొట్టమొదటిసారిగా ద్విసభా విధానాన్ని (Bicameralism) మరియు ప్రత్యక్ష ఎన్నికలను ప్రవేశపెట్టింది.\n3. సివిల్ సర్వెంట్ల నియామకం కోసం 'పబ్లిక్ సర్వీస్ కమిషన్' (Central PSC) ఏర్పాటుకు ఇది వీలు కల్పించింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. The 1919 Act introduced provincial Dyarchy, central bicameralism (Council of State and Legislative Assembly), statutory Public Service Commission (set up in 1926 via Lee Commission recommendations), and separated provincial budgets from the central budget.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1919 చట్టం ద్వారా ప్రావిన్సులలో ద్వంద్వ పాలన వచ్చింది, కేంద్రంలో ద్విసభా విధానం ఏర్పాటైంది, మరియు 1926లో లీ కమిషన్ సిఫార్సుల మేరకు పబ్లిక్ సర్వీస్ కమిషన్ ఏర్పాటుకు పునాది పడింది."
     },
@@ -882,17 +882,17 @@ mock11_gs = [
         "question_te": "భారత ప్రభుత్వ చట్టం 1935 ద్వారా ప్రవేశపెట్టబడిన లేదా స్థాపించబడిన కీలక అంశాలు ఏవి?\n1. ప్రావిన్సులలో ద్వంద్వ పాలన రద్దు మరియు 'ప్రావిన్షియల్ అటానమీ' (ప్రావిన్సుల స్వయంప్రతిపత్తి) ప్రవేశపెట్టడం\n2. భారత ఫెడరల్ కోర్టు (Federal Court of India) స్థాపన (1937 లో ప్రారంభం)\n3. దేశంలో కరెన్సీ మరియు పరపతి నియంత్రణ కోసం భారత రిజర్వ్ బ్యాంక్ (RBI) స్థాపన\nసరైన కోడ్‌ను ఎంచుకోండి:",
         "options_en": [
             "1 and 2 only",
-            "2 and 3 only",
+            "1, 2, and 3",
             "1 and 3 only",
-            "1, 2, and 3"
+            "2 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "2 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 1,
         "explanation_en": "All three features are directly linked to the 1935 Act: it abolished provincial dyarchy granting provincial autonomy, created the Federal Court of India (predecessor of Supreme Court), and provided the legislative basis for the Reserve Bank of India (enacted via RBI Act 1934/1935 framework).",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1935 చట్టం ద్వారా రాష్ట్రాల స్వయంప్రతిపత్తి వచ్చింది, 1937లో ఢిల్లీలో ఫెడరల్ కోర్టు ఏర్పాటైంది, మరియు రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా స్థాపన జరిగింది."
     },
@@ -929,16 +929,16 @@ mock11_gs = [
         "options_en": [
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only",
-            "1, 2, and 3"
+            "1, 2, and 3",
+            "1 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. The Amara-Nayankara system was the cornerstone of Vijayanagara's military-feudal organization. The village autonomy was run by 12 Ayagars (village headman, accountant, watchman, blacksmith, etc.) with tax-exempt *manya* land allotments. Foreign visitors Domingo Paes (reign of Krishnadevaraya) and Fernao Nuniz (reign of Achyuta Raya) left invaluable documentation of these systems.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. విజయనగర సామ్రాజ్యంలో సైనిక నిర్వహణకు అమరనాయంకర వ్యవస్థ ప్రధాన స్తంభం. గ్రామాల్లో 12 మంది వంశపారంపర్య సేవకులతో కూడిన ఆయగార్ వ్యవస్థ గ్రామీణ పాలనను చూసేది; వీరికి పన్ను లేని మాన్యాలు ఉండేవి. డొమింగో పేస్ మరియు ఫెర్నావో న్యూనిజ్ ఈ వివరాలను తమ గ్రంథాలలో రికార్డు చేశారు."
     },
@@ -973,18 +973,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the 1857 Sepoy Mutiny and anti-British insurrection in the Deccan (Hyderabad State):\n1. On July 17, 1857, Turrebaz Khan and Maulvi Alauddin led an armed assault of 5,000 Rohilla insurgents and local patriots on the British Residency located at Koti, Hyderabad.\n2. The rebellion was specifically sparked to demand the release of Jamadar Cheeda Khan, a rebel soldier of the Hyderabad Contingent who refused to fight fellow mutineers in northern India and was imprisoned in the Residency.\n3. After being captured through treachery near Toopran forest, Turrebaz Khan was shot dead, and his body was displayed publicly at Koti police station; Maulvi Alauddin was sentenced to life transportation to the Cellular Jail in Andaman.\nWhich of the statements given above are correct?",
         "question_te": "1857 సిపాయిల తిరుగుబాటు మరియు దక్కన్ (హైదరాబాద్ సంస్థానం) లో జరిగిన బ్రిటిష్ వ్యతిరేక పోరాటానికి సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. 1857 జూలై 17న తుర్రేబాజ్ ఖాన్ మరియు మౌల్వీ అలావుద్దీన్ నాయకత్వంలో సుమారు 5,000 మంది రోహిల్లా యోధులు, దేశభక్తులు హైదరాబాద్ కోటిలోని బ్రిటిష్ రెసిడెన్సీ భవనంపై సాయుధ దాడి చేశారు.\n2. ఉత్తర భారతదేశంలో తిరుగుబాటు చేసిన తోటి సైనికులపై పోరాడేందుకు నిరాకరించినందుకు రెసిడెన్సీలో బంధించబడిన హైదరాబాద్ కంటింజెంట్ దళ జమాదార్ చీడా ఖాన్‌ను విడిపించడమే ఈ దాడికి తక్షణ కారణం.\n3. తూప్రాన్ అటవీ ప్రాంతంలో ద్రోహం వల్ల పట్టుబడిన తుర్రేబాజ్ ఖాన్‌ను బ్రిటిష్ సైన్యం కాల్చి చంపి, ఆయన మృతదేహాన్ని కోటి కొత్వాల్ వద్ద వేలాడదీసింది; మౌల్వీ అలావుద్దీన్‌ను అండమాన్ సెల్యులార్ జైలుకు యావజ్జీవ ద్వీపాంతర శిక్ష విధించి తరలించారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. The 1857 revolt found dramatic resonance in Hyderabad. Cheeda Khan had rebelled from Aurangabad and was held captive in Koti Residency. Turrebaz Khan and Maulvi Alauddin rallied armed crowds on 17 July 1857. Though Resident Major Cuthbert Davidson repelled the attack, Turrebaz Khan became a legendary Deccan martyr, while Maulvi Alauddin suffered exile in the penal colony of Andaman.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1857 ప్రథమ స్వాతంత్ర్య సంగ్రామంలో భాగంగా హైదరాబాద్‌లో జూలై 17, 1857న కోటి బ్రిటిష్ రెసిడెన్సీపై దాడి జరిగింది. ఔరంగాబాద్ నుండి వచ్చి బందీగా ఉన్న చీడా ఖాన్ విడుదలే దీని లక్ష్యం. తుర్రేబాజ్ ఖాన్ వీరమరణం పొందగా, మౌల్వీ అలావుద్దీన్ అండమాన్ కాలాపానీ శిక్షను అనుభవించారు."
     },
@@ -997,17 +997,17 @@ mock11_gs = [
         "question_te": "స్వదేశీ మరియు వందేమాతరం ఉద్యమం (1905–1908) మరియు దక్షిణ భారతదేశంలో దాని ప్రభావానికి సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. 1905 ఆగస్టు 7న కలకత్తా టౌన్ హాల్‌లో జరిగిన భారీ బహిరంగ సభలో బ్రిటిష్ వస్తువుల బహిష్కరణ తీర్మానాన్ని ఆమోదిస్తూ స్వదేశీ ఉద్యమాన్ని అధికారికంగా ప్రకటించారు.\n2. 1907 ఏప్రిల్‌లో అతివాద జాతీయ నాయకుడు బిపిన్ చంద్రపాల్ కోస్తా ఆంధ్రలో పర్యటించి ఉత్తేజపూరిత ఉపన్యాసాలు ఇవ్వడంతో రాజమండ్రి ప్రభుత్వ ఆర్ట్స్ కళాశాల విద్యార్థులు 'వందేమాతరం' బ్యాడ్జీలు ధరించారు.\n3. కళాశాలలో 'వందేమాతరం' నినాదాలు చేసినందుకు ప్రిన్సిపాల్ మార్క్ హంటర్ చేత గాడిచర్ల హరిసర్వోత్తమరావు మరియు ఇతర విద్యార్థులు బహిష్కరణకు గురయ్యారు, ఇది తెలుగు జిల్లాల్లో విద్యార్థి ఉద్యమానికి నాంది పలికింది.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
             "1 and 2 only",
-            "2 and 3 only",
+            "1, 2, and 3",
             "1 and 3 only",
-            "1, 2, and 3"
+            "2 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "2 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. The Boycott movement began on 7 August 1905 in Calcutta. In Andhra, Mutnuri Krishna Rao invited Bipin Chandra Pal to visit in April 1907. Pal delivered inspiring lectures in Rajahmundry, Kakinada, and Machilipatnam. Principal Mark Hunter penalized students wearing Vande Mataram medals, leading to Gadicherla Harisarvottama Rao's suspension and the founding of national schools.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. 1905 ఆగస్టు 7న కలకత్తా టౌన్ హాల్‌లో స్వదేశీ ఉద్యమ బహిష్కరణ తీర్మానం ఆమోదించారు. ముట్నూరి కృష్ణారావు ఆహ్వానం మేరకు 1907 లో బిపిన్ చంద్రపాల్ ఆంధ్రలో పర్యటించారు. రాజమండ్రి ట్రైనింగ్ కాలేజీలో విద్యార్థులు వందేమాతరం బ్యాడ్జీలు ధరించినందుకు మార్క్ హంటర్ గాడిచర్ల హరిసర్వోత్తమరావును డిబార్ చేయడంతో ఆంధ్రదేశమంతటా ఉద్యమం వెల్లువెత్తింది."
     },
@@ -1044,16 +1044,16 @@ mock11_gs = [
         "options_en": [
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only",
-            "1, 2, and 3"
+            "1, 2, and 3",
+            "1 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. Epigraphic evidence from Damodarpur copper plates reveals Gupta provincial governance: Bhuktis headed by Uparikas and Vishayas headed by Vishayapatis assisted by a municipal council of four urban elites (Nagarashreshthi, Sarthavaha, Prathamakulika, Prathamakayastha). The era accelerated feudal land devolution via tax-exempt Agrahara grants with royal non-interference rights (*Apraveshya*).",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. దామోదర్‌పూర్ రాగిరేకుల శాసనాలు గుప్తుల పరిపాలనా విభాగాలుగా భుక్తులు (ఉపరికులు), విషయాలు (విషయపతులు) ఉన్నట్లు తెలుపుతున్నాయి. జిల్లా నగర పాలనలో నలుగురు ప్రముఖులతో కూడిన బోర్డు (నగరశ్రేష్ఠి, సార్థవాహ, ప్రథమకులిక, ప్రథమకాయస్థ) సహాయపడేది. అగ్రహారాలు మరియు దేవగ్రహారాల ద్వారా పన్ను రహిత భూదానాలు విస్తరించి మధ్యయుగ భూస్వామ్య వ్యవస్థకు నాంది పలికాయి."
     },
@@ -1088,18 +1088,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the administrative, military, and agrarian reforms instituted by Sultan Alauddin Khilji (1296–1316 AD):\n1. He established separate strictly regulated markets in Delhi for food grains, expensive cloth, and horses/cattle, placing them under high officials known as Shahna-i-Mandi (market superintendent) and Diwan-i-Riyasat.\n2. To maintain a large standing army without bankrupting the treasury, he became the first Delhi Sultan to pay regular salaries entirely in cash (Naqd) while introducing horse branding (Dagh) and descriptive rolls of soldiers (Chehra/Huliya) to prevent fraudulent muster.\n3. In agrarian administration, he enforced the direct measurement of cultivable land (Misaahat) based on standard yield, fixing the state share of land revenue (Kharaj) at 50% of the produce and creating the department of Diwan-i-Mustakhraj to collect revenue arrears.\nWhich of the statements given above are correct?",
         "question_te": "ఢిల్లీ సుల్తాన్ అల్లావుద్దీన్ ఖిల్జీ (క్రీ.శ. 1296–1316) చేపట్టిన పరిపాలనా, సైనిక మరియు వ్యవసాయ సంస్కరణలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n1. ఢిల్లీలో ఆహార ధాన్యాలు, విలువైన వస్త్రాలు మరియు గుర్రాలు/పశువుల విక్రయాల కోసం ప్రత్యేక మార్కెట్లను ఏర్పాటు చేసి, వాటి పర్యవేక్షణ బాధ్యతలను 'షహనా-ఇ-మండి' (మార్కెట్ సూపరింటెండెంట్) మరియు 'దివాన్-ఇ-రియాసత్' అను ఉన్నతాధికారులకు అప్పగించారు.\n2. భారీ శాశ్వత సైన్యాన్ని ఖజానాపై భారం పడకుండా నిర్వహించేందుకు సైనికులకు నగదు రూపంలో వేతనాలు (నఖ్ద్) చెల్లించే పద్ధతిని ప్రవేశపెట్టిన మొదటి ఢిల్లీ సుల్తాన్‌గా నిలిచారు; అలాగే సైన్యంలో అవకతవకలను అరికట్టేందుకు గుర్రాలపై ముద్ర వేసే 'దాగ్' మరియు సైనికుల వివరాల రిజిస్టర్ 'చెహ్రా/హులియా' విధానాలను అమలు చేశారు.\n3. వ్యవసాయ రంగంలో ప్రామాణిక విస్తీర్ణ కొలతలతో కూడిన 'మిసాహత్' పద్ధతి ద్వారా భూమిని కొలిపించి, దిగుబడిలో సగభాగాన్ని (50%) భూమిశిస్తుగా (ఖరాజ్) నిర్ణయించారు; మరియు బకాయిల వసూలు కోసం 'దివాన్-ఇ-ముస్తఖ్‌రాజ్' అనే ప్రత్యేక విభాగాన్ని ఏర్పాటు చేశారు.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2, and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2, and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three statements are correct. Ziauddin Barani's Tarikh-i-Firoz Shahi details Alauddin Khilji's comprehensive socioeconomic reforms. He controlled price escalation in Delhi to maintain a massive army against Mongol invasions, establishing the Sarai-i-Adl cloth market and grain mandis monitored by Barids (spies) and Munhiyans. He institutionalized cash payment of troops, Dagh and Chehra systems, measured land based on biswa (Misaahat), and eliminated intermediary Muqaddams and Khuts by extracting 50% revenue directly.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. మంగోలుల దండయాత్రలను ఎదుర్కొనేందుకు అల్లావుద్దీన్ ఖిల్జీ మార్కెట్ సంస్కరణలను చేపట్టారు. షహనా-ఇ-మండి, దివాన్-ఇ-రియాసత్ ద్వారా ధరలను కఠినంగా నియంత్రించారు. సైన్యంలో అవినీతిని అరికట్టేందుకు గుర్రాలకు దాగ్, సైనికులకు చెహ్రా విధానం తెచ్చారు. భూమిని కొలిపించి (మిసాహత్) 50% శిస్తు వసూలు చేశారు, బకాయిల కోసం దివాన్-ఇ-ముస్తఖ్‌రాజ్ విభాగాన్ని నెలకొల్పారు."
     },
@@ -1135,17 +1135,17 @@ mock11_gs = [
         "question_te": "సింధు లోయ నాగరికత యొక్క విదేశీ వాణిజ్యం మరియు మతపరమైన నిర్మాణాలకు సంబంధించి క్రింది అంశాలను పరిశీలించండి:\n1. గుజరాత్‌లోని భోగావో నది తీరాన ఉన్న లోథాల్ వద్ద ఖంభాట్ సింధుశాఖతో అనుసంధానించబడిన ప్రపంచంలోనే అత్యంత ప్రాచీన కృత్రిమ టైడల్ డాక్‌యార్డ్ (ఓడరేవు) బయల్పడింది.\n2. అక్కాడియన్ పాలకుడు సర్గాన్ మెసొపొటేమియా శిలాశాసనాలలో సింధు ప్రాంతాన్ని 'మెలుహా'గా పేర్కొన్నాడు; అలాగే దిల్మున్ (బహ్రెయిన్), మగన్ (ఒమన్)లను మధ్యవర్తిత్వ వాణిజ్య కేంద్రాలుగా వివరించాడు.\n3. కాలీబంగన్ మరియు లోథాల్ నగరాల త్రవ్వకాలలో 'అగ్ని వేదికలు' (Fire Altars) లభించాయి; ఇవి అగ్ని ఆధారిత క్రతువుల ఉనికిని ధృవీకరిస్తున్నాయి.\nపై ప్రకటనలలో సరైనవి ఏవి?",
         "options_en": [
             "1 and 2 only",
-            "2 and 3 only",
+            "1, 2, and 3",
             "1 and 3 only",
-            "1, 2, and 3"
+            "2 and 3 only"
         ],
         "options_te": [
             "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "2 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. Lothal had a massive brick-lined tidal dockyard along the Bhogava river. Mesopotamian records explicitly mention commerce with Meluhha (Indus valley) via Dilmun and Magan. Excavations at Kalibangan and Lothal revealed unique brick fire altars, denoting sacrificial or purification rituals.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. లోథాల్ వద్ద ప్రపంచంలోనే తొలి టైడల్ డాక్‌యార్డ్ లభించింది. మెసొపొటేమియా శాసనాలు సింధు ప్రాంతాన్ని మెలుహాగా ప్రస్తావించాయి. అలాగే కాలీబంగన్, లోథాల్‌లలో లభించిన అగ్ని వేదికలు నాటి మతపరమైన ఆచారాలను సూచిస్తున్నాయి."
     },
@@ -1157,18 +1157,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the peninsular rivers of India flowing through rift valleys:\n\n1. Both the Narmada and Tapi rivers originate in Madhya Pradesh and drain into the Arabian Sea through estuaries.\n2. The Narmada flows in a rift valley between the Vindhya Range in the north and the Satpura Range in the south.\n3. The Sabarmati and Mahi rivers also flow through fault-guided rift valleys.\n\nWhich of the statements given above are correct?",
         "question_te": "పగులు లోయల (Rift Valleys) గుండా ప్రవహించే భారత ద్వీపకల్ప నదులకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. నర్మద మరియు తపతి నదులు రెండూ మధ్యప్రదేశ్‌లో జన్మించి, ఎస్తువరీలను (Estuaries) ఏర్పరుస్తూ అరేబియా సముద్రంలో కలుస్తాయి.\n2. నర్మదా నది ఉత్తరాన వింధ్య పర్వతాలు మరియు దక్షిణాన సాత్పురా పర్వత శ్రేణుల మధ్య గల పగులు లోయ గుండా ప్రవహిస్తుంది.\n3. సబర్మతి మరియు మహీ నదులు కూడా పగులు లోయల ద్వారా ప్రవహిస్తాయి.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1 and 2 only",
-            "2 and 3 only",
             "1 and 3 only",
+            "2 and 3 only",
+            "1 and 2 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
+            "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Statements 1 and 2 are correct. The Narmada originates from Amarkantak and flows in a linear rift valley between Vindhyas and Satpuras into Gulf of Khambhat (Arabian Sea). Tapi originates from Multai in Betul district and flows south of Satpuras. Both form estuaries without deltas. Sabarmati and Mahi originate in Aravallis and Vindhyas respectively and do not occupy classical fault rift valleys.",
         "explanation_te": "ప్రకటనలు 1 మరియు 2 సరైనవి. నర్మదా నది అమర్‌కంటక్ వద్ద జన్మించి వింధ్య, సాత్పురా పర్వతాల మధ్య పగులు లోయలో ప్రవహిస్తూ అరేబియా సముద్రంలో కలుస్తుంది. తపతి బేతుల్ వద్ద జన్మించి సాత్పురాకు దక్షిణంగా ప్రవహిస్తుంది. ఇవి డెల్టాలను కాకుండా ఎస్తువరీలను ఏర్పరుస్తాయి."
     },
@@ -1182,16 +1182,16 @@ mock11_gs = [
         "options_en": [
             "Only two pairs",
             "Only three pairs",
-            "All four pairs",
-            "Only one pair"
+            "Only one pair",
+            "All four pairs"
         ],
         "options_te": [
             "రెండు జతలు మాత్రమే",
             "మూడు జతలు మాత్రమే",
-            "నాలుగు జతలూ సరైనవే",
-            "ఒక జత మాత్రమే"
+            "ఒక జత మాత్రమే",
+            "నాలుగు జతలూ సరైనవే"
         ],
-        "correct_option": 2,
+        "correct_option": 3,
         "explanation_en": "All four pairs are correctly matched. Anamudi (2,695 m in Kerala) is the highest peak in the Western Ghats and Peninsular India. Arma Konda / Jindhagada (1,680 m in Visakhapatnam region) is the highest peak in the Eastern Ghats. Guru Shikhar (1,722 m in Mount Abu) is the highest peak in the Aravallis. Doddabetta (2,637 m) is the highest peak in the Nilgiri Hills.",
         "explanation_te": "నాలుగు జతలూ సరిగ్గా జతపరచబడ్డాయి. పశ్చిమ కనుమలలో ఆనైముడి (2,695 మీ), తూర్పు కనుమలలో అరోమా కొండ / జిందగడ (1,680 మీ), ఆరావళి శ్రేణిలో గురు శిఖర్ (1,722 మీ), మరియు నీలగిరి కొండలలో దొడ్డబెట్ట (2,637 మీ) అత్యున్నత శిఖరాలు."
     },
@@ -1203,18 +1203,18 @@ mock11_gs = [
         "question_en": "Consider the following mechanisms influencing the onset and intensity of the South-West Monsoon in India:\n\n1. Northward shift of the Inter-Tropical Convergence Zone (ITCZ) over the Ganga plain in summer.\n2. Intense differential heating of the Tibetan Plateau leading to vertical air currents and low pressure at high altitude.\n3. Presence of the Tropical Easterly Jet stream over peninsular India steering monsoon depressions.\n\nWhich of the factors given above are responsible for the South-West Monsoon?",
         "question_te": "భారతదేశంలో నైరుతి రుతుపవనాల ఆగమనం మరియు తీవ్రతను ప్రభావితం చేసే క్రింది అంశాలను పరిశీలించండి:\n\n1. వేసవిలో అంతర ఆయనరేఖా కలయిక మండలం (ITCZ) గంగా మైదానం వైపు ఉత్తరానికి విస్తరించడం.\n2. టిబెట్ పీఠభూమి తీవ్రంగా వేడెక్కి అల్పపీడన కేంద్రంగా మారడం.\n3. ద్వీపకల్ప భారతదేశంపై ఆయనరేఖా తూర్పు జెట్ స్ట్రీమ్ (Tropical Easterly Jet) ఏర్పడి రుతుపవన అల్పపీడనాలను నడపడం.\n\nనైరుతి రుతుపవనాలకు పై అంశాలలో ఏవి దోహదం చేస్తాయి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2 and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2 and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 3,
+        "correct_option": 0,
         "explanation_en": "All three factors are established meteorological drivers of the South-West Monsoon. The northward displacement of ITCZ creates the monsoon trough over northern India; Tibetan heating establishes a thermal anticyclone aloft driving the Tropical Easterly Jet (TEJ); Somali Jet and Mascarene High pump moist maritime air over the Indian subcontinent.",
         "explanation_te": "మూడు అంశాలూ సరైనవే. ITCZ ఉత్తరానికి జరగడం, టిబెట్ పీఠభూమి వేడెక్కడం వల్ల తూర్పు జెట్ స్ట్రీమ్ ఏర్పడటం, మరియు మస్కరీన్ హై వద్ద గాలి సాంద్రత నైరుతి రుతుపవనాల ఆగమనానికి మరియు వర్షపాతానికి ప్రధాన కారణాలు."
     },
@@ -1226,18 +1226,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding Black Soils (Regur) of India:\n\n1. They are formed predominantly by the weathering of volcanic basaltic lava on the Deccan Trap.\n2. They possess a high clay content with swelling during rains and deep cracking during dry summers, exhibiting 'self-ploughing' characteristics.\n3. They are exceptionally rich in nitrogen, phosphorus, and organic humus.\n\nWhich of the statements given above is/are correct?",
         "question_te": "భారతదేశంలోని నల్లరేగడి నేలలు (రెగూర్) కు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ఇవి దక్కన్ ట్రాప్‌లోని అగ్నిపర్వత బసాల్ట్ శిలలు శైథిల్యం చెందడం వల్ల ఏర్పడ్డాయి.\n2. ఇవి అధిక బంకమట్టిని కలిగి ఉండి, వర్షానికి ఉబ్బి, వేసవిలో లోతైన నెర్రలు ఏర్పరుచుకుంటూ 'స్వయం దుక్కు' (Self-ploughing) లక్షణాన్ని ప్రదర్శిస్తాయి.\n3. ఇవి నత్రజని, భాస్వరం మరియు సేంద్రీయ హ్యూమస్ పోషకాలతో అత్యంత సమృద్ధిగా ఉంటాయి.\n\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
         "options_en": [
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
             "1 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
             "1 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Statements 1 and 2 are correct. Black soil (Regur) is rich in iron, lime, calcium, potassium, and magnesium, and has high moisture-retaining capacity. Statement 3 is incorrect: Like most Indian soils, black soils are typically deficient in nitrogen, phosphorus, and organic matter (humus).",
         "explanation_te": "ప్రకటనలు 1 మరియు 2 సరైనవి. నల్లరేగడి నేలలు బసాల్ట్ లావా శైథిల్యం వల్ల ఏర్పడి, తేమను నిల్వ ఉంచే సామర్థ్యం కలిగి ఉంటాయి. ప్రకటన 3 తప్పు: భారతీయ నల్లరేగడి నేలల్లో నత్రజని, భాస్వరం మరియు సేంద్రీయ పదార్థం (హ్యూమస్) లోపిస్తాయి."
     },
@@ -1249,18 +1249,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding Mangrove ecosystems in India:\n\n1. Mangrove plants exhibit specialised adaptations such as pneumatophores (blind roots for breathing) and vivipary (germination while still attached to the tree).\n2. Coringa Mangroves, situated at the estuary of the Godavari river, constitute the second-largest mangrove formation on India's eastern coast after the Sundarbans.\n3. Mangroves flourish only in completely fresh, non-saline riverine waters.\n\nWhich of the statements given above is/are correct?",
         "question_te": "భారతదేశంలోని మడ అడవుల (మాంగ్రోవ్స్) పర్యావరణ వ్యవస్థకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. మడ అడవుల మొక్కలు శ్వాస మూలాలు (Pneumatophores) మరియు ఫలంలోనే విత్తన మొలకెత్తే లక్షణం (Vivipary) వంటి ప్రత్యేక అనుకూలనాలను కలిగి ఉంటాయి.\n2. గోదావరి నదీ ముఖద్వారం వద్ద గల కోరింగ మడ అడవులు సుందర్‌బన్స్ తర్వాత భారత తూర్పు తీరంలో రెండవ అతిపెద్ద మడ అడవుల ప్రాంతం.\n3. మడ అడవులు ఉప్పు లేని కేవలం స్వచ్ఛమైన మంచి నీటి నదుల్లో మాత్రమే వర్ధిల్లుతాయి.\n\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
         "options_en": [
-            "1 and 2 only",
-            "2 and 3 only",
             "1 only",
+            "2 and 3 only",
+            "1 and 2 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
-            "2 మరియు 3 మాత్రమే",
             "1 మాత్రమే",
+            "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Statements 1 and 2 are correct. Mangroves are halophytic intertidal plants with pneumatophores and viviparous reproduction. Coringa in Andhra Pradesh (Godavari estuary) is India's second largest East Coast mangrove formation. Statement 3 is incorrect: Mangroves are specifically halophytes adapted to saline and brackish intertidal waters.",
         "explanation_te": "ప్రకటనలు 1 మరియు 2 సరైనవి. మడ అడవులు శ్వాస మూలాలు మరియు వివిపారి లక్షణాలు కలిగిన లవణీయ మొక్కలు (Halophytes). గోదావరి ముఖద్వారంలోని కోరింగ రెండవ అతిపెద్దది. ప్రకటన 3 తప్పు: ఇవి ఉప్పు మరియు బ్రాకిష్ నీటిలో పెరుగుతాయి."
     },
@@ -1272,18 +1272,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding biodiversity conservation in India:\n\n1. Nilgiri Biosphere Reserve was the first biosphere reserve designated in India in 1986.\n2. 'Project Tiger' was officially launched by the Government of India in 1973 from Corbett National Park in Uttarakhand.\n3. The National Tiger Conservation Authority (NTCA) is a non-statutory body functioning under the Ministry of Environment, Forest and Climate Change.\n\nWhich of the statements given above are correct?",
         "question_te": "భారతదేశంలో జీవవైవిధ్య పరిరక్షణకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. నీలగిరి బయోస్పియర్ రిజర్వ్ 1986 లో భారతదేశంలో ఏర్పాటు చేయబడిన మొట్టమొదటి బయోస్పియర్ రిజర్వ్.\n2. ఉత్తరాఖండ్‌లోని కార్బెట్ జాతీయ పార్కు నుండి 1973 లో భారత ప్రభుత్వం అధికారికంగా 'ప్రాజెక్ట్ టైగర్'ను ప్రారంభించింది.\n3. జాతీయ పులుల పరిరక్షణ అథారిటీ (NTCA) పర్యావరణ మంత్రిత్వ శాఖ క్రింద పనిచేసే ఒక నాన్-స్టాట్యుటరీ (చట్టబద్ధత లేని) సంస్థ.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1 and 2 only",
+            "1, 2 and 3",
             "2 and 3 only",
             "1 and 3 only",
-            "1, 2 and 3"
+            "1 and 2 only"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే",
-            "1, 2 మరియు 3"
+            "1 మరియు 2 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Statements 1 and 2 are correct. Nilgiri was declared India's first biosphere reserve in 1986. Project Tiger was launched in April 1973 from Jim Corbett. Statement 3 is incorrect: The NTCA is a statutory body constituted under Section 38L of the Wildlife (Protection) Act, 1972 as amended in 2006.",
         "explanation_te": "ప్రకటనలు 1 మరియు 2 సరైనవి. నీలగిరి 1986 లో మొదటి బయోస్పియర్ రిజర్వ్. 1973 లో కార్బెట్ నుండి ప్రాజెక్ట్ టైగర్ ప్రారంభమైంది. ప్రకటన 3 తప్పు: NTCA అనేది వన్యప్రాణి సంరక్షణ చట్టం 1972 (2006 సవరణ) కింద ఏర్పాటు చేయబడిన చట్టబద్ధమైన (Statutory) సంస్థ."
     },
@@ -1318,18 +1318,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the physical geography and soil distribution of Telangana State:\n\n1. Geologically, Telangana forms an integral part of the stable Archaean peninsular shield on the Deccan Plateau.\n2. Red sandy soils known locally as 'Chalka' and red loams known as 'Dubba' cover more than half of the geographical area of the state.\n3. The average slope of Telangana plateau is from West to East and South-East, determining the flow of both Godavari and Krishna rivers.\n\nWhich of the statements given above are correct?",
         "question_te": "తెలంగాణ రాష్ట్ర భౌగోళిక స్వరూపం మరియు నేలల విస్తరణకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. భౌగోళికంగా తెలంగాణ దక్కన్ పీఠభూమిలోని ప్రాచీన ఆర్కియన్ ద్వీపకల్ప షీల్డ్‌లో అంతర్భాగం.\n2. స్థానికంగా 'చల్కా' అని పిలువబడే ఎర్ర ఇసుక నేలలు మరియు 'దుబ్బా' అని పిలువబడే ఎర్ర రేగడి నేలలు రాష్ట్ర భౌగోళిక విస్తీర్ణంలో సగానికి పైగా విస్తరించి ఉన్నాయి.\n3. తెలంగాణ పీఠభూమి సాధారణ వాలు పశ్చిమం నుండి తూర్పు మరియు ఆగ్నేయ దిశల వైపుకు ఉండటం వలన గోదావరి మరియు కృష్ణా నదులు అదే దిశలో ప్రవహిస్తున్నాయి.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
             "1 and 2 only",
+            "1, 2 and 3",
             "2 and 3 only",
             "1 and 3 only"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
             "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. Telangana rests on the ancient Archaean crystalline complex. Over 54% of its area is covered by red soils (Chalka and Dubba). The plateau slopes from West to East/South-East, causing all major rivers (Godavari, Krishna, Manjeera, Musi) to drain eastwards towards the Bay of Bengal.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. తెలంగాణ ప్రాచీన ఆర్కియన్ దక్కన్ పీఠభూమిపై ఉంది. 50% పైగా నేలలు ఎర్ర నేలలే (చల్కా మరియు దుబ్బా). పీఠభూమి వాలు పశ్చిమం నుండి తూర్పు-ఆగ్నేయ దిశగా ఉన్నందున గోదావరి, కృష్ణా నదులు బంగాళాఖాతం వైపు ప్రవహిస్తాయి."
     },
@@ -1341,18 +1341,18 @@ mock11_gs = [
         "question_en": "Consider the following pairs of mineral resources and their major mining centres in India:\n\n1. Coal : Singareni (Pranhita-Godavari Valley, Telangana)\n2. Iron Ore : Kudremukh and Bailadila\n3. Copper : Khetri (Rajasthan) and Malanjkhand (Madhya Pradesh)\n4. Bauxite : Panchpatmali (Koraput, Odisha)\n\nHow many of the pairs given above are correctly matched?",
         "question_te": "భారతదేశంలోని ఖనిజ వనరులు మరియు వాటి ప్రధాన గనుల కేంద్రాలకు సంబంధించి క్రింది జతలను పరిశీలించండి:\n\n1. బొగ్గు : సింగరేణి (ప్రాణహిత-గోదావరి లోయ, తెలంగాణ)\n2. ఇనుప ఖనిజం : కుద్రేముఖ్ మరియు బైలదిల్లా\n3. రాగి : ఖేత్రి (రాజస్థాన్) మరియు మలంజ్‌ఖండ్ (మధ్యప్రదేశ్)\n4. బాక్సైట్ : పంచపత్మలి (కోరాపుట్, ఒడిశా)\n\nపై జతలలో ఎన్ని సరిగ్గా జతపరచబడ్డాయి?",
         "options_en": [
-            "All four pairs",
-            "Only three pairs",
             "Only two pairs",
+            "Only three pairs",
+            "All four pairs",
             "Only one pair"
         ],
         "options_te": [
-            "నాలుగు జతలూ సరిగ్గా జతపరచబడ్డాయి",
-            "మూడు జతలు మాత్రమే",
             "రెండు జతలు మాత్రమే",
+            "మూడు జతలు మాత్రమే",
+            "నాలుగు జతలూ సరిగ్గా జతపరచబడ్డాయి",
             "ఒక జత మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "All four pairs are correctly matched. SCCL operates coal mines across Godavari valley in Telangana. Kudremukh (Karnataka) and Bailadila (Chhattisgarh) are famous iron ore deposits. Khetri and Malanjkhand are India's premier copper mines. Panchpatmali in Odisha is one of the world's largest bauxite deposits operated by NALCO.",
         "explanation_te": "నాలుగు జతలూ సరిగ్గా సరిపోలాయి. తెలంగాణలో సింగరేణి బొగ్గుకు, కుద్రేముఖ్-బైలదిల్లా ఇనుముకు, ఖేత్రి-మలంజ్‌ఖండ్ రాగికి, మరియు ఒడిశాలోని పంచపత్మలి బాక్సైట్ గనులకు ప్రసిద్ధి."
     },
@@ -1364,18 +1364,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the structure of Earth's atmosphere:\n\n1. In the Troposphere, temperature normally decreases with increasing altitude at the average normal lapse rate of 6.5°C per kilometre.\n2. The Stratosphere contains the protective Ozone Layer and is virtually free of clouds, making it ideal for flying commercial jet aircraft.\n3. The Ionosphere reflects high-frequency radio waves back to Earth, enabling long-distance terrestrial telecommunication.\n\nWhich of the statements given above are correct?",
         "question_te": "భూ వాతావరణ నిర్మాణంపై క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ట్రోపోస్ఫియర్‌లో ఎత్తు పెరిగే కొద్దీ ఉష్ణోగ్రత సాధారణ క్షీణత రేటు (Lapse Rate) కిలోమీటరుకు సగటున 6.5°C చొప్పున తగ్గుతుంది.\n2. స్ట్రాటోస్ఫియర్‌లో ఓజోన్ పొర ఉంటుంది మరియు ఇది మేఘాలు లేకుండా ప్రశాంతంగా ఉండటం వల్ల జెట్ విమానాల రాకపోకలకు అనువైనది.\n3. ఐనోస్ఫియర్ రేడియో తరంగాలను తిరిగి భూమికి పరావర్తనం చేయడం ద్వారా సుదూర టెలికమ్యూనికేషన్‌కు సహకరిస్తుంది.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
+            "1 and 3 only",
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only"
+            "1, 2 and 3"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే",
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే"
+            "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "All three statements are correct. The normal lapse rate in the troposphere is 6.5°C/km. The stratosphere holds ozone (O3) and provides turbulence-free flight corridors. The electrically charged ionosphere (part of thermosphere) reflects shortwave radio broadcasts.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. ట్రోపోస్ఫియర్‌లో ఉష్ణోగ్రత తగ్గుతుంది (6.5°C/కి.మీ), స్ట్రాటోస్ఫియర్‌లో ఓజోన్ పొర ఉండి జెట్ విమానాలకు అనుకూలం, మరియు ఐనోస్ఫియర్ రేడియో తరంగాలను పరావర్తనం చేస్తుంది."
     },
@@ -1410,18 +1410,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding global ocean currents:\n\n1. Cold ocean currents flow along the western coasts of continents in subtropical latitudes, contributing to the formation of major coastal hot deserts.\n2. The meeting of warm currents (such as Gulf Stream) and cold currents (such as Labrador Current) creates thick sea fog and creates world-renowned fishing grounds like Grand Banks of Newfoundland.\n3. The Kuroshio is a cold polar current in the North Atlantic Ocean.\n\nWhich of the statements given above is/are correct?",
         "question_te": "ప్రపంచ సముద్ర ప్రవాహాలకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ఉప ఆయనరేఖా ప్రాంతాల్లోని ఖండాల పశ్చిమ తీరాల వెంబడి శీతల ప్రవాహాలు ప్రవహించడం తీరప్రాంత ఎడారులు ఏర్పడటానికి ప్రధాన కారణం.\n2. ఉష్ణ ప్రవాహాలు (గల్ఫ్ స్ట్రీమ్) మరియు శీతల ప్రవాహాలు (లాబ్రడార్) కలిసే ప్రాంతాల్లో దట్టమైన పొగమంచు ఏర్పడుతూనే, గ్రాండ్ బ్యాంక్స్ వంటి ప్రపంచ ప్రసిద్ధ మత్స్య కేంద్రాలు ఏర్పడతాయి.\n3. కురోషియో అనేది ఉత్తర అట్లాంటిక్ మహాసముద్రంలోని ఒక శీతల ధ్రువ ప్రవాహం.\n\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
         "options_en": [
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
             "1 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
             "1 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Statements 1 and 2 are correct. Cold currents (Benguela, Humboldt, California, Canaries) create desiccation along western continental margins leading to deserts (Atacama, Namib). Convergence of warm and cold currents stimulates plankton bloom making them prolific fishing grounds. Statement 3 is incorrect: Kuroshio is a warm current in the western North Pacific Ocean (off Japan).",
         "explanation_te": "ప్రకటనలు 1 మరియు 2 సరైనవి. పశ్చిమ తీరాల్లో శీతల ప్రవాహాలు ఎడారులు ఏర్పడటానికి కారణమవుతాయి. ఉష్ణ-శీతల ప్రవాహాలు కలిసే చోట చేపల ఆహారం (ప్లాంక్టన్) పెరిగి గొప్ప మత్స్య కేంద్రాలు ఏర్పడతాయి. ప్రకటన 3 తప్పు: కురోషియో అనేది పసిఫిక్ మహాసముద్రంలోని ఉష్ణ ప్రవాహం."
     },
@@ -1433,18 +1433,18 @@ mock11_gs = [
         "question_en": "Consider the following pairs of Indian cropping seasons and representative crops:\n\n1. Kharif Season (Sown June–July) : Paddy, Cotton, Jowar, Maize\n2. Rabi Season (Sown Oct–Dec) : Wheat, Barley, Mustard, Gram\n3. Zaid Season (Sown March–April) : Watermelon, Muskmelon, Cucumber\n\nWhich of the pairs given above are correctly matched?",
         "question_te": "భారత వ్యవసాయ పంట కాలాలు మరియు వాటి ప్రధాన పంటలకు సంబంధించి క్రింది జతలను పరిశీలించండి:\n\n1. ఖరీఫ్ కాలం (జూన్-జూలై) : వరి, పత్తి, జొన్న, మొక్కజొన్న\n2. రబీ కాలం (అక్టోబర్-డిసెంబర్) : గోధుమ, బార్లీ, ఆవాలు, శనగలు\n3. జాయెద్ కాలం (మార్చి-ఏప్రిల్) : పుచ్చకాయ, దోసకాయ, కర్బూజ\n\nపై జతలలో ఏవి సరిగ్గా జతపరచబడ్డాయి?",
         "options_en": [
-            "1, 2 and 3",
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3",
             "1 and 3 only"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "All three pairs are correctly matched. Kharif coincides with the South-West Monsoon (monsoon crops). Rabi is the winter cropping season harvested in spring. Zaid is the short summer season between Rabi and Kharif dominated by vegetables and melons.",
         "explanation_te": "మూడు జతలూ సరిగ్గా సరిపోలాయి. ఖరీఫ్ వర్షాకాల పంటలు (వరి, పత్తి), రబీ శీతాకాల పంటలు (గోధుమ, శనగలు), మరియు జాయెద్ వేసవి పంటలు (పుచ్చకాయ, కూరగాయలు)."
     },
@@ -1456,18 +1456,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the institutional framework under the Disaster Management Act, 2005 in India:\n\n1. The National Disaster Management Authority (NDMA) is headed by the Prime Minister as its ex-officio Chairperson.\n2. The State Disaster Management Authority (SDMA) is headed by the respective Chief Minister.\n3. The National Disaster Response Force (NDRF) is constituted under the Act for specialized response to threatening disaster situations.\n\nWhich of the statements given above are correct?",
         "question_te": "విపత్తు నిర్వహణ చట్టం, 2005 కింద ఏర్పడిన సంస్థాగత వ్యవస్థకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. జాతీయ విపత్తు నిర్వహణ అథారిటీ (NDMA) కి ప్రధానమంత్రి ఎక్స్-అఫీషియో ఛైర్‌పర్సన్‌గా వ్యవహరిస్తారు.\n2. రాష్ట్ర విపత్తు నిర్వహణ అథారిటీ (SDMA) కి ఆయా రాష్ట్ర ముఖ్యమంత్రి ఛైర్‌పర్సన్‌గా ఉంటారు.\n3. విపత్తు సమయాల్లో ప్రత్యేక అత్యవసర సహాయక చర్యల కోసం ఈ చట్టం కింద నేషనల్ డిజాస్టర్ రెస్పాన్స్ ఫోర్స్ (NDRF) ఏర్పాటు చేయబడింది.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
+            "1 and 3 only",
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only"
+            "1, 2 and 3"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే",
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే"
+            "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "All three statements are correct under the Disaster Management Act, 2005. Section 3 designates the Prime Minister as NDMA Chairperson; Section 14 designates the Chief Minister as SDMA Chairperson; Section 44 establishes the NDRF as a specialized multidisciplinary disaster response force.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. విపత్తు నిర్వహణ చట్టం 2005 ప్రకారం NDMA అధిపతి ప్రధానమంత్రి, SDMA అధిపతి ముఖ్యమంత్రి, మరియు విపత్తు సహాయక చర్యల కోసం NDRF ఏర్పాటు చేయబడింది."
     },
@@ -1502,18 +1502,18 @@ mock11_gs = [
         "question_en": "Consider the following statements comparing Cash Reserve Ratio (CRR) and Statutory Liquidity Ratio (SLR):\n\n1. Under CRR, commercial banks must maintain a specified proportion of their Net Demand and Time Liabilities (NDTL) exclusively in cash with the Reserve Bank of India.\n2. Under SLR, commercial banks must maintain liquid assets (such as cash, gold, or approved government securities) with themselves.\n3. The Reserve Bank of India pays regular interest to commercial banks on the reserves maintained under CRR.\n\nWhich of the statements given above is/are correct?",
         "question_te": "నగదు నిల్వల నిష్పత్తి (CRR) మరియు చట్టబద్ధ ద్రవ్యత్వ నిష్పత్తి (SLR) లను పోల్చుతూ క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. CRR కింద వాణిజ్య బ్యాంకులు తమ నికర డిమాండ్ మరియు కాలపరిమితి బాధ్యతలలో (NDTL) నిర్దిష్ట శాతాన్ని కేవలం నగదు రూపంలో ఆర్‌బీఐ వద్ద ఉంచాలి.\n2. SLR కింద వాణిజ్య బ్యాంకులు తమ వద్దే నగదు, బంగారం లేదా ఆమోదిత ప్రభుత్వ సెక్యూరిటీల రూపంలో నిల్వలను నిర్వహించాలి.\n3. CRR కింద బ్యాంకులు ఆర్‌బీఐ వద్ద ఉంచే నిల్వలపై ఆర్‌బీఐ సాధారణ వడ్డీని చెల్లిస్తుంది.\n\nపై ప్రకటనలలో ఏది/ఏవి సరైనది/సరైనవి?",
         "options_en": [
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
             "1 only",
             "1, 2 and 3"
         ],
         "options_te": [
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
             "1 మాత్రమే",
             "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Statements 1 and 2 are correct. CRR is held in cash with RBI (Section 42 of RBI Act), while SLR is maintained by banks with themselves in liquid approved assets (Section 24 of Banking Regulation Act). Statement 3 is incorrect: RBI does not pay any interest to banks on their CRR balances.",
         "explanation_te": "ప్రకటనలు 1 మరియు 2 సరైనవి. CRR నగదు రూపంలో ఆర్‌బీఐ వద్ద ఉంటుంది, SLR బ్యాంకుల వద్దే ప్రభుత్వ బాండ్లు, బంగారం రూపంలో ఉంటుంది. ప్రకటన 3 తప్పు: CRR నిల్వలపై ఆర్‌బీఐ బ్యాంకులకు ఎటువంటి వడ్డీ చెల్లించదు."
     },
@@ -1525,18 +1525,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the Insolvency and Bankruptcy Code (IBC), 2016:\n\n1. The Corporate Insolvency Resolution Process (CIRP) must mandatorily be completed within 180 days, extendable once by 90 days.\n2. The National Company Law Tribunal (NCLT) functions as the designated Adjudicating Authority for corporate debtors.\n3. The Insolvency and Bankruptcy Board of India (IBBI) is the apex regulatory body governing insolvency professionals and information utilities.\n\nWhich of the statements given above are correct?",
         "question_te": "దివాలా మరియు రుణ పరిష్కార నియమావళి (IBC), 2016 కి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. కార్పొరేట్ రుణ పరిష్కార ప్రక్రియ (CIRP) తప్పనిసరిగా 180 రోజుల్లో పూర్తి కావాలి, దీనిని మరో 90 రోజులు మాత్రమే పొడిగించవచ్చు.\n2. కార్పొరేట్ కంపెనీల రుణ పరిష్కార వివాదాలకు నేషనల్ కంపెనీ లా ట్రిబ్యునల్ (NCLT) తీర్పునిచ్చే అథారిటీగా వ్యవహరిస్తుంది.\n3. ఇన్సాల్వెన్సీ ప్రొఫెషనల్స్ మరియు ఇన్ఫర్మేషన్ యుటిలిటీలను నియంత్రించే అత్యున్నత సంస్థగా ఇన్సాల్వెన్సీ అండ్ బ్యాంక్‌రప్సీ బోర్డ్ ఆఫ్ ఇండియా (IBBI) ఏర్పడింది.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3",
             "1 and 3 only"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. IBC 2016 mandates 180 days + 90 days extension (total outer limit of 330 days including litigation). NCLT is the adjudicating authority for corporate persons, while Debt Recovery Tribunal (DRT) handles individuals. IBBI regulates the insolvency profession.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. IBC 2016 ప్రకారం పరిష్కార గడువు 180 రోజులు + 90 రోజుల పొడిగింపు. కార్పొరేట్ సంస్థలకు NCLT న్యాయధికార సంస్థ, మరియు IBBI నియంత్రణ మండలిగా వ్యవహరిస్తుంది."
     },
@@ -1548,18 +1548,18 @@ mock11_gs = [
         "question_en": "In national income accounting methodology adopted by India, what is the exact mathematical relationship between Gross Domestic Product (GDP) at Market Prices and Gross Value Added (GVA) at Basic Prices?",
         "question_te": "భారతదేశం అవలంబిస్తున్న జాతీయ ఆదాయ గణాంక పద్ధతిలో, మార్కెట్ ధరల్లో స్థూల దేశీయోత్పత్తి (GDP at Market Prices) మరియు ప్రాథమిక ధరల్లో స్థూల విలువ జోడింపు (GVA at Basic Prices) మధ్య గల ఖచ్చితమైన గణిత సంబంధం ఏమిటి?",
         "options_en": [
-            "GDP at Market Prices = GVA at Basic Prices + Product Taxes - Product Subsidies",
+            "GDP at Market Prices = GVA at Basic Prices + Net Factor Income from Abroad",
             "GDP at Market Prices = GVA at Basic Prices - Product Taxes + Product Subsidies",
             "GDP at Market Prices = GVA at Basic Prices + Production Taxes - Production Subsidies",
-            "GDP at Market Prices = GVA at Basic Prices + Net Factor Income from Abroad"
+            "GDP at Market Prices = GVA at Basic Prices + Product Taxes - Product Subsidies"
         ],
         "options_te": [
-            "మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA + ఉత్పత్తులపై పన్నులు - ఉత్పత్తులపై రాయితీలు",
+            "మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA + విదేశాల నుండి వచ్చిన నికర కారక ఆదాయం",
             "మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA - ఉత్పత్తులపై పన్నులు + ఉత్పత్తులపై రాయితీలు",
             "మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA + ఉత్పత్తి పన్నులు - ఉత్పత్తి రాయితీలు",
-            "మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA + విదేశాల నుండి వచ్చిన నికర కారక ఆదాయం"
+            "మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA + ఉత్పత్తులపై పన్నులు - ఉత్పత్తులపై రాయితీలు"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Under India's national accounting system introduced in 2015: GDP at Market Prices = GVA at Basic Prices + Product Taxes - Product Subsidies (i.e., Net Product Taxes). Note that Production Taxes and Subsidies are already accounted for in arriving at GVA at Basic Prices from Factor Cost.",
         "explanation_te": "2015 జాతీయ ఆదాయ నూతన పద్ధతి ప్రకారం: మార్కెట్ ధరల్లో GDP = ప్రాథమిక ధరల్లో GVA + ఉత్పత్తులపై పన్నులు - ఉత్పత్తులపై రాయితీలు (Net Product Taxes)."
     },
@@ -1594,18 +1594,18 @@ mock11_gs = [
         "question_en": "The Second Five-Year Plan (1956–1961) of India was based on which economic model, and what was its core developmental priority?",
         "question_te": "భారతదేశ రెండవ పంచవర్ష ప్రణాళిక (1956–1961) ఏ ఆర్థిక నమూనాపై ఆధారపడింది మరియు దాని ప్రధాన ప్రాధాన్యత ఏమిటి?",
         "options_en": [
-            "Mahalanobis Model, prioritizing rapid development of heavy basic industries and capital goods",
             "Harrod-Domar Model, prioritizing agriculture, irrigation, and power projects",
+            "Mahalanobis Model, prioritizing rapid development of heavy basic industries and capital goods",
             "Gadhgil Formula, prioritizing balanced regional development and state transfers",
             "John W. Mellor Model, prioritizing rural employment and green revolution agriculture"
         ],
         "options_te": [
-            "మహలనోబిస్ నమూనా, భారీ మరియు మూలధన పరిశ్రమల సత్వర అభివృద్ధికి ప్రాధాన్యత",
             "హారడ్-డోమర్ నమూనా, వ్యవసాయం మరియు సాగునీటి ప్రాజెక్టులకు ప్రాధాన్యత",
+            "మహలనోబిస్ నమూనా, భారీ మరియు మూలధన పరిశ్రమల సత్వర అభివృద్ధికి ప్రాధాన్యత",
             "గాడ్గిల్ ఫార్ములా, ప్రాంతీయ అసమానతల తగ్గింపునకు ప్రాధాన్యత",
             "జాన్ మెల్లర్ నమూనా, గ్రామీణ ఉపాధి మరియు వ్యవసాయ విస్తరణకు ప్రాధాన్యత"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "The Second Five-Year Plan (1956-61) was formulated by Professor P.C. Mahalanobis. It championed heavy industrialization and capital goods production (establishing steel plants at Bhilai, Durgapur, and Rourkela). The First Plan was based on the Harrod-Domar model.",
         "explanation_te": "రెండవ ప్రణాళిక ప్రొఫెసర్ పి.సి. మహలనోబిస్ నమూనాపై ఆధారపడి భారీ, కీలక పరిశ్రమల (ఉక్కు, యంత్రాలు) స్థాపనకు అత్యధిక ప్రాధాన్యతనిచ్చింది. మొదటి ప్రణాళిక హారడ్-డోమర్ నమూనాపై ఆధారపడింది."
     },
@@ -1617,18 +1617,18 @@ mock11_gs = [
         "question_en": "Consider the following statements comparing Consumer Price Index (CPI) and Wholesale Price Index (WPI) in India:\n\n1. CPI measures price changes at the retail consumer level and includes services, whereas WPI measures prices at the wholesale level and completely excludes services.\n2. The Reserve Bank of India officially uses CPI (Combined) as the key nominal anchor for targeting monetary policy.\n3. The base year for both All-India CPI and WPI is currently 2011–12.\n\nWhich of the statements given above are correct?",
         "question_te": "భారతదేశంలోని వినియోగదారుల ధరల సూచీ (CPI) మరియు టోకు ధరల సూచీ (WPI) లను పోల్చుతూ క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. CPI రిటైల్ వినియోగదారుల స్థాయిలో ధరల మార్పును కొలుస్తుంది మరియు సేవలను కలిగి ఉంటుంది; అయితే WPI టోకు స్థాయిలో ధరలను కొలుస్తుంది మరియు సేవలను పూర్తిగా మినహాయిస్తుంది.\n2. రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా తన ద్రవ్య విధాన నియంత్రణకు CPI (కంబైన్డ్) ని అధికారిక ప్రమాణంగా ఉపయోగిస్తుంది.\n3. ప్రస్తుతం అఖిల భారత CPI మరియు WPI రెండింటికీ ఆధార సంవత్సరం (Base Year) 2011–12.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
-            "1 and 2 only",
             "2 and 3 only",
+            "1 and 2 only",
+            "1, 2 and 3",
             "1 and 3 only"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
-            "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
+            "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "All three statements are correct. CPI covers goods and services at retail level; WPI covers wholesale transactions of commodities only (no services). Urjit Patel Committee recommended switching to CPI-C as RBI's policy anchor. Both currently share the 2011-12 base year.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. CPI లో సేవలు ఉంటాయి, WPI లో సేవలు ఉండవు. ఆర్‌బీఐ ద్రవ్యోల్బణ నియంత్రణకు CPI ని ప్రాతిపదికగా తీసుకుంటుంది. రెండింటి ఆధార సంవత్సరం ప్రస్తుతం 2011-12."
     },
@@ -1640,18 +1640,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding the sectoral composition and performance of Telangana's Gross State Domestic Product (GSDP):\n\n1. The Services sector is the largest contributor to Telangana's economy, accounting for over 60% of the State's Gross Value Added (GSVA).\n2. Information Technology, pharmaceutical manufacturing, and financial services form the principal drivers of the State's secondary and tertiary sectors.\n3. Telangana's Per Capita Income at current prices has consistently remained higher than the national average since state formation.\n\nWhich of the statements given above are correct?",
         "question_te": "తెలంగాణ రాష్ట్ర స్థూల రాష్ట్రోత్పత్తి (GSDP) రంగాలవారీ వాటా మరియు పనితీరుకు సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. సేవా రంగం తెలంగాణ ఆర్థిక వ్యవస్థలో అతిపెద్ద వాటాను కలిగి ఉండి, రాష్ట్ర స్థూల విలువ జోడింపులో (GSVA) 60 శాతానికి పైగా దోహదం చేస్తుంది.\n2. ఇన్ఫర్మేషన్ టెక్నాలజీ, ఔషధాల తయారీ (ఫార్మా), మరియు ఆర్థిక సేవలు రాష్ట్ర ద్వితీయ మరియు తృతీయ రంగాలకు ప్రధాన చోదకాలుగా ఉన్నాయి.\n3. రాష్ట్ర ఆవిర్భావం నుండి ప్రస్తుత ధరల్లో తెలంగాణ తలసరి ఆదాయం జాతీయ సగటు కంటే స్థిరంగా ఎక్కువగా ఉంది.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
+            "1 and 3 only",
             "1 and 2 only",
             "2 and 3 only",
-            "1 and 3 only"
+            "1, 2 and 3"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
+            "1 మరియు 3 మాత్రమే",
             "1 మరియు 2 మాత్రమే",
             "2 మరియు 3 మాత్రమే",
-            "1 మరియు 3 మాత్రమే"
+            "1, 2 మరియు 3"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "All three statements are correct as per Telangana Socio-Economic Outlook. Services account for ~64% of GSVA. Hyderabad is a global hub for IT exports and vaccine/pharma production. Telangana's per capita income (exceeding Rs 3.1 lakh) is nearly double the all-India average.",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. తెలంగాణ ఆర్థిక వ్యవస్థలో సేవా రంగం వాటా 60% పైగా ఉంది. ఐటీ మరియు ఫార్మా రంగాలు ప్రముఖ పాత్ర పోషిస్తున్నాయి. తెలంగాణ తలసరి ఆదాయం జాతీయ సగటు కంటే గణనీయంగా ఎక్కువ."
     },
@@ -1686,18 +1686,18 @@ mock11_gs = [
         "question_en": "Consider the following statements regarding Fiscal Deficit and the FRBM Act:\n\n1. Fiscal Deficit represents the total excess of government total expenditure over non-debt creating receipts (Revenue Receipts + Non-debt Capital Receipts).\n2. Revenue Deficit refers strictly to the shortfall between revenue expenditure and revenue receipts.\n3. Primary Deficit is mathematically calculated by subtracting interest payments from the Fiscal Deficit.\n\nWhich of the statements given above are correct?",
         "question_te": "కోశ లోటు (Fiscal Deficit) మరియు FRBM చట్టానికి సంబంధించి క్రింది ప్రకటనలను పరిశీలించండి:\n\n1. ప్రభుత్వ మొత్తం వ్యయం, అప్పులు లేని మొత్తం రాబడుల కంటే ఎక్కువగా ఉండటాన్ని కోశ లోటు సూచిస్తుంది.\n2. రెవెన్యూ వ్యయానికి మరియు రెవెన్యూ రాబడులకు మధ్య గల వ్యత్యాసాన్ని రెవెన్యూ లోటు అంటారు.\n3. ప్రాథమిక లోటు (Primary Deficit) ను కోశ లోటు నుండి వడ్డీ చెల్లింపులను తీసివేయడం ద్వారా లెక్కిస్తారు.\n\nపై ప్రకటనలలో ఏవి సరైనవి?",
         "options_en": [
-            "1, 2 and 3",
             "1 and 2 only",
+            "1, 2 and 3",
             "2 and 3 only",
             "1 and 3 only"
         ],
         "options_te": [
-            "1, 2 మరియు 3",
             "1 మరియు 2 మాత్రమే",
+            "1, 2 మరియు 3",
             "2 మరియు 3 మాత్రమే",
             "1 మరియు 3 మాత్రమే"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "All three statements are correct. Fiscal Deficit = Total Expenditure - Total Receipts excluding borrowings. Revenue Deficit = Revenue Expenditure - Revenue Receipts. Primary Deficit = Fiscal Deficit - Interest Payments (reflecting current fiscal stance net of past debt obligations).",
         "explanation_te": "మూడు ప్రకటనలూ సరైనవే. కోశ లోటు అనగా మొత్తం ఖర్చు - రుణేతర రాబడులు. రెవెన్యూ లోటు = రెవెన్యూ వ్యయం - రెవెన్యూ రాబడి. ప్రాథమిక లోటు = కోశ లోటు - వడ్డీ చెల్లింపులు."
     },
@@ -1709,18 +1709,18 @@ mock11_gs = [
         "question_en": "Which is the longest/strongest bone and which is the smallest bone in the human body respectively?",
         "question_te": "మానవ శరీరంలో అత్యంత పొడవైన/బలమైన ఎముక మరియు అత్యంత చిన్న ఎముక వరుసగా ఏవి?",
         "options_en": [
-            "Femur (thigh bone) and Stapes (middle ear)",
-            "Tibia and Incus",
             "Femur and Malleus",
+            "Tibia and Incus",
+            "Femur (thigh bone) and Stapes (middle ear)",
             "Humerus and Stapes"
         ],
         "options_te": [
-            "ఫీమర్ (తొడ ఎముక) మరియు స్టేప్స్ (మధ్య చెవి ఎముక)",
-            "టిబియా మరియు ఇంకస్",
             "ఫీమర్ మరియు మాలియస్",
+            "టిబియా మరియు ఇంకస్",
+            "ఫీమర్ (తొడ ఎముక) మరియు స్టేప్స్ (మధ్య చెవి ఎముక)",
             "హ్యూమరస్ మరియు స్టేప్స్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "The longest and strongest bone is the Femur (thigh bone). The smallest bone is the Stapes (stirrup bone) located in the middle ear.",
         "explanation_te": "మానవ శరీరంలో అతి పొడవైన ఎముక ఫీమర్ (తొడ ఎముక), అతి చిన్న ఎముక చెవిలోని స్టేప్స్ (కర్ణాంతరాస్థి)."
     },
@@ -1732,18 +1732,18 @@ mock11_gs = [
         "question_en": "Which endocrine gland is located at the base of the brain and is known as the 'Master Gland' because it controls the functions of most other endocrine glands?",
         "question_te": "మెదడు అడుగుభాగంలో ఉండి, శరీరంలోని ఇతర అంతఃస్రావ గ్రంథుల పనితీరును నియంత్రించడం వల్ల 'మాస్టర్ గ్లాండ్' (ప్రధాన గ్రంథి) అని దేనిని పిలుస్తారు?",
         "options_en": [
-            "Pituitary Gland",
+            "Pancreas",
             "Thyroid Gland",
             "Adrenal Gland",
-            "Pancreas"
+            "Pituitary Gland"
         ],
         "options_te": [
-            "పిట్యూటరీ గ్రంథి (పీయూష గ్రంథి)",
+            "క్లోమ గ్రంథి",
             "థైరాయిడ్ గ్రంథి",
             "అడ్రినల్ గ్రంథి",
-            "క్లోమ గ్రంథి"
+            "పిట్యూటరీ గ్రంథి (పీయూష గ్రంథి)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The pituitary gland produces hormones (TSH, ACTH, GH, FSH, LH) that regulate other endocrine organs, earning it the title 'master gland'.",
         "explanation_te": "పిట్యూటరీ గ్రంథి ఇతర గ్రంథులను ఉత్తేజపరిచే హార్మోన్లను విడుదల చేయడం వల్ల దీనిని ప్రధాన లేదా మాస్టర్ గ్రంథి అంటారు."
     },
@@ -1778,18 +1778,18 @@ mock11_gs = [
         "question_en": "Match the following physical quantities with their standard SI units:\n1. Electric Current - Ampere\n2. Electrical Resistance - Ohm\n3. Power - Watt\n4. Frequency - Hertz",
         "question_te": "కింది భౌతిక రాశులను వాటి అంతర్జాతీయ SI ప్రమాణాలతో జతపరచండి:\n1. విద్యుత్ ప్రవాహం - ఆంపియర్\n2. విద్యుత్ నిరోధం - ఓమ్\n3. సామర్థ్యం - వాట్\n4. పౌనఃపున్యం - హెర్ట్జ్\nపై వాటిలో సరైనవి ఏవి?",
         "options_en": [
-            "All 1, 2, 3, and 4 are correct",
             "Only 1 and 2 are correct",
+            "All 1, 2, 3, and 4 are correct",
             "Only 3 and 4 are correct",
             "Only 1, 2, and 3 are correct"
         ],
         "options_te": [
-            "1, 2, 3, మరియు 4 అన్నీ సరైనవే",
             "1 మరియు 2 మాత్రమే సరైనవి",
+            "1, 2, 3, మరియు 4 అన్నీ సరైనవే",
             "3 మరియు 4 మాత్రమే సరైనవి",
             "1, 2, మరియు 3 మాత్రమే సరైనవి"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Electric Current (Ampere A), Electrical Resistance (Ohm Ω), Power (Watt W = J/s), Frequency (Hertz Hz = s^-1). All 4 are correct SI units.",
         "explanation_te": "విద్యుత్ ప్రవాహం (ఆంపియర్), నిరోధం (ఓమ్), సామర్థ్యం (వాట్), పౌనఃపున్యం (హెర్ట్జ్) - అన్నీ సరైన SI ప్రమాణాలు."
     },
@@ -1801,18 +1801,18 @@ mock11_gs = [
         "question_en": "What is the escape velocity required for an object to break free from Earth's gravitational pull?",
         "question_te": "భూమి యొక్క గురుత్వాకర్షణ క్షేత్రం నుండి ఒక వస్తువు అంతరిక్షంలోకి తప్పించుకోవడానికి అవసరమైన పలాయన వేగం (Escape velocity) ఎంత?",
         "options_en": [
-            "11.2 km/s",
-            "9.8 m/s",
             "7.9 km/s",
+            "9.8 m/s",
+            "11.2 km/s",
             "15.4 km/s"
         ],
         "options_te": [
-            "11.2 కి.మీ/సెకను",
-            "9.8 మీ/సెకను",
             "7.9 కి.మీ/సెకను",
+            "9.8 మీ/సెకను",
+            "11.2 కి.మీ/సెకను",
             "15.4 కి.మీ/సెకను"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Earth's escape velocity is given by v = sqrt(2GM/R) ≈ 11.2 km/s (approx 40,320 km/h).",
         "explanation_te": "భూమి నుండి తప్పించుకోవడానికి అవసరమైన పలాయన వేగం v = √(2gR) = 11.2 కి.మీ/సెకను."
     },
@@ -1824,18 +1824,18 @@ mock11_gs = [
         "question_en": "What is the frequency range of sound waves audible to the normal human ear?",
         "question_te": "సాధారణ మానవుని చెవి వినగలిగే ధ్వని తరంగాల శ్రవ్య పౌనఃపున్య పరిధి ఎంత?",
         "options_en": [
-            "20 Hz to 20,000 Hz",
+            "200 Hz to 20,000 Hz",
             "10 Hz to 10,000 Hz",
             "50 Hz to 50,000 Hz",
-            "200 Hz to 20,000 Hz"
+            "20 Hz to 20,000 Hz"
         ],
         "options_te": [
-            "20 Hz నుండి 20,000 Hz",
+            "200 Hz నుండి 20,000 Hz",
             "10 Hz నుండి 10,000 Hz",
             "50 Hz నుండి 50,000 Hz",
-            "200 Hz నుండి 20,000 Hz"
+            "20 Hz నుండి 20,000 Hz"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Human hearing spans the frequency range from 20 Hz to 20,000 Hz (20 kHz). Below 20 Hz is infrasonic; above 20 kHz is ultrasonic.",
         "explanation_te": "మానవుని శ్రవ్య పరిధి 20 హెర్ట్జ్ నుండి 20,000 హెర్ట్జ్ వరకు ఉంటుంది. 20 Hz కంటే తక్కువ అయితే పరశ్రావ్యాలు, 20 kHz కంటే ఎక్కువ అయితే అతిధ్వనులు అంటారు."
     },
@@ -1870,18 +1870,18 @@ mock11_gs = [
         "question_en": "Which acid is present in vinegar, and which acid causes irritation during an ant sting?",
         "question_te": "వెనిగర్‌లో ఉండే ఆమ్లం ఏది మరియు చీమ కుట్టినప్పుడు మంటను కలిగించే ఆమ్లం ఏది?",
         "options_en": [
-            "Acetic acid and Formic acid",
             "Citric acid and Lactic acid",
+            "Acetic acid and Formic acid",
             "Tartaric acid and Oxalic acid",
             "Formic acid and Maleic acid"
         ],
         "options_te": [
-            "ఎసిటిక్ ఆమ్లం మరియు ఫార్మిక్ ఆమ్లం (మిథనోయిక్ ఆమ్లం)",
             "సిట్రిక్ ఆమ్లం మరియు లాక్టిక్ ఆమ్లం",
+            "ఎసిటిక్ ఆమ్లం మరియు ఫార్మిక్ ఆమ్లం (మిథనోయిక్ ఆమ్లం)",
             "టార్టారిక్ ఆమ్లం మరియు ఆక్సాలిక్ ఆమ్లం",
             "ఫార్మిక్ ఆమ్లం మరియు మాలీయిక్ ఆమ్లం"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Vinegar contains acetic acid (CH3COOH, 5-8% solution). Ant venom contains formic acid (methanoic acid HCOOH).",
         "explanation_te": "వెనిగర్‌లో ఎసిటిక్ ఆమ్లం ఉంటుంది. చీమలు లేదా కందిరీగలు కుట్టినప్పుడు విడుదలయ్యేది ఫార్మిక్ ఆమ్లం."
     },
@@ -1893,18 +1893,18 @@ mock11_gs = [
         "question_en": "What are the chemical names of Baking Soda and Washing Soda respectively?",
         "question_te": "వంట సోడా (Baking Soda) మరియు బట్టల సోడా (Washing Soda) ల రసాయన నామాలు వరుసగా ఏవి?",
         "options_en": [
-            "Sodium Bicarbonate (NaHCO3) and Sodium Carbonate (Na2CO3.10H2O)",
-            "Sodium Carbonate and Sodium Hydroxide",
             "Sodium Chloride and Sodium Bicarbonate",
+            "Sodium Carbonate and Sodium Hydroxide",
+            "Sodium Bicarbonate (NaHCO3) and Sodium Carbonate (Na2CO3.10H2O)",
             "Calcium Carbonate and Sodium Carbonate"
         ],
         "options_te": [
-            "సోడియం బైకార్బోనేట్ (NaHCO3) మరియు సోడియం కార్బోనేట్ (Na2CO3.10H2O)",
-            "సోడియం కార్బోనేట్ మరియు సోడియం హైడ్రాక్సైడ్",
             "సోడియం క్లోరైడ్ మరియు సోడియం బైకార్బోనేట్",
+            "సోడియం కార్బోనేట్ మరియు సోడియం హైడ్రాక్సైడ్",
+            "సోడియం బైకార్బోనేట్ (NaHCO3) మరియు సోడియం కార్బోనేట్ (Na2CO3.10H2O)",
             "కాల్షియం కార్బోనేట్ మరియు సోడియం కార్బోనేట్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Baking soda is Sodium Bicarbonate (NaHCO3). Washing soda is hydrated Sodium Carbonate decahydrate (Na2CO3·10H2O).",
         "explanation_te": "వంట సోడా రసాయన నామం సోడియం బైకార్బోనేట్ (NaHCO3). బట్టల సోడా సోడియం కార్బోనేట్ (Na2CO3·10H2O)."
     },
@@ -1916,18 +1916,18 @@ mock11_gs = [
         "question_en": "What is the chemical formulation of Plaster of Paris (POP)?",
         "question_te": "ప్లాస్టర్ ఆఫ్ ప్యారిస్ (POP) యొక్క రసాయన సూత్రం ఏది?",
         "options_en": [
-            "CaSO4 . 1/2 H2O",
+            "CaOCl2",
             "CaSO4 . 2 H2O",
             "CaCO3",
-            "CaOCl2"
+            "CaSO4 . 1/2 H2O"
         ],
         "options_te": [
-            "CaSO4 . 1/2 H2O (కాల్షియం సల్ఫేట్ హెమీహైడ్రేట్)",
+            "CaOCl2 (బ్లీచింగ్ పౌడర్)",
             "CaSO4 . 2 H2O (జిప్సం)",
             "CaCO3",
-            "CaOCl2 (బ్లీచింగ్ పౌడర్)"
+            "CaSO4 . 1/2 H2O (కాల్షియం సల్ఫేట్ హెమీహైడ్రేట్)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Plaster of Paris is Calcium Sulphate Hemihydrate (CaSO4·1/2H2O), produced by heating gypsum (CaSO4·2H2O) to 373 K.",
         "explanation_te": "జిప్సంను 373 K వద్ద వేడి చేస్తే ప్లాస్టర్ ఆఫ్ ప్యారిస్ (CaSO4·1/2H2O) ఏర్పడుతుంది."
     },
@@ -1962,18 +1962,18 @@ mock11_gs = [
         "question_en": "What are the chemical compositions of 'Laughing Gas' and 'Dry Ice'?",
         "question_te": "'లాఫింగ్ గ్యాస్' (నవ్వు పుట్టించే వాయువు) మరియు 'డ్రై ఐస్' (పొడి మంచు) ల రసాయన స్వరూపాలు ఏవి?",
         "options_en": [
-            "Nitrous Oxide (N2O) and Solid Carbon Dioxide (CO2)",
             "Nitric Oxide (NO) and Solid Methane",
+            "Nitrous Oxide (N2O) and Solid Carbon Dioxide (CO2)",
             "Nitrous Oxide (N2O) and Liquid Nitrogen",
             "Nitrogen Dioxide (NO2) and Solid CO2"
         ],
         "options_te": [
-            "నైట్రస్ ఆక్సైడ్ (N2O) మరియు ఘన కార్బన్ డయాక్సైడ్ (CO2)",
             "నైట్రిక్ ఆక్సైడ్ (NO) మరియు ఘన మీథేన్",
+            "నైట్రస్ ఆక్సైడ్ (N2O) మరియు ఘన కార్బన్ డయాక్సైడ్ (CO2)",
             "నైట్రస్ ఆక్సైడ్ మరియు ద్రవ నైట్రోజన్",
             "నైట్రోజన్ డయాక్సైడ్ మరియు ఘన CO2"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "Laughing gas is Nitrous Oxide (N2O). Dry ice is Carbon Dioxide (CO2) frozen directly in solid form without liquefying.",
         "explanation_te": "లాఫింగ్ గ్యాస్ నైట్రస్ ఆక్సైడ్ (N2O). డ్రై ఐస్ అంటే ఘన స్థితిలో ఉన్న కార్బన్ డయాక్సైడ్ (Solid CO2)."
     },
@@ -1985,18 +1985,18 @@ mock11_gs = [
         "question_en": "What kind of process is the rusting of iron, and what happens to the weight of an iron nail when it rusts?",
         "question_te": "ఇనుము తుప్పు పట్టడం అనేది ఎలాంటి ప్రక్రియ మరియు ఇనుప మేకు తుప్పు పట్టినప్పుడు దాని బరువులో ఎలాంటి మార్పు వస్తుంది?",
         "options_en": [
-            "Chemical oxidation process; weight increases",
-            "Physical process; weight decreases",
             "Chemical reduction process; weight remains constant",
+            "Physical process; weight decreases",
+            "Chemical oxidation process; weight increases",
             "Physical change; weight increases"
         ],
         "options_te": [
-            "రసాయన ఆక్సీకరణ ప్రక్రియ; బరువు పెరుగుతుంది",
-            "భౌతిక ప్రక్రియ; బరువు తగ్గుతుంది",
             "క్షయకరణ ప్రక్రియ; బరువు స్థిరంగా ఉంటుంది",
+            "భౌతిక ప్రక్రియ; బరువు తగ్గుతుంది",
+            "రసాయన ఆక్సీకరణ ప్రక్రియ; బరువు పెరుగుతుంది",
             "భౌతిక మార్పు; బరువు పెరుగుతుంది"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Rusting is an electrochemical oxidation reaction forming hydrated iron(III) oxide (Fe2O3·xH2O). Because oxygen and water molecules bond with iron atoms, the weight of the iron object increases.",
         "explanation_te": "తుప్పు పట్టడం రసాయన ఆక్సీకరణ చర్య. ఇనుముకు ఆక్సిజన్ మరియు నీటి అణువులు కలవడం వల్ల తుప్పు పట్టినప్పుడు ఇనుము బరువు పెరుగుతుంది."
     },
@@ -2008,18 +2008,18 @@ mock11_gs = [
         "question_en": "Which allotrope of carbon is the hardest naturally occurring substance known and has a 3D tetrahedral network structure?",
         "question_te": "త్రిమితీయ టెట్రాహైడ్రల్ స్పటిక నిర్మాణాన్ని కలిగి ఉండి, ప్రకృతిలో లభించే అత్యంత కఠినమైన పదార్థంగా గుర్తించబడిన కార్బన్ రూపాంతరం ఏది?",
         "options_en": [
-            "Diamond",
+            "Graphene",
             "Graphite",
             "Fullerene",
-            "Graphene"
+            "Diamond"
         ],
         "options_te": [
-            "వజ్రం (Diamond)",
+            "గ్రాఫేన్",
             "గ్రాఫైట్",
             "ఫుల్లరీన్",
-            "గ్రాఫేన్"
+            "వజ్రం (Diamond)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Diamond is an allotrope of carbon where each carbon atom is covalently bonded to 4 others in a rigid tetrahedral lattice, making it the hardest natural material with a Mohs hardness of 10.",
         "explanation_te": "వజ్రం కార్బన్ యొక్క రూపాంతరం, దృఢమైన టెట్రాహైడ్రల్ బంధాల వల్ల ఇది ప్రకృతిలో అత్యంత కఠినమైన పదార్థం (Mohs స్కేలుపై 10)."
     },
@@ -2029,22 +2029,22 @@ mock11_gs = [
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
         "question_en": "Who Won The Chinese Grand Prix 2026?",
-        "question_te": "2026 చరనీస గాిండ్ పిరక్్ను ఎవర్ు గెలుచుకున ిర్ు?",
+        "question_te": "2026 చైనీస్ గ్రాండ్ ప్రిక్స్ (Chinese Grand Prix 2026) ను ఎవరు గెలుచుకున్నారు?",
         "options_en": [
             "Max Verstappen",
-            "Lewis Hamilton",
             "Andrea Kimi Antonelli",
+            "Lewis Hamilton",
             "Charles Leclerc"
         ],
         "options_te": [
-            "మాక్్ వెరాటాపన బి. లూయిస హామిల్న సి. ఆండిరయా కతమి ఆంటోనెలిు డి. చ రెుస లెకు ెర్్",
-            "Lewis Hamilton",
-            "Andrea Kimi Antonelli",
-            "Charles Leclerc"
+            "మాక్స్ వెర్స్టాపెన్",
+            "ఆండ్రియా కిమి ఆంటోనెల్లి",
+            "లూయిస్ హామిల్టన్",
+            "చార్లెస్ లెక్లెర్క్"
         ],
-        "correct_option": 2,
-        "explanation_en": "Andrea Kimi Antonelli (19 Year Old) : 2 nd Youngest Winners In Formula 1 History Belongs To — Italy",
-        "explanation_te": "సరైన సమాధానం: Andrea Kimi Antonelli. (Andrea Kimi Antonelli (19 Year Old) : 2 nd Youngest Winners In Formula 1 History Belongs To — Italy)"
+        "correct_option": 1,
+        "explanation_en": "19-year-old Andrea Kimi Antonelli (Italy) won the 2026 Chinese Grand Prix, becoming the second-youngest race winner in Formula 1 history.",
+        "explanation_te": "సరైన సమాధానం: ఆండ్రియా కిమి ఆంటోనెల్లి. (ఇటలీకి చెందిన 19 ఏళ్ల ఆండ్రియా కిమి ఆంటోనెల్లి 2026 చైనీస్ గ్రాండ్ ప్రిక్స్‌ను గెలుచుకుని ఫార్ములా 1 చరిత్రలో రెండవ అత్యంత పిన్న వయస్కుడైన విజేతగా నిలిచారు.)"
     },
     {
         "id": 190,
@@ -2052,45 +2052,45 @@ mock11_gs = [
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
         "question_en": "Who Won The Singles Title At Delhi Open 2026?",
-        "question_te": "ఢిలీు ఓపన 2026లో సింగిల్్ ట్రటిల్ను ఎవర్ు గెలుచుకున ిర్ు?",
+        "question_te": "ఢిల్లీ ఓపెన్ 2026 టెన్నిస్ టోర్నీలో సింగిల్స్ టైటిల్‌ను ఎవరు గెలుచుకున్నారు?",
         "options_en": [
-            "Stefanos Sakellaridis",
-            "Oliver Crawford",
             "Jay Clarke",
+            "Oliver Crawford",
+            "Stefanos Sakellaridis",
             "Rei Sakamoto"
         ],
         "options_te": [
-            "స్ ఫానోస స్కెలు ారిడిస",
-            "ఆలివర్ కాిఫో ర్్",
-            "జే కాుర్్",
-            "రే స్కమోటో"
+            "జే క్లార్క్",
+            "ఆలివర్ క్రాఫోర్డ్",
+            "స్టెఫానోస్ సకెల్లారిడిస్",
+            "రే సకమోటో"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Delhi Open 2026 : TennisTournament Singles Title : Stefanos Sakellaridis (Greece) Doubles Title : Siddhant Banthia (India) & Alexander Donski (Bulgaria)",
-        "explanation_te": "సరైన సమాధానం: స్ ఫానోస స్కెలు ారిడిస. (Delhi Open 2026 : TennisTournament Singles Title : Stefanos Sakellaridis (Greece) Doubles Title : Siddhant Banthia (India) & Alexander Donski (Bulgaria))"
+        "explanation_te": "సరైన సమాధానం: స్టెఫానోస్ సకెల్లారిడిస్. (ఢిల్లీ ఓపెన్ 2026 టెన్నిస్ టోర్నమెంట్ సింగిల్స్ టైటిల్‌ను గ్రీస్ ఆటగాడు స్టెఫానోస్ సకెల్లారిడిస్ గెలుచుకున్నాడు.)"
     },
     {
         "id": 191,
         "qNumber": 191,
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
-        "question_en": "Which Country Won The Title Of ‘2026 ICC Men’s T20 World Cup?",
-        "question_te": "2026 ICC పుర్ుష్టుల T20 పరపంచ కప ట్రటిల్ను ఏ దేశ్ం గెలుచుకుంది?",
+        "question_en": "Which Country Won The Title Of ‘2026 ICC Men’s T20 World Cup’?",
+        "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్ టైటిల్‌ను ఏ దేశం గెలుచుకుంది?",
         "options_en": [
             "Australia",
-            "India",
+            "Bangladesh",
             "S Africa",
-            "Bangladesh"
+            "India"
         ],
         "options_te": [
-            "ఆసే్లి ర యా",
-            "భార్తదేశ్ం",
-            "దక్షిణ ఫిరకా",
-            "బంగాుదేశ్"
+            "ఆస్ట్రేలియా",
+            "బంగ్లాదేశ్",
+            "దక్షిణాఫ్రికా",
+            "భారతదేశం"
         ],
-        "correct_option": 1,
-        "explanation_en": "2026 ICC Men’s T20 World Cup Champions : INDIA(3 rd title) Runners-up : New Zealand Edition : 10th Total Teams : 20 Teams Host Countries : India And Sri Lanka Administrator : International Cricket Council (ICC) Final Match : Narendra Modi Stadium, Ahmedabad, Gujarat",
-        "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (2026 ICC Men’s T20 World Cup Champions : INDIA(3 rd title) Runners-up : New Zealand Edition : 10th Total Teams : 20 Teams Host Countries : India And Sri Lanka Administrator : International Cricket Council (ICC) Final Match : Narendra Modi Stadium, Ahmedabad, Gujarat)"
+        "correct_option": 3,
+        "explanation_en": "India won the 10th edition of the 2026 ICC Men's T20 World Cup (their 3rd title), defeating New Zealand in the final at Narendra Modi Stadium, Ahmedabad.",
+        "explanation_te": "సరైన సమాధానం: భారతదేశం. (అహ్మదాబాద్‌లోని నరేంద్ర మోదీ స్టేడియంలో జరిగిన 2026 ICC పురుషుల T20 ప్రపంచ కప్ ఫైనల్‌లో న్యూజిలాండ్‌ను ఓడించి భారతదేశం తమ 3వ టైటిల్‌ను గెలుచుకుంది.)"
     },
     {
         "id": 192,
@@ -2098,7 +2098,7 @@ mock11_gs = [
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
         "question_en": "Who Was Named Player Of The Series In The 2026 ICC Men’s T20 World Cup?",
-        "question_te": "2026 ICC పుర్ుష్టుల T20 పరపంచ కపలో 'పేుయర్ ఆఫ్ ది సిరీస'గా ఎవర్ు ఎంపికయాయర్ు?",
+        "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో 'ప్లేయర్ ఆఫ్ ది సిరీస్'గా ఎవరు ఎంపికయ్యారు?",
         "options_en": [
             "Virat Kohli",
             "Sanju Samson",
@@ -2106,14 +2106,14 @@ mock11_gs = [
             "Joe Root"
         ],
         "options_te": [
-            "విరాట్ కోహ్లు",
-            "స్ంజు శాంస్న",
-            "స్ూర్యకుమార్ యాదవ్",
-            "జో ర్ూట్"
+            "విరాట్ కోహ్లీ",
+            "సంజు శాంసన్",
+            "సూర్యకుమార్ యాదవ్",
+            "జో రూట్"
         ],
-        "correct_option": 0,
-        "explanation_en": "Correct Answer: Virat Kohli",
-        "explanation_te": "సరైన సమాధానం: విరాట్ కోహ్లు."
+        "correct_option": 1,
+        "explanation_en": "Sanju Samson was named Player of the Series (Tournament) in the 2026 ICC Men’s T20 World Cup after scoring 321 runs in 5 innings (avg 80.25), including twin 89s in the semi-final and final.",
+        "explanation_te": "సరైన సమాధానం: సంజు శాంసన్. (2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో 5 ఇన్నింగ్స్‌లలో 321 పరుగులు చేసి, సెమీ-ఫైనల్ మరియు ఫైనల్‌లో 89 పరుగులతో మెరిసిన సంజు శాంసన్ ప్లేయర్ ఆఫ్ ది టోర్నమెంట్‌గా ఎంపికయ్యారు.)"
     },
     {
         "id": 193,
@@ -2124,17 +2124,17 @@ mock11_gs = [
         "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో అత్యధిక వికెట్లు తీసిన బౌలర్లు ఎవరు?",
         "options_en": [
             "Shaheen Afridi",
-            "Jasprit Bumrah & Varun Chakravarthy",
             "Trent Boult",
+            "Jasprit Bumrah & Varun Chakravarthy",
             "Adam Zampa"
         ],
         "options_te": [
             "షాహీన్ అఫ్రిది",
-            "జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి",
             "ట్రెంట్ బౌల్ట్",
+            "జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి",
             "ఆడమ్ జంపా"
         ],
-        "correct_option": 1,
+        "correct_option": 2,
         "explanation_en": "Most Wickets: Jasprit Bumrah and Varun Chakravarthy jointly took 14 wickets each in the tournament, leading the bowling charts. Most runs were scored by Sahibzada Farhan (PAK).",
         "explanation_te": "సరైన సమాధానం: జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి. (2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో జస్‌ప్రీత్ బుమ్రా మరియు వరుణ్ చక్రవర్తి చెరో 14 వికెట్లు తీసి సంయుక్తంగా అత్యధిక వికెట్ల వీరులుగా నిలిచారు.)"
     },
@@ -2143,31 +2143,31 @@ mock11_gs = [
         "qNumber": 194,
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
-        "question_en": "Who Won Men’s Single Title At “Australian Open 2026”",
-        "question_te": "\"ఆసే్రలియన ఓపన 2026\" పుర్ుష్టుల సింగిల్ ట్రటిల్ను ఎవర్ు గెలుచుకున ిర్ు",
+        "question_en": "Who Won the Men’s Singles Title At “Australian Open 2026”?",
+        "question_te": "\"ఆస్ట్రేలియన్ ఓపెన్ 2026\" పురుషుల సింగిల్స్ టైటిల్‌ను ఎవరు గెలుచుకున్నారు?",
         "options_en": [
             "Rafael Nadal",
-            "Carlos Alcaraz",
+            "Medvedev",
             "Rinky Hijikata",
-            "Medvedev"
+            "Carlos Alcaraz"
         ],
         "options_te": [
-            "రాఫల్ న దల్ బి. కారలుస అల్రాజ్ సి. రింకీ హ్ిజ్కత",
-            "Carlos Alcaraz",
-            "Rinky Hijikata",
-            "మదవదేవ్"
+            "రాఫెల్ నాదల్",
+            "మెద్వెదేవ్",
+            "రింకీ హిజికాటా",
+            "కార్లోస్ అల్కరాజ్"
         ],
-        "correct_option": 1,
+        "correct_option": 3,
         "explanation_en": "Australian Open 2026 : Tennis Tournament 1. Men’s singles : Carlos Alcaraz (Spain) ➢ Defeated → Novak Djokovic (Serbia) 2. Women’s singles : Elena Rybakina (Kazakhstan) ➢ Defeated → Aryna Sabalenka (Belarus)",
-        "explanation_te": "సరైన సమాధానం: Carlos Alcaraz. (Australian Open 2026 : Tennis Tournament 1. Men’s singles : Carlos Alcaraz (Spain) ➢ Defeated → Novak Djokovic (Serbia) 2. Women’s singles : Elena Rybakina (Kazakhstan) ➢ Defeated → Aryna Sabalenka (Belarus))"
+        "explanation_te": "సరైన సమాధానం: కార్లోస్ అల్కరాజ్. (ఆస్ట్రేలియన్ ఓపెన్ 2026 పురుషుల సింగిల్స్ ఫైనల్‌లో నోవాక్ జకోవిచ్‌ను ఓడించి స్పెయిన్ ఆటగాడు కార్లోస్ అల్కరాజ్ విజేతగా నిలిచాడు.)"
     },
     {
         "id": 195,
         "qNumber": 195,
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
-        "question_en": "Which team has won “Ranji Trophy 2026” Title",
-        "question_te": "ఏ జటల్ \"ర్ంజీ టోరఫ్ 2026\" ట్రటిల్ను గెలుచుకుంది?",
+        "question_en": "Which team won the “Ranji Trophy 2026” Title?",
+        "question_te": "ఏ జట్టు \"రంజీ ట్రోఫీ 2026\" టైటిల్‌ను గెలుచుకుంది?",
         "options_en": [
             "Mumbai",
             "Jammu & Kashmir",
@@ -2175,14 +2175,14 @@ mock11_gs = [
             "Vidarbha"
         ],
         "options_te": [
-            "ముంబర",
-            "జమమమ & కాశీమర్",
+            "ముంబై",
+            "జమ్మూ & కాశ్మీర్",
             "మహారాష్ట్ర",
             "విదర్భ"
         ],
         "correct_option": 1,
         "explanation_en": "Ranji Trophy 2026 (Cricket Tournament) ❖ Champions : Jammu & Kashmir (1 st Title) Runner Up : Karnataka o Player of the series : Auqib Nabi (J&K) o Most runs : Ravichandran Smaran (Karnataka) (950)",
-        "explanation_te": "సరైన సమాధానం: జమమమ & కాశీమర్. (Ranji Trophy 2026 (Cricket Tournament) ❖ Champions : Jammu & Kashmir (1 st Title) Runner Up : Karnataka o Player of the series : Auqib Nabi (J&K) o Most runs : Ravichandran Smaran (Karnataka) (950))"
+        "explanation_te": "సరైన సమాధానం: జమ్మూ & కాశ్మీర్. (రంజీ ట్రోఫీ 2026 ఫైనల్‌లో కర్ణాటకను ఓడించి జమ్మూ & కాశ్మీర్ జట్టు తమ తొలి టైటిల్‌ను కైవసం చేసుకుంది.)"
     },
     {
         "id": 196,
@@ -2190,45 +2190,45 @@ mock11_gs = [
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
         "question_en": "Which Country Hosted 2026 Winter Olympics?",
-        "question_te": "2026 వింటర్ ఒలింపిక్్ను ఏ దేశ్ం నిర్వహ్ించంది?",
+        "question_te": "2026 వింటర్ ఒలింపిక్స్ క్రీడలను ఏ దేశం నిర్వహించింది?",
         "options_en": [
             "Japan",
             "France",
-            "Canada",
-            "Italy"
+            "Italy",
+            "Canada"
         ],
         "options_te": [
-            "జపాన",
-            "ఫారన్",
-            "కెనడ",
-            "ఇటలీ"
+            "జపాన్",
+            "ఫ్రాన్స్",
+            "ఇటలీ",
+            "కెనడా"
         ],
-        "correct_option": 3,
+        "correct_option": 2,
         "explanation_en": "2026 Winter Olympics o Host Cities : Milan & Cortina (Italy) Motto : IT's Your Vibe Total Sports : 8 New Sports Introduced : Ski Mountaineering India’s Participants : Arif Mohammad Khan (Alpine Skiing) & Stanzin Lundup",
-        "explanation_te": "సరైన సమాధానం: ఇటలీ. (2026 Winter Olympics o Host Cities : Milan & Cortina (Italy) Motto : IT's Your Vibe Total Sports : 8 New Sports Introduced : Ski Mountaineering India’s Participants : Arif Mohammad Khan (Alpine Skiing) & Stanzin Lundup)"
+        "explanation_te": "సరైన సమాధానం: ఇటలీ. (2026 వింటర్ ఒలింపిక్స్ క్రీడలు ఇటలీలోని మిలన్ మరియు కోర్టినా నగరాల్లో జరిగాయి.)"
     },
     {
         "id": 197,
         "qNumber": 197,
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
-        "question_en": "Which Team Won The Title Of 79th ‘2025–26 Santosh Trophy’",
-        "question_te": "79వ '2025–26 స్ంతోష్ టోరఫ్' ట్రటిల్ను ఏ జటల్ గెలుచుకుంది?",
+        "question_en": "Which Team Won The Title Of 79th ‘2025–26 Santosh Trophy’?",
+        "question_te": "79వ '2025–26 సంతోష్ ట్రోఫీ' టైటిల్‌ను ఏ జట్టు గెలుచుకుంది?",
         "options_en": [
             "Meghalaya",
             "Uttrakhand",
-            "Services",
-            "West Bengal"
+            "West Bengal",
+            "Services"
         ],
         "options_te": [
             "మేఘాలయ",
-            "ఉతీరాఖండ్",
-            "స్రీవసస",
-            "పశ్చచమ బంగాల్"
+            "ఉత్తరాఖండ్",
+            "పశ్చిమ బెంగాల్",
+            "సర్వీసెస్"
         ],
-        "correct_option": 2,
+        "correct_option": 3,
         "explanation_en": "2025–26 Santosh Trophy” → Football Tournament • Final Held @ : Assam WINNERS • Champions : SERVICES (8th Title) • Runner Up : KERALA __________ • Best player (Top Goal Scorer) : Himanshu Jangra",
-        "explanation_te": "సరైన సమాధానం: స్రీవసస. (2025–26 Santosh Trophy” → Football Tournament • Final Held @ : Assam WINNERS • Champions : SERVICES (8th Title) • Runner Up : KERALA __________ • Best player (Top Goal Scorer) : Himanshu Jangra)"
+        "explanation_te": "సరైన సమాధానం: సర్వీసెస్. (అస్సాంలో జరిగిన 79వ సంతోష్ ట్రోఫీ ఫుట్‌బాల్ ఫైనల్‌లో కేరళను ఓడించి సర్వీసెస్ జట్టు 8వ సారి విజేతగా నిలిచింది.)"
     },
     {
         "id": 198,
@@ -2236,22 +2236,22 @@ mock11_gs = [
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
         "question_en": "Which Team Won The Title Of 2026 Women’s Premier League?",
-        "question_te": "2026 మహ్ిళల ప్రమియర్ లీగ్ ట్రటిల్ను ఏ జటల్ గెలుచుకుంది?",
+        "question_te": "2026 మహిళల ప్రీమియర్ లీగ్ (WPL) టైటిల్‌ను ఏ జట్టు గెలుచుకుంది?",
         "options_en": [
-            "RCB",
             "Delhi Capitals",
+            "RCB",
             "Mumbai Indian",
             "RR"
         ],
         "options_te": [
-            "RCB",
-            "ఢిలీు కాయపిటల్్",
-            "ముంబర ఇండియన్",
-            "RR"
+            "ఢిల్లీ క్యాపిటల్స్",
+            "ఆర్‌సీబీ (RCB)",
+            "ముంబై ఇండియన్స్",
+            "రాజస్థాన్ రాయల్స్"
         ],
-        "correct_option": 0,
+        "correct_option": 1,
         "explanation_en": "A. RCB 2026 Women’s Premier League (WPL) ❖ Champions : Royal Challengers Bengaluru Runners-up : Delhi Capitals D. RR Player of the series : Sophie Devine (Gujarat Giants) Most runs : Smriti Mandhana",
-        "explanation_te": "సరైన సమాధానం: RCB. (A. RCB 2026 Women’s Premier League (WPL) ❖ Champions : Royal Challengers Bengaluru Runners-up : Delhi Capitals D. RR Player of the series : Sophie Devine (Gujarat Giants) Most runs : Smriti Mandhana)"
+        "explanation_te": "సరైన సమాధానం: ఆర్‌సీబీ (RCB). (2026 WPL ఫైనల్‌లో ఢిల్లీ క్యాపిటల్స్‌ను ఓడించి రాయల్ ఛాలెంజర్స్ బెంగళూరు ఛాంపియన్‌గా నిలిచింది.)"
     },
     {
         "id": 199,
@@ -2259,22 +2259,22 @@ mock11_gs = [
         "section": "General Studies",
         "topic": "Current Affairs & International Events",
         "question_en": "Which Team Won the 2025–26 Vijay Hazare Trophy?",
-        "question_te": "2025–26 విజయ్ హజారే టోరఫ్ని ఏ జటల్ గెలుచుకుంది?",
+        "question_te": "2025–26 విజయ్ హజారే ట్రోఫీని ఏ జట్టు గెలుచుకుంది?",
         "options_en": [
             "Maharashtra",
             "Karnataka",
-            "Delhi",
-            "Vidarbha"
+            "Vidarbha",
+            "Delhi"
         ],
         "options_te": [
             "మహారాష్ట్ర",
-            "కరాటక",
-            "ఢిలీు",
-            "విదర్భ"
+            "కర్ణాటక",
+            "విదర్భ",
+            "ఢిల్లీ"
         ],
-        "correct_option": 3,
+        "correct_option": 2,
         "explanation_en": "2025–26 Vijay Hazare Trophy (Cricket Tournament ) • Edition → 33rd • Winner : Vidarbha • Runner Up : Saurashtra • Player of the series : Aman Mokhade (Vidarbha)",
-        "explanation_te": "సరైన సమాధానం: విదర్భ. (2025–26 Vijay Hazare Trophy (Cricket Tournament ) • Edition → 33rd • Winner : Vidarbha • Runner Up : Saurashtra • Player of the series : Aman Mokhade (Vidarbha))"
+        "explanation_te": "సరైన సమాధానం: విదర్భ. (33వ విజయ్ హజారే ట్రోఫీ ఫైనల్‌లో సౌరాష్ట్రను ఓడించి విదర్భ జట్టు టైటిల్ గెలుచుకుంది.)"
     },
     {
         "id": 200,
@@ -2285,17 +2285,17 @@ mock11_gs = [
         "question_te": "భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా ఎవరు నిలిచారు?",
         "options_en": [
             "Aaryan Varshney",
-            "R Praggnanandhaa",
             "Mayank Chakraborty",
+            "R Praggnanandhaa",
             "Arjun Erigaisi"
         ],
         "options_te": [
             "ఆర్యన్ వర్ష్ణే",
-            "ఆర్. ప్రజ్ఞానంద",
             "మయాంక్ చక్రవర్తి",
+            "ఆర్. ప్రజ్ఞానంద",
             "అర్జున్ ఎరిగైసి"
         ],
-        "correct_option": 2,
+        "correct_option": 1,
         "explanation_en": "Mayank Chakraborty became India's 94th Grandmaster, and the first-ever Grandmaster from Assam and the entire Northeastern region of India. (92nd GM: Aaryan Varshney; 93rd GM: Aarav Dengla).",
         "explanation_te": "సరైన సమాధానం: మయాంక్ చక్రవర్తి. (మయాంక్ చక్రవర్తి భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా నిలిచారు. అలాగే అస్సాం మరియు మొత్తం ఈశాన్య భారతదేశం నుండి తొలి గ్రాండ్‌మాస్టర్‌గా నిలిచారు.)"
     }

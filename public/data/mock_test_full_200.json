@@ -106,18 +106,18 @@
       "question_en": "The traffic lights at three different road crossings change after every 48 sec, 72 sec and 108 sec respectively. If they all change simultaneously at 8:20:00 hours, at what time will they change simultaneously again?",
       "question_te": "మూడు వేర్వేరు ట్రాఫిక్ సిగ్నల్స్ వరుసగా ప్రతి 48 సెకన్లు, 72 సెకన్లు మరియు 108 సెకన్ల కొకసారి రంగు మారును. అవన్నీ ఉదయం 8:20:00 గంటలకు కలిసి మారినచో, మళ్లీ ఏ సమయానికి కలిసి మారును?",
       "options_en": [
-        "8:27:12 hrs",
+        "8:30:00 hrs",
         "8:25:36 hrs",
         "8:24:18 hrs",
-        "8:30:00 hrs"
+        "8:27:12 hrs"
       ],
       "options_te": [
-        "8:27:12 గం.",
+        "8:30:00 గం.",
         "8:25:36 గం.",
         "8:24:18 గం.",
-        "8:30:00 గం."
+        "8:27:12 గం."
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "LCM(48, 72, 108) = 432 seconds = 7 minutes 12 seconds. Adding to 8:20:00 gives 8:27:12 hours.",
       "explanation_te": "48, 72, 108 ల క.సా.గు = 432 సెకన్లు = 7 నిమిషాల 12 సెకన్లు. 8:20:00 కి కలిపితే వచ్చే సమయం = 8:27:12 గంటలు."
     },
@@ -139,9 +139,9 @@
         "18",
         "24"
       ],
-      "correct_option": 1,
-      "explanation_en": "Required number = HCF(148 - 4, 246 - 6, 623 - 11) = HCF(144, 240, 612). 144 = 16 * 9, 240 = 16 * 15, wait: HCF(144, 240) = 48. 612 / 48 = not integer. HCF(48, 612): 612 = 48 * 12 + 36; 48 = 36 * 1 + 12; HCF is 12? Wait: 144=12*12, 240=12*20, 612=12*51. Let's check 12: remainder must be less than divisor. But remainder for 623 is 11, which is < 12. Wait, 612/12=51. But 612 is not divisible by 16. So HCF is 12! Wait, let's fix options: if divisor is 12, remainders are valid.",
-      "explanation_te": "HCF(144, 240, 612) = 12. కావున గరిష్ట సంఖ్య 12."
+      "correct_option": 0,
+      "explanation_en": "Required greatest divisor = HCF(148 - 4, 246 - 6, 623 - 11) = HCF(144, 240, 612). Since 144 = 12 * 12, 240 = 12 * 20, and 612 = 12 * 51 (with gcd(12, 20, 51) = 1), HCF = 12. (All remainders 4, 6, 11 are strictly less than 12).",
+      "explanation_te": "సరైన సమాధానం: 12. (HCF(144, 240, 612) = 12. కావున గరిష్ట సంఖ్య 12.)"
     },
     {
       "id": 6,
@@ -150,18 +150,18 @@
       "question_en": "If (a + b) : (b + c) : (c + a) = 6 : 7 : 8 and a + b + c = 14, then find the value of c.",
       "question_te": "(a + b) : (b + c) : (c + a) = 6 : 7 : 8 మరియు a + b + c = 14 అయినచో, c విలువ ఎంత?",
       "options_en": [
-        "6",
         "7",
+        "6",
         "8",
         "9"
       ],
       "options_te": [
-        "6",
         "7",
+        "6",
         "8",
         "9"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Let a + b = 6k, b + c = 7k, c + a = 8k. Adding all: 2(a + b + c) = 21k => 2(14) = 21k => k = 28/21 = 4/3. Then a + b = 6 * (4/3) = 8. Since a + b + c = 14 => c = 14 - 8 = 6.",
       "explanation_te": "2(a + b + c) = 21k => 2(14) = 21k => k = 4/3. a + b = 6 * (4/3) = 8. కావున c = 14 - 8 = 6."
     },
@@ -172,18 +172,18 @@
       "question_en": "A, B and C enter into a partnership. A invests Rs. 25,600 for 4 months, B invests Rs. 20,000 for 6 months and C invests Rs. 15,000 for 8 months. Out of a total profit of Rs. 51,300, what is A's share?",
       "question_te": "A, B మరియు C లు ఒక వ్యాపారాన్ని ప్రారంభించారు. A రూ. 25,600 లను 4 నెలలు, B రూ. 20,000 లను 6 నెలలు, C రూ. 15,000 లను 8 నెలలు పెట్టుబడిగా పెట్టారు. మొత్తం లాభం రూ. 51,300 లో A వాటా ఎంత?",
       "options_en": [
-        "Rs. 15,360",
-        "Rs. 16,800",
         "Rs. 17,200",
+        "Rs. 16,800",
+        "Rs. 15,360",
         "Rs. 18,000"
       ],
       "options_te": [
-        "రూ. 15,360",
-        "రూ. 16,800",
         "రూ. 17,200",
+        "రూ. 16,800",
+        "రూ. 15,360",
         "రూ. 18,000"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Ratio of profit = (25600 * 4) : (20000 * 6) : (15000 * 8) = 102400 : 120000 : 120000 = 1024 : 1200 : 1200 = 128 : 150 : 150 = 64 : 75 : 75. Wait: 1024/16 = 64, 1200/16 = 75. Sum of parts = 64 + 75 + 75 = 214. A's share = (64 / 214) * 51300 = 64 * 240 = Rs. 15,360.",
       "explanation_te": "లాభాల నిష్పత్తి = 102400 : 120000 : 120000 = 64 : 75 : 75. మొత్తం భాగాలు = 214. A వాటా = (64 / 214) * 51300 = రూ. 15,360."
     },
@@ -194,18 +194,18 @@
       "question_en": "The ratio of the present ages of a father and son is 7 : 3. Eight years ago, the ratio of their ages was 5 : 1. What will be the father's age 5 years from now?",
       "question_te": "ఒక తండ్రి మరియు కొడుకుల ప్రస్తుత వయస్సుల నిష్పత్తి 7 : 3. ఎనిమిది సంవత్సరాల క్రితం వారి వయస్సుల నిష్పత్తి 5 : 1 గా ఉండేది. ఇప్పటి నుండి 5 సంవత్సరాల తర్వాత తండ్రి వయస్సు ఎంత అవుతుంది?",
       "options_en": [
-        "33 years",
+        "47 years",
         "37 years",
         "40 years",
-        "47 years"
+        "33 years"
       ],
       "options_te": [
-        "33 సంవత్సరాలు",
+        "47 సంవత్సరాలు",
         "37 సంవత్సరాలు",
         "40 సంవత్సరాలు",
-        "47 సంవత్సరాలు"
+        "33 సంవత్సరాలు"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Let present ages be 7x and 3x. Eight years ago: (7x - 8) / (3x - 8) = 5/1 => 7x - 8 = 15x - 40 => 8x = 32 => x = 4. Father's present age = 7 * 4 = 28 years. After 5 years, father's age = 28 + 5 = 33 years.",
       "explanation_te": "సరైన సమాధానం: 33 సంవత్సరాలు. (ప్రస్తుత వయస్సులు 7x, 3x అనుకుందాం. 8 సంవత్సరాల క్రితం: (7x - 8) / (3x - 8) = 5/1 => 7x - 8 = 15x - 40 => 8x = 32 => x = 4. తండ్రి ప్రస్తుత వయస్సు = 7 * 4 = 28 సంవత్సరాలు. 5 సంవత్సరాల తర్వాత తండ్రి వయస్సు = 28 + 5 = 33 సంవత్సరాలు.)"
     },
@@ -216,18 +216,18 @@
       "question_en": "The average weight of 8 men increases by 2.5 kg when a new man replaces one of them weighing 65 kg. What is the weight of the new man?",
       "question_te": "65 కి.గ్రా. బరువు గల ఒక వ్యక్తి స్థానంలో కొత్త వ్యక్తి రావడం వల్ల 8 మంది వ్యక్తుల సగటు బరువు 2.5 కి.గ్రా. పెరిగింది. అయితే ఆ కొత్త వ్యక్తి బరువు ఎంత?",
       "options_en": [
-        "76 kg",
-        "80 kg",
         "85 kg",
+        "80 kg",
+        "76 kg",
         "90 kg"
       ],
       "options_te": [
-        "76 కి.గ్రా.",
-        "80 కి.గ్రా.",
         "85 కి.గ్రా.",
+        "80 కి.గ్రా.",
+        "76 కి.గ్రా.",
         "90 కి.గ్రా."
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "Total increase in weight = 8 * 2.5 = 20 kg. Weight of new man = Weight of replaced man + increase = 65 + 20 = 85 kg.",
       "explanation_te": "మొత్తం బరువు పెరుగుదల = 8 * 2.5 = 20 కి.గ్రా. కొత్త వ్యక్తి బరువు = 65 + 20 = 85 కి.గ్రా."
     },
@@ -261,17 +261,17 @@
       "question_te": "చక్కెర ధర 25% పెరిగితే, అయ్యే ఖర్చు మారకుండా ఉండటానికి కుటుంబం చక్కెర వినియోగాన్ని ఎంత శాతం తగ్గించుకోవాలి?",
       "options_en": [
         "16.67%",
-        "20%",
         "25%",
+        "20%",
         "33.33%"
       ],
       "options_te": [
         "16.67%",
-        "20%",
         "25%",
+        "20%",
         "33.33%"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Reduction % = [R / (100 + R)] * 100 = [25 / 125] * 100 = (1/5) * 100 = 20%.",
       "explanation_te": "వినియోగంలో తగ్గుదల శాతం = [25 / (100 + 25)] * 100 = (25 / 125) * 100 = 20%."
     },
@@ -283,17 +283,17 @@
       "question_te": "ఒక పరీక్షలో ఉత్తీర్ణత సాధించడానికి 40% మార్కులు అవసరం. ఒక విద్యార్థికి 210 మార్కులు వచ్చి 30 మార్కులతో ఫెయిల్ అయ్యాడు. అయితే ఆ పరీక్షలో గరిష్ట మార్కులు ఎంత?",
       "options_en": [
         "500",
-        "600",
+        "800",
         "700",
-        "800"
+        "600"
       ],
       "options_te": [
         "500",
-        "600",
+        "800",
         "700",
-        "800"
+        "600"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Passing marks = 210 + 30 = 240. 40% of Maximum marks = 240 => Maximum marks = (240 / 40) * 100 = 600.",
       "explanation_te": "పాస్ మార్కులు = 210 + 30 = 240. గరిష్ట మార్కులలో 40% = 240 => గరిష్ట మార్కులు = (240 / 40) * 100 = 600."
     },
@@ -304,18 +304,18 @@
       "question_en": "If the cost price of 15 articles is equal to the selling price of 12 articles, what is the profit percentage?",
       "question_te": "15 వస్తువుల కొన్న ఖరీదు 12 వస్తువుల అమ్మిన ఖరీదుకి సమానమైనచో, వచ్చే లాభ శాతం ఎంత?",
       "options_en": [
-        "20%",
         "25%",
+        "20%",
         "30%",
         "33.33%"
       ],
       "options_te": [
-        "20%",
         "25%",
+        "20%",
         "30%",
         "33.33%"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "15 CP = 12 SP => SP/CP = 15/12 = 5/4. Profit = 5 - 4 = 1. Profit % = (1/4) * 100 = 25%.",
       "explanation_te": "15 CP = 12 SP => SP/CP = 5/4. లాభం = 1 భాగం. లాభ శాతం = (1/4) * 100 = 25%."
     },
@@ -349,17 +349,17 @@
       "question_te": "ఒక వ్యాపారి తన వస్తువులను కొన్న ధరకు అమ్ముతానని చెబుతూ, 1 కి.గ్రా. బదులుగా 950 గ్రాముల తప్పుడు బరువును ఉపయోగిస్తాడు. అతని లాభ శాతం ఎంత?",
       "options_en": [
         "5%",
-        "5.26%",
         "5.55%",
+        "5.26%",
         "6.25%"
       ],
       "options_te": [
         "5%",
-        "5.26%",
         "5.55%",
+        "5.26%",
         "6.25%"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Gain % = [Error / (True Value - Error)] * 100 = [50 / 950] * 100 = (5 / 95) * 100 = (1 / 19) * 100 ≈ 5.26%.",
       "explanation_te": "లాభ శాతం = [50 / 950] * 100 = 100 / 19 ≈ 5.26%."
     },
@@ -371,17 +371,17 @@
       "question_te": "ఒక అసలుపై సంవత్సరానికి 8% వడ్డీ రేటుతో 8 సంవత్సరాలలో వచ్చే సాధారణ వడ్డీ, 5 సంవత్సరాలలో వచ్చే సాధారణ వడ్డీ కంటే రూ. 960 ఎక్కువ. అయితే ఆ అసలు ఎంత?",
       "options_en": [
         "Rs. 3,600",
-        "Rs. 4,000",
+        "Rs. 5,000",
         "Rs. 4,500",
-        "Rs. 5,000"
+        "Rs. 4,000"
       ],
       "options_te": [
         "రూ. 3,600",
-        "రూ. 4,000",
+        "రూ. 5,000",
         "రూ. 4,500",
-        "రూ. 5,000"
+        "రూ. 4,000"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Difference in time = 8 - 5 = 3 years. Interest difference = (P * 8 * 3) / 100 = 960 => 24P = 96,000 => P = Rs. 4,000.",
       "explanation_te": "కాలాల తేడా = 3 సం. వడ్డీ తేడా = (P * 8 * 3) / 100 = 960 => 24P = 96,000 => P = రూ. 4,000."
     },
@@ -392,18 +392,18 @@
       "question_en": "The difference between simple interest and compound interest (compounded annually) on a certain sum of money for 2 years at 10% per annum is Rs. 65. What is the sum?",
       "question_te": "ఒక నిర్దిష్ట అసలుపై 10% వార్షిక వడ్డీ రేటుతో 2 సంవత్సరాలకు అయ్యే చక్రవడ్డీ మరియు సాధారణ వడ్డీల మధ్య తేడా రూ. 65. అయితే ఆ అసలు ఎంత?",
       "options_en": [
-        "Rs. 5,500",
-        "Rs. 6,000",
         "Rs. 6,500",
+        "Rs. 6,000",
+        "Rs. 5,500",
         "Rs. 7,000"
       ],
       "options_te": [
-        "రూ. 5,500",
-        "రూ. 6,000",
         "రూ. 6,500",
+        "రూ. 6,000",
+        "రూ. 5,500",
         "రూ. 7,000"
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "For 2 years, Difference = P * (R / 100)^2 => 65 = P * (10 / 100)^2 = P * (1 / 100) => P = Rs. 6,500.",
       "explanation_te": "2 సంవత్సరాలకు తేడా = P * (R / 100)^2 => 65 = P * (1 / 100) => P = రూ. 6,500."
     },
@@ -437,17 +437,17 @@
       "question_te": "ఒక పనిని A ఒంటరిగా 12 రోజుల్లో, B ఒంటరిగా 15 రోజుల్లో పూర్తి చేయగలరు. A తో మొదలుపెట్టి వారు రోజు మార్చి రోజు పని చేస్తే, ఆ పని ఎన్ని రోజుల్లో పూర్తవుతుంది?",
       "options_en": [
         "13 days",
-        "13.25 days",
         "13.5 days",
+        "13.25 days",
         "14 days"
       ],
       "options_te": [
         "13 రోజులు",
-        "13.25 రోజులు",
         "13.5 రోజులు",
+        "13.25 రోజులు",
         "14 రోజులు"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "LCM(12, 15) = 60 units. Efficiency of A = 5 units/day, B = 4 units/day. In 2 days, they do 5 + 4 = 9 units. In 6 pairs (12 days), they complete 6 * 9 = 54 units. Remaining = 6 units. On 13th day, A does 5 units (remaining 1 unit). On 14th day, B does 1 unit in 1/4 = 0.25 days. Total time = 13.25 days.",
       "explanation_te": "మొత్తం పని = 60 యూనిట్లు. A = 5, B = 4. 2 రోజుల్లో 9 యూనిట్లు. 12 రోజుల్లో 54 యూనిట్లు పూర్తి. మిగిలిన 6 యూనిట్లలో 13వ రోజు A 5 యూనిట్లు చేస్తాడు (1 యూనిట్ మిగులుతుంది). 14వ రోజు B 1/4 రోజులో పూర్తి చేస్తాడు. మొత్తం కాలం = 13.25 రోజులు."
     },
@@ -458,18 +458,18 @@
       "question_en": "3 men or 6 women can do a piece of work in 16 days. In how many days can 12 men and 8 women do the same work?",
       "question_te": "3 మంది పురుషులు లేదా 6 మంది స్త్రీలు ఒక పనిని 16 రోజుల్లో చేయగలరు. అదే పనిని 12 మంది పురుషులు మరియు 8 మంది స్త్రీలు కలిసి ఎన్ని రోజుల్లో పూర్తి చేయగలరు?",
       "options_en": [
-        "3 days",
+        "8 days",
         "4 days",
         "6 days",
-        "8 days"
+        "3 days"
       ],
       "options_te": [
-        "3 రోజులు",
+        "8 రోజులు",
         "4 రోజులు",
         "6 రోజులు",
-        "8 రోజులు"
+        "3 రోజులు"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "3 Men = 6 Women => 1 Man = 2 Women. 12 Men + 8 Women = 12 * 2 + 8 = 32 Women. 6 Women take 16 days. Days for 32 Women = (6 * 16) / 32 = 3 days.",
       "explanation_te": "3M = 6W => 1M = 2W. 12M + 8W = 24W + 8W = 32W. 6W కి 16 రోజులు పడితే, 32W కి పట్టు కాలం = (6 * 16) / 32 = 3 రోజులు."
     },
@@ -480,18 +480,18 @@
       "question_en": "A pipe can fill a tank in 10 hours. Due to a leak in the bottom, it takes 12 hours to fill the tank. If the tank is full, in how many hours will the leak empty it?",
       "question_te": "ఒక పైపు ఒక తొట్టెను 10 గంటల్లో నింపగలదు. అడుగున ఉన్న లీకేజీ కారణంగా తొట్టె నిండటానికి 12 గంటలు పట్టింది. తొట్టె పూర్తిగా నిండి ఉన్నప్పుడు, లీకేజీ ద్వారా అది ఎన్ని గంటల్లో ఖాళీ అవుతుంది?",
       "options_en": [
-        "40 hours",
-        "50 hours",
         "60 hours",
+        "50 hours",
+        "40 hours",
         "72 hours"
       ],
       "options_te": [
-        "40 గంటలు",
-        "50 గంటలు",
         "60 గంటలు",
+        "50 గంటలు",
+        "40 గంటలు",
         "72 గంటలు"
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "Net rate = (1/10) - (1/12) = (6 - 5)/60 = 1/60. The leak alone empties the tank in 60 hours.",
       "explanation_te": "లీకేజీ రేటు = 1/10 - 1/12 = 1/60. లీకేజీ ద్వారా తొట్టె 60 గంటల్లో ఖాళీ అవుతుంది."
     },
@@ -524,18 +524,18 @@
       "question_en": "A car travels from Hyderabad to Warangal at a speed of 60 km/h and returns along the same route at 90 km/h. What is the average speed of the car for the entire journey?",
       "question_te": "ఒక కారు హైదరాబాద్ నుండి వరంగల్‌కు 60 కి.మీ./గం. వేగంతో వెళ్లి, అదే మార్గంలో 90 కి.మీ./గం. వేగంతో తిరిగి వచ్చింది. మొత్తం ప్రయాణంలో కారు సగటు వేగం ఎంత?",
       "options_en": [
-        "72 km/h",
-        "75 km/h",
         "78 km/h",
+        "75 km/h",
+        "72 km/h",
         "80 km/h"
       ],
       "options_te": [
-        "72 కి.మీ./గం.",
-        "75 కి.మీ./గం.",
         "78 కి.మీ./గం.",
+        "75 కి.మీ./గం.",
+        "72 కి.మీ./గం.",
         "80 కి.మీ./గం."
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Average speed for equal distances = (2 * S1 * S2) / (S1 + S2) = (2 * 60 * 90) / (60 + 90) = 10800 / 150 = 72 km/h.",
       "explanation_te": "సమాన దూరాలకు సగటు వేగం = (2 * 60 * 90) / (60 + 90) = 10800 / 150 = 72 కి.మీ./గం."
     },
@@ -547,17 +547,17 @@
       "question_te": "ఒక విద్యార్థి తన ఇంటి నుండి పాఠశాలకు 5 కి.మీ./గం. వేగంతో నడిస్తే 10 నిమిషాలు ఆలస్యంగా చేరుకుంటాడు. 6 కి.మీ./గం. వేగంతో నడిస్తే 5 నిమిషాలు ముందుగా చేరుకుంటాడు. ఇంటి నుండి పాఠశాలకు గల దూరం ఎంత?",
       "options_en": [
         "6 km",
-        "7.5 km",
+        "9 km",
         "8 km",
-        "9 km"
+        "7.5 km"
       ],
       "options_te": [
         "6 కి.మీ.",
-        "7.5 కి.మీ.",
+        "9 కి.మీ.",
         "8 కి.మీ.",
-        "9 కి.మీ."
+        "7.5 కి.మీ."
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Difference in time = 10 - (-5) = 15 minutes = 1/4 hour. Distance = (S1 * S2 / |S1 - S2|) * Delta_T = (5 * 6 / 1) * (15 / 60) = 30 * (1/4) = 7.5 km.",
       "explanation_te": "సమయాల తేడా = 10 - (-5) = 15 నిమిషాలు = 1/4 గంట. దూరం = (5 * 6 / 1) * (15 / 60) = 7.5 కి.మీ."
     },
@@ -568,18 +568,18 @@
       "question_en": "A 240 m long train crosses a platform of length 360 m in 30 seconds. What is the speed of the train in km/h?",
       "question_te": "240 మీటర్ల పొడవు గల ఒక రైలు 360 మీటర్ల పొడవైన ప్లాట్‌ఫారమ్‌ను 30 సెకన్లలో దాటుతుంది. ఆ రైలు వేగం గంటకు ఎన్ని కిలోమీటర్లు?",
       "options_en": [
-        "64 km/h",
         "72 km/h",
+        "64 km/h",
         "80 km/h",
         "90 km/h"
       ],
       "options_te": [
-        "64 కి.మీ./గం.",
         "72 కి.మీ./గం.",
+        "64 కి.మీ./గం.",
         "80 కి.మీ./గం.",
         "90 కి.మీ./గం."
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Total distance = 240 + 360 = 600 m. Speed = 600 / 30 = 20 m/s. Speed in km/h = 20 * (18 / 5) = 72 km/h.",
       "explanation_te": "మొత్తం దూరం = 240 + 360 = 600 మీ. వేగం = 600 / 30 = 20 మీ./సె. కి.మీ./గం. లోకి మారిస్తే = 20 * 18/5 = 72 కి.మీ./గం."
     },
@@ -591,17 +591,17 @@
       "question_te": "నిశ్చల నీటిలో ఒక వ్యక్తి పడవ వేగం 9 కి.మీ./గం. ప్రవాహ వేగం 3 కి.మీ./గం. ఒకే దూరానికి ప్రవాహానికి ఎదురుగా వెళ్లడానికి, ప్రవాహ దిశలో వెళ్లడం కంటే 3 గంటలు ఎక్కువ సమయం పట్టింది. ఆ దూరం ఎంత?",
       "options_en": [
         "24 km",
-        "30 km",
         "36 km",
+        "30 km",
         "48 km"
       ],
       "options_te": [
         "24 కి.మీ.",
-        "30 కి.మీ.",
         "36 కి.మీ.",
+        "30 కి.మీ.",
         "48 కి.మీ."
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Downstream speed = 9 + 3 = 12 km/h. Upstream speed = 9 - 3 = 6 km/h. (D / 6) - (D / 12) = 3 => D / 12 = 3 => D = 36 km.",
       "explanation_te": "ఎదురు వేగం = 6, అనుకూల వేగం = 12. D/6 - D/12 = 3 => D/12 = 3 => D = 36 కి.మీ."
     },
@@ -613,17 +613,17 @@
       "question_te": "60 మీటర్ల పొడవు మరియు 40 మీటర్ల వెడల్పు గల దీర్ఘచతురస్రాకార తోట చుట్టూ వెలుపల 2.5 మీటర్ల వెడల్పుతో బాట వేశారు. ఆ బాట వైశాల్యం ఎంత?",
       "options_en": [
         "500 sq.m",
-        "525 sq.m",
         "550 sq.m",
+        "525 sq.m",
         "600 sq.m"
       ],
       "options_te": [
         "500 చ.మీ.",
-        "525 చ.మీ.",
         "550 చ.మీ.",
+        "525 చ.మీ.",
         "600 చ.మీ."
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Outer length = 60 + 2(2.5) = 65 m. Outer width = 40 + 2(2.5) = 45 m. Outer area = 65 * 45 = 2925 sq.m. Inner area = 60 * 40 = 2400 sq.m. Area of path = 2925 - 2400 = 525 sq.m.",
       "explanation_te": "బయటి పొడవు = 65 మీ, వెడల్పు = 45 మీ. బయటి వైశాల్యం = 2925 చ.మీ. లోపలి వైశాల్యం = 2400 చ.మీ. బాట వైశాల్యం = 2925 - 2400 = 525 చ.మీ."
     },
@@ -635,17 +635,17 @@
       "question_te": "ఒక అర్ధవృత్తాకార పార్కు చుట్టుకొలత 108 మీటర్లు అయినచో, దాని వ్యాసార్థం ఎంత? (pi = 22/7)",
       "options_en": [
         "14 m",
-        "21 m",
+        "35 m",
         "28 m",
-        "35 m"
+        "21 m"
       ],
       "options_te": [
         "14 మీ.",
-        "21 మీ.",
+        "35 మీ.",
         "28 మీ.",
-        "35 మీ."
+        "21 మీ."
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Perimeter of semicircle = pi*r + 2r = r(22/7 + 2) = r(36/7). 36r / 7 = 108 => r = (108 * 7) / 36 = 3 * 7 = 21 m.",
       "explanation_te": "అర్ధవృత్త చుట్టుకొలత = r(36/7) = 108 => r = (108 * 7) / 36 = 21 మీటర్లు."
     },
@@ -656,18 +656,18 @@
       "question_en": "The radius of the base and height of a solid cone are 7 cm and 24 cm respectively. What is the total surface area of the cone? (Take pi = 22/7)",
       "question_te": "ఒక శంఖువు భూ వ్యాసార్థం 7 సెం.మీ. మరియు ఎత్తు 24 సెం.మీ. అయినచో, దాని సంపూర్ణతల వైశాల్యం ఎంత?",
       "options_en": [
-        "550 sq.cm",
-        "616 sq.cm",
         "704 sq.cm",
+        "616 sq.cm",
+        "550 sq.cm",
         "748 sq.cm"
       ],
       "options_te": [
-        "550 చ.సెం.మీ.",
-        "616 చ.సెం.మీ.",
         "704 చ.సెం.మీ.",
+        "616 చ.సెం.మీ.",
+        "550 చ.సెం.మీ.",
         "748 చ.సెం.మీ."
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "Slant height l = sqrt(r^2 + h^2) = sqrt(7^2 + 24^2) = sqrt(49 + 576) = sqrt(625) = 25 cm. Total surface area = pi * r * (l + r) = (22/7) * 7 * (25 + 7) = 22 * 32 = 704 sq.cm.",
       "explanation_te": "ఏటవాలు ఎత్తు l = sqrt(7^2 + 24^2) = 25 సెం.మీ. సంపూర్ణతల వైశాల్యం = pi * r * (l + r) = (22/7) * 7 * 32 = 704 చ.సెం.మీ."
     },
@@ -679,17 +679,17 @@
       "question_te": "12 సెం.మీ. వ్యాసార్థం గల ఒక పెద్ద సీసపు గోళాన్ని కరిగించి, 3 సెం.మీ. వ్యాసార్థం గల ఎన్ని చిన్న గోళాలను తయారు చేయవచ్చు?",
       "options_en": [
         "16",
-        "32",
         "64",
+        "32",
         "128"
       ],
       "options_te": [
         "16",
-        "32",
         "64",
+        "32",
         "128"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Number of spheres = Volume of large sphere / Volume of small sphere = (R / r)^3 = (12 / 3)^3 = 4^3 = 64.",
       "explanation_te": "గోళాల సంఖ్య = (R / r)^3 = (12 / 3)^3 = 4^3 = 64."
     },
@@ -701,17 +701,17 @@
       "question_te": "'POLICE' అనే పదంలోని అచ్చులు అన్నీ ఎల్లప్పుడూ కలిసి ఉండేలా ఆ పదంలోని అక్షరాలను ఎన్ని విధాలుగా అమర్చవచ్చు?",
       "options_en": [
         "72",
-        "144",
         "240",
+        "144",
         "720"
       ],
       "options_te": [
         "72",
-        "144",
         "240",
+        "144",
         "720"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "In 'POLICE', letters = P, L, C (3 consonants) and O, I, E (3 vowels). Treat vowels (O, I, E) as 1 single block. Total blocks = 3 + 1 = 4 blocks. They can be arranged in 4! = 24 ways. The 3 vowels among themselves can be arranged in 3! = 6 ways. Total arrangements = 24 * 6 = 144.",
       "explanation_te": "'POLICE' లో అచ్చులు (O, I, E) లను ఒకే యూనిట్‌గా భావిస్తే మొత్తం 4 యూనిట్లు (P, L, C, [OIE]). వీటిని 4! = 24 విధాలుగా, 3 అచ్చులను తమలో తాము 3! = 6 విధాలుగా అమర్చవచ్చు. మొత్తం = 24 * 6 = 144."
     },
@@ -722,18 +722,18 @@
       "question_en": "One card is drawn at random from a well-shuffled pack of 52 cards. What is the probability that the card drawn is either a King or a Heart?",
       "question_te": "బాగా కలిపిన 52 పేకముక్కల కట్ట నుండి యాదృచ్ఛికంగా ఒక ముక్కను తీస్తే, అది రాజా (King) లేదా హృదయం (Heart) చిహ్నం కలది కావడానికి సంభావ్యత ఎంత?",
       "options_en": [
-        "4/13",
+        "16/52",
         "1/4",
         "17/52",
-        "16/52"
+        "4/13"
       ],
       "options_te": [
-        "4/13",
+        "16/52",
         "1/4",
         "17/52",
-        "16/52"
+        "4/13"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Total cards = 52. Number of Kings = 4. Number of Hearts = 13. King of Hearts is common (1 card). Total favorable outcomes = 4 + 13 - 1 = 16. Probability = 16 / 52 = 4 / 13.",
       "explanation_te": "మొత్తం ముక్కలు = 52. రాజులు = 4, హార్ట్స్ = 13, కింగ్ ఆఫ్ హార్ట్స్ = 1. అనుకూల పర్యవసానాలు = 4 + 13 - 1 = 16. సంభావ్యత = 16 / 52 = 4 / 13."
     },
@@ -744,18 +744,18 @@
       "question_en": "Find the sum of all two-digit numbers which are exactly divisible by 3.",
       "question_te": "3 చేత నిశ్శేషముగా భాగించబడే అన్ని రెండంకెల సంఖ్యల మొత్తం ఎంత?",
       "options_en": [
-        "1650",
         "1665",
+        "1650",
         "1680",
         "1720"
       ],
       "options_te": [
-        "1650",
         "1665",
+        "1650",
         "1680",
         "1720"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Numbers: 12, 15, 18, ..., 99. First term a = 12, last term l = 99, d = 3. Number of terms n = (99 - 12)/3 + 1 = 29 + 1 = 30. Sum = (n / 2) * (a + l) = (30 / 2) * (12 + 99) = 15 * 111 = 1665.",
       "explanation_te": "శ్రేఢి: 12, 15, ..., 99. పదాల సంఖ్య n = 30. మొత్తం S_n = (30 / 2) * (12 + 99) = 15 * 111 = 1665."
     },
@@ -788,18 +788,18 @@
       "question_en": "In what ratio must water be mixed with milk costing Rs. 48 per litre so as to produce a mixture worth Rs. 40 per litre?",
       "question_te": "లీటరుకు రూ. 48 ఖరీదు చేసే పాలలో నీటిని ఏ నిష్పత్తిలో కలిపితే ఆ మిశ్రమం విలువ లీటరుకు రూ. 40 అవుతుంది? (నీటి ఖరీదు సున్నా అనుకొనుము)",
       "options_en": [
-        "1 : 5",
-        "1 : 6",
         "1 : 4",
+        "1 : 6",
+        "1 : 5",
         "2 : 5"
       ],
       "options_te": [
-        "1 : 5",
-        "1 : 6",
         "1 : 4",
+        "1 : 6",
+        "1 : 5",
         "2 : 5"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "By rule of alligation: Cost of water = 0, Cost of milk = 48, Mean cost = 40. Ratio (Water : Milk) = (48 - 40) : (40 - 0) = 8 : 40 = 1 : 5.",
       "explanation_te": "మిశ్రమ నియమం ప్రకారం: నీరు (0), పాలు (48), సగటు (40). నిష్పత్తి (నీరు : పాలు) = (48 - 40) : (40 - 0) = 8 : 40 = 1 : 5."
     },
@@ -811,17 +811,17 @@
       "question_te": "ఒక పాత్రలో 80 లీటర్ల పాలు ఉన్నాయి. దాని నుండి 8 లీటర్ల పాలను తీసి నీటితో నింపారు. ఈ విధానాన్ని మరో రెండు సార్లు పునరావృతం చేశారు. ప్రస్తుతం ఆ పాత్రలో మిగిలిన పాల పరిమాణం ఎంత?",
       "options_en": [
         "52.48 litres",
-        "58.32 litres",
+        "68.20 litres",
         "64.80 litres",
-        "68.20 litres"
+        "58.32 litres"
       ],
       "options_te": [
         "52.48 లీటర్లు",
-        "58.32 లీటర్లు",
+        "68.20 లీటర్లు",
         "64.80 లీటర్లు",
-        "68.20 లీటర్లు"
+        "58.32 లీటర్లు"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Remaining milk = Initial * [1 - (x / C)]^n = 80 * [1 - (8 / 80)]^3 = 80 * (9/10)^3 = 80 * 0.729 = 58.32 litres.",
       "explanation_te": "మిగిలిన పాలు = 80 * (1 - 8/80)^3 = 80 * (9/10)^3 = 80 * 0.729 = 58.32 లీటర్లు."
     },
@@ -876,18 +876,18 @@
       "question_en": "If alpha and beta are the roots of the equation 2x^2 - 7x + 3 = 0, find the value of (alpha^2 + beta^2).",
       "question_te": "2x^2 - 7x + 3 = 0 సమీకరణం యొక్క మూలాలు ఆల్ఫా మరియు బీటా అయినచో, (ఆల్ఫా^2 + బీటా^2) విలువ ఎంత?",
       "options_en": [
-        "37/4",
-        "41/4",
         "49/4",
+        "41/4",
+        "37/4",
         "25/4"
       ],
       "options_te": [
-        "37/4",
-        "41/4",
         "49/4",
+        "41/4",
+        "37/4",
         "25/4"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "alpha + beta = -(-7)/2 = 7/2, alpha * beta = 3/2. alpha^2 + beta^2 = (alpha + beta)^2 - 2*alpha*beta = (7/2)^2 - 2*(3/2) = 49/4 - 3 = 49/4 - 12/4 = 37/4.",
       "explanation_te": "ఆల్ఫా + బీటా = 7/2, ఆల్ఫా * బీటా = 3/2. ఆల్ఫా^2 + బీటా^2 = (7/2)^2 - 2(3/2) = 49/4 - 3 = 37/4."
     },
@@ -899,17 +899,17 @@
       "question_te": "ఒక దత్తాంశంలో అంకమధ్యమం (Mean) 36 మరియు మధ్యగతం (Median) 34 అయినచో, బాహుళకం (Mode) ఎంత?",
       "options_en": [
         "28",
-        "30",
+        "35",
         "32",
-        "35"
+        "30"
       ],
       "options_te": [
         "28",
-        "30",
+        "35",
         "32",
-        "35"
+        "30"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Empirical relationship: Mode = 3 * Median - 2 * Mean = 3(34) - 2(36) = 102 - 72 = 30.",
       "explanation_te": "బాహుళకం = 3 * మధ్యగతం - 2 * అంకమధ్యమం = 3(34) - 2(36) = 102 - 72 = 30."
     },
@@ -920,18 +920,18 @@
       "question_en": "A bag contains Rs. 1, 50 paise and 25 paise coins in the ratio 3 : 4 : 5. If the total amount in the bag is Rs. 250, how many 50 paise coins are there?",
       "question_te": "ఒక సంచిలో రూ. 1, 50 పైసలు మరియు 25 పైసల నాణేలు 3 : 4 : 5 నిష్పత్తిలో ఉన్నాయి. సంచిలోని మొత్తం విలువ రూ. 250 అయినచో, 50 పైసల నాణేల సంఖ్య ఎంత?",
       "options_en": [
-        "100",
-        "150",
         "160",
+        "150",
+        "100",
         "200"
       ],
       "options_te": [
-        "100",
-        "150",
         "160",
+        "150",
+        "100",
         "200"
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "Let coins be 3x, 4x, 5x. Value = 3x(1) + 4x(0.50) + 5x(0.25) = 3x + 2x + 1.25x = 6.25x. 6.25x = 250 => x = 250 / 6.25 = 40. Number of 50 paise coins = 4x = 4 * 40 = 160.",
       "explanation_te": "నాణేల విలువ = 3x(1) + 4x(0.5) + 5x(0.25) = 6.25x = 250 => x = 40. 50 పైసల నాణేల సంఖ్య = 4 * 40 = 160."
     },
@@ -943,17 +943,17 @@
       "question_te": "600 మీటర్ల పొడవు గల వృత్తాకార ట్రాక్‌పై ఇద్దరు రన్నర్లు ఒకే సమయంలో ఒకే బిందువు వద్ద నుండి ఒకే దిశలో వరుసగా 15 మీ/సె మరియు 10 మీ/సె వేగంతో పరుగు ప్రారంభించారు. వారు మొదటిసారి ఎన్ని సెకన్ల తర్వాత కలుస్తారు?",
       "options_en": [
         "60 sec",
-        "90 sec",
         "120 sec",
+        "90 sec",
         "150 sec"
       ],
       "options_te": [
         "60 సెకన్లు",
-        "90 సెకన్లు",
         "120 సెకన్లు",
+        "90 సెకన్లు",
         "150 సెకన్లు"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Relative speed = 15 - 10 = 5 m/s. Time to meet = Track length / Relative speed = 600 / 5 = 120 seconds.",
       "explanation_te": "సాపేక్ష వేగం = 15 - 10 = 5 మీ./సె. మొదటిసారి కలవడానికి పట్టు కాలం = 600 / 5 = 120 సెకన్లు."
     },
@@ -965,17 +965,17 @@
       "question_te": "ఒక కానిస్టేబుల్ తన జీతంలో 20% ఇంటి అద్దెకు, మిగిలిన దానిలో 70% ఇంటి ఖర్చులకు వెచ్చించి, ఇంకా రూ. 3,600 ఆదా చేశాడు. అతని మొత్తం నెలవారీ జీతం ఎంత?",
       "options_en": [
         "Rs. 12,000",
-        "Rs. 15,000",
         "Rs. 18,000",
+        "Rs. 15,000",
         "Rs. 20,000"
       ],
       "options_te": [
         "రూ. 12,000",
-        "రూ. 15,000",
         "రూ. 18,000",
+        "రూ. 15,000",
         "రూ. 20,000"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "After rent, remaining = 80%. After household expenses (70% of 80% = 56%), savings = 80% - 56% = 24%. 24% of Salary = 3600 => Salary = (3600 / 24) * 100 = 150 * 100 = Rs. 15,000.",
       "explanation_te": "అద్దె పోగా మిగిలినది = 80%. మిగిలిన దానిలో 30% ఆదా = 80% * 30/100 = 24%. 24% = 3600 => జీతం = (3600 / 24) * 100 = రూ. 15,000."
     },
@@ -988,16 +988,16 @@
       "options_en": [
         "No profit no loss",
         "2% loss",
-        "4% loss",
-        "4% gain"
+        "4% gain",
+        "4% loss"
       ],
       "options_te": [
         "లాభం లేదు నష్టం లేదు",
         "2% నష్టం",
-        "4% నష్టం",
-        "4% లాభం"
+        "4% లాభం",
+        "4% నష్టం"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "When SP of two articles is same and profit% = loss% = x%, there is always an overall loss of (x / 10)^2 % = (20 / 10)^2 = 4% loss.",
       "explanation_te": "అమ్మిన వెలలు సమానమై, ఒకదానిపై x% లాభం, మరొకదానిపై x% నష్టం వచ్చినప్పుడు ఎల్లప్పుడూ నష్టమే వస్తుంది. నష్ట శాతం = (x/10)^2 = (20/10)^2 = 4% నష్టం."
     },
@@ -1008,18 +1008,18 @@
       "question_en": "The diagonals of a rhombus are 32 cm and 24 cm. Find the perimeter of the rhombus.",
       "question_te": "ఒక రాంబస్ యొక్క కర్ణాలు 32 సెం.మీ. మరియు 24 సెం.మీ. అయినచో, ఆ రాంబస్ చుట్టుకొలత ఎంత?",
       "options_en": [
-        "60 cm",
         "80 cm",
+        "60 cm",
         "96 cm",
         "112 cm"
       ],
       "options_te": [
-        "60 సెం.మీ.",
         "80 సెం.మీ.",
+        "60 సెం.మీ.",
         "96 సెం.మీ.",
         "112 సెం.మీ."
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Side a = sqrt((d1/2)^2 + (d2/2)^2) = sqrt(16^2 + 12^2) = sqrt(256 + 144) = sqrt(400) = 20 cm. Perimeter = 4 * side = 4 * 20 = 80 cm.",
       "explanation_te": "భుజం = sqrt(16^2 + 12^2) = 20 సెం.మీ. చుట్టుకొలత = 4 * 20 = 80 సెం.మీ."
     },
@@ -1031,17 +1031,17 @@
       "question_te": "ఒక పోలీస్ విభాగంలో 5 సంవత్సరాల సిబ్బంది సంఖ్య: 2021: 1200, 2022: 1500, 2023: 1800, 2024: 2100, 2025: 2400. 2021 నుండి 2025 నాటికి సిబ్బంది సంఖ్యలో వచ్చిన వృద్ధి శాతం ఎంత?",
       "options_en": [
         "50%",
-        "75%",
         "100%",
+        "75%",
         "120%"
       ],
       "options_te": [
         "50%",
-        "75%",
         "100%",
+        "75%",
         "120%"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Increase = 2400 - 1200 = 1200. Percentage increase = (1200 / 1200) * 100 = 100%.",
       "explanation_te": "పెరుగుదల = 2400 - 1200 = 1200. శాతం = (1200 / 1200) * 100 = 100%."
     },
@@ -1053,17 +1053,17 @@
       "question_te": "50 మరియు 100 ల మధ్య ఎన్ని ప్రధాన సంఖ్యలు కలవు?",
       "options_en": [
         "9",
-        "10",
         "11",
+        "10",
         "12"
       ],
       "options_te": [
         "9",
-        "10",
         "11",
+        "10",
         "12"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Primes between 50 and 100 are: 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. Total = 10 primes.",
       "explanation_te": "50 నుండి 100 మధ్య గల ప్రధాన సంఖ్యలు: 53, 59, 61, 67, 71, 73, 79, 83, 89, 97. మొత్తం = 10 సంఖ్యలు."
     },
@@ -1076,16 +1076,16 @@
       "options_en": [
         "40 litres",
         "50 litres",
-        "60 litres",
-        "80 litres"
+        "80 litres",
+        "60 litres"
       ],
       "options_te": [
         "40 లీటర్లు",
         "50 లీటర్లు",
-        "60 లీటర్లు",
-        "80 లీటర్లు"
+        "80 లీటర్లు",
+        "60 లీటర్లు"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "Initial: Milk = (2/3)*60 = 40 L, Water = 20 L. Let added water be x. Milk remains 40 L. New ratio: 40 / (20 + x) = 1/2 => 20 + x = 80 => x = 60 litres.",
       "explanation_te": "ప్రారంభంలో: పాలు = 40 లీ, నీరు = 20 లీ. కొత్త నిష్పత్తి 1 : 2 కాబట్టి 40/(20 + x) = 1/2 => x = 60 లీటర్లు."
     },
@@ -1096,18 +1096,18 @@
       "question_en": "A is twice as good a workman as B and therefore is able to finish a job in 30 days less than B. How many days will they take to finish the work together?",
       "question_te": "A అనే వ్యక్తి B కంటే రెండు రెట్లు సమర్థవంతమైన పనిమంతుడు. అందువల్ల B కంటే ఒక పనిని 30 రోజులు ముందుగా పూర్తి చేయగలడు. వారిద్దరూ కలిసి ఆ పనిని ఎన్ని రోజుల్లో పూర్తి చేయగలరు?",
       "options_en": [
-        "15 days",
         "20 days",
+        "15 days",
         "25 days",
         "30 days"
       ],
       "options_te": [
-        "15 రోజులు",
         "20 రోజులు",
+        "15 రోజులు",
         "25 రోజులు",
         "30 రోజులు"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Efficiency A : B = 2 : 1 => Time ratio A : B = 1 : 2. Difference = 2 - 1 = 1 part = 30 days. So A takes 30 days and B takes 60 days. Together time = (30 * 60) / (30 + 60) = 1800 / 90 = 20 days.",
       "explanation_te": "సమర్థత నిష్పత్తి 2 : 1 => కాలాల నిష్పత్తి 1 : 2. తేడా 1 భాగం = 30 రోజులు. A = 30 రోజులు, B = 60 రోజులు. ఇద్దరూ కలిసి = (30 * 60) / 90 = 20 రోజులు."
     },
@@ -1164,16 +1164,16 @@
       "options_en": [
         "245",
         "247",
-        "249",
-        "251"
+        "251",
+        "249"
       ],
       "options_te": [
         "245",
         "247",
-        "249",
-        "251"
+        "251",
+        "249"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "Pattern: *2 + 1, *2 + 2, *2 + 3, *2 + 4, *2 + 5. 122 * 2 + 5 = 244 + 5 = 249.",
       "explanation_te": "క్రమం: 6*2+1=13, 13*2+2=28, 28*2+3=59, 59*2+4=122, 122*2+5 = 249."
     },
@@ -1229,17 +1229,17 @@
       "question_te": "ఎఫ్.ఐ.ఆర్ (FIR) : పోలీస్ స్టేషన్ :: కేసు (Case) : ?",
       "options_en": [
         "Hospital",
-        "Court",
         "Prison",
+        "Court",
         "Ministry"
       ],
       "options_te": [
         "ఆసుపత్రి",
-        "కోర్టు",
         "జైలు",
+        "కోర్టు",
         "మంత్రిత్వ శాఖ"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "FIR is officially registered and investigated at a Police Station, while a Case is heard and adjudicated in a Court.",
       "explanation_te": "FIR అనేది పోలీస్ స్టేషన్‌లో నమోదు చేయబడుతుంది; అలాగే కేసు కోర్టులో విచారించబడుతుంది."
     },
@@ -1250,18 +1250,18 @@
       "question_en": "11 : 1331 :: 9 : ?",
       "question_te": "11 : 1331 :: 9 : ?",
       "options_en": [
-        "729",
+        "1029",
         "810",
         "972",
-        "1029"
+        "729"
       ],
       "options_te": [
-        "729",
+        "1029",
         "810",
         "972",
-        "1029"
+        "729"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Pattern: x : x^3. 11^3 = 1331. Similarly, 9^3 = 729.",
       "explanation_te": "సంబంధం x : x^3. 11 ఘనం = 1331. అదేవిధంగా 9 ఘనం = 729."
     },
@@ -1272,18 +1272,18 @@
       "question_en": "Find the odd one out among the given options:",
       "question_te": "క్రింది వాటిలో భిన్నమైన దానిని గుర్తించండి:",
       "options_en": [
-        "DSP",
+        "Judge",
         "ACP",
         "SI",
-        "Judge"
+        "DSP"
       ],
       "options_te": [
-        "DSP (డి.ఎస్.పి)",
+        "జడ్జి (Judge)",
         "ACP (ఎ.సి.పి)",
         "SI (ఎస్సై)",
-        "జడ్జి (Judge)"
+        "DSP (డి.ఎస్.పి)"
       ],
-      "correct_option": 3,
+      "correct_option": 0,
       "explanation_en": "DSP, ACP, and SI are police department ranks (Executive/Police service), whereas Judge belongs to the Judiciary.",
       "explanation_te": "DSP, ACP, SI లు పోలీసు శాఖకు చెందిన హోదాలు; జడ్జి న్యాయవ్యవస్థకు (Judiciary) చెందినవారు."
     },
@@ -1295,17 +1295,17 @@
       "question_te": "క్రింది సంఖ్యలలో భిన్నమైన సంఖ్యను గుర్తించండి: 17, 29, 37, 49, 53",
       "options_en": [
         "29",
-        "37",
         "49",
+        "37",
         "53"
       ],
       "options_te": [
         "29",
-        "37",
         "49",
+        "37",
         "53"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "17, 29, 37, and 53 are all prime numbers, while 49 is a composite square number (7^2).",
       "explanation_te": "17, 29, 37, 53 లు ప్రధాన సంఖ్యలు. 49 అనేది సంయుక్త సంఖ్య (7^2)."
     },
@@ -1316,18 +1316,18 @@
       "question_en": "In a certain code language, if 'DELHI' is coded as '73541' and 'CALCUTTA' is coded as '82589662', how will 'CALICUT' be coded?",
       "question_te": "ఒక కోడ్ భాషలో 'DELHI' ని '73541' గాను మరియు 'CALCUTTA' ని '82589662' గాను రాస్తే, 'CALICUT' ని ఏ విధంగా కోడ్ చేస్తారు?",
       "options_en": [
-        "8251896",
-        "8254896",
         "8251968",
+        "8254896",
+        "8251896",
         "8521896"
       ],
       "options_te": [
-        "8251896",
-        "8254896",
         "8251968",
+        "8254896",
+        "8251896",
         "8521896"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Direct letter-to-digit substitution: C=8, A=2, L=5, I=1, C=8, U=9, T=6. So CALICUT = 8251896.",
       "explanation_te": "అక్షరాల స్థానంలో సంఖ్యలు: C=8, A=2, L=5, I=1, C=8, U=9, T=6 => CALICUT = 8251896."
     },
@@ -1339,17 +1339,17 @@
       "question_te": "ఒక సంకేత భాషలో 'ROAD' ని 'URDG' గా రాసినచో, 'SWAN' ను ఆ భాషలో ఎలా రాస్తారు?",
       "options_en": [
         "VXDQ",
-        "VZDQ",
+        "VYDQ",
         "UZDQ",
-        "VYDQ"
+        "VZDQ"
       ],
       "options_te": [
         "VXDQ",
-        "VZDQ",
+        "VYDQ",
         "UZDQ",
-        "VYDQ"
+        "VZDQ"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Each letter is shifted by +3 positions: R(+3)->U, O(+3)->R, A(+3)->D, D(+3)->G. For SWAN: S(+3)->V, W(+3)->Z, A(+3)->D, N(+3)->Q => VZDQ.",
       "explanation_te": "ప్రతి అక్షరానికి +3 కలపబడింది: S+3=V, W+3=Z, A+3=D, N+3=Q => VZDQ."
     },
@@ -1382,18 +1382,18 @@
       "question_en": "If 'A + B' means A is father of B; 'A - B' means A is wife of B; 'A * B' means A is brother of B; which of the following means 'P is son of Q'?",
       "question_te": "'A + B' అనగా A అనునది B యొక్క తండ్రి; 'A - B' అనగా A అనునది B యొక్క భార్య; 'A * B' అనగా A అనునది B యొక్క సోదరుడు అయినచో, క్రింది వాటిలో 'P అనునది Q యొక్క కుమారుడు' అని తెలిపేది ఏది?",
       "options_en": [
-        "Q + P * R",
         "Q - P + R",
+        "Q + P * R",
         "P * R + Q",
         "Q + R - P"
       ],
       "options_te": [
-        "Q + P * R",
         "Q - P + R",
+        "Q + P * R",
         "P * R + Q",
         "Q + R - P"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "In Q + P * R: Q + P means Q is father of P. P * R means P is brother of R (so P is male). Therefore, P is son of Q.",
       "explanation_te": "Q + P * R లో: Q + P అనగా Q తండ్రి. P * R అనగా P పురుషుడు (సోదరుడు). కావున P, Q యొక్క కుమారుడు."
     },
@@ -1404,18 +1404,18 @@
       "question_en": "A police patrol car starts from the station and moves 8 km towards South. It turns right and drives 6 km. What is the shortest distance of the car from the police station?",
       "question_te": "ఒక పోలీస్ పెట్రోలింగ్ కారు స్టేషన్ నుండి బయలుదేరి దక్షిణ దిశగా 8 కి.మీ. వెళ్లింది. కుడివైపు తిరిగి 6 కి.మీ. ప్రయాణించింది. పోలీస్ స్టేషన్ నుండి కారు ఉన్న కనిష్ట దూరం ఎంత?",
       "options_en": [
-        "10 km",
-        "12 km",
         "14 km",
+        "12 km",
+        "10 km",
         "16 km"
       ],
       "options_te": [
-        "10 కి.మీ.",
-        "12 కి.మీ.",
         "14 కి.మీ.",
+        "12 కి.మీ.",
+        "10 కి.మీ.",
         "16 కి.మీ."
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Shortest distance = hypotenuse = sqrt(8^2 + 6^2) = sqrt(64 + 36) = sqrt(100) = 10 km.",
       "explanation_te": "కనిష్ట దూరం = sqrt(8^2 + 6^2) = sqrt(100) = 10 కి.మీ."
     },
@@ -1448,18 +1448,18 @@
       "question_en": "In a row of 45 candidates, Rahul is 18th from the left end. What is his rank from the right end?",
       "question_te": "45 మంది అభ్యర్థులు ఉన్న ఒక వరుసలో రాహుల్ ఎడమవైపు నుండి 18వ స్థానంలో ఉన్నాడు. కుడివైపు నుండి అతని స్థానం ఎంత?",
       "options_en": [
-        "26th",
-        "27th",
         "28th",
+        "27th",
+        "26th",
         "29th"
       ],
       "options_te": [
-        "26వ",
-        "27వ",
         "28వ",
+        "27వ",
+        "26వ",
         "29వ"
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "Rank from right = Total - Rank from left + 1 = 45 - 18 + 1 = 28th.",
       "explanation_te": "కుడి నుండి స్థానం = మొత్తం - ఎడమ నుండి స్థానం + 1 = 45 - 18 + 1 = 28వ స్థానం."
     },
@@ -1492,18 +1492,18 @@
       "question_en": "Five friends A, B, C, D and E are sitting around a circular table facing the center. B is to the immediate right of A. E is between C and D. C is to the immediate left of A. Who is sitting to the immediate left of B?",
       "question_te": "A, B, C, D మరియు E అనే ఐదుగురు స్నేహితులు వృత్తాకార బల్ల చుట్టూ కేంద్రం వైపు ముఖం చేసి కూర్చున్నారు. A కి వెంటనే కుడివైపున B ఉన్నాడు. C మరియు D ల మధ్య E ఉన్నాడు. A కి వెంటనే ఎడమవైపున C ఉన్నాడు. అయితే B కి వెంటనే ఎడమవైపున ఎవరు ఉన్నారు?",
       "options_en": [
-        "A",
-        "C",
         "D",
+        "C",
+        "A",
         "E"
       ],
       "options_te": [
-        "A",
-        "C",
         "D",
+        "C",
+        "A",
         "E"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Since B is to the immediate right of A, looking back from B to the left brings us directly to A. Therefore, immediate left of B is A.",
       "explanation_te": "A కి వెంటనే కుడివైపున B ఉన్నాడు కాబట్టి, B కి వెంటనే ఎడమవైపున A ఉంటాడు."
     },
@@ -1516,16 +1516,16 @@
       "options_en": [
         "P",
         "Q",
-        "S",
-        "U"
+        "U",
+        "S"
       ],
       "options_te": [
         "P",
         "Q",
-        "S",
-        "U"
+        "U",
+        "S"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "T is extreme right. R is between P and T => P, R, T. Q is left of P => Q, P, R, T. U is between S and Q => S, U, Q, P, R, T. The person at the extreme left is S.",
       "explanation_te": "కుడి నుండి వరుస: T, R, P, Q, U, S. కాబట్టి చిట్టచివరి ఎడమ అంచున ఉన్న వ్యక్తి S."
     },
@@ -1536,18 +1536,18 @@
       "question_en": "Statements: (1) All officers are graduates. (2) Some graduates are athletes. Conclusions: I. Some officers are athletes. II. Some athletes are graduates.",
       "question_te": "ప్రకటనలు: (1) అధికారులందరూ గ్రాడ్యుయేట్లు. (2) కొందరు గ్రాడ్యుయేట్లు అథ్లెట్లు. ముగింపులు: I. కొందరు అధికారులు అథ్లెట్లు. II. కొందరు అథ్లెట్లు గ్రాడ్యుయేట్లు.",
       "options_en": [
-        "Only conclusion I follows",
         "Only conclusion II follows",
+        "Only conclusion I follows",
         "Both I and II follow",
         "Neither I nor II follows"
       ],
       "options_te": [
-        "ముగింపు I మాత్రమే సరైనది",
         "ముగింపు II మాత్రమే సరైనది",
+        "ముగింపు I మాత్రమే సరైనది",
         "I మరియు II రెండూ సరైనవే",
         "ఏదీ సరైనది కాదు"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "From statement (2) 'Some graduates are athletes', it directly converses to 'Some athletes are graduates' (Conclusion II is valid). But there is no definite overlap given between officers and athletes, so I does not follow.",
       "explanation_te": "'కొందరు గ్రాడ్యుయేట్లు అథ్లెట్లు' నుండి 'కొందరు అథ్లెట్లు గ్రాడ్యుయేట్లు' అని నేరుగా చెప్పవచ్చు (II సరైనది). అధికారులు, అథ్లెట్ల మధ్య నేరుగా సంబంధం లేదు."
     },
@@ -1558,18 +1558,18 @@
       "question_en": "Which of the following Venn diagrams best represents the relationship between: Police, Thieves, and Criminals?",
       "question_te": "క్రింది వాటిలో 'పోలీసులు, దొంగలు, నేరస్థులు' ల మధ్య సంబంధాన్ని సరిగ్గా సూచించే వెన్ చిత్రం ఏది?",
       "options_en": [
-        "All thieves are criminals, and police are separate",
         "All police are criminals, thieves separate",
+        "All thieves are criminals, and police are separate",
         "Some police are thieves and criminals",
         "Three completely disjoint circles"
       ],
       "options_te": [
-        "దొంగలందరూ నేరస్థులు (లోపలి వృత్తం), పోలీసులు వేరుగా ఉంటారు",
         "పోలీసులందరూ నేరస్థులు",
+        "దొంగలందరూ నేరస్థులు (లోపలి వృత్తం), పోలీసులు వేరుగా ఉంటారు",
         "కొందరు పోలీసులు దొంగలు",
         "మూడూ వేర్వేరు వృత్తాలు"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "All thieves are criminals (concentric circle inside criminals), while police officers are an entirely separate group upholding the law.",
       "explanation_te": "దొంగలందరూ నేరస్థుల వర్గానికి చెందుతారు (నేరస్థుల లోపల దొంగల వృత్తం). పోలీసులు పూర్తిగా వేరే వర్గం."
     },
@@ -1581,17 +1581,17 @@
       "question_te": "గడియారంలో సమయం 8:30 అయినప్పుడు గంటల ముల్లు మరియు నిమిషాల ముల్లుల మధ్య కోణం ఎంత?",
       "options_en": [
         "60 degrees",
-        "75 degrees",
         "80 degrees",
+        "75 degrees",
         "90 degrees"
       ],
       "options_te": [
         "60 డిగ్రీలు",
-        "75 డిగ్రీలు",
         "80 డిగ్రీలు",
+        "75 డిగ్రీలు",
         "90 డిగ్రీలు"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Angle = |30H - (11/2)M| = |30(8) - 5.5(30)| = |240 - 165| = 75 degrees.",
       "explanation_te": "కోణం = |30H - (11/2)M| = |30*8 - 5.5*30| = |240 - 165| = 75 డిగ్రీలు."
     },
@@ -1603,17 +1603,17 @@
       "question_te": "2024 జనవరి 1వ తేదీ సోమవారం అయితే, 2024 డిసెంబర్ 31వ తేదీ ఏ వారం అవుతుంది?",
       "options_en": [
         "Monday",
-        "Tuesday",
+        "Sunday",
         "Wednesday",
-        "Sunday"
+        "Tuesday"
       ],
       "options_te": [
         "సోమవారం",
-        "మంగళవారం",
+        "ఆదివారం",
         "బుధవారం",
-        "ఆదివారం"
+        "మంగళవారం"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "2024 is a leap year with 366 days. In a leap year, the last day of the year is 1 day ahead of the first day of the year. Monday + 1 = Tuesday.",
       "explanation_te": "2024 లీపు సంవత్సరం (366 రోజులు). లీపు సంవత్సరంలో మొదటి రోజు కంటే చివరి రోజు 1 రోజు ముందుకు ఉంటుంది. సోమవారం + 1 = మంగళవారం."
     },
@@ -1646,18 +1646,18 @@
       "question_en": "Arrange the following in a logical sequence: 1. Notification 2. Preliminary Exam 3. Application 4. Physical Test 5. Appointment Order",
       "question_te": "క్రింది వాటిని తార్కిక క్రమంలో అమర్చండి: 1. నోటిఫికేషన్ 2. ప్రిలిమ్స్ పరీక్ష 3. దరఖాస్తు 4. దేహదారుఢ్య పరీక్ష (PET) 5. నియామక పత్రం",
       "options_en": [
-        "1, 3, 2, 4, 5",
         "1, 2, 3, 4, 5",
+        "1, 3, 2, 4, 5",
         "3, 1, 2, 4, 5",
         "1, 3, 4, 2, 5"
       ],
       "options_te": [
-        "1, 3, 2, 4, 5",
         "1, 2, 3, 4, 5",
+        "1, 3, 2, 4, 5",
         "3, 1, 2, 4, 5",
         "1, 3, 4, 2, 5"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Chronological order of recruitment: Notification (1) -> Application submission (3) -> Preliminary Written Test (2) -> Physical Test (4) -> Appointment Order (5).",
       "explanation_te": "నియామక ప్రక్రియ క్రమం: నోటిఫికేషన్ (1) -> దరఖాస్తు (3) -> ప్రిలిమ్స్ (2) -> ఈవెంట్స్/PET (4) -> నియామకం (5)."
     },
@@ -1668,18 +1668,18 @@
       "question_en": "Choose the correct mirror image of the word 'POLICE' when the mirror is placed vertically on the right:",
       "question_te": "అద్దం కుడివైపు నిలువుగా ఉంచినప్పుడు 'POLICE' పదానికి సరైన ప్రతిబింబం ఏది?",
       "options_en": [
-        "ECILOP (with reversed individual letters)",
-        "POLICE (unchanged)",
         "ECILOP (normal letters)",
+        "POLICE (unchanged)",
+        "ECILOP (with reversed individual letters)",
         "POLICE inverted upside down"
       ],
       "options_te": [
-        "ECILOP (అక్షరాలు అద్దంలో తిరగబడిన రూపం)",
-        "POLICE",
         "ECILOP",
+        "POLICE",
+        "ECILOP (అక్షరాలు అద్దంలో తిరగబడిన రూపం)",
         "నీటి ప్రతిబింబం"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "In a vertical mirror, left and right invert. The letters appear in reverse order starting from E, and asymmetric letters (E, C, P) are laterally inverted.",
       "explanation_te": "నిలువు అద్దంలో కుడి ఎడమలు తారుమారవుతాయి. చివర ఉన్న 'E' మొదట వస్తూ అక్షరాలన్నీ తిరగబడతాయి."
     },
@@ -1690,18 +1690,18 @@
       "question_en": "ACEG : BDFH :: MOQS : ?",
       "question_te": "ACEG : BDFH :: MOQS : ?",
       "options_en": [
-        "NPRT",
+        "OPRT",
         "NQSU",
         "NPSV",
-        "OPRT"
+        "NPRT"
       ],
       "options_te": [
-        "NPRT",
+        "OPRT",
         "NQSU",
         "NPSV",
-        "OPRT"
+        "NPRT"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Each letter advances by +1: A->B, C->D, E->F, G->H. Similarly, M(+1)->N, O(+1)->P, Q(+1)->R, S(+1)->T => NPRT.",
       "explanation_te": "ప్రతి అక్షరానికి +1 కలపబడింది: M+1=N, O+1=P, Q+1=R, S+1=T => NPRT."
     },
@@ -1712,18 +1712,18 @@
       "question_en": "Find the missing number in the 3x3 matrix:\n[ 4  5  6 ]\n[ 2  3  7 ]\n[ 8 15  ? ]",
       "question_te": "3x3 మ్యాట్రిక్స్‌లో లోపించిన సంఖ్యను కనుగొనండి:\n[ 4  5  6 ]\n[ 2  3  7 ]\n[ 8 15  ? ]",
       "options_en": [
-        "28",
-        "36",
         "42",
+        "36",
+        "28",
         "48"
       ],
       "options_te": [
-        "28",
-        "36",
         "42",
+        "36",
+        "28",
         "48"
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "Column-wise pattern: Row 1 * Row 2 = Row 3. Col 1: 4 * 2 = 8. Col 2: 5 * 3 = 15. Col 3: 6 * 7 = 42.",
       "explanation_te": "నిలువు వరుసల నియమం: 1వ అడ్డు వరుస * 2వ అడ్డు వరుస = 3వ అడ్డు వరుస. కావున 6 * 7 = 42."
     },
@@ -1735,17 +1735,17 @@
       "question_te": "ఒక ప్రామాణిక పాచికపై 1 నుండి 6 వరకు అంకెలు ఉన్నాయి. అడుగు భాగంలో 3 ఉంటే, పై భాగంలో ఏ సంఖ్య ఉంటుంది?",
       "options_en": [
         "1",
-        "2",
         "4",
+        "2",
         "5"
       ],
       "options_te": [
         "1",
-        "2",
         "4",
+        "2",
         "5"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "In a standard die, the sum of opposite faces is always 7. Opposite to 3 is 7 - 3 = 4.",
       "explanation_te": "ప్రామాణిక పాచికలో ఎదురెదురు ముఖాల మొత్తం ఎల్లప్పుడూ 7. కాబట్టి 3 కి ఎదురుగా 7 - 3 = 4 ఉంటుంది."
     },
@@ -1756,18 +1756,18 @@
       "question_en": "Statement: Should CCTV surveillance cameras be installed at all traffic junctions in Telangana cities? Argument I: Yes, this will significantly reduce traffic violations and crime. Argument II: No, it involves huge expenditure of public money.",
       "question_te": "ప్రకటన: తెలంగాణ నగరాల్లోని అన్ని ట్రాఫిక్ కూడళ్లలో సీసీటీవీ కెమెరాలను ఏర్పాటు చేయాలా? వాదన I: అవును, ఇది ట్రాఫిక్ ఉల్లంఘనలు మరియు నేరాలను గణనీయంగా తగ్గిస్తుంది. వాదన II: వద్దు, దీనికి ప్రజల ధనం విపరీతంగా ఖర్చవుతుంది.",
       "options_en": [
-        "Only argument I is strong",
-        "Only argument II is strong",
         "Either I or II is strong",
+        "Only argument II is strong",
+        "Only argument I is strong",
         "Both I and II are strong"
       ],
       "options_te": [
-        "వాదన I మాత్రమే బలమైనది",
-        "వాదన II మాత్రమే బలమైనది",
         "I లేదా II బలమైనది",
+        "వాదన II మాత్రమే బలమైనది",
+        "వాదన I మాత్రమే బలమైనది",
         "రెండూ బలమైనవే"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Argument I is strong because public safety, law enforcement, and crime deterrence are vital government duties that outweigh setup expenses.",
       "explanation_te": "వాదన I మాత్రమే బలమైనది. ప్రజా రక్షణ మరియు నేర నియంత్రణ ప్రాథమిక బాధ్యత."
     },
@@ -1779,17 +1779,17 @@
       "question_te": "ఒక పోలీస్ డాగ్ స్క్వాడ్ మైదానంలో కొన్ని కుక్కలు మరియు వాటి సంరక్షకులు (మనుషులు) ఉన్నారు. అక్కడ మొత్తం తలలు 20 మరియు కాళ్ళు 64. అక్కడ ఉన్న కుక్కల సంఖ్య ఎంత?",
       "options_en": [
         "10",
-        "12",
+        "16",
         "14",
-        "16"
+        "12"
       ],
       "options_te": [
         "10",
-        "12",
+        "16",
         "14",
-        "16"
+        "12"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Let handlers be H and dogs be D. H + D = 20 => 2H + 2D = 40. 2H + 4D = 64. Subtracting: 2D = 24 => D = 12 dogs.",
       "explanation_te": "మనుషులు H, కుక్కలు D. H + D = 20, 2H + 4D = 64. 2D = 24 => కుక్కల సంఖ్య D = 12."
     },
@@ -1800,18 +1800,18 @@
       "question_en": "If 'A' = 1, 'PAT' = 37, then what is the code for 'POLICE'?",
       "question_te": "'A' = 1, 'PAT' = 37 అయినచో, 'POLICE' యొక్క కోడ్ సంఖ్య ఎంత?",
       "options_en": [
-        "58",
         "60",
+        "58",
         "63",
         "65"
       ],
       "options_te": [
-        "58",
         "60",
+        "58",
         "63",
         "65"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Sum of alphabetical positions: P=16, O=15, L=12, I=9, C=3, E=5. Sum = 16 + 15 + 12 + 9 + 3 + 5 = 60.",
       "explanation_te": "అక్షరాల స్థాన విలువల మొత్తం: 16 + 15 + 12 + 9 + 3 + 5 = 60."
     },
@@ -1845,17 +1845,17 @@
       "question_te": "48 : 122 :: 168 : ?",
       "options_en": [
         "288",
-        "290",
         "292",
+        "290",
         "300"
       ],
       "options_te": [
         "288",
-        "290",
         "292",
+        "290",
         "300"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "48 = 7^2 - 1; 122 = 11^2 + 1 (primes 7 and 11). 168 = 13^2 - 1. The next prime after 13 is 17. 17^2 + 1 = 289 + 1 = 290.",
       "explanation_te": "48 = 7^2 - 1, 122 = 11^2 + 1. 168 = 13^2 - 1. తర్వాతి ప్రధాన సంఖ్య 17 => 17^2 + 1 = 290."
     },
@@ -1866,20 +1866,20 @@
       "question_en": "Find the next term: 2B, 4D, 8H, 16P, ?",
       "question_te": "శ్రేణిలో తర్వాతి పదాన్ని గుర్తించండి: 2B, 4D, 8H, 16P, ?",
       "options_en": [
-        "32X",
+        "32W",
         "32Y",
         "32Z",
-        "32W"
+        "32F"
       ],
       "options_te": [
-        "32X",
+        "32W",
         "32Y",
         "32Z",
-        "32W"
+        "32F"
       ],
-      "correct_option": 0,
-      "explanation_en": "Numbers: 2, 4, 8, 16, 32 (*2). Letters correspond to their position being doubled: B(2), D(4), H(8), P(16), so 16*2 = 32? Wait: 32 - 26 = 6th letter F, or alphabetical position 24 (X)? Let's check: 24 is X. Wait, 2*2=4, 4*2=8, 8*2=16. Next 16+8=24 (X). Yes, 32X.",
-      "explanation_te": "సంఖ్యలు రెట్టింపు అవుతున్నాయి: 2, 4, 8, 16, 32. అక్షరాలు B(2)->D(4)->H(8)->P(16)->X(24) క్రమంలో 32X వస్తుంది."
+      "correct_option": 3,
+      "explanation_en": "Numbers double each step: 2, 4, 8, 16, 32. Letters also correspond to doubling alphabetical positions (mod 26): B(2), D(4), H(8), P(16), next 16 * 2 = 32; wrapping past 26 gives 32 - 26 = 6th letter F => 32F.",
+      "explanation_te": "సరైన సమాధానం: 32F. (సంఖ్యలు రెట్టింపు అవుతున్నాయి: 2, 4, 8, 16, 32. అక్షర స్థానాలు రెట్టింపు అవుతూ 26 తర్వాత మళ్ళీ A నుండి లెక్కిస్తే 16*2 = 32 -> 32-26 = 6వ అక్షరం F => 32F.)"
     },
     {
       "id": 85,
@@ -1888,18 +1888,18 @@
       "question_en": "Four girls A, B, C, D are sitting in a circle facing the center. A and C are opposite to each other. B is to the right of A. Who is to the left of C?",
       "question_te": "A, B, C, D అనే నలుగురు బాలికలు వృత్తాకారంలో కేంద్రం వైపు ముఖం చేసి కూర్చున్నారు. A మరియు C లు ఒకరికొకరు ఎదురెదురుగా ఉన్నారు. A కి కుడివైపున B ఉన్నది. C కి ఎడమవైపున ఎవరు ఉన్నారు?",
       "options_en": [
-        "A",
         "B",
+        "A",
         "D",
         "Cannot be determined"
       ],
       "options_te": [
-        "A",
         "B",
+        "A",
         "D",
         "నిర్ధారించలేము"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Placing A at bottom, C is at top. B is to right of A (at 3 o'clock). D is at 9 o'clock. Looking from C (top facing down), left is towards 3 o'clock, which is B.",
       "explanation_te": "A కి ఎదురుగా C ఉంది. A కి కుడివైపున B ఉంటే, C కి ఎడమవైపున B ఉంటుంది."
     },
@@ -1911,17 +1911,17 @@
       "question_te": "ప్రకటనలు: (1) కొన్ని పుస్తకాలు పెన్నులు. (2) అన్ని పెన్నులు కాగితాలు. ముగింపు I: కొన్ని పుస్తకాలు కాగితాలు. ముగింపు II: కొన్ని కాగితాలు పెన్నులు.",
       "options_en": [
         "Only I follows",
-        "Only II follows",
         "Both I and II follow",
+        "Only II follows",
         "Neither follows"
       ],
       "options_te": [
         "I మాత్రమే సరైనది",
-        "II మాత్రమే సరైనది",
         "I మరియు II రెండూ సరైనవే",
+        "II మాత్రమే సరైనది",
         "ఏదీ సరైనది కాదు"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Some books are pens + All pens are papers => Some books are papers (I follows). All pens are papers => Some papers are pens (II follows). Both I and II follow.",
       "explanation_te": "రెండు ముగింపులూ ఖచ్చితంగా సరైనవే."
     },
@@ -1934,16 +1934,16 @@
       "options_en": [
         "1600",
         "2000",
-        "2024",
-        "2100"
+        "2100",
+        "2024"
       ],
       "options_te": [
         "1600",
         "2000",
-        "2024",
-        "2100"
+        "2100",
+        "2024"
       ],
-      "correct_option": 3,
+      "correct_option": 2,
       "explanation_en": "A century year must be divisible by 400 to be a leap year. 2100 is divisible by 4 but not by 400, so 2100 is an ordinary year, not a leap year.",
       "explanation_te": "శతాబ్దపు సంవత్సరాలు 400 చే భాగింపబడితేనే లీపు సంవత్సరాలు అవుతాయి. 2100 అనేది 400 చే భాగించబడదు, కాబట్టి ఇది సాధారణ సంవత్సరం."
     },
@@ -1954,18 +1954,18 @@
       "question_en": "At what time between 4 o'clock and 5 o'clock will the hands of a clock be together (overlap)?",
       "question_te": "4 మరియు 5 గంటల మధ్య గడియారంలోని రెండు ముల్లులు ఎప్పుడు ఒకదానిపై ఒకటి కలుసుకుంటాయి?",
       "options_en": [
-        "4 hrs 21 (9/11) min",
+        "4 hrs 24 (2/11) min",
         "4 hrs 20 min",
         "4 hrs 22 min",
-        "4 hrs 24 (2/11) min"
+        "4 hrs 21 (9/11) min"
       ],
       "options_te": [
-        "4 గం. 21 (9/11) నిమిషాలు",
+        "4 గం. 24 (2/11) నిమిషాలు",
         "4 గం. 20 నిమిషాలు",
         "4 గం. 22 నిమిషాలు",
-        "4 గం. 24 (2/11) నిమిషాలు"
+        "4 గం. 21 (9/11) నిమిషాలు"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "At 4 o'clock, the minute hand is 20 minute-spaces behind. Time = 20 * (60/55) = 20 * (12/11) = 240 / 11 = 21 (9/11) minutes past 4.",
       "explanation_te": "ముల్లులు కలుసుకొనే సమయం = (60/11) * 4 = 240 / 11 = 21 (9/11) నిమిషాలు."
     },
@@ -1999,17 +1999,17 @@
       "question_te": "క్రింది అక్షర సమూహాలలో భిన్నమైన దానిని గుర్తించండి: BDF, HJL, NPR, KMO",
       "options_en": [
         "BDF",
-        "HJL",
+        "KMO",
         "NPR",
-        "KMO"
+        "HJL"
       ],
       "options_te": [
         "BDF",
-        "HJL",
+        "KMO",
         "NPR",
-        "KMO"
+        "HJL"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "BDF (+2, +2), HJL (+2, +2), NPR (+2, +2). KMO is also (+2, +2)? Wait: K(11), M(13), O(15). All are +2. Let's look at vowels: KMO contains a vowel 'O', while BDF, HJL, NPR have no vowels! So KMO is the odd one.",
       "explanation_te": "BDF, HJL, NPR లలో ఎటువంటి అచ్చులు లేవు. KMO లో 'O' అనే అచ్చు (vowel) కలదు."
     },
@@ -2020,18 +2020,18 @@
       "question_en": "A is the brother of B. C is the father of A. D is the brother of E. E is the daughter of B. Who is the uncle of D?",
       "question_te": "B యొక్క సోదరుడు A. A యొక్క తండ్రి C. E యొక్క సోదరుడు D. B యొక్క కుమార్తె E. అయితే D కి మేనమామ / బాబాయ్ (Uncle) ఎవరు?",
       "options_en": [
-        "A",
-        "B",
         "C",
+        "B",
+        "A",
         "E"
       ],
       "options_te": [
-        "A",
-        "B",
         "C",
+        "B",
+        "A",
         "E"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "D and E are children of B. Since A is the brother of B, A is the uncle of D.",
       "explanation_te": "D మరియు E లు B యొక్క పిల్లలు. B యొక్క సోదరుడు A కాబట్టి, D కి A అంకుల్ (మేనమామ/బాబాయ్) అవుతాడు."
     },
@@ -2043,17 +2043,17 @@
       "question_te": "రవి తూర్పు దిశగా 30 మీటర్లు నడిచి, కుడివైపు తిరిగి 40 మీటర్లు నడిచాడు. తరువాత ఎడమవైపు తిరిగి 30 మీటర్లు నడిచాడు. ప్రారంభ స్థానం నుండి అతను ఇప్పుడు ఏ దిశలో ఉన్నాడు?",
       "options_en": [
         "North-East",
-        "South-East",
+        "North-West",
         "South-West",
-        "North-West"
+        "South-East"
       ],
       "options_te": [
         "ఈశాన్యం",
-        "ఆగ్నేయం",
+        "వాయువ్యం",
         "నైరుతి",
-        "వాయువ్యం"
+        "ఆగ్నేయం"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Net position: East = 30 + 30 = 60 m, South = 40 m. The direction is South-East (ఆగ్నేయం).",
       "explanation_te": "నికర స్థానం: తూర్పున 60 మీ, దక్షిణాన 40 మీ. కాబట్టి ప్రారంభ బిందువు నుండి ఆగ్నేయం (South-East) దిశలో ఉన్నాడు."
     },
@@ -2064,18 +2064,18 @@
       "question_en": "Find the wrong number in the sequence: 1, 8, 27, 64, 125, 218, 343",
       "question_te": "క్రింది శ్రేణిలో తప్పుగా ఉన్న సంఖ్యను గుర్తించండి: 1, 8, 27, 64, 125, 218, 343",
       "options_en": [
-        "64",
-        "125",
         "218",
+        "125",
+        "64",
         "343"
       ],
       "options_te": [
-        "64",
-        "125",
         "218",
+        "125",
+        "64",
         "343"
       ],
-      "correct_option": 2,
+      "correct_option": 0,
       "explanation_en": "The series is cubes of natural numbers: 1^3=1, 2^3=8, 3^3=27, 4^3=64, 5^3=125, 6^3=216 (given as 218), 7^3=343. So 218 is incorrect.",
       "explanation_te": "ఇవి సహజ సంఖ్యల ఘనాలు (Cubes). 6^3 = 216 రావాలి, కానీ 218 ఇవ్వబడింది."
     },
@@ -2086,18 +2086,18 @@
       "question_en": "In a code language: 'la ke ne' means 'law and order', 'ke pe ro' means 'order is maintained', and 'ne se pe' means 'law is supreme'. Which word stands for 'and'?",
       "question_te": "ఒక సంకేత భాషలో 'la ke ne' అనగా 'law and order', 'ke pe ro' అనగా 'order is maintained', 'ne se pe' అనగా 'law is supreme'. అయితే 'and' కి సంకేతం ఏది?",
       "options_en": [
-        "la",
         "ke",
+        "la",
         "ne",
         "pe"
       ],
       "options_te": [
-        "la",
         "ke",
+        "la",
         "ne",
         "pe"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Comparing 'la ke ne' and 'ke pe ro': common is 'ke' = 'order'. Comparing 'la ke ne' and 'ne se pe': common is 'ne' = 'law'. The remaining word in the first phrase is 'la' = 'and'.",
       "explanation_te": "సాధారణ పదాలను పరిశీలిస్తే: 'ke' = 'order', 'ne' = 'law'. కావున మొదటి వాక్యంలో మిగిలిన 'la' = 'and'."
     },
@@ -2109,17 +2109,17 @@
       "question_te": "100 మంది పోలీస్ క్యాడెట్లలో 60 మంది షూటింగ్‌లో, 50 మంది రన్నింగ్/ఎండ్యూరెన్స్‌లో, 30 మంది రెండింటిలోనూ పాసయ్యారు. రెండింటిలోనూ ఫెయిల్ అయిన వారి సంఖ్య ఎంత?",
       "options_en": [
         "10",
-        "20",
         "25",
+        "20",
         "30"
       ],
       "options_te": [
         "10",
-        "20",
         "25",
+        "20",
         "30"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Passed in at least one = n(S) + n(P) - n(S and P) = 60 + 50 - 30 = 80. Failed in both = Total - 80 = 100 - 80 = 20.",
       "explanation_te": "కనీసం ఒకదానిలో పాసైనవారు = 60 + 50 - 30 = 80 మంది. రెండింటిలోనూ ఫెయిల్ అయినవారు = 100 - 80 = 20 మంది."
     },
@@ -2152,18 +2152,18 @@
       "question_en": "If a triangle has 3 sides and 1 interior region, and a square has 4 sides and 1 interior region, how many non-overlapping triangles are formed by joining all diagonals of a regular pentagon?",
       "question_te": "ఒక సమ పంచభుజి (Regular Pentagon) లోని అన్ని కర్ణాలను కలిపినప్పుడు లోపల ఏర్పడే మొత్తం త్రిభుజాల సంఖ్య ఎంత?",
       "options_en": [
-        "10",
+        "35",
         "15",
         "20",
-        "35"
+        "10"
       ],
       "options_te": [
-        "10",
+        "35",
         "15",
         "20",
-        "35"
+        "10"
       ],
-      "correct_option": 3,
+      "correct_option": 0,
       "explanation_en": "In a regular pentagon with all 5 diagonals drawn (forming a 5-pointed star inside), the total number of triangles of all sizes is 35.",
       "explanation_te": "సమ పంచభుజిలో 5 కర్ణాలు గీయడం ద్వారా ఏర్పడే మొత్తం త్రిభుజాల సంఖ్య 35."
     },
@@ -2174,18 +2174,18 @@
       "question_en": "If 'EARTH' is coded as 'FCUXM', what is the code for 'VENUS' using the pattern (+1, +2, +3, +4, +5)?",
       "question_te": "'EARTH' ని (+1, +2, +3, +4, +5) సూత్రంతో 'FCUXM' గా కోడ్ చేస్తే, 'VENUS' యొక్క కోడ్ ఏది?",
       "options_en": [
-        "WGQYX",
         "WHPZX",
+        "WGQYX",
         "WGQZX",
         "WGPZX"
       ],
       "options_te": [
-        "WGQYX",
         "WHPZX",
+        "WGQYX",
         "WGQZX",
         "WGPZX"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "V(+1)->W, E(+2)->G, N(+3)->Q, U(+4)->Y, S(+5)->X. The resulting code is WGQYX.",
       "explanation_te": "V+1=W, E+2=G, N+3=Q, U+4=Y, S+5=X => WGQYX."
     },
@@ -2197,17 +2197,17 @@
       "question_te": "రూ. 600 విలువైన బహుమతిని సమానంగా కొనుగోలు చేయడానికి కొంతమంది స్నేహితులు నిర్ణయించుకున్నారు. వారిలో 5 మంది తప్పుకోవడంతో మిగిలిన ప్రతి ఒక్కరూ అదనంగా రూ. 10 చెల్లించాల్సి వచ్చింది. ప్రారంభంలో ఉన్న స్నేహితుల సంఖ్య ఎంత?",
       "options_en": [
         "15",
-        "20",
         "25",
+        "20",
         "30"
       ],
       "options_te": [
         "15",
-        "20",
         "25",
+        "20",
         "30"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "Let original number be n. 600 / (n - 5) - 600 / n = 10. For n = 20: 600 / 15 = 40, and 600 / 20 = 30. Difference = 40 - 30 = 10. Thus, n = 20.",
       "explanation_te": "ప్రారంభంలో ఉన్నవారు 20 మంది. 600/20 = 30. 5 మంది తగ్గితే 600/15 = 40. తేడా = రూ. 10. కావున 20 మంది."
     },
@@ -2218,18 +2218,18 @@
       "question_en": "Event A: Telangana Police implemented strict helmet rules and breathalyzer checks at night. Event B: Fatal road accidents decreased by 35% in Hyderabad over the past year.",
       "question_te": "సంఘటన A: రాత్రివేళల్లో తెలంగాణ పోలీసులు కఠినంగా హెల్మెట్ నిబంధనలు మరియు డ్రంక్ అండ్ డ్రైవ్ తనిఖీలను అమలు చేశారు. సంఘటన B: గత ఏడాది కాలంలో హైదరాబాద్‌లో ఘోర రోడ్డు ప్రమాదాలు 35% తగ్గాయి.",
       "options_en": [
-        "Event A is the cause and Event B is its effect",
+        "Both events are effects of an independent cause",
         "Event B is the cause and Event A is its effect",
         "Both events are independent causes",
-        "Both events are effects of an independent cause"
+        "Event A is the cause and Event B is its effect"
       ],
       "options_te": [
-        "A అనేది కారణం మరియు B దాని యొక్క ఫలితం",
+        "రెండూ ఒకే కారణం యొక్క ఫలితాలు",
         "B కారణం మరియు A ఫలితం",
         "రెండూ స్వతంత్ర కారణాలు",
-        "రెండూ ఒకే కారణం యొక్క ఫలితాలు"
+        "A అనేది కారణం మరియు B దాని యొక్క ఫలితం"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Strict traffic enforcement and drunk-driving checks (Event A) is the direct preventive cause leading to reduced road accident casualties (Event B).",
       "explanation_te": "కఠిన తనిఖీలు మరియు చట్టాల అమలు (A) రోడ్డు ప్రమాదాలు తగ్గడానికి (B) ప్రత్యక్ష కారణం."
     },
@@ -2262,18 +2262,18 @@
       "question_en": "In which district of Telangana was the state's flagship PM MITRA (Mega Integrated Textile Region and Apparel) mega park operationalized in 2026?",
       "question_te": "తెలంగాణలోని ఏ జిల్లాలో ప్రతిష్టాత్మక PM మిత్రా (PM MITRA) మెగా టెక్స్‌టైల్ పార్కు 2026లో పూర్తి స్థాయిలో కార్యకలాపాలు ప్రారంభించింది?",
       "options_en": [
-        "Warangal",
         "Karimnagar",
+        "Warangal",
         "Nalgonda",
         "Rangareddy"
       ],
       "options_te": [
-        "వరంగల్",
         "కరీంనగర్",
+        "వరంగల్",
         "నల్గొండ",
         "రంగారెడ్డి"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "The PM MITRA Mega Textile Park at Kakatiya Mega Textile Park (KMTP) in Warangal, Telangana was inaugurated to make the region a world-class textile manufacturing and export hub.",
       "explanation_te": "వరంగల్‌లోని కాకతీయ మెగా టెక్స్‌టైల్ పార్క్ (KMTP) ఆవరణలో PM మిత్రా మెగా టెక్స్‌టైల్ పార్క్ తెలంగాణను గ్లోబల్ టెక్స్‌టైల్ తయారీ మరియు ఎగుమతి కేంద్రంగా తీర్చిదిద్దడానికి ప్రారంభించబడింది."
     },
@@ -2284,18 +2284,18 @@
       "question_en": "In 2026, India's foreign exchange reserves crossed $700 billion, surpassing Russia to become the world's fourth-largest holder of forex reserves. Which three countries hold the top three positions globally?",
       "question_te": "2026 లో భారత విదేశీ మారక నిల్వలు (Forex Reserves) 700 బిలియన్ డాలర్లను దాటి రష్యాను అధిగమించి ప్రపంచంలో 4వ స్థానానికి చేరుకున్నాయి. ప్రపంచంలో మొదటి మూడు స్థానాల్లో ఉన్న దేశాలు ఏవి?",
       "options_en": [
-        "China, Japan, and Switzerland",
-        "USA, China, and Germany",
         "Japan, Germany, and Saudi Arabia",
+        "USA, China, and Germany",
+        "China, Japan, and Switzerland",
         "China, UK, and France"
       ],
       "options_te": [
-        "చైనా, జపాన్, మరియు స్విట్జర్లాండ్",
-        "అమెరికా, చైనా, మరియు జర్మనీ",
         "జపాన్, జర్మనీ, మరియు సౌదీ అరేబియా",
+        "అమెరికా, చైనా, మరియు జర్మనీ",
+        "చైనా, జపాన్, మరియు స్విట్జర్లాండ్",
         "చైనా, యూకే, మరియు ఫ్రాన్స్"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "India's foreign exchange reserves rose above $700 billion in 2026, overtaking Russia to secure the 4th rank globally, behind China (1st), Japan (2nd), and Switzerland (3rd).",
       "explanation_te": "2026 లో భారత ఫారెక్స్ నిల్వలు రష్యాను వెనక్కి నెట్టి ప్రపంచంలోనే 4వ స్థానానికి చేరాయి. చైనా, జపాన్, స్విట్జర్లాండ్ మొదటి 3 స్థానాల్లో ఉన్నాయి."
     },
@@ -2306,18 +2306,18 @@
       "question_en": "Which Indian state became the first in the country to present a dedicated 'Senior Citizens Budget' to address elder care, pensions, and healthcare?",
       "question_te": "వృద్ధుల సంక్షేమం, పెన్షన్లు మరియు వైద్య సేవల కోసం ప్రత్యేకంగా 'సీనియర్ సిటిజెన్స్ బడ్జెట్' (Senior Citizens Budget) ను ప్రవేశపెట్టిన భారతదేశపు తొలి రాష్ట్రం ఏది?",
       "options_en": [
-        "Kerala",
+        "Maharashtra",
         "Tamil Nadu",
         "Karnataka",
-        "Maharashtra"
+        "Kerala"
       ],
       "options_te": [
-        "కేరళ",
+        "మహారాష్ట్ర",
         "తమిళనాడు",
         "కర్ణాటక",
-        "మహారాష్ట్ర"
+        "కేరళ"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Kerala became the first state in India to introduce a dedicated Senior Citizens Budget allocating targeted resources for geriatric healthcare and old-age welfare.",
       "explanation_te": "వృద్ధుల వైద్యం మరియు సంక్షేమం కోసం ప్రత్యేకంగా సీనియర్ సిటిజెన్స్ బడ్జెట్‌ను ప్రవేశపెట్టిన తొలి రాష్ట్రంగా కేరళ నిలిచింది."
     },
@@ -2350,18 +2350,18 @@
       "question_en": "Which Southeast Asian country did Prime Minister Narendra Modi visit on his first official bilateral overseas tour of 2026?",
       "question_te": "2026 లో ప్రధానమంత్రి నరేంద్ర మోదీ తన తొలి అధికారిక ద్వైపాక్షిక విదేశీ పర్యటనలో భాగంగా ఏ ఆగ్నేయాసియా దేశాన్ని సందర్శించారు?",
       "options_en": [
-        "Malaysia",
         "Singapore",
+        "Malaysia",
         "Vietnam",
         "Indonesia"
       ],
       "options_te": [
-        "మలేషియా",
         "సింగపూర్",
+        "మలేషియా",
         "వియత్నాం",
         "ఇండోనేషియా"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Prime Minister Modi undertook his first official bilateral foreign visit of 2026 to Malaysia, upgrading diplomatic ties to an Enhanced Strategic Partnership.",
       "explanation_te": "2026 లో ప్రధాని మోదీ తన తొలి ద్వైపాక్షిక విదేశీ పర్యటనలో మలేషియాను సందర్శించి ద్వైపాక్షిక సంబంధాలను బలోపేతం చేశారు."
     },
@@ -2372,18 +2372,18 @@
       "question_en": "Who were the Chief Guests at India's 77th Republic Day celebrations held in New Delhi?",
       "question_te": "న్యూఢిల్లీలో జరిగిన భారతదేశపు 77వ గణతంత్ర దినోత్సవ వేడుకలకు ముఖ్య అతిథులుగా ఎవరు విచ్చేశారు?",
       "options_en": [
-        "António Costa (President of European Council) and Ursula von der Leyen (President of European Commission)",
-        "Emmanuel Macron (President of France)",
         "Luiz Inácio Lula da Silva (President of Brazil)",
+        "Emmanuel Macron (President of France)",
+        "António Costa (President of European Council) and Ursula von der Leyen (President of European Commission)",
         "Cyril Ramaphosa (President of South Africa)"
       ],
       "options_te": [
-        "ఆంటోనియో కోస్టా (యూరోపియన్ కౌన్సిల్ అధ్యక్షుడు) మరియు ఉర్సులా వాన్ డెర్ లేయెన్ (యూరోపియన్ కమిషన్ అధ్యక్షురాలు)",
-        "ఇమ్మాన్యుయేల్ మాక్రాన్ (ఫ్రాన్స్ అధ్యక్షుడు)",
         "లులా డా సిల్వా (బ్రెజిల్ అధ్యక్షుడు)",
+        "ఇమ్మాన్యుయేల్ మాక్రాన్ (ఫ్రాన్స్ అధ్యక్షుడు)",
+        "ఆంటోనియో కోస్టా (యూరోపియన్ కౌన్సిల్ అధ్యక్షుడు) మరియు ఉర్సులా వాన్ డెర్ లేయెన్ (యూరోపియన్ కమిషన్ అధ్యక్షురాలు)",
         "సిరిల్ రామఫోసా (దక్షిణాఫ్రికా అధ్యక్షుడు)"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "European Council President António Costa and European Commission President Ursula von der Leyen attended India's 77th Republic Day as joint Chief Guests.",
       "explanation_te": "యూరోపియన్ కౌన్సిల్ ప్రెసిడెంట్ ఆంటోనియో కోస్టా మరియు యూరోపియన్ కమిషన్ ప్రెసిడెంట్ ఉర్సులా వాన్ డెర్ లేయెన్ 77వ గణతంత్ర వేడుకలకు సంయుక్త ముఖ్య అతిథులుగా హాజరయ్యారు."
     },
@@ -2394,18 +2394,18 @@
       "question_en": "Who became the first Indian woman shooter to win a gold medal in the individual Women's Trap event at the 2026 Asian Games?",
       "question_te": "2026 ఆసియా క్రీడలలో మహిళల వ్యక్తిగత ట్రాప్ (Women's Trap) షూటింగ్ ఈవెంట్‌లో స్వర్ణ పతకం సాధించిన తొలి భారతీయ మహిళగా ఎవరు నిలిచారు?",
       "options_en": [
-        "Niru Dhanda",
+        "Sift Kaur Samra",
         "Manu Bhaker",
         "Esha Singh",
-        "Sift Kaur Samra"
+        "Niru Dhanda"
       ],
       "options_te": [
-        "నీరు దండా",
+        "సిఫ్ట్ కౌర్ సమ్రా",
         "మను భాకర్",
         "ఇషా సింగ్",
-        "సిఫ్ట్ కౌర్ సమ్రా"
+        "నీరు దండా"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Niru Dhanda made history by winning India's first-ever gold medal in the individual Women's Trap event at the Asian Games.",
       "explanation_te": "మహిళల వ్యక్తిగత ట్రాప్ షూటింగ్‌లో నీరు దండా స్వర్ణ పతకం గెలుచుకుని ఆసియా క్రీడల్లో ఈ ఘనత సాధించిన తొలి భారత మహిళగా రికార్డు సృష్టించింది."
     },
@@ -2438,18 +2438,18 @@
       "question_en": "Which Central Asian nation conferred its highest state civilian honour, the 'Order of Supreme Friendship' (Oliy Darajali Do'stlik), upon Prime Minister Narendra Modi in August 2026?",
       "question_te": "2026 ఆగస్టులో ప్రధానమంత్రి నరేంద్ర మోదీకి తమ అత్యున్నత పౌర పురస్కారమైన 'ఆర్డర్ ఆఫ్ సుప్రీం ఫ్రెండ్‌షిప్' (ఓలీ దరజాలి దోస్త్లిక్) ను ప్రదానం చేసిన దేశం ఏది?",
       "options_en": [
-        "Uzbekistan",
         "Kazakhstan",
+        "Uzbekistan",
         "Turkmenistan",
         "Tajikistan"
       ],
       "options_te": [
-        "ఉజ్బెకిస్తాన్",
         "కజకిస్తాన్",
+        "ఉజ్బెకిస్తాన్",
         "తుర్క్‌మెనిస్తాన్",
         "తజికిస్తాన్"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Uzbekistan honoured PM Narendra Modi with its highest decoration, 'Oliy Darajali Do'stlik', for strengthening bilateral cooperation and mutual friendship.",
       "explanation_te": "భారత్-ఉజ్బెకిస్తాన్ సంబంధాలను బలోపేతం చేసినందుకు గాను ఉజ్బెకిస్తాన్ ప్రభుత్వం ప్రధాని మోదీకి తమ అత్యున్నత పురస్కారమైన 'ఓలీ దరజాలి దోస్త్లిక్' ను ప్రదానం చేసింది."
     },
@@ -2460,18 +2460,18 @@
       "question_en": "Which movie was adjudged the Best Feature Film at the 72nd National Film Awards 2026?",
       "question_te": "72వ జాతీయ చలనచిత్ర పురస్కారాలు 2026 లో 'ఉత్తమ చలన చిత్రం' (Best Feature Film) అవార్డును గెలుచుకున్న చిత్రం ఏది?",
       "options_en": [
-        "Article 370",
-        "Chandu Champion",
         "Kalki 2898 AD",
+        "Chandu Champion",
+        "Article 370",
         "Captain Miller"
       ],
       "options_te": [
-        "ఆర్టికల్ 370",
-        "చందూ ఛాంపియన్",
         "కల్కి 2898 AD",
+        "చందూ ఛాంపియన్",
+        "ఆర్టికల్ 370",
         "కెప్టెన్ మిల్లర్"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "'Article 370' won the Best Feature Film honour at the 72nd National Film Awards 2026.",
       "explanation_te": "72వ జాతీయ చలనచిత్ర పురస్కారాలలో 'ఆర్టికల్ 370' ఉత్తమ చలన చిత్రంగా స్వర్ణ కమలాన్ని దక్కించుకుంది."
     },
@@ -2482,18 +2482,18 @@
       "question_en": "Who was conferred with the prestigious literary award 'Saraswati Samman 2026' instituted by the K.K. Birla Foundation?",
       "question_te": "కె.కె. బిర్లా ఫౌండేషన్ అందించే ప్రతిష్టాత్మక సాహిత్య పురస్కారం 'సరస్వతి సమ్మాన్ 2026' ఎవరికి లభించింది?",
       "options_en": [
-        "Rajkumar Mukhopadhyay",
+        "Ramdarash Mishra",
         "Prabha Varma",
         "Sivasankari",
-        "Ramdarash Mishra"
+        "Rajkumar Mukhopadhyay"
       ],
       "options_te": [
-        "రాజ్‌కుమార్ ముఖోపాధ్యాయ్",
+        "రామ్‌దరశ్ మిశ్రా",
         "ప్రభా వర్మ",
         "శివశంకరి",
-        "రామ్‌దరశ్ మిశ్రా"
+        "రాజ్‌కుమార్ ముఖోపాధ్యాయ్"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Eminent litterateur Rajkumar Mukhopadhyay was honoured with the Saraswati Samman 2026 for outstanding literary contributions.",
       "explanation_te": "ప్రముఖ రచయిత రాజ్‌కుమార్ ముఖోపాధ్యాయ్‌కు 2026 సరస్వతి సమ్మాన్ పురస్కారం లభించింది."
     },
@@ -2526,18 +2526,18 @@
       "question_en": "Which location was officially designated as South India's first dedicated 'Drone City' equipped with an integrated drone testing and manufacturing hub in 2026?",
       "question_te": "2026లో ఇంటిగ్రేటెడ్ డ్రోన్ టెస్టింగ్ మరియు తయారీ కేంద్రంతో కూడిన దక్షిణాది తొలి 'డ్రోన్ సిటీ' (Drone City) గా ఏ ప్రాంతం ప్రకటించబడింది?",
       "options_en": [
-        "Orvakal (Kurnool)",
         "Gachibowli (Hyderabad)",
+        "Orvakal (Kurnool)",
         "Devenahalli (Bengaluru)",
         "Sri City (Tirupati)"
       ],
       "options_te": [
-        "ఓర్వకల్లు (కర్నూలు)",
         "గచ్చిబౌలి (హైదరాబాద్)",
+        "ఓర్వకల్లు (కర్నూలు)",
         "దేవనహళ్లి (బెంగళూరు)",
         "శ్రీసిటీ (తిరుపతి)"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Orvakal in Kurnool district was developed as India's dedicated Drone City with a 300-acre testing range, DGCA certification centre, and manufacturing cluster.",
       "explanation_te": "కర్నూలు జిల్లాలోని ఓర్వకల్లులో 300 ఎకరాల్లో డ్రోన్ టెస్టింగ్ రేంజ్, DGCA సర్టిఫికేషన్ సెంటర్ మరియు తయారీ క్లస్టర్‌తో 'డ్రోన్ సిటీ'గా అభివృద్ధి చేశారు."
     },
@@ -2548,18 +2548,18 @@
       "question_en": "Which bird sanctuary was designated as India's landmark 100th Ramsar Wetland Site of International Importance in 2026?",
       "question_te": "2026లో భారతదేశపు చారిత్రాత్మక 100వ రామ్‌సర్ చిత్తడి నేలల ప్రాంతం (100th Ramsar Site) గా ఏ పక్షుల సంరక్షణ కేంద్రం గుర్తింపు పొందింది?",
       "options_en": [
-        "Surha Tal (Jai Prakash Narayan Sanctuary, UP)",
-        "Bakhira Wildlife Sanctuary, UP",
         "Nawabganj Bird Sanctuary, UP",
+        "Bakhira Wildlife Sanctuary, UP",
+        "Surha Tal (Jai Prakash Narayan Sanctuary, UP)",
         "Samaspur Sanctuary, UP"
       ],
       "options_te": [
-        "సుర్హా తాల్ (జై ప్రకాష్ నారాయణ్ సంరక్షణ కేంద్రం, ఉత్తర ప్రదేశ్)",
-        "బఖీరా వన్యప్రాణుల కేంద్రం, ఉత్తర ప్రదేశ్)",
         "నవాబ్‌గంజ్ పక్షుల కేంద్రం, ఉత్తర ప్రదేశ్)",
+        "బఖీరా వన్యప్రాణుల కేంద్రం, ఉత్తర ప్రదేశ్)",
+        "సుర్హా తాల్ (జై ప్రకాష్ నారాయణ్ సంరక్షణ కేంద్రం, ఉత్తర ప్రదేశ్)",
         "సమస్‌పూర్ పక్షుల కేంద్రం, ఉత్తర ప్రదేశ్)"
       ],
-      "correct_option": 0,
+      "correct_option": 2,
       "explanation_en": "Surha Tal (also known as Jai Prakash Narayan Bird Sanctuary) in Ballia district of Uttar Pradesh was declared as India's 100th Ramsar wetland site.",
       "explanation_te": "ఉత్తరప్రదేశ్‌లోని బల్లియా జిల్లాలో ఉన్న సుర్హా తాల్ (జై ప్రకాష్ నారాయణ్ పక్షుల సంరక్షణ కేంద్రం) భారతదేశపు 100వ రామ్‌సర్ సైట్‌గా ప్రకటించబడింది."
     },
@@ -2572,16 +2572,16 @@
       "options_en": [
         "Polarisation of light",
         "Diffraction of light",
-        "Total Internal Reflection",
-        "Photoelectric effect"
+        "Photoelectric effect",
+        "Total Internal Reflection"
       ],
       "options_te": [
         "కాంతి ధ్రువణం",
         "కాంతి వివర్తనం",
-        "సంపూర్ణాంతర పరావర్తనం (Total Internal Reflection)",
-        "కాంతి విద్యుత్ ఫలితం"
+        "కాంతి విద్యుత్ ఫలితం",
+        "సంపూర్ణాంతర పరావర్తనం (Total Internal Reflection)"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "Optical fibres work on the phenomenon of Total Internal Reflection (TIR), where light travelling from a denser to a rarer medium is reflected back into the core when incident at an angle greater than the critical angle.",
       "explanation_te": "కాంతి సాంద్రతర యానకం నుండి విరళ యానకంలోకి ప్రయాణించేటప్పుడు పతన కోణం సందిగ్ధ కోణం కంటే ఎక్కువైనప్పుడు 'సంపూర్ణాంతర పరావర్తనం' చెంది ప్రసారమవుతుంది."
     },
@@ -2592,18 +2592,18 @@
       "question_en": "What is the audible frequency range of sound for a healthy human ear?",
       "question_te": "ఆరోగ్యవంతమైన మానవ చెవి వినగలిగే ధ్వని పౌనఃపున్య పరిధి (శ్రవ్య పరిధి) ఎంత?",
       "options_en": [
-        "Below 20 Hz only",
         "20 Hz to 20,000 Hz",
+        "Below 20 Hz only",
         "20,000 Hz to 50,000 Hz",
         "5 Hz to 500 Hz"
       ],
       "options_te": [
-        "20 Hz కంటే తక్కువ మాత్రమే",
         "20 Hz నుండి 20,000 Hz వరకు",
+        "20 Hz కంటే తక్కువ మాత్రమే",
         "20,000 Hz నుండి 50,000 Hz వరకు",
         "5 Hz నుండి 500 Hz వరకు"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "The audible sound frequency range for humans is approximately 20 Hz to 20 kHz (20,000 Hz). Frequencies below 20 Hz are infrasonic, and above 20 kHz are ultrasonic.",
       "explanation_te": "మానవ శ్రవ్య అవధి 20 హెర్ట్జ్ (Hz) నుండి 20,000 హెర్ట్జ్ (Hz). 20 Hz కంటే తక్కువ ఉన్నవి పరశ్రవ్యాలు, 20,000 Hz కంటే ఎక్కువ ఉన్నవి అతిధ్వనులు."
     },
@@ -2614,18 +2614,18 @@
       "question_en": "What is the approximate normal pH value of human blood?",
       "question_te": "మానవ రక్తం యొక్క సాధారణ పి.హెచ్ (pH) విలువ సుమారుగా ఎంత ఉంటుంది?",
       "options_en": [
-        "7.35 - 7.45",
         "6.0 - 6.5",
+        "7.35 - 7.45",
         "8.5 - 9.0",
         "5.0 - 5.5"
       ],
       "options_te": [
-        "7.35 - 7.45",
         "6.0 - 6.5",
+        "7.35 - 7.45",
         "8.5 - 9.0",
         "5.0 - 5.5"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Normal arterial blood pH is tightly regulated between 7.35 and 7.45, making it slightly alkaline (basic).",
       "explanation_te": "మానవ రక్తం కొద్దిగా క్షార గుణాన్ని కలిగి ఉంటుంది. దీని సాధారణ pH విలువ 7.35 నుండి 7.45 మధ్య ఉంటుంది."
     },
@@ -2638,16 +2638,16 @@
       "options_en": [
         "Calcium oxychloride (CaOCl2)",
         "Calcium sulphate dihydrate (CaSO4 . 2H2O)",
-        "Calcium carbonate (CaCO3)",
-        "Calcium sulphate hemihydrate (CaSO4 . 1/2 H2O)"
+        "Calcium sulphate hemihydrate (CaSO4 . 1/2 H2O)",
+        "Calcium carbonate (CaCO3)"
       ],
       "options_te": [
         "బ్లీచింగ్ పౌడర్ (CaOCl2)",
         "కాల్షియం సల్ఫేట్ డైహైడ్రేట్ (CaSO4 . 2H2O)",
-        "కాల్షియం కార్బోనేట్ (CaCO3)",
-        "కాల్షియం సల్ఫేట్ హెమీహైడ్రేట్ (CaSO4 . 1/2 H2O)"
+        "కాల్షియం సల్ఫేట్ హెమీహైడ్రేట్ (CaSO4 . 1/2 H2O)",
+        "కాల్షియం కార్బోనేట్ (CaCO3)"
       ],
-      "correct_option": 3,
+      "correct_option": 2,
       "explanation_en": "Plaster of Paris is calcium sulphate hemihydrate, CaSO4 . 0.5 H2O, obtained by heating gypsum (CaSO4 . 2H2O) to 373 K.",
       "explanation_te": "జిప్సమ్‌ను 373 K వద్ద వేడి చేసినప్పుడు నీటి అణువులను కోల్పోయి ప్లాస్టర్ ఆఫ్ పారిస్ (CaSO4 . 1/2 H2O) ఏర్పడుతుంది."
     },
@@ -2660,16 +2660,16 @@
       "options_en": [
         "Beri-beri",
         "Scurvy",
-        "Rickets",
-        "Pellagra"
+        "Pellagra",
+        "Rickets"
       ],
       "options_te": [
         "బెరి-బెరి (Beri-beri)",
         "స్కర్వీ (Scurvy)",
-        "రికెట్స్ (Rickets)",
-        "పెల్లాగ్రా (Pellagra)"
+        "పెల్లాగ్రా (Pellagra)",
+        "రికెట్స్ (Rickets)"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "Vitamin D deficiency impairs calcium absorption, leading to soft, weak bones known as Rickets in children and Osteomalacia in adults.",
       "explanation_te": "విటమిన్ డి లోపం వల్ల ఎముకలు మెత్తబడి వంకర్లు తిరిగే 'రికెట్స్' వ్యాధి పిల్లల్లో వస్తుంది. పెద్దలలో ఇది ఆస్టియోమలేసియాకు దారితీస్తుంది."
     },
@@ -2725,17 +2725,17 @@
       "question_te": "మలేరియా వ్యాధి ఏ సూక్ష్మజీవి వల్ల వస్తుంది మరియు ఏ దోమ కాటు ద్వారా మానవులకు వ్యాపిస్తుంది?",
       "options_en": [
         "Salmonella bacteria, housefly",
-        "Aedes aegypti mosquito, Dengue virus",
+        "Plasmodium protozoan, female Anopheles mosquito",
         "Culex mosquito, Wuchereria bancrofti",
-        "Plasmodium protozoan, female Anopheles mosquito"
+        "Aedes aegypti mosquito, Dengue virus"
       ],
       "options_te": [
         "సాల్మొనెల్లా బ్యాక్టీరియా, ఈగ",
-        "ఏడిస్ ఈజిప్టి దోమ, డెంగ్యూ వైరస్",
+        "ప్లాస్మోడియం ప్రోటోజోవా, ఆడ అనాఫిలిస్ దోమ",
         "క్యూలెక్స్ దోమ, ఫైలేరియా",
-        "ప్లాస్మోడియం ప్రోటోజోవా, ఆడ అనాఫిలిస్ దోమ"
+        "ఏడిస్ ఈజిప్టి దోమ, డెంగ్యూ వైరస్"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Malaria is caused by the protozoan parasite Plasmodium (such as P. falciparum, P. vivax) and is transmitted to humans by the bite of infected female Anopheles mosquitoes.",
       "explanation_te": "మలేరియా ప్లాస్మోడియం అనే ఏకకణ ప్రోటోజోవా పరాన్నజీవి వల్ల వస్తుంది. ఇది ఆడ అనాఫిలిస్ దోమ కాటు ద్వారా వ్యాపిస్తుంది."
     },
@@ -2769,17 +2769,17 @@
       "question_te": "నల్లమల అటవీ కొండలలో విస్తరించి ఉన్న తెలంగాణలోని అతిపెద్ద పులుల అభయారణ్యం (Tiger Reserve) ఏది?",
       "options_en": [
         "Kawal Tiger Reserve",
-        "Amrabad Tiger Reserve",
+        "Kinnerasani Wildlife Sanctuary",
         "Pakhal Wildlife Sanctuary",
-        "Kinnerasani Wildlife Sanctuary"
+        "Amrabad Tiger Reserve"
       ],
       "options_te": [
         "కవ్వాల్ టైగర్ రిజర్వ్ (Kawal)",
-        "అమ్రాబాద్ టైగర్ రిజర్వ్ (Amrabad)",
+        "కిన్నెరసాని వన్యప్రాణి కేంద్రం",
         "పాఖాల వన్యప్రాణి సంరక్షణ కేంద్రం",
-        "కిన్నెరసాని వన్యప్రాణి కేంద్రం"
+        "అమ్రాబాద్ టైగర్ రిజర్వ్ (Amrabad)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Amrabad Tiger Reserve in Nagarkurnool and Nalgonda districts covers part of the Nallamala forest and is the largest tiger reserve in Telangana (second largest in India).",
       "explanation_te": "నాగర్‌కర్నూల్ మరియు నల్గొండ జిల్లాల్లోని నల్లమల అటవీ ప్రాంతంలో విస్తరించి ఉన్న అమ్రాబాద్ టైగర్ రిజర్వ్ తెలంగాణలో అతిపెద్ద పులుల సంరక్షణ కేంద్రం."
     },
@@ -2813,17 +2813,17 @@
       "question_te": "గది ఉష్ణోగ్రత (25 డిగ్రీల సెంటీగ్రేడ్) వద్ద ద్రవ రూపంలో ఉండే ఏకైక లోహం ఏది?",
       "options_en": [
         "Lead (Pb)",
-        "Bromine (Br)",
+        "Mercury (Hg)",
         "Sodium (Na)",
-        "Mercury (Hg)"
+        "Bromine (Br)"
       ],
       "options_te": [
         "సీసం (Lead)",
-        "బ్రోమిన్ (Bromine - అలోహం)",
+        "పాదరసం (Mercury - Hg)",
         "సోడియం (Sodium)",
-        "పాదరసం (Mercury - Hg)"
+        "బ్రోమిన్ (Bromine - అలోహం)"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Mercury (Hg) is the only metal that is liquid at standard room temperature. Bromine is also liquid, but it is a non-metal.",
       "explanation_te": "గది ఉష్ణోగ్రత వద్ద ద్రవ రూపంలో ఉండే ఏకైక లోహం పాదరసం (Hg). బ్రోమిన్ కూడా ద్రవ రూపంలో ఉంటుంది కానీ అది అలోహం."
     },
@@ -2857,17 +2857,17 @@
       "question_te": "కాకతీయుల కాలంలో నిర్మించబడిన పాఖాల సరస్సు మరియు పాఖాల వన్యప్రాణి సంరక్షణ కేంద్రం తెలంగాణలోని ఏ జిల్లాలో ఉన్నాయి?",
       "options_en": [
         "Nizamabad",
-        "Warangal",
+        "Mahabubnagar",
         "Khammam",
-        "Mahabubnagar"
+        "Warangal"
       ],
       "options_te": [
         "నిజామాబాద్",
-        "వరంగల్ (Warangal)",
+        "మహబూబ్‌నగర్",
         "ఖమ్మం",
-        "మహబూబ్‌నగర్"
+        "వరంగల్ (Warangal)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Pakhal Wildlife Sanctuary is situated around the man-made Pakhal Lake (built in 1213 CE by Kakatiya ruler Ganapati Deva) in Warangal district.",
       "explanation_te": "కాకతీయ గణపతిదేవుని కాలంలో నిర్మితమైన పాఖాల సరస్సు మరియు పరిసర అభయారణ్యం వరంగల్ జిల్లాలో విస్తరించి ఉన్నాయి."
     },
@@ -2901,17 +2901,17 @@
       "question_te": "సింధు నాగరికత కాలంలో సముద్ర వ్యాపారానికి నిదర్శనంగా ఇటుకలతో నిర్మించిన భారీ రేవు (డార్క్‌యార్డ్) ఏ ప్రదేశంలో బయల్పడింది?",
       "options_en": [
         "Mohenjo-daro",
-        "Harappa",
+        "Lothal",
         "Kalibangan",
-        "Lothal"
+        "Harappa"
       ],
       "options_te": [
         "మొహంజొదారో (Mohenjo-daro)",
-        "హరప్పా (Harappa)",
+        "లోథాల్ (Lothal)",
         "కాలిబంగన్ (Kalibangan)",
-        "లోథాల్ (Lothal)"
+        "హరప్పా (Harappa)"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Lothal in Gujarat had a tidal dockyard connected to the Bhogavo river, serving as a major maritime trade port during the Indus Valley Civilization.",
       "explanation_te": "గుజరాత్‌లోని లోథాల్ వద్ద సింధు నాగరికత కాలం నాటి ప్రపంచంలోనే మొట్టమొదటి టైడల్ డాక్‌యార్డ్ (ఓడరేవు) బయల్పడింది."
     },
@@ -2945,17 +2945,17 @@
       "question_te": "ఢిల్లీలోని మెహ్రౌలీ వద్ద శతాబ్దాలుగా తుప్పు పట్టకుండా ఉన్న ప్రసిద్ధ ఇనుప స్తంభం ఏ గుప్త పాలకుని ఘనతను తెలుపుతుంది?",
       "options_en": [
         "Samudragupta",
-        "Chandragupta II (Vikramaditya)",
+        "Skandagupta",
         "Kumaragupta I",
-        "Skandagupta"
+        "Chandragupta II (Vikramaditya)"
       ],
       "options_te": [
         "సముద్రగుప్తుడు",
-        "రెండవ చంద్రగుప్తుడు (విక్రమాదిత్యుడు)",
+        "స్కందగుప్తుడు",
         "మొదటి కుమారగుప్తుడు",
-        "స్కందగుప్తుడు"
+        "రెండవ చంద్రగుప్తుడు (విక్రమాదిత్యుడు)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "The Mehrauli Iron Pillar in Delhi contains an inscription mentioning King 'Chandra', identified by historians as Chandragupta II Vikramaditya.",
       "explanation_te": "మెహ్రౌలీ ఇనుప స్తంభంపై 'చంద్ర' అనే రాజు విజయాల ప్రశస్తి ఉంది. ఆ రాజు రెండవ చంద్రగుప్తుడు (విక్రమాదిత్యుడు) అని చరిత్రకారులు నిర్ధారించారు."
     },
@@ -2989,17 +2989,17 @@
       "question_te": "విజయనగర సామ్రాజ్య చక్రవర్తి శ్రీకృష్ణదేవరాయలు రాజనీతి మరియు పరిపాలనా విశేషాలను వివరిస్తూ రచించిన ప్రసిద్ధ తెలుగు ప్రబంధం ఏది?",
       "options_en": [
         "Kavyalankara Sangrahamu",
-        "Manu Charitra",
+        "Amuktamalyada",
         "Parijatapaharanam",
-        "Amuktamalyada"
+        "Manu Charitra"
       ],
       "options_te": [
         "కావ్యాలంకార సంగ్రహము",
-        "మనుచరిత్ర",
+        "ఆముక్తమాల్యద (Amuktamalyada)",
         "పారిజాతాపహరణం",
-        "ఆముక్తమాల్యద (Amuktamalyada)"
+        "మనుచరిత్ర"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Sri Krishnadevaraya authored 'Amuktamalyada' in Telugu, which narrates the story of Andal (Goda Devi) and includes his famous thoughts on statecraft.",
       "explanation_te": "గోదాదేవి కథతో పాటు పరిపాలన మరియు రాజనీతి సూత్రాలను వివరిస్తూ శ్రీకృష్ణదేవరాయలు రచించిన కావ్యం 'ఆముక్తమాల్యద'."
     },
@@ -3033,17 +3033,17 @@
       "question_te": "1857 ప్రథమ స్వాతంత్ర్య సంగ్రామంలో బరేలీ (రోహిల్‌ఖండ్) ప్రాంతంలో తిరుగుబాటుకు నాయకత్వం వహించినది ఎవరు?",
       "options_en": [
         "Kunwar Singh",
-        "Khan Bahadur Khan",
+        "Bakht Khan",
         "Maulvi Ahmadullah",
-        "Bakht Khan"
+        "Khan Bahadur Khan"
       ],
       "options_te": [
         "కున్వర్ సింగ్ (బీహార్)",
-        "ఖాన్ బహదూర్ ఖాన్ (Khan Bahadur Khan)",
+        "భక్త్ ఖాన్",
         "మౌల్వీ అహ్మదుల్లా",
-        "భక్త్ ఖాన్"
+        "ఖాన్ బహదూర్ ఖాన్ (Khan Bahadur Khan)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "In Bareilly (Rohilkhand), the 1857 revolt was led by Khan Bahadur Khan, a descendant of the former ruler of Rohilkhand.",
       "explanation_te": "1857 తిరుగుబాటులో బరేలీ ప్రాంతానికి ఖాన్ బహదూర్ ఖాన్ నాయకత్వం వహించి బ్రిటిష్ వారిపై పోరాడారు."
     },
@@ -3077,17 +3077,17 @@
       "question_te": "1905 లో లార్డ్ కర్జన్ ప్రకటించిన బెంగాల్ విభజనకు వ్యతిరేకంగా దేశవ్యాప్తంగా ఉవ్వెత్తున ఎగసిపడిన ఉద్యమం ఏది?",
       "options_en": [
         "Home Rule Movement",
-        "Non-Cooperation Movement",
+        "Swadeshi and Vandemataram Movement",
         "Civil Disobedience Movement",
-        "Swadeshi and Vandemataram Movement"
+        "Non-Cooperation Movement"
       ],
       "options_te": [
         "హోమ్‌రూల్ ఉద్యమం",
-        "సహాయ నిరాకరణ ఉద్యమం",
+        "స్వదేశీ మరియు వందేమాతరం ఉద్యమం",
         "శాసనోల్లంఘన ఉద్యమం",
-        "స్వదేశీ మరియు వందేమాతరం ఉద్యమం"
+        "సహాయ నిరాకరణ ఉద్యమం"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "The partition of Bengal on 16 October 1905 led to the Swadeshi and Boycott movement across India, with the song 'Vande Mataram' becoming its anthem.",
       "explanation_te": "1905 బెంగాల్ విభజన ప్రకటనతో విదేశీ వస్తు బహిష్కరణ, స్వదేశీ ఉత్పత్తుల ప్రోత్సాహమే లక్ష్యంగా 'వందేమాతరం (స్వదేశీ) ఉద్యమం' ప్రారంభమైంది."
     },
@@ -3121,17 +3121,17 @@
       "question_te": "1930 మార్చి 12న మహాత్మా గాంధీ చారిత్రాత్మక ఉప్పు సత్యాగ్రహం (దండి మార్చ్) ను ఏ ఆశ్రమం నుండి ప్రారంభించారు?",
       "options_en": [
         "Wardha Ashram",
-        "Sabarmati Ashram (Ahmedabad)",
+        "Phoenix Settlement",
         "Sevagram Ashram",
-        "Phoenix Settlement"
+        "Sabarmati Ashram (Ahmedabad)"
       ],
       "options_te": [
         "వార్ధా ఆశ్రమం",
-        "సబర్మతి ఆశ్రమం (అహ్మదాబాద్)",
+        "ఫీనిక్స్ ఆశ్రమం",
         "సేవాగ్రామ్ ఆశ్రమం",
-        "ఫీనిక్స్ ఆశ్రమం"
+        "సబర్మతి ఆశ్రమం (అహ్మదాబాద్)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Gandhi marched 240 miles from Sabarmati Ashram in Ahmedabad to the coastal village of Dandi with 78 volunteers to break the British salt monopoly.",
       "explanation_te": "గాంధీజీ 78 మంది అనుచరులతో అహ్మదాబాద్‌లోని సబర్మతి ఆశ్రమం నుండి బయలుదేరి దండి వద్ద ఉప్పు చట్టాన్ని ఉల్లంఘించి శాసనోల్లంఘన ఉద్యమాన్ని ప్రారంభించారు."
     },
@@ -3165,17 +3165,17 @@
       "question_te": "మహాత్మా గాంధీ 'డూ ఆర్ డై' (కరో యా మరో - సాధించు లేదా మరణించు) అనే చారిత్రాత్మక నినాదాన్ని ఏ ఉద్యమ సమయంలో ఇచ్చారు?",
       "options_en": [
         "Champaran Satyagraha (1917)",
-        "Non-Cooperation Movement (1920)",
+        "Quit India Movement (1942)",
         "Civil Disobedience Movement (1930)",
-        "Quit India Movement (1942)"
+        "Non-Cooperation Movement (1920)"
       ],
       "options_te": [
         "చంపారన్ సత్యాగ్రహం (1917)",
-        "సహాయ నిరాకరణ ఉద్యమం (1920)",
+        "క్విట్ ఇండియా ఉద్యమం (1942)",
         "శాసనోల్లంఘన ఉద్యమం (1930)",
-        "క్విట్ ఇండియా ఉద్యమం (1942)"
+        "సహాయ నిరాకరణ ఉద్యమం (1920)"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "On 8 August 1942 at the Gowalia Tank Maidan in Bombay, Gandhi gave the mantra 'Do or Die' launching the Quit India Movement.",
       "explanation_te": "1942 ఆగస్టు 8న బొంబాయిలోని గోవాలియా ట్యాంక్ మైదానంలో క్విట్ ఇండియా తీర్మానం సందర్భంగా గాంధీజీ 'డూ ఆర్ డై' నినాదాన్ని ఇచ్చారు."
     },
@@ -3209,17 +3209,17 @@
       "question_te": "'పూర్ణ స్వరాజ్' (సంపూర్ణ స్వాతంత్ర్యం) తీర్మానాన్ని ఆమోదించిన 1929 చారిత్రాత్మక లాహోర్ కాంగ్రెస్ సమావేశానికి అధ్యక్షత వహించినది ఎవరు?",
       "options_en": [
         "Subhas Chandra Bose",
-        "Jawaharlal Nehru",
+        "Motilal Nehru",
         "Sardar Vallabhbhai Patel",
-        "Motilal Nehru"
+        "Jawaharlal Nehru"
       ],
       "options_te": [
         "సుభాష్ చంద్రబోస్",
-        "జవహర్‌లాల్ నెహ్రూ (Jawaharlal Nehru)",
+        "మోతీలాల్ నెహ్రూ",
         "సర్దార్ వల్లభ్‌భాయ్ పటేల్",
-        "మోతీలాల్ నెహ్రూ"
+        "జవహర్‌లాల్ నెహ్రూ (Jawaharlal Nehru)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Under the presidency of Jawaharlal Nehru, the INC passed the historic Purna Swaraj resolution at its Lahore session in December 1929.",
       "explanation_te": "1929 డిసెంబర్‌లో లాహోర్‌లో జరిగిన జాతీయ కాంగ్రెస్ సదస్సుకు జవహర్‌లాల్ నెహ్రూ అధ్యక్షత వహించారు. ఈ సదస్సులోనే 'పూర్ణ స్వరాజ్' తీర్మానం ఆమోదించబడింది."
     },
@@ -3253,17 +3253,17 @@
       "question_te": "భారతదేశంలోనే అతిపెద్ద ద్వీపకల్ప నదీ వ్యవస్థ మరియు 'దక్షిణ గంగ' అని పిలువబడే నది ఏది?",
       "options_en": [
         "Mahanadi",
-        "Krishna",
+        "Godavari",
         "Cauvery",
-        "Godavari"
+        "Krishna"
       ],
       "options_te": [
         "మహానది (Mahanadi)",
-        "కృష్ణా (Krishna)",
+        "గోదావరి (Godavari)",
         "కావేరి (Cauvery)",
-        "గోదావరి (Godavari)"
+        "కృష్ణా (Krishna)"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "The Godavari is the longest and largest river in Peninsular India (1,465 km), originating at Trimbakeshwar in Maharashtra and flowing into the Bay of Bengal.",
       "explanation_te": "మహారాష్ట్రలోని త్రయంబకేశ్వర్ వద్ద జన్మించి 1465 కి.మీ ప్రవహించే గోదావరి నది భారతదేశంలోనే అతిపెద్ద ద్వీపకల్ప నది. దీనిని 'దక్షిణ గంగ' అని పిలుస్తారు."
     },
@@ -3297,17 +3297,17 @@
       "question_te": "పెన్ గంగ, వార్ధా మరియు వైన్ గంగ నదుల కలయిక ద్వారా ఏర్పడి గోదావరి నదిలో కలిసే అతిపెద్ద ఉపనది ఏది?",
       "options_en": [
         "Manjeera",
-        "Pranahita",
+        "Sabari",
         "Indravati",
-        "Sabari"
+        "Pranahita"
       ],
       "options_te": [
         "మంజీరా",
-        "ప్రాణహిత (Pranahita)",
+        "శబరి",
         "ఇంద్రావతి",
-        "శబరి"
+        "ప్రాణహిత (Pranahita)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "The Pranahita river is formed by the combined waters of Wardha, Penganga, and Wainganga, and is the largest tributary of the Godavari by discharge volume.",
       "explanation_te": "వార్ధా, పెన్‌గంగ, వైన్‌గంగ నదుల సంగమంతో ప్రాణహిత నది ఏర్పడుతుంది. ఇది గోదావరి నదికి గల అతిపెద్ద ఉపనది."
     },
@@ -3341,17 +3341,17 @@
       "question_te": "తెలంగాణలోని ప్రముఖ బొగ్గు గనుల సంస్థ అయిన సింగరేణి కాలరీస్ (SCCL) ఏ నదీ లోయ పరివాహక ప్రాంతం నుండి బొగ్గును వెలికితీస్తుంది?",
       "options_en": [
         "Damodar Valley",
-        "Krishna-Tungabhadra Valley",
+        "Pranahita-Godavari Valley",
         "Narmada Valley",
-        "Pranahita-Godavari Valley"
+        "Krishna-Tungabhadra Valley"
       ],
       "options_te": [
         "దామోదర్ లోయ",
-        "కృష్ణా - తుంగభద్ర లోయ",
+        "ప్రాణహిత - గోదావరి లోయ",
         "నర్మదా లోయ",
-        "ప్రాణహిత - గోదావరి లోయ"
+        "కృష్ణా - తుంగభద్ర లోయ"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "SCCL mines coal deposits situated in the Pranahita-Godavari valley belt spanning Khammam, Bhadradri Kothagudem, Jayashankar Bhupalpally, Peddapalli, Mancherial, and Asifabad.",
       "explanation_te": "సింగరేణి సంస్థ ప్రాణహిత - గోదావరి నదీ లోయలోని గోండ్వానా బొగ్గు నిల్వల నుండి బొగ్గును వెలికితీస్తుంది."
     },
@@ -3385,17 +3385,17 @@
       "question_te": "క్రింది రాష్ట్రాలలో తెలంగాణ రాష్ట్రంతో సరిహద్దును పంచుకోని రాష్ట్రం ఏది?",
       "options_en": [
         "Maharashtra",
-        "Odisha",
+        "Chhattisgarh",
         "Karnataka",
-        "Chhattisgarh"
+        "Odisha"
       ],
       "options_te": [
         "మహారాష్ట్ర",
-        "ఒడిశా (Odisha)",
+        "ఛత్తీస్‌గఢ్",
         "కర్ణాటక",
-        "ఛత్తీస్‌గఢ్"
+        "ఒడిశా (Odisha)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Telangana is surrounded by Maharashtra, Karnataka, Chhattisgarh, and Andhra Pradesh. It does not share a direct border with Odisha.",
       "explanation_te": "తెలంగాణ రాష్ట్రం మహారాష్ట్ర, కర్ణాటక, ఛత్తీస్‌గఢ్, ఆంధ్రప్రదేశ్‌లతో మాత్రమే సరిహద్దులను పంచుకుంటుంది. ఒడిశాతో నేరుగా సరిహద్దు లేదు."
     },
@@ -3429,17 +3429,17 @@
       "question_te": "తెలంగాణ రాష్ట్రంలోని అత్యంత ఎత్తైన శిఖరం ఏ కొండల శ్రేణిలో కలదు?",
       "options_en": [
         "Nirmal Hills",
-        "Ananthagiri Hills (Vikarabad)",
+        "Doli Gutta (Bhadradri Kothagudem - 965 m)",
         "Rachakonda Hills",
-        "Doli Gutta (Bhadradri Kothagudem - 965 m)"
+        "Ananthagiri Hills (Vikarabad)"
       ],
       "options_te": [
         "నిర్మల్ కొండలు",
-        "అనంతగిరి కొండలు (వికారాబాద్)",
+        "డోలి గుట్ట (భద్రాద్రి కొత్తగూడెం జిల్లా - 965 మీ)",
         "రాచకొండ గుట్టలు",
-        "డోలి గుట్ట (భద్రాద్రి కొత్తగూడెం జిల్లా - 965 మీ)"
+        "అనంతగిరి కొండలు (వికారాబాద్)"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Doli Gutta (approx. 965 m above sea level), located in the border hills of Bhadradri Kothagudem and Chhattisgarh, is the highest peak in Telangana.",
       "explanation_te": "భద్రాద్రి కొత్తగూడెం జిల్లా సరిహద్దులో గల 'డోలి గుట్ట' (దాదాపు 965 మీటర్ల ఎత్తు) తెలంగాణలోని అత్యున్నత శిఖరం."
     },
@@ -3473,17 +3473,17 @@
       "question_te": "భారత అటవీ సర్వే నివేదిక ప్రకారం తెలంగాణలో అత్యధిక అటవీ విస్తీర్ణం కలిగిన జిల్లా ఏది?",
       "options_en": [
         "Mulugu",
-        "Bhadradri Kothagudem",
+        "Khammam",
         "Adilabad",
-        "Khammam"
+        "Bhadradri Kothagudem"
       ],
       "options_te": [
         "ములుగు",
-        "భద్రాద్రి కొత్తగూడెం (Bhadradri Kothagudem)",
+        "ఖమ్మం",
         "ఆదిలాబాద్",
-        "ఖమ్మం"
+        "భద్రాద్రి కొత్తగూడెం (Bhadradri Kothagudem)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Bhadradri Kothagudem district has the largest total area under forest cover in Telangana state.",
       "explanation_te": "తెలంగాణ రాష్ట్రంలో విస్తీర్ణం పరంగా అత్యధిక అటవీ ప్రాంతాన్ని కలిగి ఉన్న జిల్లా భద్రాద్రి కొత్తగూడెం."
     },
@@ -3517,17 +3517,17 @@
       "question_te": "డాక్టర్ బి. ఆర్. అంబేద్కర్ 'రాజ్యాంగానికి ఆత్మ మరియు హృదయం' గా అభివర్ణించిన 'రాజ్యాంగ పరిహారపు హక్కు' ఏ నిబంధనలో ఉంది?",
       "options_en": [
         "Article 14",
-        "Article 21",
+        "Article 32",
         "Article 19",
-        "Article 32"
+        "Article 21"
       ],
       "options_te": [
         "ఆర్టికల్ 14",
-        "ఆర్టికల్ 21",
+        "ఆర్టికల్ 32 (Article 32)",
         "ఆర్టికల్ 19",
-        "ఆర్టికల్ 32 (Article 32)"
+        "ఆర్టికల్ 21"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Article 32 empowers citizens to directly approach the Supreme Court for the enforcement of Fundamental Rights via writs.",
       "explanation_te": "ప్రాథమిక హక్కుల రక్షణ కోసం సుప్రీంకోర్టును ఆశ్రయించే హక్కును కల్పించే ఆర్టికల్ 32 ని అంబేద్కర్ రాజ్యాంగానికి హృదయం మరియు ఆత్మ అని పేర్కొన్నారు."
     },
@@ -3561,17 +3561,17 @@
       "question_te": "భారత రాజ్యాంగంలోని 4వ భాగంలో గల ఆదేశిక సూత్రాలు (DPSP) ఏ దేశ రాజ్యాంగం నుండి గ్రహించబడ్డాయి?",
       "options_en": [
         "United Kingdom",
-        "Ireland",
+        "Australia",
         "USA",
-        "Australia"
+        "Ireland"
       ],
       "options_te": [
         "బ్రిటన్",
-        "ఐర్లాండ్ (Ireland)",
+        "ఆస్ట్రేలియా",
         "అమెరికా",
-        "ఆస్ట్రేలియా"
+        "ఐర్లాండ్ (Ireland)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "The Directive Principles of State Policy (Articles 36–51) were borrowed from the Constitution of Ireland (1937).",
       "explanation_te": "భారత రాజ్యాంగ నిర్మాతలు ఆదేశిక సూత్రాల భావనను ఐరిష్ (ఐర్లాండ్) రాజ్యాంగం నుండి స్వీకరించారు."
     },
@@ -3605,17 +3605,17 @@
       "question_te": "ఒక బిల్లు 'ద్రవ్య బిల్లు' (Money Bill) అవునా కాదా అని తుది నిర్ణయం తీసుకుని ధృవీకరించే అధికారం ఎవరికి ఉంది?",
       "options_en": [
         "Finance Minister",
-        "President of India",
+        "Speaker of Lok Sabha",
         "Chairman of Rajya Sabha",
-        "Speaker of Lok Sabha"
+        "President of India"
       ],
       "options_te": [
         "కేంద్ర ఆర్థిక మంత్రి",
-        "రాష్ట్రపతి",
+        "లోక్‌సభ స్పీకర్ (Speaker of Lok Sabha)",
         "రాజ్యసభ చైర్మన్",
-        "లోక్‌సభ స్పీకర్ (Speaker of Lok Sabha)"
+        "రాష్ట్రపతి"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Under Article 110(3), the decision of the Speaker of the Lok Sabha on whether a bill is a Money Bill is final and conclusive.",
       "explanation_te": "110(3) అధికరణం ప్రకారం ఒక బిల్లు ద్రవ్య బిల్లా కాదా అని నిర్ణయించే అంతిమ అధికారం లోక్‌సభ స్పీకర్‌కు మాత్రమే ఉంటుంది."
     },
@@ -3649,17 +3649,17 @@
       "question_te": "చట్టబద్ధమైన అర్హత లేకుండా ఒక వ్యక్తి ప్రభుత్వ పదవిని ఆక్రమించినప్పుడు ఆ నియామకాన్ని రద్దు చేయడానికి న్యాయస్థానాలు జారీ చేసే రిట్ ఏది?",
       "options_en": [
         "Prohibition",
-        "Quo Warranto",
+        "Mandamus",
         "Certiorari",
-        "Mandamus"
+        "Quo Warranto"
       ],
       "options_te": [
         "ప్రొహిబిషన్ (Prohibition)",
-        "కో-వారెంటో (Quo Warranto)",
+        "మాండమస్",
         "సెర్షియోరరై",
-        "మాండమస్"
+        "కో-వారెంటో (Quo Warranto)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "The writ of Quo Warranto (literally 'By what authority') is issued to prevent illegal usurpation of a public office by a person.",
       "explanation_te": "'ఏ అధికారంతో' ఈ పదవిలో ఉన్నారో తెలపాలని ప్రశ్నిస్తూ ప్రభుత్వ పదవుల దురాక్రమణను నిరోధించే రిట్ 'కో-వారెంటో'."
     },
@@ -3693,17 +3693,17 @@
       "question_te": "73వ రాజ్యాంగ సవరణ చట్టం ద్వారా పంచాయతీలకు 29 విధులను కేటాయిస్తూ భారత రాజ్యాంగానికి ఏ షెడ్యూల్‌ను చేర్చారు?",
       "options_en": [
         "9th Schedule",
-        "12th Schedule",
+        "11th Schedule",
         "10th Schedule",
-        "11th Schedule"
+        "12th Schedule"
       ],
       "options_te": [
         "9వ షెడ్యూల్",
-        "12వ షెడ్యూల్ (మున్సిపాలిటీలు)",
+        "11వ షెడ్యూల్ (11th Schedule)",
         "10వ షెడ్యూల్ (పార్టీ ఫిరాయింపులు)",
-        "11వ షెడ్యూల్ (11th Schedule)"
+        "12వ షెడ్యూల్ (మున్సిపాలిటీలు)"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "The 73rd Amendment added the 11th Schedule containing 29 subjects for Panchayati Raj Institutions, while the 74th Amendment added the 12th Schedule for Municipalities.",
       "explanation_te": "73వ సవరణ ద్వారా గ్రామీణ స్థానిక సంస్థలకు (పంచాయతీలకు) 29 అంశాలతో కూడిన 11వ షెడ్యూల్‌ను చేర్చారు."
     },
@@ -3737,17 +3737,17 @@
       "question_te": "భారత రాజ్యాంగంలోని 360వ నిబంధన క్రింద ఆర్థిక అత్యవసర పరిస్థితి (Financial Emergency) దేశంలో ఇప్పటివరకు ఎన్నిసార్లు విధించబడింది?",
       "options_en": [
         "Once (1991)",
-        "Never (0 times)",
+        "Three times",
         "Twice",
-        "Three times"
+        "Never (0 times)"
       ],
       "options_te": [
         "ఒకసారి (1991 లో)",
-        "ఎన్నడూ విధించలేదు (0 సార్లు)",
+        "మూడు సార్లు",
         "రెండు సార్లు",
-        "మూడు సార్లు"
+        "ఎన్నడూ విధించలేదు (0 సార్లు)"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Financial Emergency under Article 360 has never been declared in India so far, even during the severe balance-of-payments economic crisis of 1991.",
       "explanation_te": "భారతదేశంలో 360వ ఆర్టికల్ ప్రకారం ఆర్థిక అత్యవసర పరిస్థితిని ఇప్పటివరకు ఒక్కసారి కూడా విధించలేదు."
     },
@@ -3803,17 +3803,17 @@
       "question_te": "భారతదేశంలో ద్రవ్యోల్బణాన్ని నియంత్రించడానికి రిజర్వ్ బ్యాంక్ ద్రవ్య విధాన కమిటీ (MPC) ప్రామాణికంగా తీసుకునే సూచిక ఏది?",
       "options_en": [
         "Index of Industrial Production (IIP)",
-        "Wholesale Price Index (WPI)",
         "Consumer Price Index (CPI - Combined)",
+        "Wholesale Price Index (WPI)",
         "GDP Deflator"
       ],
       "options_te": [
         "పారిశ్రామికోత్పత్తి సూచిక (IIP)",
-        "హోల్‌సేల్ ధరల సూచిక (WPI)",
         "వినియోగదారుల ధరల సూచిక (CPI - Combined)",
+        "హోల్‌సేల్ ధరల సూచిక (WPI)",
         "జీడీపీ డిఫ్లేటర్"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Following the Urjit Patel Committee recommendations, the RBI adopted the All-India Consumer Price Index (CPI-Combined) for headline inflation targeting (4% +/- 2%).",
       "explanation_te": "ఆర్‌బీఐ వినియోగదారుల స్థాయిలోని చిల్లర ద్రవ్యోల్బణాన్ని కొలవడానికి 'కన్స్యూమర్ ప్రైస్ ఇండెక్స్ (CPI)' ని అధికారిక కొలమానంగా ఉపయోగిస్తుంది."
     },
@@ -3825,17 +3825,17 @@
       "question_te": "స్థూల దేశీయోత్పత్తి (GDP) అనగా ఒక నిర్దిష్ట కాలంలో:",
       "options_en": [
         "All intermediate goods produced by multinational corporations",
-        "All final goods and services produced within the domestic territory of a country in a year",
         "Total assets owned by Indian citizens living abroad",
+        "All final goods and services produced within the domestic territory of a country in a year",
         "Net profit generated exclusively by government public sector units"
       ],
       "options_te": [
         "బహుళజాతి సంస్థలు ఉత్పత్తి చేసిన మధ్యంతర వస్తువుల విలువ",
-        "ఒక సంవత్సర కాలంలో దేశ భౌగోళిక సరిహద్దుల లోపల ఉత్పత్తి చేయబడిన అన్ని అంతిమ వస్తువులు మరియు సేవల మార్కెట్ విలువ",
         "విదేశాల్లో నివసించే భారతీయుల ఆస్తుల మొత్తం",
+        "ఒక సంవత్సర కాలంలో దేశ భౌగోళిక సరిహద్దుల లోపల ఉత్పత్తి చేయబడిన అన్ని అంతిమ వస్తువులు మరియు సేవల మార్కెట్ విలువ",
         "ప్రభుత్వ రంగ సంస్థలు ఆర్జించిన నికర లాభం మాత్రమే"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "GDP measures the monetary value of all final goods and services produced within a nation's geographical boundaries during a specified time period (usually 1 year).",
       "explanation_te": "ఒక ఆర్థిక సంవత్సరంలో దేశ సరిహద్దులలో ఉత్పత్తి అయిన మొత్తం అంతిమ వస్తు, సేవల ద్రవ్య విలువే స్థూల దేశీయోత్పత్తి (GDP)."
     },
@@ -3846,18 +3846,18 @@
       "question_en": "What is 'Fiscal Deficit' in the Union or State Budget?",
       "question_te": "ప్రభుత్వ బడ్జెట్‌లో 'ద్రవ్య లోటు' (Fiscal Deficit) అనగా ఏమిటి?",
       "options_en": [
-        "Total Expenditure minus Total Receipts (excluding borrowings)",
+        "Difference between exports and imports",
         "Total Revenue Expenditure minus Revenue Receipts",
         "Monetary deficit printed by RBI",
-        "Difference between exports and imports"
+        "Total Expenditure minus Total Receipts (excluding borrowings)"
       ],
       "options_te": [
-        "రుణాలు మినహాయించి మొత్తం వ్యయం నుండి మొత్తం ఆదాయాన్ని తీసివేయగా వచ్చే లోటు (ప్రభుత్వ నికర అప్పుల మొత్తం)",
+        "ఎగుమతులు మరియు దిగుమతుల మధ్య తేడా",
         "రెవెన్యూ వ్యయం నుండి రెవెన్యూ ఆదాయం తీసివేయగా వచ్చేది",
         "ఆర్‌బీఐ ముద్రించిన కొత్త కరెన్సీ పరిమాణం",
-        "ఎగుమతులు మరియు దిగుమతుల మధ్య తేడా"
+        "రుణాలు మినహాయించి మొత్తం వ్యయం నుండి మొత్తం ఆదాయాన్ని తీసివేయగా వచ్చే లోటు (ప్రభుత్వ నికర అప్పుల మొత్తం)"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "Fiscal Deficit = Total Expenditure - (Revenue Receipts + Non-debt Capital Receipts). It reflects the total borrowing requirements of the government from all sources.",
       "explanation_te": "ప్రభుత్వం బడ్జెట్ అవసరాల కోసం ఆ సంవత్సరంలో చేయవలసిన మొత్తం రుణాల పరిమాణాన్నే ద్రవ్య లోటు అంటారు."
     },
@@ -3868,18 +3868,18 @@
       "question_en": "Goods and Services Tax (GST) in India, implemented on 1 July 2017, is what type of tax?",
       "question_te": "2017 జూలై 1 నుండి దేశవ్యాప్తంగా అమల్లోకి వచ్చిన వస్తు మరియు సేవల పన్ను (GST) ఏ రకమైన పన్ను?",
       "options_en": [
-        "Progressive wealth tax",
+        "Comprehensive destination-based indirect consumption tax",
         "Direct income tax on corporate profits",
         "Origin-based manufacturing excise duty",
-        "Comprehensive destination-based indirect consumption tax"
+        "Progressive wealth tax"
       ],
       "options_te": [
-        "వ్యక్తిగత సంపద పన్ను",
+        "గమ్యస్థాన ఆధారిత సమగ్ర పరోక్ష వినియోగ పన్ను (Destination-based Indirect Tax)",
         "కార్పొరేట్ లాభాలపై ప్రత్యక్ష పన్ను",
         "ఉత్పత్తి ఆధారిత ఎక్సైజ్ సుంకం",
-        "గమ్యస్థాన ఆధారిత సమగ్ర పరోక్ష వినియోగ పన్ను (Destination-based Indirect Tax)"
+        "వ్యక్తిగత సంపద పన్ను"
       ],
-      "correct_option": 3,
+      "correct_option": 0,
       "explanation_en": "GST is a comprehensive, multi-stage, destination-based indirect tax levied on value addition at each stage of supply of goods and services.",
       "explanation_te": "GST అనేది వస్తువులు మరియు సేవల సరఫరాపై విధించే గమ్యస్థాన ఆధారిత (Destination-based) బహుళ అంచెల పరోక్ష పన్ను."
     },
@@ -3891,17 +3891,17 @@
       "question_te": "భారతదేశం నుండి ఎగుమతి అయ్యే ఔషధాలలో (Pharma exports) సుమారుగా ఎంత భాగం వాటాను తెలంగాణ కలిగి ఉంది?",
       "options_en": [
         "65% to 70%",
-        "5% to 10%",
         "One-third (approx. 33% - 35%)",
+        "5% to 10%",
         "Less than 2%"
       ],
       "options_te": [
         "65% నుండి 70%",
-        "5% నుండి 10% మాత్రమే",
         "మూడింట ఒక వంతు (సుమారు 33% - 35%)",
+        "5% నుండి 10% మాత్రమే",
         "2% కంటే తక్కువ"
       ],
-      "correct_option": 2,
+      "correct_option": 1,
       "explanation_en": "Telangana accounts for over 35% of national pharmaceutical production and about one-third of the country's bulk drug exports.",
       "explanation_te": "దేశవ్యాప్తంగా తయారయ్యే బల్క్ డ్రగ్స్ మరియు ఔషధ ఎగుమతులలో మూడో వంతుకు పైగా (35%) వాటాను తెలంగాణ అందిస్తూ ఔషధ రాజధానిగా నిలిచింది."
     },
@@ -3913,17 +3913,17 @@
       "question_te": "తెలంగాణ సాఫ్ట్‌వేర్ ఎగుమతులు మరియు ఐటీ రంగానికి ప్రధాన కేంద్రంగా ఉన్న హైదరాబాద్‌లోని ప్రముఖ ఐటీ కారిడార్ ఏది?",
       "options_en": [
         "Maheswaram Hardware Park",
-        "HITEC City (Madhapur - Gachibowli cluster)",
         "Cherlapally Industrial Estate",
+        "HITEC City (Madhapur - Gachibowli cluster)",
         "Nacharam Industrial Area"
       ],
       "options_te": [
         "మహేశ్వరం హార్డ్‌వేర్ పార్క్",
-        "హైటెక్ సిటీ (మాదాపూర్ - గచ్చిబౌలి క్లస్టర్)",
         "చర్లపల్లి ఇండస్ట్రియల్ ఎస్టేట్",
+        "హైటెక్ సిటీ (మాదాపూర్ - గచ్చిబౌలి క్లస్టర్)",
         "నాచారం పారిశ్రామిక వాడ"
       ],
-      "correct_option": 1,
+      "correct_option": 2,
       "explanation_en": "HITEC City and the Financial District (Gachibowli-Madhapur) form the core of Telangana's IT exports, employing over 900,000 technology professionals.",
       "explanation_te": "హైటెక్ సిటీ మరియు ఫైనాన్షియల్ డిస్ట్రిక్ట్ తెలంగాణ రాష్ట్ర ఐటీ ఎగుమతులకు అంతర్జాతీయ వేదికగా నిలుస్తున్నాయి."
     },
@@ -3980,16 +3980,16 @@
       "options_en": [
         "1 April 2016",
         "15 August 2014",
-        "1 January 2015",
-        "26 January 2015"
+        "26 January 2015",
+        "1 January 2015"
       ],
       "options_te": [
         "1 ఏప్రిల్ 2016",
         "15 ఆగస్టు 2014",
-        "1 జనవరి 2015 (1 January 2015)",
-        "26 జనవరి 2015"
+        "26 జనవరి 2015",
+        "1 జనవరి 2015 (1 January 2015)"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "NITI Aayog was formed on 1 January 2015 via a Union Cabinet resolution, serving as the premier policy think tank for cooperative federalism.",
       "explanation_te": "కేంద్ర కేబినెట్ తీర్మానం ద్వారా పాత ప్రణాళికా సంఘం స్థానంలో 2015 జనవరి 1వ తేదీన నీతి ఆయోగ్ ఏర్పాటయింది."
     },
@@ -4000,18 +4000,18 @@
       "question_en": "The early capital of the Satavahana dynasty, where Roman coins and coins of King Chimuka were excavated, is located at:",
       "question_te": "రోమన్ నాణేలు మరియు మొదటి శాతవాహన రాజు శ్రీముఖుని నాణేలు బయల్పడిన శాతవాహనుల తొలి రాజధాని ప్రదేశం ఏది?",
       "options_en": [
-        "Dhanyakataka",
         "Kotilingala (Jagtial district)",
+        "Dhanyakataka",
         "Pratishthanapura",
         "Nelakondapalli"
       ],
       "options_te": [
-        "ధాన్యకటకం",
         "కోటిలింగాల (జగిత్యాల జిల్లా)",
+        "ధాన్యకటకం",
         "ప్రతిష్ఠానపురం (పైఠాన్)",
         "నేలకొండపల్లి"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Kotilingala on the banks of river Godavari in present Jagtial district was the earliest capital of the Satavahanas under King Simuka.",
       "explanation_te": "జగిత్యాల జిల్లా గోదావరి తీరాన ఉన్న కోటిలింగాల వద్ద శాతవాహన వంశ స్థాపకుడైన శ్రీముఖుని నాణేలు లభించాయి. ఇది వారి తొలి రాజధాని."
     },
@@ -4022,18 +4022,18 @@
       "question_en": "Which famous Italian traveler visited the Kakatiya kingdom during the reign of Queen Rudrama Devi and lavishly praised her governance and Warangal's prosperity?",
       "question_te": "కాకతీయ రాణి రుద్రమదేవి పాలనా కాలంలో ఓరుగల్లును సందర్శించి, ఆమె పరిపాలనా దక్షతను మరియు రాజ్య సంపదను ప్రశంసించిన ఇటాలియన్ యాత్రికుడు ఎవరు?",
       "options_en": [
-        "Marco Polo",
         "Nicolo de Conti",
+        "Marco Polo",
         "Ibn Battuta",
         "Domingo Paes"
       ],
       "options_te": [
-        "మార్కో పోలో (Marco Polo)",
         "నికోలో డి కాంటి",
+        "మార్కో పోలో (Marco Polo)",
         "ఇబన్ బటూటా",
         "డొమింగో పేస్"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Venetian traveler Marco Polo visited the Kakatiya port city of Motupalli and the kingdom in 1292–1293 CE, praising Rani Rudrama Devi's justice and the finest muslins.",
       "explanation_te": "ఇటలీకి చెందిన వెనీస్ యాత్రికుడు మార్కో పోలో మోటుపల్లి రేవు ద్వారా కాకతీయ రాజ్యాన్ని సందర్శించి రాణి రుద్రమదేవి పాలనను కొనియాడారు."
     },
@@ -4046,16 +4046,16 @@
       "options_en": [
         "Abdullah Qutb Shah",
         "Sultan Quli Qutb Shah",
-        "Ibrahim Qutb Shah",
-        "Muhammad Quli Qutb Shah"
+        "Muhammad Quli Qutb Shah",
+        "Ibrahim Qutb Shah"
       ],
       "options_te": [
         "అబ్దుల్లా కుతుబ్ షా",
         "సుల్తాన్ కులీ కుతుబ్ షా",
-        "ఇబ్రహీం కుతుబ్ షా",
-        "మహ్మద్ కులీ కుతుబ్ షా (Muhammad Quli Qutb Shah)"
+        "మహ్మద్ కులీ కుతుబ్ షా (Muhammad Quli Qutb Shah)",
+        "ఇబ్రహీం కుతుబ్ షా"
       ],
-      "correct_option": 3,
+      "correct_option": 2,
       "explanation_en": "Muhammad Quli Qutb Shah, the 5th Sultan of the dynasty and founder of Hyderabad city, constructed the Charminar in 1591 CE.",
       "explanation_te": "హైదరాబాద్ నగర నిర్మాత అయిన 5వ కుతుబ్‌షాహీ సుల్తాన్ మహ్మద్ కులీ కుతుబ్ షా 1591 లో చార్మినార్‌ను నిర్మించారు."
     },
@@ -4068,16 +4068,16 @@
       "options_en": [
         "Afzal-ud-Daulah (Nizam V)",
         "Mahbub Ali Khan (Nizam VI)",
-        "Mir Osman Ali Khan (Nizam VII)",
-        "Nasir-ud-Daulah (Nizam IV)"
+        "Nasir-ud-Daulah (Nizam IV)",
+        "Mir Osman Ali Khan (Nizam VII)"
       ],
       "options_te": [
         "అఫ్జల్ ఉద్-దౌలా",
         "మహబూబ్ అలీ ఖాన్ (6వ నిజాం)",
-        "మీర్ ఉస్మాన్ అలీ ఖాన్ (7వ నిజాం)",
-        "నాసిర్ ఉద్-దౌలా"
+        "నాసిర్ ఉద్-దౌలా",
+        "మీర్ ఉస్మాన్ అలీ ఖాన్ (7వ నిజాం)"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "Mir Osman Ali Khan, the 7th and last Nizam of Hyderabad, established Osmania University via a royal firman in 1917.",
       "explanation_te": "హైదరాబాద్ 7వ నిజాం అయిన మీర్ ఉస్మాన్ అలీ ఖాన్ 1917 లో జారీ చేసిన ఫర్మానా ద్వారా ఉస్మానియా విశ్వవిద్యాలయం ఏర్పాటయింది."
     },
@@ -4088,18 +4088,18 @@
       "question_en": "The floral festival 'Bathukamma', the cultural identity of Telangana women, is celebrated primarily during which Hindu lunar festival season?",
       "question_te": "తెలంగాణ మహిళల ఆత్మగౌరవ ప్రతీక అయిన పూల పండుగ 'బతుకమ్మ' ప్రధానంగా ఏ నవరాత్రుల కాలంలో జరుపుకుంటారు?",
       "options_en": [
-        "Sankranti",
         "Sharad Navratri (ending on Durgashtami / Saddula Bathukamma)",
+        "Sankranti",
         "Holi",
         "Vasantha Navratri"
       ],
       "options_te": [
-        "సంక్రాంతి",
         "శరన్నవరాత్రులు (ఎంగిలిపూల బతుకమ్మ నుండి సద్దుల బతుకమ్మ వరకు)",
+        "సంక్రాంతి",
         "హోలీ పండుగ",
         "వసంత నవరాత్రులు"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Bathukamma is a 9-day floral festival celebrated during Bhadrapada Amavasya (Mahalaya Amavasya / Engili Pula Bathukamma) to Ashwayuja Ashtami (Saddula Bathukamma).",
       "explanation_te": "భాద్రపద అమావాస్య (ఎంగిలిపూల బతుకమ్మ) నుండి ఆశ్వయుజ అష్టమి (సద్దుల బతుకమ్మ) వరకు 9 రోజుల పాటు ప్రకృతిని, గౌరమ్మను పూజిస్తూ బతుకమ్మను జరుపుకుంటారు."
     },
@@ -4110,18 +4110,18 @@
       "question_en": "The historic Sammakka-Saralamma Jathara, celebrating tribal valor against Kakatiya feudal taxes, takes place at Medaram in which district?",
       "question_te": "కాకతీయుల అన్యాయపు పన్నులకు వ్యతిరేకంగా వీరోచిత పోరాటం చేసిన గిరిజన వీరవనితల స్మృత్యర్థం జరిగే 'సమ్మక్క-సారలమ్మ మేడారం జాతర' ఏ జిల్లాలో జరుగుతుంది?",
       "options_en": [
-        "Mulugu district",
         "Khammam district",
+        "Mulugu district",
         "Adilabad district",
         "Nalgonda district"
       ],
       "options_te": [
-        "ములుగు జిల్లా (Mulugu)",
         "ఖమ్మం జిల్లా",
+        "ములుగు జిల్లా (Mulugu)",
         "ఆదిలాబాద్ జిల్లా",
         "నల్గొండ జిల్లా"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Medaram Jathara is celebrated biennially in the forests of Medaram, Tadvai mandal of Mulugu district, attracting over a crore devotees.",
       "explanation_te": "ఆసియాలోనే అతిపెద్ద గిరిజన జాతరగా గుర్తింపు పొందిన సమ్మక్క-సారలమ్మ జాతర ములుగు జిల్లా తాడ్వాయి మండలంలోని మేడారంలో రెండేళ్లకొకసారి జరుగుతుంది."
     },
@@ -4134,16 +4134,16 @@
       "options_en": [
         "Gussadi",
         "Kuchipudi",
-        "Bharatanatyam",
-        "Perini Sivatandavam"
+        "Perini Sivatandavam",
+        "Bharatanatyam"
       ],
       "options_te": [
         "గుస్సాడీ నృత్యం",
         "కూచిపూడి",
-        "భరతనాట్యం",
-        "పేరిణి శివతాండవం (Perini Sivatandavam)"
+        "పేరిణి శివతాండవం (Perini Sivatandavam)",
+        "భరతనాట్యం"
       ],
-      "correct_option": 3,
+      "correct_option": 2,
       "explanation_en": "Perini Sivatandavam is an ancient dance of Telangana performed by male warriors in Kakatiya times before entering the battlefield to invoke Lord Shiva.",
       "explanation_te": "రామప్ప శిల్పాల ఆధారంగా డాక్టర్ నటరాజ రామకృష్ణ పునరుద్ధరించిన కాకతీయుల కాలం నాటి పురుషుల వీర నృత్యమే 'పేరిణి శివతాండవం'."
     },
@@ -4176,18 +4176,18 @@
       "question_en": "The historic 1969 Telangana Agitation began in January 1969 with an indefinite hunger strike demanding the implementation of Telangana safeguards (Gentlemen's Agreement) by which student leader in Khammam?",
       "question_te": "తెలంగాణ రక్షణలు (పెద్దమనుషుల ఒప్పందం) అమలు చేయాలని డిమాండ్ చేస్తూ జనవరి 1969 లో ఖమ్మంలో ఆమరణ నిరాహార దీక్ష చేపట్టి 1969 తెలంగాణ ఉద్యమానికి నాంది పలికిన విద్యార్థి నాయకుడు ఎవరు?",
       "options_en": [
-        "Bobbili Ravindranath",
+        "K.V. Ranga Reddy",
         "Mallikarjun",
         "Marri Chenna Reddy",
-        "K.V. Ranga Reddy"
+        "Bobbili Ravindranath"
       ],
       "options_te": [
-        "బొబ్బిలి రవీంద్రనాథ్",
+        "కె.వి. రంగా రెడ్డి",
         "మల్లికార్జున్",
         "మర్రి చెన్నారెడ్డి",
-        "కె.వి. రంగా రెడ్డి"
+        "బొబ్బిలి రవీంద్రనాథ్"
       ],
-      "correct_option": 0,
+      "correct_option": 3,
       "explanation_en": "On January 8, 1969, degree college student Bobbili Ravindranath began an indefinite fast at Khammam demanding Telangana employment safeguards and return of non-Mulki employees, sparking the student-led 1969 separate state movement.",
       "explanation_te": "1969 జనవరి 8న ఖమ్మం గాంధీ చౌక్ వద్ద డిగ్రీ విద్యార్థి బొబ్బిలి రవీంద్రనాథ్ ముల్కీ నిబంధనలు అమలు చేయాలని, నాన్-ముల్కీలను వెనక్కి పంపాలని ఆమరణ నిరాహార దీక్ష చేపట్టడంతో 1969 ఉద్యమం మొదలైంది."
     },
@@ -4221,17 +4221,17 @@
       "question_te": "హైదరాబాద్ సంస్థానం భారతదేశంలో విలీనం కావడానికి కారణమైన 'ఆపరేషన్ పోలో' సైనిక చర్య ఏ తేదీన ముగిసింది?",
       "options_en": [
         "1 November 1956",
-        "15 August 1947",
+        "17 September 1948",
         "26 January 1950",
-        "17 September 1948"
+        "15 August 1947"
       ],
       "options_te": [
         "1 నవంబర్ 1956",
-        "15 ఆగస్టు 1947",
+        "17 సెప్టెంబర్ 1948 (17 September 1948)",
         "26 జనవరి 1950",
-        "17 సెప్టెంబర్ 1948 (17 September 1948)"
+        "15 ఆగస్టు 1947"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "Operation Polo ended on 17 September 1948 when the Nizam's commander-in-chief Major General El Edroos surrendered to Indian forces led by Major General J.N. Chaudhuri.",
       "explanation_te": "1948 సెప్టెంబర్ 13న ప్రారంభమైన ఆపరేషన్ పోలో పోలీస్ చర్య సెప్టెంబర్ 17న నిజాం సైన్యం లొంగిపోవడంతో ముగిసింది. ఆ రోజున హైదరాబాద్ సంస్థానం భారత్‌లో విలీనమైంది."
     },
@@ -4265,17 +4265,17 @@
       "question_te": "1955 లో ఫజల్ అలీ నేతృత్వంలోని రాష్ట్రాల పునర్వ్యవస్థీకరణ కమిషన్ (SRC) తెలంగాణ ప్రాంతం గురించి ఏ సిఫార్సు చేసింది?",
       "options_en": [
         "Immediate unconditional merger with Andhra State",
-        "Telangana should be maintained as a separate State (Hyderabad State) initially for at least 5 years",
+        "Creation of a Union Territory",
         "Division of Telangana among neighbouring four states",
-        "Creation of a Union Territory"
+        "Telangana should be maintained as a separate State (Hyderabad State) initially for at least 5 years"
       ],
       "options_te": [
         "ఎటువంటి షరతులు లేకుండా వెంటనే ఆంధ్రతో కలపాలి",
-        "తెలంగాణను కనీసం 5 సంవత్సరాల పాటు ప్రత్యేక రాష్ట్రంగా కొనసాగించాలి, ఆపై 2/3 మెజారిటీ ఉంటేనే విలీనం చేయాలి",
+        "కేంద్రపాలిత ప్రాంతంగా మార్చాలి",
         "తెలంగాణను నాలుగు పొరుగు రాష్ట్రాలకు పంచాలి",
-        "కేంద్రపాలిత ప్రాంతంగా మార్చాలి"
+        "తెలంగాణను కనీసం 5 సంవత్సరాల పాటు ప్రత్యేక రాష్ట్రంగా కొనసాగించాలి, ఆపై 2/3 మెజారిటీ ఉంటేనే విలీనం చేయాలి"
       ],
-      "correct_option": 1,
+      "correct_option": 3,
       "explanation_en": "Paragraphs 386–389 of the SRC Report explicitly cautioned against immediate merger and recommended Telangana remain a separate state for at least 5 years.",
       "explanation_te": "ఫజల్ అలీ కమిషన్ తెలంగాణ ఆర్థికంగా స్వయం సమృద్ధి కలిగి ఉందని, కనీసం 5 ఏళ్లపాటు ప్రత్యేక హైదరాబాద్ రాష్ట్రంగానే ఉంచి శాసనసభ 2/3 వంతు కోరితేనే విలీనం చేయాలని సిఫార్సు చేసింది."
     },
@@ -4309,17 +4309,17 @@
       "question_te": "1969 ప్రత్యేక తెలంగాణ ఉద్యమానికి నాంది పలికిన విద్యార్థి రవీంద్రనాథ్ ఆమరణ నిరాహార దీక్ష ఏ పట్టణంలో ప్రారంభమైంది?",
       "options_en": [
         "Nalgonda",
-        "Warangal",
+        "Khammam",
         "Hyderabad",
-        "Khammam"
+        "Warangal"
       ],
       "options_te": [
         "నల్గొండ",
-        "వరంగల్",
+        "ఖమ్మం (Khammam)",
         "హైదరాబాద్",
-        "ఖమ్మం (Khammam)"
+        "వరంగల్"
       ],
-      "correct_option": 3,
+      "correct_option": 1,
       "explanation_en": "On 8 January 1969, an undergraduate student named Annabathula Ravindranath went on a fast-unto-death in Khammam demanding implementation of Telangana safeguards.",
       "explanation_te": "1969 జనవరి 8న ఖమ్మం గాంధీ చౌక్ వద్ద అన్నాబత్తుల రవీంద్రనాథ్ తెలంగాణ రక్షణల అమలు కోరుతూ ఆమరణ నిరాహార దీక్ష ప్రారంభించడంతో 1969 ఉద్యమం మొదలైంది."
     },
@@ -4332,16 +4332,16 @@
       "options_en": [
         "14 out of 14 seats",
         "5 out of 14 seats",
-        "10 out of 14 seats",
-        "2 out of 14 seats"
+        "2 out of 14 seats",
+        "10 out of 14 seats"
       ],
       "options_te": [
         "14 స్థానాలు",
         "5 స్థానాలు",
-        "14 లో 10 లోక్‌సభ స్థానాలు (10 out of 14 seats)",
-        "2 స్థానాలు"
+        "2 స్థానాలు",
+        "14 లో 10 లోక్‌సభ స్థానాలు (10 out of 14 seats)"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "The Telangana Praja Samithi swept the 1971 elections by winning 10 out of the total 14 Lok Sabha seats in the Telangana region, demonstrating overwhelming mass support.",
       "explanation_te": "తెలంగాణలోని మొత్తం 14 లోక్‌సభ స్థానాల్లో 10 స్థానాలను తెలంగాణ ప్రజా సమితి భారీ మెజారిటీతో కైవసం చేసుకుని తెలంగాణ ప్రజాభిప్రాయాన్ని చాటిచెప్పింది."
     },
@@ -4352,18 +4352,18 @@
       "question_en": "Which Article was inserted into the Constitution of India via the 32nd Amendment Act in 1973 to implement the Six-Point Formula in Andhra Pradesh?",
       "question_te": "1973 లో ఆరు సూత్రాల పథకం (Six-Point Formula) అమలు కోసం 32వ రాజ్యాంగ సవరణ ద్వారా భారత రాజ్యాంగంలో చేర్చబడిన ఆర్టికల్ ఏది?",
       "options_en": [
-        "Article 370",
         "Article 371-D",
+        "Article 370",
         "Article 371-A",
         "Article 356"
       ],
       "options_te": [
-        "ఆర్టికల్ 370",
         "ఆర్టికల్ 371-D (Article 371-D)",
+        "ఆర్టికల్ 370",
         "ఆర్టికల్ 371-A",
         "ఆర్టికల్ 356"
       ],
-      "correct_option": 1,
+      "correct_option": 0,
       "explanation_en": "Article 371-D provided special provisions for equitable opportunities in public employment and education across different regions of Andhra Pradesh, leading to the 1975 Presidential Order.",
       "explanation_te": "ఆరు సూత్రాల పథకం అమలు కోసం 371-D అధికరణాన్ని రాజ్యాంగంలో చేర్చారు. దీని ఆధారంగానే 1975 రాష్ట్రపతి ఉత్తర్వులు (జోనల్ వ్యవస్థ) జారీ అయ్యాయి."
     },
@@ -4374,18 +4374,18 @@
       "question_en": "On which historic date did the Union Home Minister P. Chidambaram make the announcement that 'the process of forming the state of Telangana will be initiated'?",
       "question_te": "కేంద్ర హోంమంత్రి పి. చిదంబరం 'ప్రత్యేక తెలంగాణ రాష్ట్ర ఏర్పాటు ప్రక్రియను ప్రారంభిస్తున్నాం' అని చారిత్రాత్మక ప్రకటన ఏ రోజు రాత్రి చేశారు?",
       "options_en": [
-        "9 December 2009",
         "29 November 2009",
+        "9 December 2009",
         "23 December 2009",
         "2 June 2014"
       ],
       "options_te": [
-        "9 డిసెంబర్ 2009 (9 December 2009)",
         "29 నవంబర్ 2009",
+        "9 డిసెంబర్ 2009 (9 December 2009)",
         "23 డిసెంబర్ 2009",
         "2 జూన్ 2014"
       ],
-      "correct_option": 0,
+      "correct_option": 1,
       "explanation_en": "Following K. Chandrashekar Rao's 11-day fast-unto-death and massive statewide student mobilization, Union Home Minister P. Chidambaram announced the statehood decision on midnight of 9 December 2009.",
       "explanation_te": "కెసిఆర్ చేపట్టిన ఆమరణ నిరాహార దీక్షకు మద్దతుగా ఉద్యమం ఉధృతమవడంతో 2009 డిసెంబర్ 9 అర్ధరాత్రి కేంద్ర ప్రభుత్వం తెలంగాణ ప్రక్రియను ప్రారంభిస్తున్నట్లు ప్రకటించింది."
     },
@@ -4420,16 +4420,16 @@
       "options_en": [
         "1 March 2014",
         "18 February 2014",
-        "2 June 2014",
-        "15 August 2014"
+        "15 August 2014",
+        "2 June 2014"
       ],
       "options_te": [
         "1 మార్చి 2014",
         "18 ఫిబ్రవరి 2014",
-        "2 జూన్ 2014 (2 June 2014)",
-        "15 ఆగస్టు 2014"
+        "15 ఆగస్టు 2014",
+        "2 జూన్ 2014 (2 June 2014)"
       ],
-      "correct_option": 2,
+      "correct_option": 3,
       "explanation_en": "Under the Andhra Pradesh Reorganisation Act, 2014, the central government notified 2 June 2014 as the 'Appointed Day' marking the official birth of Telangana state.",
       "explanation_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం 2014 ప్రకారం కేంద్ర ప్రభుత్వం 2014 జూన్ 2వ తేదీని నియమిత దినంగా ప్రకటించడంతో తెలంగాణ నూతన రాష్ట్రంగా ఆవిర్భవించింది."
     }
