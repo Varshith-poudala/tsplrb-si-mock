@@ -421,7 +421,7 @@
       "section": "Arithmetic & Quantitative Reasoning",
       "topic": "Time & Work - Alternate Days",
       "question_en": "A and B working alone can complete a job in 12 days and 16 days respectively. If they work on alternate days with A starting on the first day, in how many days will the entire job be finished?",
-      "question_te": "A మరియు B ఒంటరిగా ఒక పనిని వరుసగా 12 రోజులు మరియు 16 రోజుల్లో పూర్తి చేయగలరు. మొదటి రోజు A ప్రారంభించి ఒకరి తర్వాత ఒకరు రోజు విడిచి రోజు పనిచేస్తే, ఆ పని మొత్తం ఎన్ని రోజుల్లో పూర్తవుతుంది?",
+      "question_te": "A మరియు B లు ఒంటరిగా ఒక పనిని వరుసగా 12 రోజులు మరియు 16 రోజులలో పూర్తి చేయగలరు. A మొదటి రోజున పనిని ప్రారంభిస్తూ వారు రోజు విడిచి రోజు పనిచేస్తే, మొత్తం పని ఎన్ని రోజుల్లో పూర్తవుతుంది?",
       "options_en": [
         "13(1/3) days",
         "13(2/3) days",
@@ -434,9 +434,9 @@
         "13(3/4) రోజులు",
         "14 రోజులు"
       ],
-      "correct_option": 2,
-      "explanation_en": "Total work = LCM(12, 16) = 48 units. A = 4 units/day, B = 3 units/day. In 2-day cycle: 4 + 3 = 7 units. In 6 cycles (12 days): 6 * 7 = 42 units. Day 13 (A works): 4 units (total 46 units). Remaining = 2 units. Day 14 (B works): 2/3 day? Wait, B rate is 3, wait, A is 48/12 = 4, B is 48/16 = 3. 42 + 4 = 46. Remaining = 2 units. B takes 2/3 day? Wait, check option: 48 units. 6 cycles = 42 units (12 days). Day 13: A does 4 units => 46 units. Remaining 2 units done by B in 2/3 day => 13(2/3)? Wait, let's check LCM(12, 15)? Wait, 48 - 42 = 6 units. Day 13: A does 4 units. Remaining = 2 units. B rate is 3. So 2/3 day => 13(2/3) days.",
-      "explanation_te": "మొత్తం పని = 48 యూనిట్లు. 2 రోజుల్లో పని = 7 యూనిట్లు. 6 చక్రాలలో (12 రోజులు) = 42 యూనిట్లు పూర్తవుతాయి. 13వ రోజు A 4 యూనిట్లు చేస్తాడు (మొత్తం 46). మిగిలిన 2 యూనిట్లను B 2/3 రోజులో పూర్తి చేస్తాడు => 13(2/3) రోజులు."
+      "correct_option": 1,
+      "explanation_en": "Total work = LCM(12, 16) = 48 units. Daily efficiencies: A = 4 units/day, B = 3 units/day. In a 2-day cycle: 4 + 3 = 7 units. In 6 two-day cycles (12 days): 6 * 7 = 42 units completed. Remaining work = 48 - 42 = 6 units. Day 13: A completes 4 units (total 46 units completed). Remaining work = 2 units. Day 14: B works with rate 3 units/day, taking 2/3 day. Total time = 12 + 1 + 2/3 = 13(2/3) days.",
+      "explanation_te": "సరైన సమాధానం: 13(2/3) రోజులు. (మొత్తం పని = 48 యూనిట్లు. A సామర్థ్యం = 4 యూనిట్లు/రోజు, B = 3 యూనిట్లు/రోజు. 2 రోజుల సైకిల్‌లో = 7 యూనిట్లు. 6 సైకిళ్లలో (12 రోజులు) = 42 యూనిట్లు పూర్తవుతాయి. మిగిలిన పని = 6 యూనిట్లు. 13వ రోజున A 4 యూనిట్లు చేస్తాడు (మొత్తం 46 యూనిట్లు). మిగిలిన 2 యూనిట్లను B (సామర్థ్యం 3) 2/3 రోజులో పూర్తి చేస్తాడు. మొత్తం కాలం = 13(2/3) రోజులు.)"
     },
     {
       "id": 20,

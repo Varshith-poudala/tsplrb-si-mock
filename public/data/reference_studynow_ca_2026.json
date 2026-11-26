@@ -3,7 +3,7 @@
     "id": 1,
     "page": 1,
     "question_en": "Which State Became The Overall Champion Of Khelo India Tribal Games 2026?",
-    "question_te": "ఖేలో ఇండియా ట్రబల్ ై గేమ్స్ 2026లో ఏ రాష్ట్ంర ఓవరాల్ ఛ ంపియనగా నిలిచంది?",
+    "question_te": "ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026లో ఏ రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది?",
     "options_en": [
       "Odisha",
       "Jharkhand",
@@ -13,12 +13,12 @@
     "options_te": [
       "ఒడిశా",
       "జార్ఖండ్",
-      "ఛత్తీసగఢ్",
-      "కరాటక"
+      "ఛత్తీస్‌గఢ్",
+      "కర్ణాటక"
     ],
-    "correct_option": 2,
-    "explanation_en": "Khelo India Tribal Games 2026 Edition : 1 st Mascot: “Morveer” (Our Bravery) Host State : Chhattisgarh ➢ Champion : Karnataka",
-    "explanation_te": "సరైన సమాధానం: ఛత్తీసగఢ్. (Khelo India Tribal Games 2026 Edition : 1 st Mascot: “Morveer” (Our Bravery) Host State : Chhattisgarh ➢ Champion : Karnataka)"
+    "correct_option": 3,
+    "explanation_en": "Khelo India Tribal Games 2026 (1st Edition): Hosted by Chhattisgarh (Mascot: 'Morveer'). Overall Champion was Karnataka.",
+    "explanation_te": "సరైన సమాధానం: కర్ణాటక. (మొదటి ఎడిషన్ ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026 ఛత్తీస్‌గఢ్ ఆతిథ్యంలో జరిగాయి (మస్కట్: మోర్వీర్). కర్ణాటక రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది.)"
   },
   {
     "id": 2,
@@ -234,7 +234,7 @@
     "id": 12,
     "page": 12,
     "question_en": "Who Took The Most Wickets In The 2026 ICC Men’s T20 World Cup?",
-    "question_te": "2026 ICC పుర్ుష్టుల T20 పరపంచ కపలో అతయధిక వికెటు ల త్తసింది ఎవర్ు?",
+    "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో అత్యధిక వికెట్లు తీసిన బౌలర్లు ఎవరు?",
     "options_en": [
       "Shaheen Afridi",
       "Jasprit Bumrah & Varun Chakravarthy",
@@ -242,14 +242,14 @@
       "Adam Zampa"
     ],
     "options_te": [
-      "షాహ్లన అఫిరది",
-      "జస్రీత్ బుమా & వర్ుణ్ చకవ ి రిీ",
-      "ట్రంట్ బౌల్్",
-      "ఆడ్మ్స జంపా"
+      "షాహీన్ అఫ్రిది",
+      "జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి",
+      "ట్రెంట్ బౌల్ట్",
+      "ఆడమ్ జంపా"
     ],
-    "correct_option": 0,
-    "explanation_en": "Most Wickets: • Jasprit Bumrah – 14 Wickets • Varun Chakravarthy – 14 Wickets ➢ Most Runs : Sahibzada Farhan (PAK)",
-    "explanation_te": "సరైన సమాధానం: షాహ్లన అఫిరది. (Most Wickets: • Jasprit Bumrah – 14 Wickets • Varun Chakravarthy – 14 Wickets ➢ Most Runs : Sahibzada Farhan (PAK))"
+    "correct_option": 1,
+    "explanation_en": "Most Wickets: Jasprit Bumrah and Varun Chakravarthy jointly took 14 wickets each in the tournament, leading the bowling charts. Most runs were scored by Sahibzada Farhan (PAK).",
+    "explanation_te": "సరైన సమాధానం: జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి. (2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో జస్‌ప్రీత్ బుమ్రా మరియు వరుణ్ చక్రవర్తి చెరో 14 వికెట్లు తీసి సంయుక్తంగా అత్యధిక వికెట్ల వీరులుగా నిలిచారు.)"
   },
   {
     "id": 13,
@@ -381,7 +381,7 @@
     "id": 19,
     "page": 19,
     "question_en": "Who Became India’s 94th Chess Grandmaster?",
-    "question_te": "భార్తదేశ్పు 94వ చస గాిండ్ మాస్్ర్ ఎవర్ు?",
+    "question_te": "భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా ఎవరు నిలిచారు?",
     "options_en": [
       "Aaryan Varshney",
       "R Praggnanandhaa",
@@ -389,14 +389,14 @@
       "Arjun Erigaisi"
     ],
     "options_te": [
-      "ఆర్యన వరేన బి. ఆర్ పరజా ాన నంద సి. మయాంక్ చకివరిీ",
-      "R Praggnanandhaa",
-      "Mayank Chakraborty",
-      "అర్ుాన ఎరిగెైసి"
+      "ఆర్యన్ వర్ష్ణే",
+      "ఆర్. ప్రజ్ఞానంద",
+      "మయాంక్ చక్రవర్తి",
+      "అర్జున్ ఎరిగైసి"
     ],
-    "correct_option": 0,
-    "explanation_en": "94th GM — Mayank Chakraborty (First ever GM from Assam and entire Northeast ) 93rd GM — Aarav Dengla (Mumbai) 92nd GM — Aaryan Varshney (Delhi)",
-    "explanation_te": "సరైన సమాధానం: ఆర్యన వరేన బి. ఆర్ పరజా ాన నంద సి. మయాంక్ చకివరిీ. (94th GM — Mayank Chakraborty (First ever GM from Assam and entire Northeast ) 93rd GM — Aarav Dengla (Mumbai) 92nd GM — Aaryan Varshney (Delhi))"
+    "correct_option": 2,
+    "explanation_en": "Mayank Chakraborty became India's 94th Grandmaster, and the first-ever Grandmaster from Assam and the entire Northeastern region of India. (92nd GM: Aaryan Varshney; 93rd GM: Aarav Dengla).",
+    "explanation_te": "సరైన సమాధానం: మయాంక్ చక్రవర్తి. (మయాంక్ చక్రవర్తి భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా నిలిచారు. అలాగే అస్సాం మరియు మొత్తం ఈశాన్య భారతదేశం నుండి తొలి గ్రాండ్‌మాస్టర్‌గా నిలిచారు.)"
   },
   {
     "id": 20,
@@ -422,8 +422,8 @@
   {
     "id": 21,
     "page": 21,
-    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”? *",
-    "question_te": "\"పరపంచ స్ంతోష్ట నివేదిక 2026\" (World Happiness Report 2026)లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత? *",
+    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+    "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
       "110",
       "116",
@@ -431,41 +431,41 @@
       "130"
     ],
     "options_te": [
-      "110",
-      "116",
-      "120",
-      "130"
+      "110వ",
+      "116వ",
+      "120వ",
+      "130వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "A. 110 Published By : UN Sustainable Development Solution Network B. 116 • INDIA Rank : 116th • Nepal (99nd), Pakistan (104th), Bangladesh (127th) C. 120 • Top Countries : FINLAND (Top) → ICELAND (2nd) → D. 130 DENMARK • Last : Afganistan",
-    "explanation_te": "సరైన సమాధానం: 110. (A. 110 Published By : UN Sustainable Development Solution Network B. 116 • INDIA Rank : 116th • Nepal (99nd), Pakistan (104th), Bangladesh (127th) C. 120 • Top Countries : FINLAND (Top) → ICELAND (2nd) → D. 130 DENMARK • Last : Afganistan)"
+    "correct_option": 1,
+    "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+    "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
   },
   {
     "id": 22,
     "page": 22,
-    "question_en": "What Is The Rank Of India In ‘World Press Freedom Index 2026’ ?*",
-    "question_te": "'పరపంచ పత్రరకా సేవచ ా స్ూచక 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?*",
+    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+    "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
+      "110",
+      "116",
       "120",
-      "140",
-      "157",
-      "170"
+      "130"
     ],
     "options_te": [
-      "120",
-      "140",
-      "157",
-      "170"
+      "110వ",
+      "116వ",
+      "120వ",
+      "130వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "World Press Freedom Index 2026 A. 120 B. 140 Released by : Reporters Without Borders C. 157 *IND’s Rank → 157 {Last Year — 151} D. 170 Top Countries 1. NORWAY 2. Netherlands 3. Estonia » Last → Eritrea (180 Rank)",
-    "explanation_te": "సరైన సమాధానం: 120. (World Press Freedom Index 2026 A. 120 B. 140 Released by : Reporters Without Borders C. 157 *IND’s Rank → 157 {Last Year — 151} D. 170 Top Countries 1. NORWAY 2. Netherlands 3. Estonia » Last → Eritrea (180 Rank))"
+    "correct_option": 1,
+    "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+    "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
   },
   {
     "id": 23,
     "page": 23,
     "question_en": "According To SIPRI, What Was India’s Global Rank In Defence Spending In 2025?",
-    "question_te": "SIPRI పరకార్ం, 2025లో ర్క్ష్ణ వయయంలో భార్తదేశ్ం యొక్ పరపంచ సాయి (రాయంక్) ఎంత?",
+    "question_te": "SIPRI ప్రకారం, 2025లో సైనిక రక్షణ వ్యయంలో ప్రపంచంలో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
       "3rd",
       "5th",
@@ -478,9 +478,9 @@
       "7వ",
       "10వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "According To SIPRI (Stockholm International Peace Research INSTITUTE) Report 2026 ➢ Top 5 Military Spenders (2025) 1. United States 2. China 3. Russia 4. Germany 5. India — $92.1 Billion (@2025)",
-    "explanation_te": "సరైన సమాధానం: 3వ. (According To SIPRI (Stockholm International Peace Research INSTITUTE) Report 2026 ➢ Top 5 Military Spenders (2025) 1. United States 2. China 3. Russia 4. Germany 5. India — $92.1 Billion (@2025))"
+    "correct_option": 1,
+    "explanation_en": "According to SIPRI (Stockholm International Peace Research Institute) Report: Top 5 Military Spenders (2025): 1. United States, 2. China, 3. Russia, 4. Germany, 5. India ($92.1 Billion).",
+    "explanation_te": "సరైన సమాధానం: 5వ. (SIPRI నివేదిక ప్రకారం, 2025లో సైనిక రక్షణ వ్యయంలో భారతదేశం $92.1 బిలియన్ల ఖర్చుతో ప్రపంచంలో 5వ స్థానంలో నిలిచింది. మొదటి నాలుగు స్థానాల్లో అమెరికా, చైనా, రష్యా, జర్మనీ ఉన్నాయి.)"
   },
   {
     "id": 24,
@@ -507,7 +507,7 @@
     "id": 25,
     "page": 25,
     "question_en": "Which Country Was The Largest Arms Importer During 2021–25?",
-    "question_te": "2021–25 కాలంలో అతయధికంగా ఆయుధ లను దిగుమత్ర చేస్ుకుని దేశ్ం ఏది?",
+    "question_te": "2021–25 కాలంలో ప్రపంచంలోనే అత్యధికంగా ఆయుధాలను దిగుమతి చేసుకున్న దేశం ఏది?",
     "options_en": [
       "India",
       "China",
@@ -515,14 +515,14 @@
       "Ukraine"
     ],
     "options_te": [
-      "భార్తదేశ్ం",
-      "చరన",
+      "భారతదేశం",
+      "చైనా",
       "సౌదీ అరేబియా",
-      "ఉకెియిన"
+      "ఉక్రెయిన్"
     ],
-    "correct_option": 0,
-    "explanation_en": "According To — SIPRI ( Stockholm International Peace Research Institute World’s Largest Arms Importer (2021–25) 1. Ukraine 2. India 3. Saudi Arabia ❑ Largest Suppliers — USA",
-    "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (According To — SIPRI ( Stockholm International Peace Research Institute World’s Largest Arms Importer (2021–25) 1. Ukraine 2. India 3. Saudi Arabia ❑ Largest Suppliers — USA)"
+    "correct_option": 3,
+    "explanation_en": "According to SIPRI (Stockholm International Peace Research Institute): World’s Largest Arms Importers (2021–25): 1. Ukraine, 2. India, 3. Saudi Arabia. The largest global arms supplier was the USA.",
+    "explanation_te": "సరైన సమాధానం: ఉక్రెయిన్. (SIPRI నివేదిక ప్రకారం 2021–25 కాలంలో ప్రపంచంలోనే అత్యధికంగా ఆయుధాలను దిగుమతి చేసుకున్న దేశంగా ఉక్రెయిన్ (1వ స్థానం) నిలిచింది, భారతదేశం 2వ స్థానంలో, సౌదీ అరేబియా 3వ స్థానంలో ఉన్నాయి. అమెరికా ప్రధాన సరఫరాదారు.)"
   },
   {
     "id": 26,
@@ -548,29 +548,29 @@
   {
     "id": 27,
     "page": 27,
-    "question_en": "What Is The Rank Of India In “Henley Pasport Index 2026",
-    "question_te": "\"హ్ెనీు పాసపో ర్్ ఇండక్్ 2026\"లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+    "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "80",
-      "87",
-      "78",
-      "90"
+      "110",
+      "116",
+      "120",
+      "130"
     ],
     "options_te": [
-      "80",
-      "87",
-      "78",
-      "90"
+      "110వ",
+      "116వ",
+      "120వ",
+      "130వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association",
-    "explanation_te": "సరైన సమాధానం: 80. (A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association)"
+    "correct_option": 1,
+    "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+    "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
   },
   {
     "id": 28,
     "page": 28,
     "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
-    "question_te": "గలుబల్ సాఫ్ట్ పవర్ ఇండక్్ 2026లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
       "28",
       "32",
@@ -578,119 +578,119 @@
       "50"
     ],
     "options_te": [
-      "28",
-      "32",
-      "40",
-      "50"
+      "28వ",
+      "32వ",
+      "40వ",
+      "50వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48)",
-    "explanation_te": "సరైన సమాధానం: 28. (Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48))"
+    "correct_option": 1,
+    "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+    "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
   },
   {
     "id": 29,
     "page": 29,
-    "question_en": "What Is India’s Rank In Corruption Perceptions Index 2025?",
-    "question_te": "అవినీత్ర అవగాహన స్ూచక (Corruption Perceptions Index) 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+    "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "84",
-      "91",
-      "96",
-      "102"
+      "28",
+      "32",
+      "40",
+      "50"
     ],
     "options_te": [
-      "84",
-      "91",
-      "96",
-      "102"
+      "28వ",
+      "32వ",
+      "40వ",
+      "50వ"
     ],
-    "correct_option": 3,
-    "explanation_en": "Corruption Perceptions Index 2025 A. 84 • Published By : Non Governmental Org → B. 91 Transparency International C. 96 • IND‘s Rank : 91 (Score 39) D. 102 Top Countries 1. DENMARK (Least Corrupt) 2. Finland & 3. Singapore • Most Corrupt : South Sudan",
-    "explanation_te": "సరైన సమాధానం: 102. (Corruption Perceptions Index 2025 A. 84 • Published By : Non Governmental Org → B. 91 Transparency International C. 96 • IND‘s Rank : 91 (Score 39) D. 102 Top Countries 1. DENMARK (Least Corrupt) 2. Finland & 3. Singapore • Most Corrupt : South Sudan)"
+    "correct_option": 1,
+    "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+    "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
   },
   {
     "id": 30,
     "page": 30,
-    "question_en": "What Is India’s Rank In The Network Readiness Index 2025?",
-    "question_te": "నెట్వర్్ రెడీనెస ఇండక్్ 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+    "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "38",
-      "45",
-      "52",
-      "60"
+      "28",
+      "32",
+      "40",
+      "50"
     ],
     "options_te": [
-      "38",
-      "45",
-      "52",
-      "60"
+      "28వ",
+      "32వ",
+      "40వ",
+      "50వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact",
-    "explanation_te": "సరైన సమాధానం: 38. (A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact)"
+    "correct_option": 1,
+    "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+    "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
   },
   {
     "id": 31,
     "page": 31,
-    "question_en": "What Is India’s Rank In The Responsible Nations Index 2026?",
-    "question_te": "'రెసాాని్బుల్ నేష్టన్ ఇండక్్ 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+    "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "12th",
-      "14th",
-      "16th",
-      "20th"
+      "28",
+      "32",
+      "40",
+      "50"
     ],
     "options_te": [
-      "12వ",
-      "14వ",
-      "16వ",
-      "20వ"
+      "28వ",
+      "32వ",
+      "40వ",
+      "50వ"
     ],
-    "correct_option": 2,
-    "explanation_en": "Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK",
-    "explanation_te": "సరైన సమాధానం: 16వ. (Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK)"
+    "correct_option": 1,
+    "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+    "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
   },
   {
     "id": 32,
     "page": 32,
-    "question_en": "What Is India’s Rank In The Asia Power Index 2025?",
-    "question_te": "ఆసియా పవర్ ఇండక్్ 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+    "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "4th",
-      "3rd",
-      "5th",
-      "6th"
+      "28",
+      "32",
+      "40",
+      "50"
     ],
     "options_te": [
-      "4వ",
-      "3వ",
-      "5వ",
-      "6వ"
+      "28వ",
+      "32వ",
+      "40వ",
+      "50వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "Asia Power Index 2025 Released by : Lowy Institute (Australia) Indicators : Economic resources, military capability, diplomatic influence, cultural reach & future resources ❖ IND’s Rank → 3 rd Most Powerful Nations 1. USA 2. China 3. INDIA (Score 40)",
-    "explanation_te": "సరైన సమాధానం: 4వ. (Asia Power Index 2025 Released by : Lowy Institute (Australia) Indicators : Economic resources, military capability, diplomatic influence, cultural reach & future resources ❖ IND’s Rank → 3 rd Most Powerful Nations 1. USA 2. China 3. INDIA (Score 40))"
+    "correct_option": 1,
+    "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+    "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
   },
   {
     "id": 33,
     "page": 33,
-    "question_en": "What Is India’s Rank In The Women, Peace & Security Index 2025/26?",
-    "question_te": "'మహ్ిళలు, శాంత్ర మరియు భదరత స్ూచీ 2025/26'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
+    "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "110th",
-      "75th",
-      "131st",
-      "181st"
+      "28",
+      "32",
+      "40",
+      "50"
     ],
     "options_te": [
-      "110వ",
-      "75వ",
-      "131వ",
-      "181వ"
+      "28వ",
+      "32వ",
+      "40వ",
+      "50వ"
     ],
-    "correct_option": 2,
-    "explanation_en": "Released By : Georgetown Institute for Women, Peace & Security, and the Peace Research Institute Oslo Top Countries 1. Denmark 2. Iceland o Last — Afghanistan ❑ IND’s Rank — 131st {Score – 0.607}",
-    "explanation_te": "సరైన సమాధానం: 131వ. (Released By : Georgetown Institute for Women, Peace & Security, and the Peace Research Institute Oslo Top Countries 1. Denmark 2. Iceland o Last — Afghanistan ❑ IND’s Rank — 131st {Score – 0.607})"
+    "correct_option": 1,
+    "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+    "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
   },
   {
     "id": 34,
@@ -758,23 +758,23 @@
   {
     "id": 37,
     "page": 37,
-    "question_en": "What is the rank of IND in Climate Change Performance Index 2026?",
-    "question_te": "వాత వర్ణ మార్ుా పనిత్తర్ు స్ూచక (Climate Change Performance Index) 2026లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+    "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "23",
-      "11",
-      "08",
-      "12"
+      "110",
+      "116",
+      "120",
+      "130"
     ],
     "options_te": [
-      "23",
-      "11",
-      "08",
-      "12"
+      "110వ",
+      "116వ",
+      "120వ",
+      "130వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "Released by : Germanwatch, New Climate Institute & The Climate A. 23 Action Network — B. 11 @ COP30 C. 08 ❑ First 3 Ranks → Kept Empty (No Country Performed Well) D. 12 Top Countries o Denmark : Rank → 4 th , United Kingdom → 5 th o Last : Saudi Arabia ❖India : Rank → 23rd",
-    "explanation_te": "సరైన సమాధానం: 23. (Released by : Germanwatch, New Climate Institute & The Climate A. 23 Action Network — B. 11 @ COP30 C. 08 ❑ First 3 Ranks → Kept Empty (No Country Performed Well) D. 12 Top Countries o Denmark : Rank → 4 th , United Kingdom → 5 th o Last : Saudi Arabia ❖India : Rank → 23rd)"
+    "correct_option": 1,
+    "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+    "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
   },
   {
     "id": 38,
@@ -821,23 +821,23 @@
   {
     "id": 40,
     "page": 40,
-    "question_en": "Who Is The Author Of The Book “Tides of Time’'?",
-    "question_te": "\"Tides of Time\" పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Sudha Murty",
-      "Shashi Tharoor",
       "Ramachandra Guha",
-      "Amish Tripathi"
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "స్ుధ మమరిీ",
-      "శ్శ్చ థర్ూర్",
-      "రామచందర గుహ",
-      "అమీష్ త్రరపాఠి"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Tides of Time: Bharat’s History through Murals in Parliament Unveiled By → Vice President C. P. Radhakrishnan",
-    "explanation_te": "సరైన సమాధానం: స్ుధ మమరిీ. (Tides of Time: Bharat’s History through Murals in Parliament Unveiled By → Vice President C. P. Radhakrishnan)"
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 41,
@@ -884,86 +884,86 @@
   {
     "id": 43,
     "page": 43,
-    "question_en": "Who Is The Author Of A Book Titled “Better Never Stops”?",
-    "question_te": "\"Better Never Stops\" అనే పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Uday Kotak",
-      "Shyam Srinivasan",
-      "Nandan Nilekani",
-      "Aditya Puri"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "ఉదయ్ కోటక్",
-      "శాయమ్స శీినివాస్న",
-      "నందన నీలేకని",
-      "ఆదితయ పూరి"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Uday Kotak",
-    "explanation_te": "సరైన సమాధానం: ఉదయ్ కోటక్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 44,
     "page": 44,
-    "question_en": "Who Is The Author Of The Book “Mahatma: A Great Communicator”?",
-    "question_te": "\"Mahatma: A Great Communicator\" పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Shashi Tharoor",
-      "Dr Dhiraj Kakadia",
       "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
       "Arundhati Roy"
     ],
     "options_te": [
-      "శ్శ్చ థర్ూర్",
-      "డ క్ర్ ధీర్జ్ కకాడియా",
-      "రామచందర గుహ",
-      "అర్ుంధత్త రాయ్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Shashi Tharoor",
-    "explanation_te": "సరైన సమాధానం: శ్శ్చ థర్ూర్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 45,
     "page": 45,
-    "question_en": "Who Is The Author Of The Book Four Stars Of Destiny: An Autobiography?",
-    "question_te": "'ఫో ర్ సా్ర్్ ఆఫ్ డసి్నీ: యాన ఆటోబయోగిఫ'్ (Four Stars of Destiny: An Autobiography) పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Bipin Rawat",
-      "Dalbir Singh Suhag",
-      "Manoj Mukund Naravane",
-      "V. K. Singh"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "బిపిన రావత్",
-      "దలీీర్ సింగ్ స్ుహాగ్",
-      "మనోజ్ ముకుంద్ నర్వణె",
-      "వి. కె. సింగ్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Bipin Rawat",
-    "explanation_te": "సరైన సమాధానం: బిపిన రావత్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 46,
     "page": 46,
-    "question_en": "Who Is The Author Of The Book “Atal Bihari Vajpayee: The Eternal Statesman”?",
-    "question_te": "\"Atal Bihari Vajpayee: The Eternal Statesman\" పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Vijay Goel",
-      "Murli Manohar Joshi",
-      "Arun Jaitley",
-      "Sushma Swaraj"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "విజయ్ గలయల్",
-      "ముర్ళీ మనోహర్ జోషి",
-      "అర్ుణ్ జెరటు ీ",
-      "స్ుషామ స్వరాజ్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Vijay Goel",
-    "explanation_te": "సరైన సమాధానం: విజయ్ గలయల్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 47,
@@ -989,71 +989,8 @@
   {
     "id": 48,
     "page": 48,
-    "question_en": "Who Is The Author Of The Book Chalice Of Ambrosia: Ram Janmabhoomi – Challenge And Response?",
-    "question_te": "Challenge and Response' పుస్ీక ర్చయిత ఎవర్ు?",
-    "options_en": [
-      "Ram Madhav",
-      "Surendra Kumar Pachauri",
-      "Bimal N. Patel",
-      "Sanjeev Sanyal"
-    ],
-    "options_te": [
-      "రామ్స మాధవ్",
-      "స్ురేందర కుమార్ పచౌరి",
-      "బిమల్ ఎన. పటేల్",
-      "స్ంజీవ్ స్న యల్"
-    ],
-    "correct_option": 0,
-    "explanation_en": "'Chalice of Ambrosia: Ram Janmabhoomi – Released by : Vice President of India —C. P. Radhakrishnan",
-    "explanation_te": "సరైన సమాధానం: రామ్స మాధవ్. ('Chalice of Ambrosia: Ram Janmabhoomi – Released by : Vice President of India —C. P. Radhakrishnan)"
-  },
-  {
-    "id": 49,
-    "page": 49,
-    "question_en": "Who Is The Author Of The Book Sanatan Sanskriti Ki Atal Drishti?",
-    "question_te": "స్న తన స్ంస్్ృత్ర కత అటల్ దృషి్ పుస్ీక ర్చయిత ఎవర్ు?",
-    "options_en": [
-      "Shri Vasudev Devnani",
-      "Ram Madhav",
-      "Anand Ranganathan",
-      "Satish Chandra"
-    ],
-    "options_te": [
-      "శీి వాస్ుదేవ్ దేవాిని బి. రామ్స మాధవ్ సి. ఆనంద్ ర్ంగన థన డి. స్త్తష్ చందర",
-      "Ram Madhav",
-      "Anand Ranganathan",
-      "Satish Chandra"
-    ],
-    "correct_option": 0,
-    "explanation_en": "Released by : Vice-President Of India — C.P. Radhakrishnan",
-    "explanation_te": "సరైన సమాధానం: శీి వాస్ుదేవ్ దేవాిని బి. రామ్స మాధవ్ సి. ఆనంద్ ర్ంగన థన డి. స్త్తష్ చందర. (Released by : Vice-President Of India — C.P. Radhakrishnan)"
-  },
-  {
-    "id": 50,
-    "page": 50,
-    "question_en": "Who Is The Author Of The Book They Will Shoot You, Madam: My Life Through Conflict?",
-    "question_te": "'They Will Shoot You, Madam: My Life Through Conflict' అనే పుస్ీక ర్చయిత ఎవర్ు?",
-    "options_en": [
-      "Arun Shourie",
-      "Ravish Kumar",
-      "Barkha Dutt",
-      "Harinder Baweja"
-    ],
-    "options_te": [
-      "అర్ుణ్ శౌరి",
-      "ర్వీష్ కుమార్",
-      "బరాఖ దత్",
-      "హరీందర్ బవేజా"
-    ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Arun Shourie",
-    "explanation_te": "సరైన సమాధానం: అర్ుణ్ శౌరి."
-  },
-  {
-    "id": 51,
-    "page": 51,
-    "question_en": "Who Is The Author Of The Book Mahatma Gandhi & The Environment?",
-    "question_te": "'మహాత మ గాంధీ & ది ఎనివరానమంట్' (Mahatma Gandhi & The Environment) పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
       "Ramachandra Guha",
       "Rajmohan Gandhi",
@@ -1061,203 +998,266 @@
       "Arundhati Roy"
     ],
     "options_te": [
-      "రామచందర గుహ",
-      "రాజ్ మోహన గాంధీ",
-      "టి. ఎన. ఖోష్టూ",
-      "అర్ుంధత్త రాయ్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Ramachandra Guha",
-    "explanation_te": "సరైన సమాధానం: రామచందర గుహ."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
+  },
+  {
+    "id": 49,
+    "page": 49,
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
+    "options_en": [
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
+    ],
+    "options_te": [
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
+    ],
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
+  },
+  {
+    "id": 50,
+    "page": 50,
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
+    "options_en": [
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
+    ],
+    "options_te": [
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
+    ],
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
+  },
+  {
+    "id": 51,
+    "page": 51,
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
+    "options_en": [
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
+    ],
+    "options_te": [
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
+    ],
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 52,
     "page": 52,
-    "question_en": "Who Is The Author Of The Book “The Chola Tigers: Avengers Of Somnath”?",
-    "question_te": "\"ది చలళ ట్రగర్్: ఎవెంజర్్ ఆఫ్ సో మన థ్\" పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "R. Nagaswamy",
-      "K. A. Nilakanta Sastri",
-      "R. Kannan",
-      "Amish Tripathi"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "R. Nagaswamy",
-      "K. A. Nilakanta Sastri",
-      "R. Kannan",
-      "Amish Tripathi"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi",
-    "explanation_te": "సరైన సమాధానం: R. Nagaswamy. (A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi)"
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 53,
     "page": 53,
-    "question_en": "Who Is The Author Of The Book “Dapaan: Tales From Kashmir’s Conflict”?",
-    "question_te": "\"దపాన: టేల్్ ఫరమ్స కాశీమర్ కానిలిక్\"్ పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Arundhati Roy",
-      "Shashi Tharoor",
-      "Kiran Desai",
-      "Ipsita Chakravarty"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "అర్ుంధత్త రాయ్ బి. శ్శ్చ థర్ూర్ సి.కతర్ణ్ దేశాయ్ డి. ఇపి్త చకివరిీ",
-      "Shashi Tharoor",
-      "Kiran Desai",
-      "Ipsita Chakravarty"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Arundhati Roy",
-    "explanation_te": "సరైన సమాధానం: అర్ుంధత్త రాయ్ బి. శ్శ్చ థర్ూర్ సి.కతర్ణ్ దేశాయ్ డి. ఇపి్త చకివరిీ."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 54,
     "page": 54,
-    "question_en": "Who Is The Author Of The Book Titled “Demography, Representation, Delimitation”?",
-    "question_te": "\"Demography, Representation, Delimitation\" అనే పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Shashi Tharoor",
-      "Bibek Debroy",
-      "Ramesh Pokhriyal Nishank",
-      "Ravi K Mishra"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "శ్శ్చ థర్ూర్",
-      "వివేక్ దేబారయ్",
-      "ర్మేష్ పో ఖ్రియాల్ నిశాంక్",
-      "ర్వి కె. మిశాి"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Shashi Tharoor",
-    "explanation_te": "సరైన సమాధానం: శ్శ్చ థర్ూర్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 55,
     "page": 55,
-    "question_en": "Who Is The Author Of The Book M. S. Swaminathan: The Man Who Fed India?",
-    "question_te": "అనే పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "A Bhattacharya",
-      "Priyambada Jayakumar",
-      "Shashi Tharoor",
-      "Chetan Bhagat"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "ఎ. భటా్చ ర్య",
-      "పిరయంబద జయకుమార్",
-      "శ్శ్చ థర్ూర్",
-      "చేతన భగత్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "'M. S. Swaminathan: The Man Who Fed India’ MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024)",
-    "explanation_te": "సరైన సమాధానం: ఎ. భటా్చ ర్య. ('M. S. Swaminathan: The Man Who Fed India’ MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024))"
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 56,
     "page": 56,
-    "question_en": "Who Is The Author Of The Book Justice Denied Justice Lost?",
-    "question_te": "'Justice Denied Justice Lost' పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Arundhati Bhattacharya",
-      "Ravish Kumar",
-      "Kanchan Chakraborty",
-      "Barkha Dutt"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "అర్ుంధత్ర భటా్చ ర్య",
-      "ర్వీష్ కుమార్",
-      "కాంచన చకవ ి రిీ",
-      "బరాఖ దత్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Arundhati Bhattacharya",
-    "explanation_te": "సరైన సమాధానం: అర్ుంధత్ర భటా్చ ర్య."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 57,
     "page": 57,
-    "question_en": "Who Is The Author Of The Book PMO: Prime Minister’s Office Through The Years?",
-    "question_te": "'PMO: Prime Minister’s Office Through The Years' పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Sanjay Baru",
-      "Himanshu Roy",
-      "P. N. Haksar",
-      "Vinay Sitapati"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "స్ంజయ్ బార్ు",
-      "హ్ిమానున రాయ్",
-      "పి. ఎన. హక్ర్",
-      "వినయ్ స్త పత్ర"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Sanjay Baru",
-    "explanation_te": "సరైన సమాధానం: స్ంజయ్ బార్ు."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 58,
     "page": 58,
-    "question_en": "Who Is The Author Of The Book Operation SINDOOR: The Untold Story Of India’s Deep Strikes Inside Pakistan?",
-    "question_te": "Inside Pakistan' అనే పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Vikram Singh",
-      "Kanwal Jeet Singh Dhillon",
-      "Ajay Kumar",
-      "Anand Ranganathan"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "వికమ్స ి సింగ్",
-      "కనవల్ జీత్ సింగ్ ధిలు ాన",
-      "అజయ్ కుమార్",
-      "ఆనంద్ ర్ంగన థన"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "'Operation SINDOOR: The Untold Story Of India’s Deep Strikes",
-    "explanation_te": "సరైన సమాధానం: వికమ్స ి సింగ్. ('Operation SINDOOR: The Untold Story Of India’s Deep Strikes)"
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 59,
     "page": 59,
-    "question_en": "Who Is The Author Of The Book “Mother Mary Comes To Me”?",
-    "question_te": "\"Mother Mary Comes To Me\" పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Kiran Desai",
-      "Jhumpa Lahiri",
-      "Arundhati Roy",
-      "Anita Desai"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "కతర్ణ్ దేశాయ్",
-      "ఝుంపా లాహ్ిరి",
-      "అర్ుంధత్త రాయ్",
-      "అనిత దేశాయ్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Kiran Desai",
-    "explanation_te": "సరైన సమాధానం: కతర్ణ్ దేశాయ్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 60,
     "page": 60,
-    "question_en": "Who Is The Author Of The Book “Different But No Less”?",
-    "question_te": "\"డిఫరెంట్ బట్ నో లెస\" (Different But No Less) పుస్ీక ర్చయిత ఎవర్ు?",
+    "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+    "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
     "options_en": [
-      "Anupam Kher",
-      "Chetan Bhagat",
-      "Vikram Seth",
-      "Ruskin Bond"
+      "Ramachandra Guha",
+      "Rajmohan Gandhi",
+      "T. N. Khoshoo",
+      "Arundhati Roy"
     ],
     "options_te": [
-      "అనుపమ్స ఖేర్",
-      "చేతన భగత్",
-      "వికిమ్స సేథ్",
-      "ర్సి్న బాండ్"
+      "రామచంద్ర గుహ",
+      "రాజ్‌మోహన్ గాంధీ",
+      "టి. ఎన్. ఖోషూ",
+      "అరుంధతి రాయ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Anupam Kher",
-    "explanation_te": "సరైన సమాధానం: అనుపమ్స ఖేర్."
+    "correct_option": 2,
+    "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+    "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
   },
   {
     "id": 61,
@@ -1284,7 +1284,7 @@
     "id": 62,
     "page": 62,
     "question_en": "Which Film Won The Best Film Award At Oscars 2026?",
-    "question_te": "2026 ఆసా్ర్లలో ఏ చతరం 'ఉతీమ చతరం' (Best Film) అవార్ు్ను గెలుచుకుంది?",
+    "question_te": "2026 ఆస్కార్ అవార్డులలో ఏ చిత్రం 'ఉత్తమ చిత్రం' (Best Picture) అవార్డును గెలుచుకుంది?",
     "options_en": [
       "Hamnet",
       "Sinners",
@@ -1292,14 +1292,14 @@
       "Frankenstein"
     ],
     "options_te": [
-      "హాయమ్సనెట్",
-      "సినిర్్",
-      "వన బాయటిల్ ఆఫ్్ర్ అనదర్",
-      "ఫారంకెనస్ టన"
+      "హ్యామ్నెట్",
+      "సిన్నర్స్",
+      "వన్ బ్యాటిల్ ఆఫ్టర్ అనదర్",
+      "ఫ్రాంకెన్‌స్టీన్"
     ],
-    "correct_option": 0,
-    "explanation_en": "98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin",
-    "explanation_te": "సరైన సమాధానం: హాయమ్సనెట్. (98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin)"
+    "correct_option": 2,
+    "explanation_en": "At the 98th Academy Awards (Oscars 2026), 'One Battle After Another' (directed by Paul Thomas Anderson) won Best Picture and Best Director.",
+    "explanation_te": "సరైన సమాధానం: వన్ బ్యాటిల్ ఆఫ్టర్ అనదర్. (98వ అకాడమీ అవార్డులు (ఆస్కార్స్ 2026) లో పాల్ థామస్ ఆండర్సన్ దర్శకత్వం వహించిన 'వన్ బ్యాటిల్ ఆఫ్టర్ అనదర్' చిత్రం ఉత్తమ చిత్రంగా (Best Picture) అవార్డు గెలుచుకుంది.)"
   },
   {
     "id": 63,
@@ -1368,7 +1368,7 @@
     "id": 66,
     "page": 66,
     "question_en": "Which Indian Film Won A BAFTA Award In 2026?",
-    "question_te": "2026లో ఏ భార్త్తయ చతరం BAFTA అవార్ు్ను గెలుచుకుంది?",
+    "question_te": "2026లో ఏ భారతీయ చిత్రం BAFTA అవార్డును గెలుచుకుంది?",
     "options_en": [
       "Homebound",
       "RRR",
@@ -1376,14 +1376,14 @@
       "12th Fail"
     ],
     "options_te": [
-      "హో మ్సబౌండ్",
+      "హోమ్‌బౌండ్",
       "RRR",
-      "బమంగ్",
-      "12త్ ఫయిల్"
+      "బూంగ్",
+      "12త్ ఫెయిల్"
     ],
-    "correct_option": 1,
-    "explanation_en": "B. RRR BOONG : Manipuri Film First Indian Film To Win A BAFTA In — Best Children’s & Family Film Category Director : Lakshmipriya Devi Produced By : Farhan Akhtar And Ritesh Sidhwani.",
-    "explanation_te": "సరైన సమాధానం: RRR. (B. RRR BOONG : Manipuri Film First Indian Film To Win A BAFTA In — Best Children’s & Family Film Category Director : Lakshmipriya Devi Produced By : Farhan Akhtar And Ritesh Sidhwani.)"
+    "correct_option": 2,
+    "explanation_en": "\"Boong\", a Manipuri film directed by Lakshmipriya Devi, became the first Indian film to win a BAFTA Award in the Best Children's & Family Film category.",
+    "explanation_te": "సరైన సమాధానం: బూంగ్. (లక్ష్మీప్రియా దేవి దర్శకత్వం వహించిన మణిపురి చిత్రం 'బూంగ్' (Boong) 2026 బాఫ్టా (BAFTA) అవార్డులలో ఉత్తమ చిల్డ్రన్స్ & ఫ్యామిలీ ఫిల్మ్ విభాగంలో అవార్డు గెలుచుకున్న తొలి భారతీయ చిత్రంగా నిలిచింది.)"
   },
   {
     "id": 67,
@@ -1578,7 +1578,7 @@
     "id": 76,
     "page": 78,
     "question_en": "Which State Won The “Best State For Promotion Of Aviation And Ecosystem” Award At Wings India 2026?",
-    "question_te": "వింగ్్ ఇండియా 2026లో “విమానయాన మరియు పరాయవర్ణ వయవస్ా పోర త ్హంలో ఉతీమ రాష్ట్ంర ” అవార్ు్ను ఏ రాష్ట్ంర గెలుచుకుంది?",
+    "question_te": "వింగ్స్ ఇండియా 2026 లో \"బెస్ట్ స్టేట్ ఫర్ ప్రమోషన్ ఆఫ్ ఏవియేషన్ అండ్ ఎకోసిస్టమ్\" అవార్డును ఏ రాష్ట్రం గెలుచుకుంది?",
     "options_en": [
       "Himachal Pradesh",
       "Uttarakhand",
@@ -1586,14 +1586,14 @@
       "Arunachal Pradesh"
     ],
     "options_te": [
-      "హ్ిమాచల్ పరదేశ్ బి. ఉతీరాఖండ్ సి. సికత్ం డి. అర్ుణ చల్ పరదేశ్",
-      "Uttarakhand",
-      "Sikkim",
-      "Arunachal Pradesh"
+      "హిమాచల్ ప్రదేశ్",
+      "ఉత్తరాఖండ్",
+      "సిక్కిం",
+      "అరుణాచల్ ప్రదేశ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Wings India 2026 : Asia’s Largest Civil Aviation Event Held At — Begumpet Airport, Hyderabad, Theme → Indian Aviation: Paving the Future – From Design to Deployment, Manufacturing to Maintenance, Inclusivity to Innovation and Safety to Sustainability",
-    "explanation_te": "సరైన సమాధానం: హ్ిమాచల్ పరదేశ్ బి. ఉతీరాఖండ్ సి. సికత్ం డి. అర్ుణ చల్ పరదేశ్. (Wings India 2026 : Asia’s Largest Civil Aviation Event Held At — Begumpet Airport, Hyderabad, Theme → Indian Aviation: Paving the Future – From Design to Deployment, Manufacturing to Maintenance, Inclusivity to Innovation and Safety to Sustainability)"
+    "correct_option": 1,
+    "explanation_en": "At Wings India 2026 held at Begumpet Airport, Hyderabad, Uttarakhand was awarded 'Best State for Promotion of Aviation and Ecosystem' for its rapid expansion of regional air connectivity and heliports.",
+    "explanation_te": "సరైన సమాధానం: ఉత్తరాఖండ్. (హైదరాబాద్‌లోని బేగంపేట విమానాశ్రయంలో జరిగిన వింగ్స్ ఇండియా 2026 సదస్సులో హెలిపోర్టులు, ప్రాంతీయ విమానయాన విస్తరణకు గాను ఉత్తరాఖండ్ రాష్ట్రం \"బెస్ట్ స్టేట్ ఫర్ ప్రమోషన్ ఆఫ్ ఏవియేషన్ అండ్ ఎకోసిస్టమ్\" అవార్డును గెలుచుకుంది.)"
   },
   {
     "id": 77,
@@ -1619,8 +1619,8 @@
   {
     "id": 78,
     "page": 88,
-    "question_en": "India’s First LNG–Diesel Dual-Fuel DEMU Train Was Launched In Which City?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి LNG-డీజ్ల్ డ్ూయయల్-ఫూయయల్ DEMU రెైలు ఏ నగర్ంలో పారర్ంభంచబడింది?",
+    "question_en": "India’s First LNG–Diesel Dual-Fuel DEMU Train Was Flagged Off From Which City?",
+    "question_te": "భారతదేశపు మొట్టమొదటి ఎల్‌ఎన్‌జి-డీజిల్ డ్యూయల్-ఫ్యూయెల్ డీఈఎమ్‌యు (DEMU) రైలు ఏ నగరం నుండి ప్రారంభించబడింది?",
     "options_en": [
       "Surat",
       "Vadodara",
@@ -1628,14 +1628,14 @@
       "Rajkot"
     ],
     "options_te": [
-      "స్ూర్త్",
-      "వడల దర్",
-      "అహమద బాద్",
-      "రాజ్కోట్"
+      "సూరత్",
+      "వడోదర",
+      "అహ్మదాబాద్",
+      "రాజ్‌కోట్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Surat",
-    "explanation_te": "సరైన సమాధానం: స్ూర్త్."
+    "correct_option": 2,
+    "explanation_en": "India’s first LNG-Diesel dual-fuel DEMU train was retrofitted at Sabarmati Coach Depot and flagged off by Union Home Minister Amit Shah from Sabarmati in Ahmedabad, Gujarat, on the Sabarmati–Mahesana section.",
+    "explanation_te": "సరైన సమాధానం: అహ్మదాబాద్. (భారతదేశపు తొలి ఎల్‌ఎన్‌జి-డీజిల్ డ్యూయల్ ఫ్యూయెల్ డీఈఎమ్‌యు రైలును గుజరాత్‌లోని అహ్మదాబాద్ (సబర్మతి) నుండి సబర్మతి-మహేసానా మార్గంలో ప్రారంభించారు.)"
   },
   {
     "id": 79,
@@ -1661,44 +1661,44 @@
   {
     "id": 80,
     "page": 90,
-    "question_en": "Which State Became The First In India To Introduce A Dedicated ‘Elderly Budget’ In FY 2026–27 Budget?",
-    "question_te": "2026–27 ఆరిాక స్ంవత్ర్ బడా ట్లో వృదుధల కోస్ం పరతేయక 'వృదుధల బడా ట్'ను పరవేశ్పటి్న భార్తదేశ్ంలోని మొదటి రాష్ట్రం ఏది?",
+    "question_en": "Which State Became The Overall Champion Of Khelo India Tribal Games 2026?",
+    "question_te": "ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026లో ఏ రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది?",
     "options_en": [
-      "Tamil Nadu",
-      "Kerala",
-      "Karnataka",
-      "Maharashtra"
+      "Odisha",
+      "Jharkhand",
+      "Chhattisgarh",
+      "Karnataka"
     ],
     "options_te": [
-      "తమిళన డ్ు",
-      "కేర్ళ",
-      "కరాటక",
-      "మహారాష్ట్ర"
+      "ఒడిశా",
+      "జార్ఖండ్",
+      "ఛత్తీస్‌గఢ్",
+      "కర్ణాటక"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Tamil Nadu",
-    "explanation_te": "సరైన సమాధానం: తమిళన డ్ు."
+    "correct_option": 3,
+    "explanation_en": "Khelo India Tribal Games 2026 (1st Edition): Hosted by Chhattisgarh (Mascot: 'Morveer'). Overall Champion was Karnataka.",
+    "explanation_te": "సరైన సమాధానం: కర్ణాటక. (మొదటి ఎడిషన్ ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026 ఛత్తీస్‌గఢ్ ఆతిథ్యంలో జరిగాయి (మస్కట్: మోర్వీర్). కర్ణాటక రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది.)"
   },
   {
     "id": 81,
     "page": 91,
-    "question_en": "which State Became The Second In India To Publish A Bird Atlas?",
-    "question_te": "భార్తదేశ్ంలో 'బర్్ అటాుస' (పక్షుల అటాుస)ను పరచురించన రెండ్వ రాష్ట్ంర ఏది?",
+    "question_en": "Which State Became The Overall Champion Of Khelo India Tribal Games 2026?",
+    "question_te": "ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026లో ఏ రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది?",
     "options_en": [
-      "Goa",
-      "Tamil Nadu",
-      "Karnataka",
-      "Odisha"
+      "Odisha",
+      "Jharkhand",
+      "Chhattisgarh",
+      "Karnataka"
     ],
     "options_te": [
-      "గలవా",
-      "తమిళన డ్ు",
-      "కరాటక",
-      "ఒడిశా"
+      "ఒడిశా",
+      "జార్ఖండ్",
+      "ఛత్తీస్‌గఢ్",
+      "కర్ణాటక"
     ],
-    "correct_option": 0,
-    "explanation_en": "First State — KERALA",
-    "explanation_te": "సరైన సమాధానం: గలవా. (First State — KERALA)"
+    "correct_option": 3,
+    "explanation_en": "Khelo India Tribal Games 2026 (1st Edition): Hosted by Chhattisgarh (Mascot: 'Morveer'). Overall Champion was Karnataka.",
+    "explanation_te": "సరైన సమాధానం: కర్ణాటక. (మొదటి ఎడిషన్ ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026 ఛత్తీస్‌గఢ్ ఆతిథ్యంలో జరిగాయి (మస్కట్: మోర్వీర్). కర్ణాటక రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది.)"
   },
   {
     "id": 82,
@@ -1808,8 +1808,8 @@
   {
     "id": 87,
     "page": 98,
-    "question_en": "India’s First Sleeper Vande Bharat Train Connects Which Two Cities?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి స్ుపర్ వందే భార్త్ రెైలు ఏ రెండ్ు నగరాలను కలుపుతుంది?",
+    "question_en": "India’s First Sleeper Vande Bharat Train Connects Which Cities?",
+    "question_te": "భారతదేశపు మొట్టమొదటి వందే భారత్ స్లీపర్ రైలు ఏ నగరాల మధ్య నడుస్తుంది?",
     "options_en": [
       "Delhi – Mumbai",
       "Kolkata – Guwahati",
@@ -1817,20 +1817,20 @@
       "Patna – Ranchi"
     ],
     "options_te": [
-      "ఢిలీు – ముంబర",
-      "కోల్కత – గౌహత్ర",
-      "చనెరి – బంగళూర్ు",
-      "పాటాి – రాంచీ"
+      "ఢిల్లీ – ముంబై",
+      "కోల్‌కతా – గౌహతి",
+      "చెన్నై – బెంగళూరు",
+      "పాట్నా – రాంచీ"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Delhi – Mumbai",
-    "explanation_te": "సరైన సమాధానం: ఢిలీు – ముంబర."
+    "correct_option": 1,
+    "explanation_en": "India’s first Vande Bharat Sleeper train connects Howrah (Kolkata) in West Bengal with Kamakhya (Guwahati) in Assam, covering a distance of 972 km.",
+    "explanation_te": "సరైన సమాధానం: కోల్‌కతా – గౌహతి. (భారతదేశపు మొట్టమొదటి వందే భారత్ స్లీపర్ రైలు హౌరా (కోల్‌కతా) మరియు కామాఖ్య (గౌహతి) నగరాల మధ్య 972 కి.మీ దూరాన్ని కలుపుతూ ప్రారంభించబడింది.)"
   },
   {
     "id": 88,
     "page": 99,
-    "question_en": "Which City Has Become Uttar Pradesh’s First Zero Fresh Waste Dump City? Lucknow : UP‘s First City to",
-    "question_te": "ఉతీర్ పరదేశ్లో తొలి జీరల ఫరష్ వేస్ డ్ంప సిటీగా ఏ నగర్ం అవతరించంది?",
+    "question_en": "Which City Has Become Uttar Pradesh’s First Zero Fresh Waste Dump City?",
+    "question_te": "ఉత్తరప్రదేశ్‌లో 100% ఘన వ్యర్థాలను శాస్త్రీయంగా శుద్ధి చేస్తూ తొలి జీరో ఫ్రెష్ వేస్ట్ డంప్ నగరంగా (Zero Fresh Waste Dump City) ఏది అవతరించింది?",
     "options_en": [
       "Kanpur",
       "Varanasi",
@@ -1838,20 +1838,20 @@
       "Prayagraj"
     ],
     "options_te": [
-      "కానూార్ బి. వార్ణ సి సి. లకోి డి. పరయాగాిజ్",
-      "Varanasi",
-      "Lucknow",
-      "Prayagraj"
+      "కాన్పూర్",
+      "వారణాసి",
+      "లక్నో",
+      "ప్రయాగ్‌రాజ్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Scientifically Process 100% municipal solid waste — under Swachh Bharat Mission-Urban",
-    "explanation_te": "సరైన సమాధానం: కానూార్ బి. వార్ణ సి సి. లకోి డి. పరయాగాిజ్. (Scientifically Process 100% municipal solid waste — under Swachh Bharat Mission-Urban)"
+    "correct_option": 2,
+    "explanation_en": "Lucknow became Uttar Pradesh's first zero fresh waste dump city by scientifically processing 100% of its municipal solid waste daily under the Swachh Bharat Mission-Urban.",
+    "explanation_te": "సరైన సమాధానం: లక్నో. (స్వచ్ఛ భారత్ మిషన్-అర్బన్ కింద ప్రతిరోజూ 100% మున్సిపల్ ఘన వ్యర్థాలను శాస్త్రీయంగా శుద్ధి చేస్తూ ఉత్తరప్రదేశ్‌లోనే తొలి జీరో ఫ్రెష్ వేస్ట్ డంప్ సిటీగా లక్నో నిలిచింది.)"
   },
   {
     "id": 89,
     "page": 100,
     "question_en": "India’s First AI-Enabled State University Pilot Project Has Been Launched At Which University?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి AI-ఆధ రిత రాష్ట్ర విశ్వవిద యలయ పరలట్ పారజెక్్ ఏ విశ్వవిద యలయంలో పారర్ంభంచబడింది?",
+    "question_te": "భారతదేశంలో తొలిసారిగా ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ (AI) ఆధారిత స్టేట్ యూనివర్సిటీ పైలట్ ప్రాజెక్ట్ ఏ విశ్వవిద్యాలయంలో ప్రారంభించబడింది?",
     "options_en": [
       "Delhi University",
       "Banaras Hindu University",
@@ -1859,20 +1859,20 @@
       "CCSU Meerut"
     ],
     "options_te": [
-      "ఢిలీు విశ్వవిద యలయం",
-      "బన ర్స హ్ిందూ విశ్వవిద యలయం",
-      "అలీఘర్ ముసిుం విశ్వవిద యలయం",
-      "CCSU మీర్ట్"
+      "ఢిల్లీ విశ్వవిద్యాలయం",
+      "బనారస్ హిందూ విశ్వవిద్యాలయం",
+      "అలీఘర్ ముస్లిం విశ్వవిద్యాలయం",
+      "సీసీఎస్‌యూ మీరట్"
     ],
-    "correct_option": 0,
-    "explanation_en": "Launched at — Chaudhary Charan Singh University (CCSU), Meerut — in partnership with Google Cloud",
-    "explanation_te": "సరైన సమాధానం: ఢిలీు విశ్వవిద యలయం. (Launched at — Chaudhary Charan Singh University (CCSU), Meerut — in partnership with Google Cloud)"
+    "correct_option": 3,
+    "explanation_en": "India’s first AI-enabled state university pilot project was launched at Chaudhary Charan Singh University (CCSU), Meerut, in strategic partnership with Google Cloud.",
+    "explanation_te": "సరైన సమాధానం: సీసీఎస్‌యూ మీరట్. (గూగుల్ క్లౌడ్ సహకారంతో భారతదేశంలోనే మొట్టమొదటి ఏఐ ఆధారిత రాష్ట్ర విశ్వవిద్యాలయ పైలట్ ప్రాజెక్ట్‌ను చౌదరి చరణ్ సింగ్ విశ్వవిద్యాలయం (CCSU), మీరట్‌లో ప్రారంభించారు.)"
   },
   {
     "id": 90,
     "page": 101,
-    "question_en": "India’s First Indigenous Hydrogen Fuel Cell Passenger Vessel Started Commercial Service In Which City?",
-    "question_te": "భార్తదేశ్పు మొట్మొదటి స్వదేశీ హ్ెైడరల జన ఫూయయల్ సల్ పరయాణీకుల నౌక ఏ నగర్ంలో వాణిజయ సేవలను పారర్ంభంచంది?",
+    "question_en": "India’s First Indigenous Hydrogen Fuel Cell Passenger Ferry Vessel Was Launched In Which City?",
+    "question_te": "భారతదేశపు మొట్టమొదటి స్వదేశీ హైడ్రోజన్ ఫ్యూయెల్ సెల్ ప్యాసింజర్ ఫెర్రీ బోట్ ఏ నగరంలో ప్రారంభించబడింది?",
     "options_en": [
       "Prayagraj",
       "Patna",
@@ -1880,14 +1880,14 @@
       "Varanasi"
     ],
     "options_te": [
-      "పరయాగాిజ్ బి. పాటాి సి. కోల్కత డి. వార్ణ సి",
-      "Patna",
-      "Kolkata",
-      "Varanasi"
+      "ప్రయాగ్‌రాజ్",
+      "పాట్నా",
+      "కోల్‌కతా",
+      "వారణాసి"
     ],
-    "correct_option": 0,
-    "explanation_en": "Correct Answer: Prayagraj",
-    "explanation_te": "సరైన సమాధానం: పరయాగాిజ్ బి. పాటాి సి. కోల్కత డి. వార్ణ సి."
+    "correct_option": 3,
+    "explanation_en": "India’s first indigenous zero-emission hydrogen fuel cell passenger catamaran was built by Cochin Shipyard Limited and flagged off for commercial operations at Namo Ghat in Varanasi, Uttar Pradesh, on River Ganga.",
+    "explanation_te": "సరైన సమాధానం: వారణాసి. (కొచ్చిన్ షిప్‌యార్డ్ నిర్మించిన భారతదేశపు మొట్టమొదటి స్వదేశీ హైడ్రోజన్ ఫ్యూయెల్ సెల్ ప్యాసింజర్ ఫెర్రీ నౌకను ఉత్తరప్రదేశ్‌లోని వారణాసిలోని నమో ఘాట్ వద్ద గంగా నదిపై ప్రారంభించారు.)"
   },
   {
     "id": 91,
@@ -3824,23 +3824,23 @@
   {
     "id": 183,
     "page": 197,
-    "question_en": "What Is The Rank Of India In ‘World Press Freedom Index 2026’ ?*",
-    "question_te": "'పరపంచ పత్రరకా సేవచ ా స్ూచక 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?*",
+    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+    "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
+      "110",
+      "116",
       "120",
-      "140",
-      "157",
-      "170"
+      "130"
     ],
     "options_te": [
-      "120",
-      "140",
-      "157",
-      "170"
+      "110వ",
+      "116వ",
+      "120వ",
+      "130వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "World Press Freedom Index 2026 A. 120 Released by : Reporters Without Borders B. 140 *IND’s Rank → 157 {Last Year — 151} C. 157 Top Countries 1. NORWAY 2. Netherlands 3. D. 170 Estonia » Last → Eritrea (180 Rank)",
-    "explanation_te": "సరైన సమాధానం: 120. (World Press Freedom Index 2026 A. 120 Released by : Reporters Without Borders B. 140 *IND’s Rank → 157 {Last Year — 151} C. 157 Top Countries 1. NORWAY 2. Netherlands 3. D. 170 Estonia » Last → Eritrea (180 Rank))"
+    "correct_option": 1,
+    "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+    "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
   },
   {
     "id": 184,
@@ -3866,44 +3866,44 @@
   {
     "id": 185,
     "page": 199,
-    "question_en": "Which State Became The First Northeast State To Pass The UCC Bill? First State To Implement UCC {Uniform Civil",
-    "question_te": "UCC బిలుును ఆమోదించన మొదటి ఈశానయ రాష్ట్ంర ఏది?",
+    "question_en": "Which State Became The Overall Champion Of Khelo India Tribal Games 2026?",
+    "question_te": "ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026లో ఏ రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది?",
     "options_en": [
-      "Manipur",
-      "Meghalaya",
-      "Tripura",
-      "Assam"
+      "Odisha",
+      "Jharkhand",
+      "Chhattisgarh",
+      "Karnataka"
     ],
     "options_te": [
-      "మణిపూర్",
-      "మేఘాలయ",
-      "త్రరపుర్",
-      "అసా్ం"
+      "ఒడిశా",
+      "జార్ఖండ్",
+      "ఛత్తీస్‌గఢ్",
+      "కర్ణాటక"
     ],
     "correct_option": 3,
-    "explanation_en": "Code} — UTTARAKHAND → GUJARAT (2 nd) → ASSAM (3 rd) o Before Independence → Goa → 1 st State (Implemented By Portuguese) ➢ Part IV (DPSP) : Article 44 → UCC UCC Means — One Common Law For All Citizens It Covers → Marriage, divorce, inheritance of property, etc o Except → Scheduled Tribes (ST)",
-    "explanation_te": "సరైన సమాధానం: అసా్ం. (Code} — UTTARAKHAND → GUJARAT (2 nd) → ASSAM (3 rd) o Before Independence → Goa → 1 st State (Implemented By Portuguese) ➢ Part IV (DPSP) : Article 44 → UCC UCC Means — One Common Law For All Citizens It Covers → Marriage, divorce, inheritance of property, etc o Except → Scheduled Tribes (ST))"
+    "explanation_en": "Khelo India Tribal Games 2026 (1st Edition): Hosted by Chhattisgarh (Mascot: 'Morveer'). Overall Champion was Karnataka.",
+    "explanation_te": "సరైన సమాధానం: కర్ణాటక. (మొదటి ఎడిషన్ ఖేలో ఇండియా ట్రైబల్ గేమ్స్ 2026 ఛత్తీస్‌గఢ్ ఆతిథ్యంలో జరిగాయి (మస్కట్: మోర్వీర్). కర్ణాటక రాష్ట్రం ఓవరాల్ ఛాంపియన్‌గా నిలిచింది.)"
   },
   {
     "id": 186,
     "page": 200,
-    "question_en": "What Is The Rank Of India In “Henley Pasport Index 2026",
-    "question_te": "\"హ్ెనీు పాసపో ర్్ ఇండక్్ 2026\"లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+    "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+    "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
     "options_en": [
-      "80",
-      "87",
-      "78",
-      "90"
+      "110",
+      "116",
+      "120",
+      "130"
     ],
     "options_te": [
-      "80",
-      "87",
-      "78",
-      "90"
+      "110వ",
+      "116వ",
+      "120వ",
+      "130వ"
     ],
-    "correct_option": 0,
-    "explanation_en": "A. 80 • INDIA Rank : 78 (May Updated ) • IND : Can Travel 56 Countries → Without B. 87 Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association {HQ – Montreal, Canada}",
-    "explanation_te": "సరైన సమాధానం: 80. (A. 80 • INDIA Rank : 78 (May Updated ) • IND : Can Travel 56 Countries → Without B. 87 Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association {HQ – Montreal, Canada})"
+    "correct_option": 1,
+    "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+    "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
   },
   {
     "id": 187,

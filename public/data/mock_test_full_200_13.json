@@ -1428,7 +1428,7 @@
       "topic": "Clocks - Water Image of Clock",
       "difficulty": "Medium",
       "question_en": "A clock shows 4:15. What would be its water image reflection time?",
-      "question_te": "ఒక గడియారం 4:15 సమయాన్ని చూపిస్తున్నప్పుడు, నీటిలో దాని ప్రతిబింబం (Water Image) చూపించే సమయం ఎంత?",
+      "question_te": "ఒక గడియారంలో సమయం 4:15 అయినప్పుడు, దాని నీటి ప్రతిబింబ సమయం (Water Image) ఎంత అవుతుంది?",
       "options_en": [
         "2:15",
         "1:45",
@@ -1441,9 +1441,9 @@
         "2:45",
         "1:15"
       ],
-      "correct_option": 3,
-      "explanation_en": "Formula for Water Image: Subtract from 18:30 (or 17:90 if minutes > 30).\nHere minutes = 15 <= 30:\nWater image time = 18:30 - 4:15 = 14:15 = 2:15 or 1:15 depending on hour roundoff (standard answer: 18:30 - 4:15 = 14:15 = 2:15, or 1:15 with hour hand adjustment. Standard: 18:30 - 4:15 = 14:15 -> 1:15 / 2:15). Let's make options: [1:15, 2:45, 1:45, 2:30].",
-      "explanation_te": "నీటి ప్రతిబింబం = 18:30 - 4:15 = 1:15.",
+      "correct_option": 0,
+      "explanation_en": "Water image formula for clocks: Subtract the given time from 18:30 (when minutes <= 30). Here, 18:30 - 4:15 = 14:15 = 2:15.",
+      "explanation_te": "సరైన సమాధానం: 2:15. (గడియారపు నీటి ప్రతిబింబ సూత్రం: నిమిషాలు <= 30 ఉన్నప్పుడు 18:30 నుండి తీసివేయాలి. 18:30 - 4:15 = 14:15 = 2:15.)",
       "qNumber": 60
     },
     {

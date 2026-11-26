@@ -4353,8 +4353,8 @@
       "qNumber": 190,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "What Is The Rank Of India In “World Happiness Report 2026”? *",
-      "question_te": "\"పరపంచ స్ంతోష్ట నివేదిక 2026\" (World Happiness Report 2026)లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత? *",
+      "question_en": "What Is The Rank Of India In “World Happiness Report 2026”?",
+      "question_te": "ప్రపంచ సంతోష నివేదిక 2026 (World Happiness Report 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "110",
         "116",
@@ -4362,22 +4362,22 @@
         "130"
       ],
       "options_te": [
-        "110",
-        "116",
-        "120",
-        "130"
+        "110వ",
+        "116వ",
+        "120వ",
+        "130వ"
       ],
-      "correct_option": 0,
-      "explanation_en": "A. 110 Published By : UN Sustainable Development Solution Network B. 116 • INDIA Rank : 116th • Nepal (99nd), Pakistan (104th), Bangladesh (127th) C. 120 • Top Countries : FINLAND (Top) → ICELAND (2nd) → D. 130 DENMARK • Last : Afganistan",
-      "explanation_te": "సరైన సమాధానం: 110. (A. 110 Published By : UN Sustainable Development Solution Network B. 116 • INDIA Rank : 116th • Nepal (99nd), Pakistan (104th), Bangladesh (127th) C. 120 • Top Countries : FINLAND (Top) → ICELAND (2nd) → D. 130 DENMARK • Last : Afganistan)"
+      "correct_option": 1,
+      "explanation_en": "Published By: UN Sustainable Development Solutions Network (SDSN). India’s Rank: 116th. Finland ranked 1st (happiest country), followed by Iceland (2nd) and Denmark (3rd). Afghanistan ranked last.",
+      "explanation_te": "సరైన సమాధానం: 116వ. (UN సస్టైనబుల్ డెవలప్‌మెంట్ సొల్యూషన్స్ నెట్‌వర్క్ విడుదల చేసిన ప్రపంచ సంతోష నివేదిక 2026లో భారతదేశం 116వ ర్యాంకులో నిలిచింది. ఫిన్‌లాండ్ ప్రథమ స్థానంలో నిలవగా, ఐస్‌లాండ్ 2వ స్థానంలో, డెన్మార్క్ 3వ స్థానంలో ఉన్నాయి. ఆఫ్ఘనిస్తాన్ చివరి స్థానంలో ఉంది.)"
     },
     {
       "id": 191,
       "qNumber": 191,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "What Is The Rank Of India In ‘World Press Freedom Index 2026’ ?*",
-      "question_te": "'పరపంచ పత్రరకా సేవచ ా స్ూచక 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?*",
+      "question_en": "What Is The Rank Of India In ‘World Press Freedom Index 2026’?",
+      "question_te": "ప్రపంచ పత్రికా స్వేచ్ఛ సూచిక 2026 (World Press Freedom Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "120",
         "140",
@@ -4385,14 +4385,14 @@
         "170"
       ],
       "options_te": [
-        "120",
-        "140",
-        "157",
-        "170"
+        "120వ",
+        "140వ",
+        "157వ",
+        "170వ"
       ],
-      "correct_option": 0,
-      "explanation_en": "World Press Freedom Index 2026 A. 120 B. 140 Released by : Reporters Without Borders C. 157 *IND’s Rank → 157 {Last Year — 151} D. 170 Top Countries 1. NORWAY 2. Netherlands 3. Estonia » Last → Eritrea (180 Rank)",
-      "explanation_te": "సరైన సమాధానం: 120. (World Press Freedom Index 2026 A. 120 B. 140 Released by : Reporters Without Borders C. 157 *IND’s Rank → 157 {Last Year — 151} D. 170 Top Countries 1. NORWAY 2. Netherlands 3. Estonia » Last → Eritrea (180 Rank))"
+      "correct_option": 2,
+      "explanation_en": "Released by: Reporters Without Borders (RSF). India’s Rank: 157th out of 180 countries. Top Countries: 1. Norway, 2. Netherlands, 3. Estonia. Last Rank: Eritrea (180th).",
+      "explanation_te": "సరైన సమాధానం: 157వ. (రిపోర్టర్స్ వితౌట్ బోర్డర్స్ (RSF) విడుదల చేసిన ప్రపంచ పత్రికా స్వేచ్ఛ సూచిక 2026లో 180 దేశాలలో భారతదేశం 157వ స్థానంలో నిలిచింది. నార్వే మొదటి స్థానంలో నిలవగా, నెదర్లాండ్స్ 2వ, ఎస్టోనియా 3వ స్థానంలో ఉన్నాయి. ఎరిట్రియా 180వ స్థానంలో ఉంది.)"
     },
     {
       "id": 192,
@@ -4400,7 +4400,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "According To SIPRI, What Was India’s Global Rank In Defence Spending In 2025?",
-      "question_te": "SIPRI పరకార్ం, 2025లో ర్క్ష్ణ వయయంలో భార్తదేశ్ం యొక్ పరపంచ సాయి (రాయంక్) ఎంత?",
+      "question_te": "SIPRI ప్రకారం, 2025లో సైనిక రక్షణ వ్యయంలో ప్రపంచంలో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "3rd",
         "5th",
@@ -4413,17 +4413,17 @@
         "7వ",
         "10వ"
       ],
-      "correct_option": 0,
-      "explanation_en": "According To SIPRI (Stockholm International Peace Research INSTITUTE) Report 2026 ➢ Top 5 Military Spenders (2025) 1. United States 2. China 3. Russia 4. Germany 5. India — $92.1 Billion (@2025)",
-      "explanation_te": "సరైన సమాధానం: 3వ. (According To SIPRI (Stockholm International Peace Research INSTITUTE) Report 2026 ➢ Top 5 Military Spenders (2025) 1. United States 2. China 3. Russia 4. Germany 5. India — $92.1 Billion (@2025))"
+      "correct_option": 1,
+      "explanation_en": "According to SIPRI (Stockholm International Peace Research Institute) Report: Top 5 Military Spenders (2025): 1. United States, 2. China, 3. Russia, 4. Germany, 5. India ($92.1 Billion).",
+      "explanation_te": "సరైన సమాధానం: 5వ. (SIPRI నివేదిక ప్రకారం, 2025లో సైనిక రక్షణ వ్యయంలో భారతదేశం $92.1 బిలియన్ల ఖర్చుతో ప్రపంచంలో 5వ స్థానంలో నిలిచింది. మొదటి నాలుగు స్థానాల్లో అమెరికా, చైనా, రష్యా, జర్మనీ ఉన్నాయి.)"
     },
     {
       "id": 193,
       "qNumber": 193,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "Which Country Ranks 3rd In Renewable Energy Capacity?",
-      "question_te": "పునర్ుత ాదక ఇంధన సామర్ాయంలో ఏ దేశ్ం మమడ్వ సానంలో ఉంది?",
+      "question_en": "Which Country Ranks 3rd In Renewable Energy Capacity Globally?",
+      "question_te": "ప్రపంచంలో పునరుత్పాదక ఇంధన సామర్థ్యంలో (Renewable Energy Capacity) 3వ స్థానంలో ఉన్న దేశం ఏది?",
       "options_en": [
         "China",
         "USA",
@@ -4431,14 +4431,14 @@
         "Germany"
       ],
       "options_te": [
-        "చరన",
-        "అమరికా",
-        "భార్తదేశ్ం",
+        "చైనా",
+        "అమెరికా",
+        "భారతదేశం",
         "జర్మనీ"
       ],
-      "correct_option": 0,
-      "explanation_en": "According To — International Renewable Energy Agency (IRENA) ➢ Global Ranking (Top 3) o 1 st → China (2258.02 GW) o 2 nd → United States (467.92 GW) o 3 rd → India {Total 250.52 GW RE Installed Capacity}",
-      "explanation_te": "సరైన సమాధానం: చరన. (According To — International Renewable Energy Agency (IRENA) ➢ Global Ranking (Top 3) o 1 st → China (2258.02 GW) o 2 nd → United States (467.92 GW) o 3 rd → India {Total 250.52 GW RE Installed Capacity})"
+      "correct_option": 2,
+      "explanation_en": "According to International Renewable Energy Agency (IRENA) Global Ranking: 1st: China (2,258 GW), 2nd: United States (468 GW), 3rd: India (over 250 GW installed RE capacity).",
+      "explanation_te": "సరైన సమాధానం: భారతదేశం. (ఇంటర్నేషనల్ రెన్యూవబుల్ ఎనర్జీ ఏజెన్సీ (IRENA) ప్రకారం పునరుత్పాదక ఇంధన సామర్థ్యంలో చైనా 1వ స్థానంలో, అమెరికా 2వ స్థానంలో మరియు భారతదేశం 250 GW పైగా సామర్థ్యంతో 3వ స్థానంలో ఉన్నాయి.)"
     },
     {
       "id": 194,
@@ -4446,7 +4446,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "Which Country Was The Largest Arms Importer During 2021–25?",
-      "question_te": "2021–25 కాలంలో అతయధికంగా ఆయుధ లను దిగుమత్ర చేస్ుకుని దేశ్ం ఏది?",
+      "question_te": "2021–25 కాలంలో ప్రపంచంలోనే అత్యధికంగా ఆయుధాలను దిగుమతి చేసుకున్న దేశం ఏది?",
       "options_en": [
         "India",
         "China",
@@ -4454,14 +4454,14 @@
         "Ukraine"
       ],
       "options_te": [
-        "భార్తదేశ్ం",
-        "చరన",
+        "భారతదేశం",
+        "చైనా",
         "సౌదీ అరేబియా",
-        "ఉకెియిన"
+        "ఉక్రెయిన్"
       ],
-      "correct_option": 0,
-      "explanation_en": "According To — SIPRI ( Stockholm International Peace Research Institute World’s Largest Arms Importer (2021–25) 1. Ukraine 2. India 3. Saudi Arabia ❑ Largest Suppliers — USA",
-      "explanation_te": "సరైన సమాధానం: భార్తదేశ్ం. (According To — SIPRI ( Stockholm International Peace Research Institute World’s Largest Arms Importer (2021–25) 1. Ukraine 2. India 3. Saudi Arabia ❑ Largest Suppliers — USA)"
+      "correct_option": 3,
+      "explanation_en": "According to SIPRI (Stockholm International Peace Research Institute): World’s Largest Arms Importers (2021–25): 1. Ukraine, 2. India, 3. Saudi Arabia. The largest global arms supplier was the USA.",
+      "explanation_te": "సరైన సమాధానం: ఉక్రెయిన్. (SIPRI నివేదిక ప్రకారం 2021–25 కాలంలో ప్రపంచంలోనే అత్యధికంగా ఆయుధాలను దిగుమతి చేసుకున్న దేశంగా ఉక్రెయిన్ (1వ స్థానం) నిలిచింది, భారతదేశం 2వ స్థానంలో, సౌదీ అరేబియా 3వ స్థానంలో ఉన్నాయి. అమెరికా ప్రధాన సరఫరాదారు.)"
     },
     {
       "id": 195,
@@ -4491,8 +4491,8 @@
       "qNumber": 196,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "What Is The Rank Of India In “Henley Pasport Index 2026",
-      "question_te": "\"హ్ెనీు పాసపో ర్్ ఇండక్్ 2026\"లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "question_en": "What Is The Rank Of India In “Henley Passport Index 2026”?",
+      "question_te": "హెన్లీ పాస్‌పోర్ట్ ఇండెక్స్ 2026 (Henley Passport Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "80",
         "87",
@@ -4500,14 +4500,14 @@
         "90"
       ],
       "options_te": [
-        "80",
-        "87",
-        "78",
-        "90"
+        "80వ",
+        "87వ",
+        "78వ",
+        "90వ"
       ],
-      "correct_option": 0,
-      "explanation_en": "A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association",
-      "explanation_te": "సరైన సమాధానం: 80. (A. 80 • INDIA Rank : 78 (May Updated ) B. 87 • IND : Can Travel 56 Countries → Without Visa C. 78 World’s Most Powerful Passports D. 90 1. SINGAPORE 2. JAPAN & South Korea • » Rankings Based On : Data Provided → By International Air Transport Association)"
+      "correct_option": 2,
+      "explanation_en": "According to Henley Passport Index 2026, India's passport ranks 78th globally, granting Indian passport holders visa-free access to 56 destinations. Singapore ranks 1st.",
+      "explanation_te": "సరైన సమాధానం: 78వ. (హెన్లీ పాస్‌పోర్ట్ ఇండెక్స్ 2026 లో భారతదేశం 78వ ర్యాంకు సాధించింది, 56 దేశాలకు వీసా రహిత ప్రవేశం లభిస్తుంది. సింగపూర్ మొదటి స్థానంలో నిలిచింది.)"
     },
     {
       "id": 197,
@@ -4515,7 +4515,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "What Is India’s Rank In The Global Soft Power Index 2026?",
-      "question_te": "గలుబల్ సాఫ్ట్ పవర్ ఇండక్్ 2026లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "question_te": "గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 (Global Soft Power Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "28",
         "32",
@@ -4523,14 +4523,14 @@
         "50"
       ],
       "options_te": [
-        "28",
-        "32",
-        "40",
-        "50"
+        "28వ",
+        "32వ",
+        "40వ",
+        "50వ"
       ],
-      "correct_option": 0,
-      "explanation_en": "Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48)",
-      "explanation_te": "సరైన సమాధానం: 28. (Published by : Brand Finance A. 28 Soft Power : Ability of a nation to influence other B. 32 nation through — culture, diplomacy, values, and C. 40 innovation…. (Not Military Strength ) D. 50 Top Countries 1. USA 2. China 3. Japan ➢ IND’s Rank : 32(Score — 48))"
+      "correct_option": 1,
+      "explanation_en": "Published by Brand Finance: Global Soft Power Index 2026 assesses nations across culture, diplomacy, values, governance, and business. India ranked 32nd globally. The United States ranked 1st.",
+      "explanation_te": "సరైన సమాధానం: 32వ. (బ్రాండ్ ఫైనాన్స్ విడుదల చేసిన గ్లోబల్ సాఫ్ట్ పవర్ ఇండెక్స్ 2026 లో సంస్కృతి, దౌత్యం, విలువలు మరియు పాలన ఆధారంగా భారతదేశం 32వ ర్యాంకును పొందింది. అమెరికా అగ్రస్థానంలో నిలిచింది.)"
     },
     {
       "id": 198,
@@ -4538,7 +4538,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "What Is India’s Rank In Corruption Perceptions Index 2025?",
-      "question_te": "అవినీత్ర అవగాహన స్ూచక (Corruption Perceptions Index) 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "question_te": "ట్రాన్స్‌పరెన్సీ ఇంటర్నేషనల్ విడుదల చేసిన అవినీతి అవగాహన సూచిక 2025 (CPI 2025) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "84",
         "91",
@@ -4546,14 +4546,14 @@
         "102"
       ],
       "options_te": [
-        "84",
-        "91",
-        "96",
-        "102"
+        "84వ",
+        "91వ",
+        "96వ",
+        "102వ"
       ],
-      "correct_option": 3,
-      "explanation_en": "Corruption Perceptions Index 2025 A. 84 • Published By : Non Governmental Org → B. 91 Transparency International C. 96 • IND‘s Rank : 91 (Score 39) D. 102 Top Countries 1. DENMARK (Least Corrupt) 2. Finland & 3. Singapore • Most Corrupt : South Sudan",
-      "explanation_te": "సరైన సమాధానం: 102. (Corruption Perceptions Index 2025 A. 84 • Published By : Non Governmental Org → B. 91 Transparency International C. 96 • IND‘s Rank : 91 (Score 39) D. 102 Top Countries 1. DENMARK (Least Corrupt) 2. Finland & 3. Singapore • Most Corrupt : South Sudan)"
+      "correct_option": 1,
+      "explanation_en": "Published by Transparency International: Corruption Perceptions Index (CPI) 2025 ranks 180 countries. India scored 38 and ranked 91st globally. Denmark topped the index as the least corrupt nation.",
+      "explanation_te": "సరైన సమాధానం: 91వ. (ట్రాన్స్‌పరెన్సీ ఇంటర్నేషనల్ విడుదల చేసిన అవినీతి అవగాహన సూచిక 2025 (CPI) లో భారతదేశం 38 స్కోరుతో 91వ స్థానంలో నిలిచింది. డెన్మార్క్ ప్రథమ స్థానంలో నిలిచింది.)"
     },
     {
       "id": 199,
@@ -4561,7 +4561,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "What Is India’s Rank In The Network Readiness Index 2025?",
-      "question_te": "నెట్వర్్ రెడీనెస ఇండక్్ 2025లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "question_te": "నెట్‌వర్క్ రెడీనెస్ ఇండెక్స్ 2025 (Network Readiness Index 2025) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "38",
         "45",
@@ -4569,14 +4569,14 @@
         "60"
       ],
       "options_te": [
-        "38",
-        "45",
-        "52",
-        "60"
+        "38వ",
+        "45వ",
+        "52వ",
+        "60వ"
       ],
-      "correct_option": 0,
-      "explanation_en": "A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact",
-      "explanation_te": "సరైన సమాధానం: 38. (A. 38 Prepared by: Portulans Institute (Washington DC) Top Countries B. 45 1. USA 2. Finland 3. Singapore C. 52 • INDIA : Rank → 45 D. 60 ➢ IND’s 1st Rank in — \"Annual investment in telecommunication services,\" \"AI scientific publications’.. • Ranking On 4 Pillars : Technology, People, Governance & Impact)"
+      "correct_option": 1,
+      "explanation_en": "Published by Portulans Institute: Network Readiness Index 2025 measures technology, people, governance, and impact. India secured 45th rank globally. The USA ranked 1st.",
+      "explanation_te": "సరైన సమాధానం: 45వ. (పోర్తులాన్స్ ఇన్‌స్టిట్యూట్ విడుదల చేసిన నెట్‌వర్క్ రెడీనెస్ ఇండెక్స్ 2025 లో భారతదేశం 45వ స్థానంలో నిలిచింది. అమెరికా మొదటి స్థానంలో నిలిచింది.)"
     },
     {
       "id": 200,

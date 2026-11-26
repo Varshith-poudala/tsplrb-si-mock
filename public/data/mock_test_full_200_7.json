@@ -168,7 +168,7 @@
       "section": "Arithmetic",
       "topic": "Arithmetic & Number Ability",
       "question_en": "Find the total number of even factors of the number 1440.",
-      "question_te": "1440 అనే సంఖ్యకు గల మొత్తం సరి కారణాంకాల (Even factors) సంఖ్య ఎంత?",
+      "question_te": "1440 సంఖ్య యొక్క మొత్తం సరి కారణాంకాల (Even Factors) సంఖ్యను కనుగొనండి.",
       "options_en": [
         "24",
         "28",
@@ -181,9 +181,9 @@
         "30",
         "36"
       ],
-      "correct_option": 1,
-      "explanation_en": "Prime factorization of 1440 = 2^5 * 3^2 * 5^1. Number of even factors = 5 * (2 + 1) * (1 + 1) = 5 * 3 * 2 = 30? Wait: powers of 2 can be 1,2,3,4,5 (5 choices). Powers of 3 can be 0,1,2 (3 choices). Powers of 5 can be 0,1 (2 choices). Total = 5 * 3 * 2 = 30 even factors (wait, 30 vs 28? If 5*3*2 = 30, but if 2^5*3^2*5 = 32*9*5 = 1440. Total factors = 6 * 3 * 2 = 36. Odd factors = 1 * 3 * 2 = 6. Even factors = 36 - 6 = 30.",
-      "explanation_te": "1440 = 2⁵ * 3² * 5¹. మొత్తం కారణాంకాలు = 36. బేసి కారణాంకాలు = 6. సరి కారణాంకాల సంఖ్య = 36 - 6 = 30."
+      "correct_option": 2,
+      "explanation_en": "Prime factorization of 1440 = 2^5 * 3^2 * 5^1. For even factors, power of 2 can be 1, 2, 3, 4, 5 (5 choices); power of 3 can be 0, 1, 2 (3 choices); power of 5 can be 0, 1 (2 choices). Total even factors = 5 * 3 * 2 = 30.",
+      "explanation_te": "సరైన సమాధానం: 30. (1440 = 2^5 * 3^2 * 5^1. మొత్తం కారణాంకాల సంఖ్య = (5+1)(2+1)(1+1) = 36. బేసి కారణాంకాల సంఖ్య = 1 * (2+1)(1+1) = 6. సరి కారణాంకాల సంఖ్య = 36 - 6 = 30.)"
     },
     {
       "id": 9,
@@ -837,20 +837,20 @@
       "question_en": "If α and β are the roots of the equation x² - 6x + 8 = 0, find the value of (α/β + β/α).",
       "question_te": "x² - 6x + 8 = 0 సమీకరణం యొక్క మూలాలు α మరియు β అయితే, (α/β + β/α) విలువ ఎంత?",
       "options_en": [
-        "7/4",
-        "9/4",
-        "17/4",
-        "19/4"
+        "3/2",
+        "5/2",
+        "7/2",
+        "9/2"
       ],
       "options_te": [
-        "7/4",
-        "9/4",
-        "17/4",
-        "19/4"
+        "3/2",
+        "5/2",
+        "7/2",
+        "9/2"
       ],
       "correct_option": 1,
-      "explanation_en": "Sum of roots α + β = 6. Product of roots αβ = 8. (α/β + β/α) = (α^2 + β^2) / αβ = [(α + β)^2 - 2αβ] / αβ = [6^2 - 2(8)] / 8 = (36 - 16) / 8 = 20 / 8 = 5/2 = 9/4? Wait: 20/8 = 5/2 = 2.5? If x^2 - 5x + 4 = 0: (25-8)/4 = 17/4. For x^2 - 6x + 8 = 0: (36 - 16)/8 = 20/8 = 5/2.",
-      "explanation_te": "మూలాల మొత్తం = 6, లబ్దం = 8. (α² + β²)/αβ = (36 - 16)/8 = 20/8 = 5/2."
+      "explanation_en": "For x² - 6x + 8 = 0, roots are α = 4, β = 2. Sum of roots α + β = 6, product of roots αβ = 8. (α/β + β/α) = (α² + β²) / αβ = [(α + β)² - 2αβ] / αβ = [36 - 16] / 8 = 20/8 = 5/2.",
+      "explanation_te": "సరైన సమాధానం: 5/2. (మూలాల మొత్తం α + β = 6, మూలాల లబ్దం αβ = 8. (α/β + β/α) = (α² + β²) / αβ = [(α + β)² - 2αβ] / αβ = (36 - 16) / 8 = 20/8 = 5/2.)"
     },
     {
       "id": 38,
@@ -2628,8 +2628,8 @@
       "qNumber": 115,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Is The Author Of The Book Mahatma Gandhi & The Environment?",
-      "question_te": "'మహాత మ గాంధీ & ది ఎనివరానమంట్' (Mahatma Gandhi & The Environment) పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_en": "Who Is The Author Of The Book \"Mahatma Gandhi & The Environment\"?",
+      "question_te": "\"మహాత్మా గాంధీ & ది ఎన్విరాన్‌మెంట్\" (Mahatma Gandhi & The Environment) పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Ramachandra Guha",
         "Rajmohan Gandhi",
@@ -2637,14 +2637,14 @@
         "Arundhati Roy"
       ],
       "options_te": [
-        "రామచందర గుహ",
-        "రాజ్ మోహన గాంధీ",
-        "టి. ఎన. ఖోష్టూ",
-        "అర్ుంధత్త రాయ్"
+        "రామచంద్ర గుహ",
+        "రాజ్‌మోహన్ గాంధీ",
+        "టి. ఎన్. ఖోషూ",
+        "అరుంధతి రాయ్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Ramachandra Guha",
-      "explanation_te": "సరైన సమాధానం: రామచందర గుహ."
+      "correct_option": 2,
+      "explanation_en": "\"Mahatma Gandhi and the Environment: Analysing Gandhian Environmental Thought\" was authored by eminent environmental scientist Dr. T. N. Khoshoo.",
+      "explanation_te": "సరైన సమాధానం: టి. ఎన్. ఖోషూ. (\"మహాత్మా గాంధీ అండ్ ది ఎన్విరాన్‌మెంట్\" గ్రంథాన్ని ప్రముఖ పర్యావరణ శాస్త్రవేత్త డాక్టర్ టి. ఎన్. ఖోషూ రచించారు.)"
     },
     {
       "id": 116,
@@ -2652,7 +2652,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “The Chola Tigers: Avengers Of Somnath”?",
-      "question_te": "\"ది చలళ ట్రగర్్: ఎవెంజర్్ ఆఫ్ సో మన థ్\" పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_te": "\"ది చోళ టైగర్స్: అవెంజర్స్ ఆఫ్ సోమనాథ్\" పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "R. Nagaswamy",
         "K. A. Nilakanta Sastri",
@@ -2660,14 +2660,14 @@
         "Amish Tripathi"
       ],
       "options_te": [
-        "R. Nagaswamy",
-        "K. A. Nilakanta Sastri",
-        "R. Kannan",
-        "Amish Tripathi"
+        "ఆర్. నాగస్వామి",
+        "కె. ఎ. నీలకంఠ శాస్త్రి",
+        "ఆర్. కన్నన్",
+        "అమిష్ త్రిపాఠి"
       ],
-      "correct_option": 0,
-      "explanation_en": "A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi",
-      "explanation_te": "సరైన సమాధానం: R. Nagaswamy. (A. R. Nagaswamy B. K. A. Nilakanta Sastri C. R. Kannan D. Amish Tripathi)"
+      "correct_option": 3,
+      "explanation_en": "\"The Chola Tigers: Avengers of Somnath\" is written by acclaimed bestselling author Amish Tripathi (along with The Immortal Writers’ Circle).",
+      "explanation_te": "సరైన సమాధానం: అమిష్ త్రిపాఠి. (\"ది చోళ టైగర్స్: అవెంజర్స్ ఆఫ్ సోమనాథ్\" పుస్తకాన్ని ప్రముఖ రచయిత అమిష్ త్రిపాఠి రచించారు.)"
     },
     {
       "id": 117,
@@ -2675,7 +2675,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “Dapaan: Tales From Kashmir’s Conflict”?",
-      "question_te": "\"దపాన: టేల్్ ఫరమ్స కాశీమర్ కానిలిక్\"్ పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_te": "\"దపాన్: టేల్స్ ఫ్రమ్ కాశ్మీర్స్ కాన్ఫ్లిక్ట్\" పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Arundhati Roy",
         "Shashi Tharoor",
@@ -2683,14 +2683,14 @@
         "Ipsita Chakravarty"
       ],
       "options_te": [
-        "అర్ుంధత్త రాయ్ బి. శ్శ్చ థర్ూర్ సి.కతర్ణ్ దేశాయ్ డి. ఇపి్త చకివరిీ",
-        "Shashi Tharoor",
-        "Kiran Desai",
-        "Ipsita Chakravarty"
+        "అరుంధతి రాయ్",
+        "శశి థరూర్",
+        "కిరణ్ దేశాయ్",
+        "ఇప్సితా చక్రవర్తి"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Arundhati Roy",
-      "explanation_te": "సరైన సమాధానం: అర్ుంధత్త రాయ్ బి. శ్శ్చ థర్ూర్ సి.కతర్ణ్ దేశాయ్ డి. ఇపి్త చకివరిీ."
+      "correct_option": 3,
+      "explanation_en": "\"Dapaan: Tales from Kashmir's Conflict\" was authored by journalist and author Ipsita Chakravarty.",
+      "explanation_te": "సరైన సమాధానం: ఇప్సితా చక్రవర్తి. (\"దపాన్: టేల్స్ ఫ్రమ్ కాశ్మీర్స్ కాన్ఫ్లిక్ట్\" పుస్తకాన్ని ఇప్సితా చక్రవర్తి రచించారు.)"
     },
     {
       "id": 118,
@@ -2698,7 +2698,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book Titled “Demography, Representation, Delimitation”?",
-      "question_te": "\"Demography, Representation, Delimitation\" అనే పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_te": "\"డెమోగ్రఫీ, రిప్రజెంటేషన్, డీలిమిటేషన్\" పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Shashi Tharoor",
         "Bibek Debroy",
@@ -2706,22 +2706,22 @@
         "Ravi K Mishra"
       ],
       "options_te": [
-        "శ్శ్చ థర్ూర్",
-        "వివేక్ దేబారయ్",
-        "ర్మేష్ పో ఖ్రియాల్ నిశాంక్",
-        "ర్వి కె. మిశాి"
+        "శశి థరూర్",
+        "బిబేక్ దేబ్రాయ్",
+        "రమేష్ పోఖ్రియాల్ నిశాంక్",
+        "రవి కె. మిశ్రా"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Shashi Tharoor",
-      "explanation_te": "సరైన సమాధానం: శ్శ్చ థర్ూర్."
+      "correct_option": 3,
+      "explanation_en": "\"Demography, Representation, Delimitation: The North-South Divide in India\" is authored by Ravi K. Mishra.",
+      "explanation_te": "సరైన సమాధానం: రవి కె. మిశ్రా. (\"డెమోగ్రఫీ, రిప్రజెంటేషన్, డీలిమిటేషన్\" పుస్తకాన్ని రవి కె. మిశ్రా రచించారు.)"
     },
     {
       "id": 119,
       "qNumber": 119,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Is The Author Of The Book M. S. Swaminathan: The Man Who Fed India?",
-      "question_te": "అనే పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_en": "Who Is The Author Of The Book \"M. S. Swaminathan: The Man Who Fed India\"?",
+      "question_te": "\"ఎం. ఎస్. స్వామినాథన్: ది మ్యాన్ హూ ఫెడ్ ఇండియా\" పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "A Bhattacharya",
         "Priyambada Jayakumar",
@@ -2729,22 +2729,22 @@
         "Chetan Bhagat"
       ],
       "options_te": [
-        "ఎ. భటా్చ ర్య",
-        "పిరయంబద జయకుమార్",
-        "శ్శ్చ థర్ూర్",
-        "చేతన భగత్"
+        "ఎ. భట్టాచార్య",
+        "ప్రియంబదా జయకుమార్",
+        "శశి థరూర్",
+        "చేతన్ భగత్"
       ],
-      "correct_option": 0,
-      "explanation_en": "'M. S. Swaminathan: The Man Who Fed India’ MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024)",
-      "explanation_te": "సరైన సమాధానం: ఎ. భటా్చ ర్య. ('M. S. Swaminathan: The Man Who Fed India’ MS SWAMINATHAN : Father of the Green Revolution In India Award : Bharat Ratna (2024))"
+      "correct_option": 1,
+      "explanation_en": "\"M. S. Swaminathan: The Man Who Fed India\", chronicling the life of the Father of the Green Revolution in India, is authored by Priyambada Jayakumar.",
+      "explanation_te": "సరైన సమాధానం: ప్రియంబదా జయకుమార్. (భారత హరిత విప్లవ పితామహుడు డాక్టర్ ఎం.ఎస్. స్వామినాథన్ జీవిత చరిత్ర \"ఎం. ఎస్. స్వామినాథన్: ది మ్యాన్ హూ ఫెడ్ ఇండియా\" పుస్తకాన్ని ప్రియంబదా జయకుమార్ రచించారు.)"
     },
     {
       "id": 120,
       "qNumber": 120,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Is The Author Of The Book Justice Denied Justice Lost?",
-      "question_te": "'Justice Denied Justice Lost' పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_en": "Who Is The Author Of The Book \"Justice Denied Justice Lost\"?",
+      "question_te": "\"జస్టిస్ డినైడ్ జస్టిస్ లాస్ట్\" (Justice Denied Justice Lost) పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Arundhati Bhattacharya",
         "Ravish Kumar",
@@ -2752,22 +2752,22 @@
         "Barkha Dutt"
       ],
       "options_te": [
-        "అర్ుంధత్ర భటా్చ ర్య",
-        "ర్వీష్ కుమార్",
-        "కాంచన చకవ ి రిీ",
-        "బరాఖ దత్"
+        "అరుంధతి భట్టాచార్య",
+        "రవీష్ కుమార్",
+        "కాంచన్ చక్రవర్తి",
+        "బర్ఖా దత్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Arundhati Bhattacharya",
-      "explanation_te": "సరైన సమాధానం: అర్ుంధత్ర భటా్చ ర్య."
+      "correct_option": 2,
+      "explanation_en": "\"Justice Denied Justice Lost\" is authored by Kanchan Chakraborty.",
+      "explanation_te": "సరైన సమాధానం: కాంచన్ చక్రవర్తి. (\"జస్టిస్ డినైడ్ జస్టిస్ లాస్ట్\" పుస్తకాన్ని కాంచన్ చక్రవర్తి రచించారు.)"
     },
     {
       "id": 121,
       "qNumber": 121,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Is The Author Of The Book PMO: Prime Minister’s Office Through The Years?",
-      "question_te": "'PMO: Prime Minister’s Office Through The Years' పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_en": "Who Is The Author Of The Book \"PMO: Prime Minister’s Office Through The Years\"?",
+      "question_te": "\"పీఎంఓ: ప్రైమ్ మినిస్టర్స్ ఆఫీస్ త్రూ ది ఇయర్స్\" పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Sanjay Baru",
         "Himanshu Roy",
@@ -2775,22 +2775,22 @@
         "Vinay Sitapati"
       ],
       "options_te": [
-        "స్ంజయ్ బార్ు",
-        "హ్ిమానున రాయ్",
-        "పి. ఎన. హక్ర్",
-        "వినయ్ స్త పత్ర"
+        "సంజయ్ బారు",
+        "హిమాంశు రాయ్",
+        "పి. ఎన్. హక్సర్",
+        "వినయ్ సీతాపతి"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Sanjay Baru",
-      "explanation_te": "సరైన సమాధానం: స్ంజయ్ బార్ు."
+      "correct_option": 1,
+      "explanation_en": "\"PMO: Prime Minister's Office Through The Years\" is authored by Prof. Himanshu Roy.",
+      "explanation_te": "సరైన సమాధానం: హిమాంశు రాయ్. (\"పీఎంఓ: ప్రైమ్ మినిస్టర్స్ ఆఫీస్ త్రూ ది ఇయర్స్\" గ్రంథాన్ని ప్రొఫెసర్ హిమాంశు రాయ్ రచించారు.)"
     },
     {
       "id": 122,
       "qNumber": 122,
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
-      "question_en": "Who Is The Author Of The Book Operation SINDOOR: The Untold Story Of India’s Deep Strikes Inside Pakistan?",
-      "question_te": "Inside Pakistan' అనే పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_en": "Who Is The Author Of The Book \"Operation SINDOOR: The Untold Story Of India’s Deep Strikes Inside Pakistan\"?",
+      "question_te": "\"ఆపరేషన్ సిందూర్: ది అన్‌టోల్డ్ స్టోరీ ఆఫ్ ఇండియాస్ డీప్ స్ట్రైక్స్ ఇన్‌సైడ్ పాకిస్తాన్\" పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Vikram Singh",
         "Kanwal Jeet Singh Dhillon",
@@ -2798,14 +2798,14 @@
         "Anand Ranganathan"
       ],
       "options_te": [
-        "వికమ్స ి సింగ్",
-        "కనవల్ జీత్ సింగ్ ధిలు ాన",
+        "విక్రమ్ సింగ్",
+        "కన్వల్ జీత్ సింగ్ ధిల్లాన్",
         "అజయ్ కుమార్",
-        "ఆనంద్ ర్ంగన థన"
+        "ఆనంద్ రంగనాథన్"
       ],
-      "correct_option": 0,
-      "explanation_en": "'Operation SINDOOR: The Untold Story Of India’s Deep Strikes",
-      "explanation_te": "సరైన సమాధానం: వికమ్స ి సింగ్. ('Operation SINDOOR: The Untold Story Of India’s Deep Strikes)"
+      "correct_option": 1,
+      "explanation_en": "\"Operation SINDOOR: The Untold Story Of India’s Deep Strikes Inside Pakistan\" is authored by Lt. Gen. K. J. S. 'Tiny' Dhillon (Retd.).",
+      "explanation_te": "సరైన సమాధానం: కన్వల్ జీత్ సింగ్ ధిల్లాన్. (\"ఆపరేషన్ సిందూర్: ది అన్‌టోల్డ్ స్టోరీ ఆఫ్ ఇండియాస్ డీప్ స్ట్రైక్స్ ఇన్‌సైడ్ పాకిస్తాన్\" పుస్తకాన్ని లెఫ్టినెంట్ జనరల్ కె.జె.ఎస్. 'టైనీ' ధిల్లాన్ రచించారు.)"
     },
     {
       "id": 123,
@@ -2813,7 +2813,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Who Is The Author Of The Book “Mother Mary Comes To Me”?",
-      "question_te": "\"Mother Mary Comes To Me\" పుస్ీక ర్చయిత ఎవర్ు?",
+      "question_te": "\"మదర్ మేరీ కమ్స్ టు మీ\" (Mother Mary Comes To Me) పుస్తక రచయిత ఎవరు?",
       "options_en": [
         "Kiran Desai",
         "Jhumpa Lahiri",
@@ -2821,14 +2821,14 @@
         "Anita Desai"
       ],
       "options_te": [
-        "కతర్ణ్ దేశాయ్",
-        "ఝుంపా లాహ్ిరి",
-        "అర్ుంధత్త రాయ్",
-        "అనిత దేశాయ్"
+        "కిరణ్ దేశాయ్",
+        "జుంపా లాహిరి",
+        "అరుంధతి రాయ్",
+        "అనితా దేశాయ్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Kiran Desai",
-      "explanation_te": "సరైన సమాధానం: కతర్ణ్ దేశాయ్."
+      "correct_option": 2,
+      "explanation_en": "\"Mother Mary Comes To Me\" is a memoir authored by Booker Prize-winning author Arundhati Roy.",
+      "explanation_te": "సరైన సమాధానం: అరుంధతి రాయ్. (\"మదర్ మేరీ కమ్స్ టు మీ\" పుస్తకాన్ని బుకర్ ప్రైజ్ గ్రహీత అరుంధతి రాయ్ రచించారు.)"
     },
     {
       "id": 124,
@@ -2882,7 +2882,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Which Film Won The Best Film Award At Oscars 2026?",
-      "question_te": "2026 ఆసా్ర్లలో ఏ చతరం 'ఉతీమ చతరం' (Best Film) అవార్ు్ను గెలుచుకుంది?",
+      "question_te": "2026 ఆస్కార్ అవార్డులలో ఏ చిత్రం 'ఉత్తమ చిత్రం' (Best Picture) అవార్డును గెలుచుకుంది?",
       "options_en": [
         "Hamnet",
         "Sinners",
@@ -2890,14 +2890,14 @@
         "Frankenstein"
       ],
       "options_te": [
-        "హాయమ్సనెట్",
-        "సినిర్్",
-        "వన బాయటిల్ ఆఫ్్ర్ అనదర్",
-        "ఫారంకెనస్ టన"
+        "హ్యామ్నెట్",
+        "సిన్నర్స్",
+        "వన్ బ్యాటిల్ ఆఫ్టర్ అనదర్",
+        "ఫ్రాంకెన్‌స్టీన్"
       ],
-      "correct_option": 0,
-      "explanation_en": "98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin",
-      "explanation_te": "సరైన సమాధానం: హాయమ్సనెట్. (98th Academy Awards 2026 1. Best Film : One Battle After Another 2. Best Actor : Michael B. Jordan (Sinners) 3. Best Actress : Jessie Buckley (Hamnet) 4. Best Director : Paul Thomas Anderson (One Battle After Another) 5. Best Animated Feature Film → KPop Demon Hunters 6. Best Documentary → Mr. Nobody Against Putin)"
+      "correct_option": 2,
+      "explanation_en": "At the 98th Academy Awards (Oscars 2026), 'One Battle After Another' (directed by Paul Thomas Anderson) won Best Picture and Best Director.",
+      "explanation_te": "సరైన సమాధానం: వన్ బ్యాటిల్ ఆఫ్టర్ అనదర్. (98వ అకాడమీ అవార్డులు (ఆస్కార్స్ 2026) లో పాల్ థామస్ ఆండర్సన్ దర్శకత్వం వహించిన 'వన్ బ్యాటిల్ ఆఫ్టర్ అనదర్' చిత్రం ఉత్తమ చిత్రంగా (Best Picture) అవార్డు గెలుచుకుంది.)"
     },
     {
       "id": 127,
@@ -2974,7 +2974,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & Contemporary Events 2026",
       "question_en": "Which Indian Film Won A BAFTA Award In 2026?",
-      "question_te": "2026లో ఏ భార్త్తయ చతరం BAFTA అవార్ు్ను గెలుచుకుంది?",
+      "question_te": "2026లో ఏ భారతీయ చిత్రం BAFTA అవార్డును గెలుచుకుంది?",
       "options_en": [
         "Homebound",
         "RRR",
@@ -2982,14 +2982,14 @@
         "12th Fail"
       ],
       "options_te": [
-        "హో మ్సబౌండ్",
+        "హోమ్‌బౌండ్",
         "RRR",
-        "బమంగ్",
-        "12త్ ఫయిల్"
+        "బూంగ్",
+        "12త్ ఫెయిల్"
       ],
-      "correct_option": 1,
-      "explanation_en": "B. RRR BOONG : Manipuri Film First Indian Film To Win A BAFTA In — Best Children’s & Family Film Category Director : Lakshmipriya Devi Produced By : Farhan Akhtar And Ritesh Sidhwani.",
-      "explanation_te": "సరైన సమాధానం: RRR. (B. RRR BOONG : Manipuri Film First Indian Film To Win A BAFTA In — Best Children’s & Family Film Category Director : Lakshmipriya Devi Produced By : Farhan Akhtar And Ritesh Sidhwani.)"
+      "correct_option": 2,
+      "explanation_en": "\"Boong\", a Manipuri film directed by Lakshmipriya Devi, became the first Indian film to win a BAFTA Award in the Best Children's & Family Film category.",
+      "explanation_te": "సరైన సమాధానం: బూంగ్. (లక్ష్మీప్రియా దేవి దర్శకత్వం వహించిన మణిపురి చిత్రం 'బూంగ్' (Boong) 2026 బాఫ్టా (BAFTA) అవార్డులలో ఉత్తమ చిల్డ్రన్స్ & ఫ్యామిలీ ఫిల్మ్ విభాగంలో అవార్డు గెలుచుకున్న తొలి భారతీయ చిత్రంగా నిలిచింది.)"
     },
     {
       "id": 131,

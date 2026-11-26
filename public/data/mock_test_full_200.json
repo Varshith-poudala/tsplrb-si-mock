@@ -192,7 +192,7 @@
       "section": "Arithmetic",
       "topic": "Problems on Ages",
       "question_en": "The ratio of the present ages of a father and son is 7 : 3. Eight years ago, the ratio of their ages was 5 : 1. What will be the father's age 5 years from now?",
-      "question_te": "తండ్రి మరియు కొడుకుల ప్రస్తుత వయస్సుల నిష్పత్తి 7 : 3. ఎనిమిది సంవత్సరాల క్రితం వారి వయస్సుల నిష్పత్తి 5 : 1. ఇప్పటి నుండి 5 సంవత్సరాల తర్వాత తండ్రి వయస్సు ఎంత?",
+      "question_te": "ఒక తండ్రి మరియు కొడుకుల ప్రస్తుత వయస్సుల నిష్పత్తి 7 : 3. ఎనిమిది సంవత్సరాల క్రితం వారి వయస్సుల నిష్పత్తి 5 : 1 గా ఉండేది. ఇప్పటి నుండి 5 సంవత్సరాల తర్వాత తండ్రి వయస్సు ఎంత అవుతుంది?",
       "options_en": [
         "33 years",
         "37 years",
@@ -200,14 +200,14 @@
         "47 years"
       ],
       "options_te": [
-        "33 సం.",
-        "37 సం.",
-        "40 సం.",
-        "47 సం."
+        "33 సంవత్సరాలు",
+        "37 సంవత్సరాలు",
+        "40 సంవత్సరాలు",
+        "47 సంవత్సరాలు"
       ],
-      "correct_option": 3,
-      "explanation_en": "Let present ages be 7x and 3x. (7x - 8)/(3x - 8) = 5/1 => 7x - 8 = 15x - 40 => 8x = 32 => x = 4. Father's present age = 7 * 4 = 28? Wait: 7*4 - 8 = 20, 3*4 - 8 = 4. 20/4 = 5/1. Father's present age is 28. After 5 years, father's age = 28 + 5 = 33 years.",
-      "explanation_te": "(7x - 8)/(3x - 8) = 5/1 => 8x = 32 => x = 4. తండ్రి ప్రస్తుత వయస్సు = 28 సం. 5 సంవత్సరాల తర్వాత వయస్సు = 28 + 5 = 33 సంవత్సరాలు."
+      "correct_option": 0,
+      "explanation_en": "Let present ages be 7x and 3x. Eight years ago: (7x - 8) / (3x - 8) = 5/1 => 7x - 8 = 15x - 40 => 8x = 32 => x = 4. Father's present age = 7 * 4 = 28 years. After 5 years, father's age = 28 + 5 = 33 years.",
+      "explanation_te": "సరైన సమాధానం: 33 సంవత్సరాలు. (ప్రస్తుత వయస్సులు 7x, 3x అనుకుందాం. 8 సంవత్సరాల క్రితం: (7x - 8) / (3x - 8) = 5/1 => 7x - 8 = 15x - 40 => 8x = 32 => x = 4. తండ్రి ప్రస్తుత వయస్సు = 7 * 4 = 28 సంవత్సరాలు. 5 సంవత్సరాల తర్వాత తండ్రి వయస్సు = 28 + 5 = 33 సంవత్సరాలు.)"
     },
     {
       "id": 9,

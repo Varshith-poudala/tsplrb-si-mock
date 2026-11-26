@@ -4423,7 +4423,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & International Events",
       "question_en": "Who Took The Most Wickets In The 2026 ICC Men’s T20 World Cup?",
-      "question_te": "2026 ICC పుర్ుష్టుల T20 పరపంచ కపలో అతయధిక వికెటు ల త్తసింది ఎవర్ు?",
+      "question_te": "2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో అత్యధిక వికెట్లు తీసిన బౌలర్లు ఎవరు?",
       "options_en": [
         "Shaheen Afridi",
         "Jasprit Bumrah & Varun Chakravarthy",
@@ -4431,14 +4431,14 @@
         "Adam Zampa"
       ],
       "options_te": [
-        "షాహ్లన అఫిరది",
-        "జస్రీత్ బుమా & వర్ుణ్ చకవ ి రిీ",
-        "ట్రంట్ బౌల్్",
-        "ఆడ్మ్స జంపా"
+        "షాహీన్ అఫ్రిది",
+        "జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి",
+        "ట్రెంట్ బౌల్ట్",
+        "ఆడమ్ జంపా"
       ],
-      "correct_option": 0,
-      "explanation_en": "Most Wickets: • Jasprit Bumrah – 14 Wickets • Varun Chakravarthy – 14 Wickets ➢ Most Runs : Sahibzada Farhan (PAK)",
-      "explanation_te": "సరైన సమాధానం: షాహ్లన అఫిరది. (Most Wickets: • Jasprit Bumrah – 14 Wickets • Varun Chakravarthy – 14 Wickets ➢ Most Runs : Sahibzada Farhan (PAK))"
+      "correct_option": 1,
+      "explanation_en": "Most Wickets: Jasprit Bumrah and Varun Chakravarthy jointly took 14 wickets each in the tournament, leading the bowling charts. Most runs were scored by Sahibzada Farhan (PAK).",
+      "explanation_te": "సరైన సమాధానం: జస్‌ప్రీత్ బుమ్రా & వరుణ్ చక్రవర్తి. (2026 ICC పురుషుల T20 ప్రపంచ కప్‌లో జస్‌ప్రీత్ బుమ్రా మరియు వరుణ్ చక్రవర్తి చెరో 14 వికెట్లు తీసి సంయుక్తంగా అత్యధిక వికెట్ల వీరులుగా నిలిచారు.)"
     },
     {
       "id": 194,
@@ -4584,7 +4584,7 @@
       "section": "General Studies",
       "topic": "Current Affairs & International Events",
       "question_en": "Who Became India’s 94th Chess Grandmaster?",
-      "question_te": "భార్తదేశ్పు 94వ చస గాిండ్ మాస్్ర్ ఎవర్ు?",
+      "question_te": "భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా ఎవరు నిలిచారు?",
       "options_en": [
         "Aaryan Varshney",
         "R Praggnanandhaa",
@@ -4592,14 +4592,14 @@
         "Arjun Erigaisi"
       ],
       "options_te": [
-        "ఆర్యన వరేన బి. ఆర్ పరజా ాన నంద సి. మయాంక్ చకివరిీ",
-        "R Praggnanandhaa",
-        "Mayank Chakraborty",
-        "అర్ుాన ఎరిగెైసి"
+        "ఆర్యన్ వర్ష్ణే",
+        "ఆర్. ప్రజ్ఞానంద",
+        "మయాంక్ చక్రవర్తి",
+        "అర్జున్ ఎరిగైసి"
       ],
-      "correct_option": 0,
-      "explanation_en": "94th GM — Mayank Chakraborty (First ever GM from Assam and entire Northeast ) 93rd GM — Aarav Dengla (Mumbai) 92nd GM — Aaryan Varshney (Delhi)",
-      "explanation_te": "సరైన సమాధానం: ఆర్యన వరేన బి. ఆర్ పరజా ాన నంద సి. మయాంక్ చకివరిీ. (94th GM — Mayank Chakraborty (First ever GM from Assam and entire Northeast ) 93rd GM — Aarav Dengla (Mumbai) 92nd GM — Aaryan Varshney (Delhi))"
+      "correct_option": 2,
+      "explanation_en": "Mayank Chakraborty became India's 94th Grandmaster, and the first-ever Grandmaster from Assam and the entire Northeastern region of India. (92nd GM: Aaryan Varshney; 93rd GM: Aarav Dengla).",
+      "explanation_te": "సరైన సమాధానం: మయాంక్ చక్రవర్తి. (మయాంక్ చక్రవర్తి భారతదేశపు 94వ చెస్ గ్రాండ్‌మాస్టర్‌గా నిలిచారు. అలాగే అస్సాం మరియు మొత్తం ఈశాన్య భారతదేశం నుండి తొలి గ్రాండ్‌మాస్టర్‌గా నిలిచారు.)"
     }
   ]
 }

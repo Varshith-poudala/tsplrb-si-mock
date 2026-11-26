@@ -2490,8 +2490,8 @@
       "qNumber": 109,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "India’s First Indigenous Hydrogen Fuel Cell Passenger Vessel Started Commercial Service In Which City?",
-      "question_te": "భార్తదేశ్పు మొట్మొదటి స్వదేశీ హ్ెైడరల జన ఫూయయల్ సల్ పరయాణీకుల నౌక ఏ నగర్ంలో వాణిజయ సేవలను పారర్ంభంచంది?",
+      "question_en": "India’s First Indigenous Hydrogen Fuel Cell Passenger Ferry Vessel Was Launched In Which City?",
+      "question_te": "భారతదేశపు మొట్టమొదటి స్వదేశీ హైడ్రోజన్ ఫ్యూయెల్ సెల్ ప్యాసింజర్ ఫెర్రీ బోట్ ఏ నగరంలో ప్రారంభించబడింది?",
       "options_en": [
         "Prayagraj",
         "Patna",
@@ -2499,14 +2499,14 @@
         "Varanasi"
       ],
       "options_te": [
-        "పరయాగాిజ్ బి. పాటాి సి. కోల్కత డి. వార్ణ సి",
-        "Patna",
-        "Kolkata",
-        "Varanasi"
+        "ప్రయాగ్‌రాజ్",
+        "పాట్నా",
+        "కోల్‌కతా",
+        "వారణాసి"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Prayagraj",
-      "explanation_te": "సరైన సమాధానం: పరయాగాిజ్ బి. పాటాి సి. కోల్కత డి. వార్ణ సి."
+      "correct_option": 3,
+      "explanation_en": "India’s first indigenous zero-emission hydrogen fuel cell passenger catamaran was built by Cochin Shipyard Limited and flagged off for commercial operations at Namo Ghat in Varanasi, Uttar Pradesh, on River Ganga.",
+      "explanation_te": "సరైన సమాధానం: వారణాసి. (కొచ్చిన్ షిప్‌యార్డ్ నిర్మించిన భారతదేశపు మొట్టమొదటి స్వదేశీ హైడ్రోజన్ ఫ్యూయెల్ సెల్ ప్యాసింజర్ ఫెర్రీ నౌకను ఉత్తరప్రదేశ్‌లోని వారణాసిలోని నమో ఘాట్ వద్ద గంగా నదిపై ప్రారంభించారు.)"
     },
     {
       "id": 110,
@@ -2652,7 +2652,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "Which State Won The “Best State For Promotion Of Aviation And Ecosystem” Award At Wings India 2026?",
-      "question_te": "వింగ్్ ఇండియా 2026లో “విమానయాన మరియు పరాయవర్ణ వయవస్ా పోర త ్హంలో ఉతీమ రాష్ట్ంర ” అవార్ు్ను ఏ రాష్ట్ంర గెలుచుకుంది?",
+      "question_te": "వింగ్స్ ఇండియా 2026 లో \"బెస్ట్ స్టేట్ ఫర్ ప్రమోషన్ ఆఫ్ ఏవియేషన్ అండ్ ఎకోసిస్టమ్\" అవార్డును ఏ రాష్ట్రం గెలుచుకుంది?",
       "options_en": [
         "Himachal Pradesh",
         "Uttarakhand",
@@ -2660,14 +2660,14 @@
         "Arunachal Pradesh"
       ],
       "options_te": [
-        "హ్ిమాచల్ పరదేశ్ బి. ఉతీరాఖండ్ సి. సికత్ం డి. అర్ుణ చల్ పరదేశ్",
-        "Uttarakhand",
-        "Sikkim",
-        "Arunachal Pradesh"
+        "హిమాచల్ ప్రదేశ్",
+        "ఉత్తరాఖండ్",
+        "సిక్కిం",
+        "అరుణాచల్ ప్రదేశ్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Wings India 2026 : Asia’s Largest Civil Aviation Event Held At — Begumpet Airport, Hyderabad, Theme → Indian Aviation: Paving the Future – From Design to Deployment, Manufacturing to Maintenance, Inclusivity to Innovation and Safety to Sustainability",
-      "explanation_te": "సరైన సమాధానం: హ్ిమాచల్ పరదేశ్ బి. ఉతీరాఖండ్ సి. సికత్ం డి. అర్ుణ చల్ పరదేశ్. (Wings India 2026 : Asia’s Largest Civil Aviation Event Held At — Begumpet Airport, Hyderabad, Theme → Indian Aviation: Paving the Future – From Design to Deployment, Manufacturing to Maintenance, Inclusivity to Innovation and Safety to Sustainability)"
+      "correct_option": 1,
+      "explanation_en": "At Wings India 2026 held at Begumpet Airport, Hyderabad, Uttarakhand was awarded 'Best State for Promotion of Aviation and Ecosystem' for its rapid expansion of regional air connectivity and heliports.",
+      "explanation_te": "సరైన సమాధానం: ఉత్తరాఖండ్. (హైదరాబాద్‌లోని బేగంపేట విమానాశ్రయంలో జరిగిన వింగ్స్ ఇండియా 2026 సదస్సులో హెలిపోర్టులు, ప్రాంతీయ విమానయాన విస్తరణకు గాను ఉత్తరాఖండ్ రాష్ట్రం \"బెస్ట్ స్టేట్ ఫర్ ప్రమోషన్ ఆఫ్ ఏవియేషన్ అండ్ ఎకోసిస్టమ్\" అవార్డును గెలుచుకుంది.)"
     },
     {
       "id": 117,
@@ -2697,8 +2697,8 @@
       "qNumber": 118,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "India’s First LNG–Diesel Dual-Fuel DEMU Train Was Launched In Which City?",
-      "question_te": "భార్తదేశ్పు మొట్మొదటి LNG-డీజ్ల్ డ్ూయయల్-ఫూయయల్ DEMU రెైలు ఏ నగర్ంలో పారర్ంభంచబడింది?",
+      "question_en": "India’s First LNG–Diesel Dual-Fuel DEMU Train Was Flagged Off From Which City?",
+      "question_te": "భారతదేశపు మొట్టమొదటి ఎల్‌ఎన్‌జి-డీజిల్ డ్యూయల్-ఫ్యూయెల్ డీఈఎమ్‌యు (DEMU) రైలు ఏ నగరం నుండి ప్రారంభించబడింది?",
       "options_en": [
         "Surat",
         "Vadodara",
@@ -2706,14 +2706,14 @@
         "Rajkot"
       ],
       "options_te": [
-        "స్ూర్త్",
-        "వడల దర్",
-        "అహమద బాద్",
-        "రాజ్కోట్"
+        "సూరత్",
+        "వడోదర",
+        "అహ్మదాబాద్",
+        "రాజ్‌కోట్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Surat",
-      "explanation_te": "సరైన సమాధానం: స్ూర్త్."
+      "correct_option": 2,
+      "explanation_en": "India’s first LNG-Diesel dual-fuel DEMU train was retrofitted at Sabarmati Coach Depot and flagged off by Union Home Minister Amit Shah from Sabarmati in Ahmedabad, Gujarat, on the Sabarmati–Mahesana section.",
+      "explanation_te": "సరైన సమాధానం: అహ్మదాబాద్. (భారతదేశపు తొలి ఎల్‌ఎన్‌జి-డీజిల్ డ్యూయల్ ఫ్యూయెల్ డీఈఎమ్‌యు రైలును గుజరాత్‌లోని అహ్మదాబాద్ (సబర్మతి) నుండి సబర్మతి-మహేసానా మార్గంలో ప్రారంభించారు.)"
     },
     {
       "id": 119,
@@ -2743,8 +2743,8 @@
       "qNumber": 120,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "Which State Became The First In India To Introduce A Dedicated ‘Elderly Budget’ In FY 2026–27 Budget?",
-      "question_te": "2026–27 ఆరిాక స్ంవత్ర్ బడా ట్లో వృదుధల కోస్ం పరతేయక 'వృదుధల బడా ట్'ను పరవేశ్పటి్న భార్తదేశ్ంలోని మొదటి రాష్ట్రం ఏది?",
+      "question_en": "Which State Became The First In India To Introduce A Dedicated ‘Elderly Budget’ In FY 2026–27?",
+      "question_te": "2026–27 ఆర్థిక సంవత్సర బడ్జెట్‌లో వృద్ధుల కోసం ప్రత్యేక 'ఎల్డర్లీ బడ్జెట్' (Elderly Budget) ప్రవేశపెట్టిన దేశంలోనే మొదటి రాష్ట్రం ఏది?",
       "options_en": [
         "Tamil Nadu",
         "Kerala",
@@ -2752,14 +2752,14 @@
         "Maharashtra"
       ],
       "options_te": [
-        "తమిళన డ్ు",
-        "కేర్ళ",
-        "కరాటక",
+        "తమిళనాడు",
+        "కేరళ",
+        "కర్ణాటక",
         "మహారాష్ట్ర"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Tamil Nadu",
-      "explanation_te": "సరైన సమాధానం: తమిళన డ్ు."
+      "correct_option": 1,
+      "explanation_en": "Kerala became the first state in India to introduce a dedicated 'Elderly Budget' (Senior Citizen Budget) in its 2026–27 State Budget, targeting geriatric health, social welfare, and care infrastructure.",
+      "explanation_te": "సరైన సమాధానం: కేరళ. (కేరళ రాష్ట్రం తన 2026–27 బడ్జెట్‌లో వృద్ధుల సంక్షేమం, ఆరోగ్య సంరక్షణ కోసం దేశంలోనే మొట్టమొదటిసారిగా ప్రత్యేక 'ఎల్డర్లీ బడ్జెట్'ను ప్రవేశపెట్టింది.)"
     },
     {
       "id": 121,
@@ -2858,8 +2858,8 @@
       "qNumber": 125,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "India’s First Large City (Population Over 7 Million) To Be Declared Slum-Free City?",
-      "question_te": "భార్తదేశ్పు మొట్మొదటి పదా నగర్ం (7 మిలియనుకు పరగా జన భా) మురికతవాడ్లు లేని నగర్ంగా పరకటించబడ్నుంద ?",
+      "question_en": "Which Large Metropolis (Population Over 7 Million) Is Set To Become India's First Large Slum-Free City?",
+      "question_te": "70 లక్షలకు పైగా జనాభా కలిగిన భారత మెట్రో నగరాల్లో తొలి స్లమ్-ఫ్రీ (మురికివాడల రహిత) నగరంగా నిలిచే దిశగా ఉన్న నగరం ఏది?",
       "options_en": [
         "Mumbai",
         "Hyderabad",
@@ -2867,14 +2867,14 @@
         "Pune"
       ],
       "options_te": [
-        "ముంబర",
-        "హ్ెైదరాబాద్",
-        "స్ూర్త్",
+        "ముంబై",
+        "హైదరాబాద్",
+        "సూరత్",
         "పూణే"
       ],
-      "correct_option": 0,
-      "explanation_en": "IND’s 1st Slum Free City (Small City Category) — Chandigarh",
-      "explanation_te": "సరైన సమాధానం: ముంబర. (IND’s 1st Slum Free City (Small City Category) — Chandigarh)"
+      "correct_option": 2,
+      "explanation_en": "Surat (Gujarat), with a population exceeding 7 million, is recognized as India's first large mega-city on track to become completely slum-free through intensive in-situ slum redevelopment and affordable housing projects. (Chandigarh was the first small city).",
+      "explanation_te": "సరైన సమాధానం: సూరత్. (70 లక్షల పైగా జనాభా ఉన్న నగరాల్లో గుజరాత్‌లోని సూరత్ నగరం విస్తృత గృహ నిర్మాణ పథకాలు, రీడెవలప్‌మెంట్ ద్వారా భారతదేశపు మొట్టమొదటి పెద్ద స్లమ్-ఫ్రీ నగరంగా నిలిచింది.)"
     },
     {
       "id": 126,
@@ -2904,8 +2904,8 @@
       "qNumber": 127,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "India’s First Sleeper Vande Bharat Train Connects Which Two Cities?",
-      "question_te": "భార్తదేశ్పు మొట్మొదటి స్ుపర్ వందే భార్త్ రెైలు ఏ రెండ్ు నగరాలను కలుపుతుంది?",
+      "question_en": "India’s First Sleeper Vande Bharat Train Connects Which Cities?",
+      "question_te": "భారతదేశపు మొట్టమొదటి వందే భారత్ స్లీపర్ రైలు ఏ నగరాల మధ్య నడుస్తుంది?",
       "options_en": [
         "Delhi – Mumbai",
         "Kolkata – Guwahati",
@@ -2913,22 +2913,22 @@
         "Patna – Ranchi"
       ],
       "options_te": [
-        "ఢిలీు – ముంబర",
-        "కోల్కత – గౌహత్ర",
-        "చనెరి – బంగళూర్ు",
-        "పాటాి – రాంచీ"
+        "ఢిల్లీ – ముంబై",
+        "కోల్‌కతా – గౌహతి",
+        "చెన్నై – బెంగళూరు",
+        "పాట్నా – రాంచీ"
       ],
-      "correct_option": 0,
-      "explanation_en": "Correct Answer: Delhi – Mumbai",
-      "explanation_te": "సరైన సమాధానం: ఢిలీు – ముంబర."
+      "correct_option": 1,
+      "explanation_en": "India’s first Vande Bharat Sleeper train connects Howrah (Kolkata) in West Bengal with Kamakhya (Guwahati) in Assam, covering a distance of 972 km.",
+      "explanation_te": "సరైన సమాధానం: కోల్‌కతా – గౌహతి. (భారతదేశపు మొట్టమొదటి వందే భారత్ స్లీపర్ రైలు హౌరా (కోల్‌కతా) మరియు కామాఖ్య (గౌహతి) నగరాల మధ్య 972 కి.మీ దూరాన్ని కలుపుతూ ప్రారంభించబడింది.)"
     },
     {
       "id": 128,
       "qNumber": 128,
       "section": "General Studies",
       "topic": "Current Affairs 2026",
-      "question_en": "Which City Has Become Uttar Pradesh’s First Zero Fresh Waste Dump City? Lucknow : UP‘s First City to",
-      "question_te": "ఉతీర్ పరదేశ్లో తొలి జీరల ఫరష్ వేస్ డ్ంప సిటీగా ఏ నగర్ం అవతరించంది?",
+      "question_en": "Which City Has Become Uttar Pradesh’s First Zero Fresh Waste Dump City?",
+      "question_te": "ఉత్తరప్రదేశ్‌లో 100% ఘన వ్యర్థాలను శాస్త్రీయంగా శుద్ధి చేస్తూ తొలి జీరో ఫ్రెష్ వేస్ట్ డంప్ నగరంగా (Zero Fresh Waste Dump City) ఏది అవతరించింది?",
       "options_en": [
         "Kanpur",
         "Varanasi",
@@ -2936,14 +2936,14 @@
         "Prayagraj"
       ],
       "options_te": [
-        "కానూార్ బి. వార్ణ సి సి. లకోి డి. పరయాగాిజ్",
-        "Varanasi",
-        "Lucknow",
-        "Prayagraj"
+        "కాన్పూర్",
+        "వారణాసి",
+        "లక్నో",
+        "ప్రయాగ్‌రాజ్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Scientifically Process 100% municipal solid waste — under Swachh Bharat Mission-Urban",
-      "explanation_te": "సరైన సమాధానం: కానూార్ బి. వార్ణ సి సి. లకోి డి. పరయాగాిజ్. (Scientifically Process 100% municipal solid waste — under Swachh Bharat Mission-Urban)"
+      "correct_option": 2,
+      "explanation_en": "Lucknow became Uttar Pradesh's first zero fresh waste dump city by scientifically processing 100% of its municipal solid waste daily under the Swachh Bharat Mission-Urban.",
+      "explanation_te": "సరైన సమాధానం: లక్నో. (స్వచ్ఛ భారత్ మిషన్-అర్బన్ కింద ప్రతిరోజూ 100% మున్సిపల్ ఘన వ్యర్థాలను శాస్త్రీయంగా శుద్ధి చేస్తూ ఉత్తరప్రదేశ్‌లోనే తొలి జీరో ఫ్రెష్ వేస్ట్ డంప్ సిటీగా లక్నో నిలిచింది.)"
     },
     {
       "id": 129,
@@ -2951,7 +2951,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "India’s First AI-Enabled State University Pilot Project Has Been Launched At Which University?",
-      "question_te": "భార్తదేశ్పు మొట్మొదటి AI-ఆధ రిత రాష్ట్ర విశ్వవిద యలయ పరలట్ పారజెక్్ ఏ విశ్వవిద యలయంలో పారర్ంభంచబడింది?",
+      "question_te": "భారతదేశంలో తొలిసారిగా ఆర్టిఫిషియల్ ఇంటెలిజెన్స్ (AI) ఆధారిత స్టేట్ యూనివర్సిటీ పైలట్ ప్రాజెక్ట్ ఏ విశ్వవిద్యాలయంలో ప్రారంభించబడింది?",
       "options_en": [
         "Delhi University",
         "Banaras Hindu University",
@@ -2959,14 +2959,14 @@
         "CCSU Meerut"
       ],
       "options_te": [
-        "ఢిలీు విశ్వవిద యలయం",
-        "బన ర్స హ్ిందూ విశ్వవిద యలయం",
-        "అలీఘర్ ముసిుం విశ్వవిద యలయం",
-        "CCSU మీర్ట్"
+        "ఢిల్లీ విశ్వవిద్యాలయం",
+        "బనారస్ హిందూ విశ్వవిద్యాలయం",
+        "అలీఘర్ ముస్లిం విశ్వవిద్యాలయం",
+        "సీసీఎస్‌యూ మీరట్"
       ],
-      "correct_option": 0,
-      "explanation_en": "Launched at — Chaudhary Charan Singh University (CCSU), Meerut — in partnership with Google Cloud",
-      "explanation_te": "సరైన సమాధానం: ఢిలీు విశ్వవిద యలయం. (Launched at — Chaudhary Charan Singh University (CCSU), Meerut — in partnership with Google Cloud)"
+      "correct_option": 3,
+      "explanation_en": "India’s first AI-enabled state university pilot project was launched at Chaudhary Charan Singh University (CCSU), Meerut, in strategic partnership with Google Cloud.",
+      "explanation_te": "సరైన సమాధానం: సీసీఎస్‌యూ మీరట్. (గూగుల్ క్లౌడ్ సహకారంతో భారతదేశంలోనే మొట్టమొదటి ఏఐ ఆధారిత రాష్ట్ర విశ్వవిద్యాలయ పైలట్ ప్రాజెక్ట్‌ను చౌదరి చరణ్ సింగ్ విశ్వవిద్యాలయం (CCSU), మీరట్‌లో ప్రారంభించారు.)"
     },
     {
       "id": 130,
