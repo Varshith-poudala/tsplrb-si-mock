@@ -7,20 +7,20 @@ mock12_gs = [
         "question_en": "Who was the Chairman of the Drafting Committee of the Constituent Assembly of India?",
         "question_te": "భారత రాజ్యాంగ పరిషత్ ముసాయిదా కమిటీ (డ్రాఫ్టింగ్ కమిటీ) ఛైర్మన్ ఎవరు?",
         "options_en": [
-            "Dr. B.R. Ambedkar",
+            "Sardar Vallabhbhai Patel",
             "Dr. Rajendra Prasad",
             "Jawaharlal Nehru",
-            "Sardar Vallabhbhai Patel"
+            "Dr. B.R. Ambedkar"
         ],
         "options_te": [
-            "డా. బి.ఆర్. అంబేద్కర్",
+            "సర్దార్ వల్లభ్‌భాయ్ పటేల్",
             "డా. రాజేంద్ర ప్రసాద్",
             "జవహర్‌లాల్ నెహ్రూ",
-            "సర్దార్ వల్లభ్‌భాయ్ పటేల్"
+            "డా. బి.ఆర్. అంబేద్కర్"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Dr. B.R. Ambedkar was the Chairman of the 7-member Drafting Committee set up on August 29, 1947.",
-        "explanation_te": "1947 ఆగస్టు 29న ఏర్పాటైన రాజ్యాంగ ముసాయిదా కమిటీకి డాక్టర్ బి.ఆర్. అంబేద్కర్ ఛైర్మన్‌గా వ్యవహరించారు."
+        "explanation_te": "సరైన సమాధానం: డా. బి.ఆర్. అంబేద్కర్. (1947 ఆగస్టు 29న ఏర్పాటైన రాజ్యాంగ ముసాయిదా కమిటీకి డాక్టర్ బి.ఆర్. అంబేద్కర్ ఛైర్మన్‌గా వ్యవహరించారు.)"
     },
     {
         "id": 102,
@@ -53,20 +53,20 @@ mock12_gs = [
         "question_en": "Which Article of the Indian Constitution guarantees 'Equality before Law' and 'Equal Protection of the Laws'?",
         "question_te": "భారత రాజ్యాంగంలోని ఏ అధికరణ 'చట్టం ముందు అందరూ సమానులే' మరియు 'చట్టం ద్వారా సమాన రక్షణ' ను హామీ ఇస్తుంది?",
         "options_en": [
-            "Article 14",
-            "Article 19",
             "Article 21",
+            "Article 19",
+            "Article 14",
             "Article 32"
         ],
         "options_te": [
-            "అధికరణ 14",
-            "అధికరణ 19",
             "అధికరణ 21",
+            "అధికరణ 19",
+            "అధికరణ 14",
             "అధికరణ 32"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Article 14 guarantees equality before the law and equal protection of laws to all persons within the territory of India.",
-        "explanation_te": "అధికరణ 14 భారతదేశ భూభాగంలో చట్టం ముందు అందరూ సమానులే మరియు చట్ట సమాన రక్షణను హామీ ఇస్తుంది."
+        "explanation_te": "సరైన సమాధానం: అధికరణ 14. (అధికరణ 14 భారతదేశ భూభాగంలో చట్టం ముందు అందరూ సమానులే మరియు చట్ట సమాన రక్షణను హామీ ఇస్తుంది.)"
     },
     {
         "id": 104,
@@ -158,7 +158,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Fundamental Duties (Article 51A) were added by the 42nd Constitutional Amendment Act, 1976, upon the recommendation of the Swaran Singh Committee.",
-        "explanation_te": "స్వరణ్ సింగ్ కమిటీ సిఫార్సుల మేరకు 1976 లో 42వ రాజ్యాంగ సవరణ చట్టం ద్వారా 10 ప్రాథమిక విధులను (అధికరణ 51A) రాజ్యాంగంలో చేర్చారు."
+        "explanation_te": "సరైన సమాధానం: 42వ రాజ్యాంగ సవరణ చట్టం, 1976. (స్వరణ్ సింగ్ కమిటీ సిఫార్సుల మేరకు 1976 లో 42వ రాజ్యాంగ సవరణ చట్టం ద్వారా 10 ప్రాథమిక విధులను (అధికరణ 51A) రాజ్యాంగంలో చేర్చారు.)"
     },
     {
         "id": 108,
@@ -260,20 +260,20 @@ mock12_gs = [
         "question_en": "Who administers the oath of office to the Chief Justice of India (CJI)?",
         "question_te": "భారత ప్రధాన న్యాయమూర్తి (CJI) చేత పదవీ ప్రమాణ స్వీకారం ఎవరు చేయిస్తారు?",
         "options_en": [
-            "The President of India",
+            "The Speaker of Lok Sabha",
             "The Prime Minister",
             "The Vice-President",
-            "The Speaker of Lok Sabha"
+            "The President of India"
         ],
         "options_te": [
-            "భారత రాష్ట్రపతి",
+            "లోక్‌సభ స్పీకర్",
             "ప్రధానమంత్రి",
             "ఉపరాష్ట్రపతి",
-            "లోక్‌సభ స్పీకర్"
+            "భారత రాష్ట్రపతి"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The Chief Justice of India takes oath before the President of India under Article 124(6).",
-        "explanation_te": "అధికరణ 124(6) ప్రకారం భారత ప్రధాన న్యాయమూర్తి చేత రాష్ట్రపతి ప్రమాణ స్వీకారం చేయిస్తారు."
+        "explanation_te": "సరైన సమాధానం: భారత రాష్ట్రపతి. (అధికరణ 124(6) ప్రకారం భారత ప్రధాన న్యాయమూర్తి చేత రాష్ట్రపతి ప్రమాణ స్వీకారం చేయిస్తారు.)"
     },
     {
         "id": 113,
@@ -306,20 +306,20 @@ mock12_gs = [
         "question_en": "National Panchayati Raj Day is observed every year across India on which date?",
         "question_te": "భారతదేశంలో ప్రతి సంవత్సరం 'జాతీయ పంచాయతీరాజ్ దినోత్సవం' ఏ తేదీన జరుపుకుంటారు?",
         "options_en": [
-            "24th April",
-            "26th January",
             "15th August",
+            "26th January",
+            "24th April",
             "2nd October"
         ],
         "options_te": [
-            "24 ఏప్రిల్",
-            "26 జనవరి",
             "15 ఆగస్టు",
+            "26 జనవరి",
+            "24 ఏప్రిల్",
             "2 అక్టోబర్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "National Panchayati Raj Day is commemorated on April 24, marking the coming into force of the 73rd Constitutional Amendment Act on April 24, 1993.",
-        "explanation_te": "73వ రాజ్యాంగ సవరణ చట్టం 1993 ఏప్రిల్ 24 నుండి అమలులోకి వచ్చిన సందర్భంగా ప్రతి ఏటా ఏప్రిల్ 24న జాతీయ పంచాయతీరాజ్ దినోత్సవం జరుపుకుంటారు."
+        "explanation_te": "సరైన సమాధానం: 24 ఏప్రిల్. (73వ రాజ్యాంగ సవరణ చట్టం 1993 ఏప్రిల్ 24 నుండి అమలులోకి వచ్చిన సందర్భంగా ప్రతి ఏటా ఏప్రిల్ 24న జాతీయ పంచాయతీరాజ్ దినోత్సవం జరుపుకుంటారు.)"
     },
     {
         "id": 115,
@@ -342,7 +342,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Andhra State was created on October 1, 1953, with Kurnool as capital, becoming the first state in India formed on linguistic grounds.",
-        "explanation_te": "పొట్టి శ్రీరాములు ఆమరణ నిరాహారదీక్ష త్యాగ ఫలితంగా 1953 అక్టోబర్ 1న కర్నూలు రాజధానిగా తెలుగు మాట్లాడే ప్రాంతాలతో ఆంధ్ర రాష్ట్రం ఏర్పడింది."
+        "explanation_te": "సరైన సమాధానం: ఆంధ్ర రాష్ట్రం. (పొట్టి శ్రీరాములు ఆమరణ నిరాహారదీక్ష త్యాగ ఫలితంగా 1953 అక్టోబర్ 1న కర్నూలు రాజధానిగా తెలుగు మాట్లాడే ప్రాంతాలతో ఆంధ్ర రాష్ట్రం ఏర్పడింది.)"
     },
     {
         "id": 116,
@@ -352,20 +352,20 @@ mock12_gs = [
         "question_en": "How many Fundamental Rights are currently guaranteed to Indian citizens under Part III of the Constitution?",
         "question_te": "ప్రస్తుతం భారత రాజ్యాంగంలోని 3వ భాగం కింద పౌరులకు ఎన్ని ప్రాథమిక హక్కులు హామీ ఇవ్వబడ్డాయి?",
         "options_en": [
-            "6",
+            "10",
             "7",
             "8",
-            "10"
+            "6"
         ],
         "options_te": [
-            "6",
+            "10",
             "7",
             "8",
-            "10"
+            "6"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Originally there were 7 Fundamental Rights. The Right to Property was removed by the 44th Amendment in 1978, leaving 6 Fundamental Rights today.",
-        "explanation_te": "ప్రారంభంలో 7 ఉండేవి. 1978 లో 44వ సవరణ ద్వారా ఆస్తి హక్కును తొలగించడంతో ప్రస్తుతం 6 ప్రాథమిక హక్కులు ఉన్నాయి."
+        "explanation_te": "సరైన సమాధానం: 6. (ప్రారంభంలో 7 ఉండేవి. 1978 లో 44వ సవరణ ద్వారా ఆస్తి హక్కును తొలగించడంతో ప్రస్తుతం 6 ప్రాథమిక హక్కులు ఉన్నాయి.)"
     },
     {
         "id": 117,
@@ -375,20 +375,20 @@ mock12_gs = [
         "question_en": "On which date did Telangana officially come into existence as the 29th State of the Indian Union?",
         "question_te": "భారత యూనియన్‌లో 29వ రాష్ట్రంగా తెలంగాణ అధికారికంగా ఏ తేదీన ఆవిర్భవించింది?",
         "options_en": [
-            "June 2, 2014",
-            "June 2, 2013",
             "August 15, 2014",
+            "June 2, 2013",
+            "June 2, 2014",
             "November 1, 2014"
         ],
         "options_te": [
-            "2014 జూన్ 2",
-            "2013 జూన్ 2",
             "2014 ఆగస్టు 15",
+            "2013 జూన్ 2",
+            "2014 జూన్ 2",
             "2014 నవంబర్ 1"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Under Section 3 of the AP Reorganisation Act, 2014, the Appointed Day for the formation of Telangana was June 2, 2014.",
-        "explanation_te": "ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం 2014 ప్రకారం 2014 జూన్ 2న తెలంగాణ రాష్ట్రం అధికారికంగా ఆవిర్భవించింది."
+        "explanation_te": "సరైన సమాధానం: 2014 జూన్ 2. (ఆంధ్రప్రదేశ్ పునర్వ్యవస్థీకరణ చట్టం 2014 ప్రకారం 2014 జూన్ 2న తెలంగాణ రాష్ట్రం అధికారికంగా ఆవిర్భవించింది.)"
     },
     {
         "id": 118,
@@ -411,7 +411,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Charminar was constructed in 1591 AD by Muhammad Quli Qutb Shah, the fifth ruler of the Qutb Shahi dynasty, to commemorate the eradication of plague.",
-        "explanation_te": "ప్లేగు వ్యాధి నిర్మూలనకు గుర్తుగా 1591 లో కుతుబ్ షాహీ వంశ 5వ సుల్తాన్ మహమ్మద్ కులీ కుతుబ్ షా చార్మినార్‌ను నిర్మించాడు."
+        "explanation_te": "సరైన సమాధానం: 1591 లో మహమ్మద్ కులీ కుతుబ్ షా. (ప్లేగు వ్యాధి నిర్మూలనకు గుర్తుగా 1591 లో కుతుబ్ షాహీ వంశ 5వ సుల్తాన్ మహమ్మద్ కులీ కుతుబ్ షా చార్మినార్‌ను నిర్మించాడు.)"
     },
     {
         "id": 119,
@@ -421,20 +421,20 @@ mock12_gs = [
         "question_en": "The historic Thousand Pillar Temple (Veyi Sthambala Gudi) at Hanamkonda was built by which Kakatiya ruler?",
         "question_te": "హనుమకొండలోని ప్రసిద్ధ వేయి స్తంభాల గుడిని ఏ కాకతీయ పాలకుడు నిర్మించాడు?",
         "options_en": [
-            "Rudradeva (Prataparudra I)",
+            "Prola II",
             "Ganapati Deva",
             "Rani Rudrama Devi",
-            "Prola II"
+            "Rudradeva (Prataparudra I)"
         ],
         "options_te": [
-            "రుద్రదేవుడు (మొదటి ప్రతాపరుద్రుడు)",
+            "రెండవ ప్రోలరాజు",
             "గణపతి దేవుడు",
             "రాణి రుద్రమదేవి",
-            "రెండవ ప్రోలరాజు"
+            "రుద్రదేవుడు (మొదటి ప్రతాపరుద్రుడు)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The Thousand Pillar Temple at Hanamkonda was built in 1163 AD by Kakatiya King Rudradeva (Prataparudra I).",
-        "explanation_te": "క్రీ.శ. 1163 లో కాకతీయ రాజు రుద్రదేవుడు హనుమకొండలో వేయి స్తంభాల దేవాలయాన్ని నిర్మించాడు."
+        "explanation_te": "సరైన సమాధానం: రుద్రదేవుడు (మొదటి ప్రతాపరుద్రుడు). (క్రీ.శ. 1163 లో కాకతీయ రాజు రుద్రదేవుడు హనుమకొండలో వేయి స్తంభాల దేవాలయాన్ని నిర్మించాడు.)"
     },
     {
         "id": 120,
@@ -444,20 +444,20 @@ mock12_gs = [
         "question_en": "Which foreign traveller visited the Kakatiya kingdom during the reign of Rani Rudrama Devi and praised her administration?",
         "question_te": "రాణి రుద్రమదేవి పాలనా కాలంలో కాకతీయ రాజ్యాన్ని సందర్శించి ఆమె పరిపాలనను ప్రశంసించిన విదేశీ యాత్రికుడు ఎవరు?",
         "options_en": [
-            "Marco Polo",
-            "Ibn Battuta",
             "Niccolo de Conti",
+            "Ibn Battuta",
+            "Marco Polo",
             "Hiuen Tsang"
         ],
         "options_te": [
-            "మార్కో పోలో",
-            "ఇబన్ బటూటా",
             "నికోలో డి కాంటి",
+            "ఇబన్ బటూటా",
+            "మార్కో పోలో",
             "హుయాన్ త్సాంగ్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Venetian traveller Marco Polo visited Motupalli port during Rani Rudrama Devi's reign (around 1292 AD) and lavishly praised her valour and justice.",
-        "explanation_te": "వెనీస్ యాత్రికుడు మార్కో పోలో క్రీ.శ. 1292 లో మోటుపల్లి రేవును సందర్శించి రుద్రమదేవి పరిపాలనను, న్యాయపాలనను కొనియాడాడు."
+        "explanation_te": "సరైన సమాధానం: మార్కో పోలో. (వెనీస్ యాత్రికుడు మార్కో పోలో క్రీ.శ. 1292 లో మోటుపల్లి రేవును సందర్శించి రుద్రమదేవి పరిపాలనను, న్యాయపాలనను కొనియాడాడు.)"
     },
     {
         "id": 121,
@@ -480,7 +480,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Operation Polo was launched on 13 September 1948 and concluded on 17 September 1948 with the surrender of the Nizam's forces.",
-        "explanation_te": "1948 సెప్టెంబర్ 13 నుండి 17 వరకు జరిగిన సైనిక చర్యకు 'ఆపరేషన్ పోలో' అని పేరు పెట్టారు."
+        "explanation_te": "సరైన సమాధానం: ఆపరేషన్ పోలో. (1948 సెప్టెంబర్ 13 నుండి 17 వరకు జరిగిన సైనిక చర్యకు 'ఆపరేషన్ పోలో' అని పేరు పెట్టారు.)"
     },
     {
         "id": 122,
@@ -490,20 +490,20 @@ mock12_gs = [
         "question_en": "Who served as the first democratically elected Chief Minister of Hyderabad State following the 1952 general elections?",
         "question_te": "1952 సాధారణ ఎన్నికల తర్వాత హైదరాబాద్ రాష్ట్ర మొట్టమొదటి ప్రజాస్వామ్యబద్ధ ముఖ్యమంత్రిగా ఎవరు పనిచేశారు?",
         "options_en": [
-            "Burgula Ramakrishna Rao",
+            "J.N. Chaudhuri",
             "K.V. Ranga Reddy",
             "Marri Chenna Reddy",
-            "J.N. Chaudhuri"
+            "Burgula Ramakrishna Rao"
         ],
         "options_te": [
-            "బూర్గుల రామకృష్ణారావు",
+            "జె.ఎన్. చౌధురి",
             "కె.వి. రంగా రెడ్డి",
             "మర్రి చెన్నారెడ్డి",
-            "జె.ఎన్. చౌధురి"
+            "బూర్గుల రామకృష్ణారావు"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Dr. Burgula Ramakrishna Rao served as the first and only Chief Minister of Hyderabad State from 1952 until its merger into Andhra Pradesh in 1956.",
-        "explanation_te": "1952 నుండి 1956 వరకు హైదరాబాద్ రాష్ట్ర ఏకైక ఎన్నికైన ముఖ్యమంత్రిగా డాక్టర్ బూర్గుల రామకృష్ణారావు పనిచేశారు."
+        "explanation_te": "సరైన సమాధానం: బూర్గుల రామకృష్ణారావు. (1952 నుండి 1956 వరకు హైదరాబాద్ రాష్ట్ర ఏకైక ఎన్నికైన ముఖ్యమంత్రిగా డాక్టర్ బూర్గుల రామకృష్ణారావు పనిచేశారు.)"
     },
     {
         "id": 123,
@@ -536,20 +536,20 @@ mock12_gs = [
         "question_en": "The historic 1969 Telangana agitation for statehood gained massive momentum primarily from students of which university?",
         "question_te": "1969 ప్రత్యేక తెలంగాణ ఉద్యమం ప్రధానంగా ఏ విశ్వవిద్యాలయ విద్యార్థుల నాయకత్వంలో తీవ్రరూపం దాల్చింది?",
         "options_en": [
-            "Osmania University",
-            "Kakatiya University",
             "University of Hyderabad",
+            "Kakatiya University",
+            "Osmania University",
             "Telangana University"
         ],
         "options_te": [
-            "ఉస్మానియా విశ్వవిద్యాలయం",
-            "కాకతీయ విశ్వవిద్యాలయం",
             "హైదరాబాద్ సెంట్రల్ యూనివర్సిటీ",
+            "కాకతీయ విశ్వవిద్యాలయం",
+            "ఉస్మానియా విశ్వవిద్యాలయం",
             "తెలంగాణ యూనివర్సిటీ"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Osmania University students formed the Telangana Students Action Committee and spearheaded the 1969 agitation.",
-        "explanation_te": "ఉస్మానియా విశ్వవిద్యాలయ విద్యార్థులు 1969 ప్రత్యేక తెలంగాణ ఉద్యమంలో అగ్రభాగాన నిలిచి పోరాడారు."
+        "explanation_te": "సరైన సమాధానం: ఉస్మానియా విశ్వవిద్యాలయం. (ఉస్మానియా విశ్వవిద్యాలయ విద్యార్థులు 1969 ప్రత్యేక తెలంగాణ ఉద్యమంలో అగ్రభాగాన నిలిచి పోరాడారు.)"
     },
     {
         "id": 125,
@@ -572,7 +572,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Palapitta (Coracias benghalensis / Indian Roller) is the official State Bird of Telangana.",
-        "explanation_te": "పాలపిట్ట తెలంగాణ రాష్ట్ర అధికారిక పక్షిగా ఎంపిక చేయబడింది."
+        "explanation_te": "సరైన సమాధానం: పాలపిట్ట (Indian Roller). (పాలపిట్ట తెలంగాణ రాష్ట్ర అధికారిక పక్షిగా ఎంపిక చేయబడింది.)"
     },
     {
         "id": 126,
@@ -582,20 +582,20 @@ mock12_gs = [
         "question_en": "What is the official State Animal of Telangana?",
         "question_te": "తెలంగాణ రాష్ట్ర అధికారిక జంతువు ఏది?",
         "options_en": [
-            "Jinka (Spotted Deer)",
+            "Nilgai",
             "Tiger",
             "Blackbuck",
-            "Nilgai"
+            "Jinka (Spotted Deer)"
         ],
         "options_te": [
-            "జింక (Spotted Deer)",
+            "నీలుగాయి",
             "పులి",
             "కృష్ణజింక",
-            "నీలుగాయి"
+            "జింక (Spotted Deer)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Jinka (Spotted Deer / Axis axis) is the official State Animal of Telangana.",
-        "explanation_te": "జింక (స్పాటెడ్ డీర్) తెలంగాణ అధికారిక రాష్ట్ర జంతువు."
+        "explanation_te": "సరైన సమాధానం: జింక (Spotted Deer). (జింక (స్పాటెడ్ డీర్) తెలంగాణ అధికారిక రాష్ట్ర జంతువు.)"
     },
     {
         "id": 127,
@@ -605,20 +605,20 @@ mock12_gs = [
         "question_en": "Which tree is designated as the official State Tree of Telangana?",
         "question_te": "తెలంగాణ రాష్ట్ర అధికారిక వృక్షం ఏది?",
         "options_en": [
-            "Jammi Chettu (Prosopis cineraria)",
-            "Neem Tree",
             "Banyan Tree",
+            "Neem Tree",
+            "Jammi Chettu (Prosopis cineraria)",
             "Teak Tree"
         ],
         "options_te": [
-            "జమ్మి చెట్టు (Prosopis cineraria)",
-            "వేప చెట్టు",
             "మర్రి చెట్టు",
+            "వేప చెట్టు",
+            "జమ్మి చెట్టు (Prosopis cineraria)",
             "టేకు చెట్టు"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Jammi Chettu (Prosopis cineraria), sacred during Vijaya Dasami (Dussehra), is the State Tree of Telangana.",
-        "explanation_te": "దసరా పండుగకు పవిత్రమైన జమ్మి చెట్టు తెలంగాణ రాష్ట్ర వృక్షం."
+        "explanation_te": "సరైన సమాధానం: జమ్మి చెట్టు (Prosopis cineraria). (దసరా పండుగకు పవిత్రమైన జమ్మి చెట్టు తెలంగాణ రాష్ట్ర వృక్షం.)"
     },
     {
         "id": 128,
@@ -641,7 +641,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Tangedu Puvvu (Senna auriculata) is the official State Flower of Telangana.",
-        "explanation_te": "తంగేడు పువ్వు తెలంగాణ రాష్ట్ర అధికారిక పుష్పం."
+        "explanation_te": "సరైన సమాధానం: తంగేడు పువ్వు (Senna auriculata). (తంగేడు పువ్వు తెలంగాణ రాష్ట్ర అధికారిక పుష్పం.)"
     },
     {
         "id": 129,
@@ -651,20 +651,20 @@ mock12_gs = [
         "question_en": "Who composed the historic song 'Jaya Jaya He Telangana Janani Jayaketanam', adopted as the official State Song of Telangana?",
         "question_te": "తెలంగాణ అధికారిక రాష్ట్ర గీతంగా ఆమోదించబడిన 'జయ జయ హే తెలంగాణ జననీ జయకేతనం' పాటను రచించినది ఎవరు?",
         "options_en": [
-            "Ande Sri",
+            "Suddala Ashok Teja",
             "Goreti Venkanna",
             "Gaddar",
-            "Suddala Ashok Teja"
+            "Ande Sri"
         ],
         "options_te": [
-            "అందెశ్రీ",
+            "సుద్దాల అశోక్ తేజ",
             "గోరటి వెంకన్న",
             "గద్దర్",
-            "సుద్దాల అశోక్ తేజ"
+            "అందెశ్రీ"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Poet Ande Sri composed the stirring anthem 'Jaya Jaya He Telangana', declared the official state song by the Government of Telangana in 2024.",
-        "explanation_te": "ప్రసిద్ధ ప్రజాకవి అందెశ్రీ 'జయ జయ హే తెలంగాణ' గీతాన్ని రచించారు."
+        "explanation_te": "సరైన సమాధానం: అందెశ్రీ. (ప్రసిద్ధ ప్రజాకవి అందెశ్రీ 'జయ జయ హే తెలంగాణ' గీతాన్ని రచించారు.)"
     },
     {
         "id": 130,
@@ -674,20 +674,20 @@ mock12_gs = [
         "question_en": "The biennial Sammakka-Sarakka (Medaram) Jatara, one of the largest tribal congregations in Asia, is celebrated in which district of Telangana?",
         "question_te": "ఆసియాలోనే అతిపెద్ద గిరిజన జాతరగా గుర్తింపు పొందిన సమ్మక్క-సారలమ్మ (మేడారం) జాతర తెలంగాణలోని ఏ జిల్లాలో జరుగుతుంది?",
         "options_en": [
-            "Mulugu",
-            "Bhadradri Kothagudem",
             "Warangal",
+            "Bhadradri Kothagudem",
+            "Mulugu",
             "Khammam"
         ],
         "options_te": [
-            "ములుగు",
-            "భద్రాద్రి కొత్తగూడెం",
             "వరంగల్",
+            "భద్రాద్రి కొత్తగూడెం",
+            "ములుగు",
             "ఖమ్మం"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "The Medaram Jatara takes place at Medaram in Tadvai mandal of Mulugu district once every two years.",
-        "explanation_te": "మేడారం జాతర ములుగు జిల్లా తాడ్వాయి మండలంలోని మేడారంలో రెండేళ్లకోసారి అత్యంత వైభవంగా జరుగుతుంది."
+        "explanation_te": "సరైన సమాధానం: ములుగు. (మేడారం జాతర ములుగు జిల్లా తాడ్వాయి మండలంలోని మేడారంలో రెండేళ్లకోసారి అత్యంత వైభవంగా జరుగుతుంది.)"
     },
     {
         "id": 131,
@@ -710,7 +710,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Nagarjuna Sagar Dam was built across the Krishna River between Nalgonda district (Telangana) and Palnadu district (Andhra Pradesh).",
-        "explanation_te": "నాగార్జున సాగర్ ప్రాజెక్టు కృష్ణా నదిపై నల్గొండ మరియు పల్నాడు సరిహద్దులో నిర్మించబడింది."
+        "explanation_te": "సరైన సమాధానం: కృష్ణా నది. (నాగార్జున సాగర్ ప్రాజెక్టు కృష్ణా నదిపై నల్గొండ మరియు పల్నాడు సరిహద్దులో నిర్మించబడింది.)"
     },
     {
         "id": 132,
@@ -720,20 +720,20 @@ mock12_gs = [
         "question_en": "The Sriram Sagar Project (SRSP), also known as Pochampad Project, is constructed across which river in Telangana?",
         "question_te": "శ్రీరాం సాగర్ ప్రాజెక్ట్ (పోచంపాడు ప్రాజెక్ట్) తెలంగాణలో ఏ నదిపై నిర్మించబడింది?",
         "options_en": [
-            "Godavari River",
+            "Musi River",
             "Krishna River",
             "Pranhita River",
-            "Musi River"
+            "Godavari River"
         ],
         "options_te": [
-            "గోదావరి నది",
+            "మూసీ నది",
             "కృష్ణా నది",
             "ప్రాణహిత నది",
-            "మూసీ నది"
+            "గోదావరి నది"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The Sriram Sagar Project (SRSP) is a major irrigation dam across the Godavari River in Nizamabad district of Telangana.",
-        "explanation_te": "శ్రీరాం సాగర్ ప్రాజెక్ట్ నిజామాబాద్ జిల్లాలోని గోదావరి నదిపై నిర్మించబడిన ప్రధాన సాగునీటి ఆనకట్ట."
+        "explanation_te": "సరైన సమాధానం: గోదావరి నది. (శ్రీరాం సాగర్ ప్రాజెక్ట్ నిజామాబాద్ జిల్లాలోని గోదావరి నదిపై నిర్మించబడిన ప్రధాన సాగునీటి ఆనకట్ట.)"
     },
     {
         "id": 133,
@@ -766,20 +766,20 @@ mock12_gs = [
         "question_en": "The historic Golconda Fort was originally built as a mud fort during the reign of which dynasty?",
         "question_te": "చారిత్రాత్మక గోల్కొండ కోటను మొదట మట్టి కోటగా ఏ రాజవంశం పాలనా కాలంలో నిర్మించారు?",
         "options_en": [
-            "Kakatiyas",
-            "Bahmani Sultans",
             "Qutb Shahis",
+            "Bahmani Sultans",
+            "Kakatiyas",
             "Mughals"
         ],
         "options_te": [
-            "కాకతీయులు",
-            "బహమనీ సుల్తానులు",
             "కుతుబ్ షాహీలు",
+            "బహమనీ సుల్తానులు",
+            "కాకతీయులు",
             "మొఘలులు"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Golconda fort was originally founded as a mud fort by the Kakatiya rulers in the 13th century before being fortified by the Qutb Shahis.",
-        "explanation_te": "13వ శతాబ్దంలో కాకతీయులు మొదట గోల్కొండను మట్టి కోటగా నిర్మించగా, ఆ తర్వాత కుతుబ్ షాహీలు రాతి కోటగా విస్తరించారు."
+        "explanation_te": "సరైన సమాధానం: కాకతీయులు. (13వ శతాబ్దంలో కాకతీయులు మొదట గోల్కొండను మట్టి కోటగా నిర్మించగా, ఆ తర్వాత కుతుబ్ షాహీలు రాతి కోటగా విస్తరించారు.)"
     },
     {
         "id": 135,
@@ -825,7 +825,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Telangana Praja Samithi (TPS), founded in 1969 and led by Dr. M. Chenna Reddy, won 10 out of 14 Lok Sabha seats in Telangana in 1971.",
-        "explanation_te": "1969 ప్రత్యేక ఉద్యమంలో తెలంగాణ ప్రజా సమితి (TPS) 1971 ఎన్నికల్లో 14 స్థానాలకు గాను 10 లోక్‌సభ స్థానాలు గెలుచుకుంది."
+        "explanation_te": "సరైన సమాధానం: తెలంగాణ ప్రజా సమితి (TPS). (1969 ప్రత్యేక ఉద్యమంలో తెలంగాణ ప్రజా సమితి (TPS) 1971 ఎన్నికల్లో 14 స్థానాలకు గాను 10 లోక్‌సభ స్థానాలు గెలుచుకుంది.)"
     },
     {
         "id": 137,
@@ -858,20 +858,20 @@ mock12_gs = [
         "question_en": "Who was the founder of the Mauryan Empire in ancient India, established with the guidance of Chanakya (Kautilya)?",
         "question_te": "చాణక్యుని (కౌటిల్యుని) సహాయంతో ప్రాచీన భారతదేశంలో మౌర్య సామ్రాజ్యాన్ని స్థాపించినది ఎవరు?",
         "options_en": [
-            "Chandragupta Maurya",
+            "Brihadratha",
             "Bindusara",
             "Ashoka the Great",
-            "Brihadratha"
+            "Chandragupta Maurya"
         ],
         "options_te": [
-            "చంద్రగుప్త మౌర్యుడు",
+            "బృహద్రథుడు",
             "బిందుసారుడు",
             "అశోకుడు",
-            "బృహద్రథుడు"
+            "చంద్రగుప్త మౌర్యుడు"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Chandragupta Maurya defeated Dhana Nanda in 321 BC with the strategic guidance of Chanakya and founded the Mauryan dynasty.",
-        "explanation_te": "చాణక్యుని వ్యూహాత్మక మార్గదర్శకత్వంలో నంద వంశాన్ని అంతమొందించి చంద్రగుప్త మౌర్యుడు మౌర్య సామ్రాజ్యాన్ని స్థాపించాడు."
+        "explanation_te": "సరైన సమాధానం: చంద్రగుప్త మౌర్యుడు. (చాణక్యుని వ్యూహాత్మక మార్గదర్శకత్వంలో నంద వంశాన్ని అంతమొందించి చంద్రగుప్త మౌర్యుడు మౌర్య సామ్రాజ్యాన్ని స్థాపించాడు.)"
     },
     {
         "id": 139,
@@ -904,20 +904,20 @@ mock12_gs = [
         "question_en": "Hampi, the magnificent UNESCO World Heritage capital city of the Vijayanagara Empire, is situated on the banks of which river?",
         "question_te": "విజయనగర సామ్రాజ్య చారిత్రక రాజధాని హంపి ఏ నదీ తీరాన ఉంది?",
         "options_en": [
-            "Tungabhadra River",
-            "Krishna River",
             "Cauvery River",
+            "Krishna River",
+            "Tungabhadra River",
             "Godavari River"
         ],
         "options_te": [
-            "తుంగభద్ర నది",
-            "కృష్ణా నది",
             "కావేరి నది",
+            "కృష్ణా నది",
+            "తుంగభద్ర నది",
             "గోదావరి నది"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Hampi was founded on the banks of the Tungabhadra River in Bellary district of Karnataka.",
-        "explanation_te": "కర్ణాటకలోని తుంగభద్ర నదీ తీరాన హరిహర రాయలు మరియు బుక్క రాయలు విజయనగర రాజధాని హంపిని స్థాపించారు."
+        "explanation_te": "సరైన సమాధానం: తుంగభద్ర నది. (కర్ణాటకలోని తుంగభద్ర నదీ తీరాన హరిహర రాయలు మరియు బుక్క రాయలు విజయనగర రాజధాని హంపిని స్థాపించారు.)"
     },
     {
         "id": 141,
@@ -963,7 +963,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "The revolt broke out on 10 May 1857 in the cantonment town of Meerut, after which sepoys marched to Delhi.",
-        "explanation_te": "1857 మే 10న మీరట్ కంటోన్మెంట్‌లో సిపాయిలు బ్రిటిష్ అధికారులపై తిరుగుబాటు చేసి ఢిల్లీకి తరలివెళ్లారు."
+        "explanation_te": "సరైన సమాధానం: మీరట్. (1857 మే 10న మీరట్ కంటోన్మెంట్‌లో సిపాయిలు బ్రిటిష్ అధికారులపై తిరుగుబాటు చేసి ఢిల్లీకి తరలివెళ్లారు.)"
     },
     {
         "id": 143,
@@ -973,20 +973,20 @@ mock12_gs = [
         "question_en": "Who founded the reformist Hindu movement 'Arya Samaj' in Bombay in 1875 with the call 'Go Back to the Vedas'?",
         "question_te": "'వేదాలకు తరలిరండి' అనే నినాదంతో 1875 లో బొంబాయిలో 'ఆర్య సమాజం' ను స్థాపించినది ఎవరు?",
         "options_en": [
-            "Swami Dayananda Saraswati",
+            "Ishwar Chandra Vidyasagar",
             "Raja Ram Mohan Roy",
             "Swami Vivekananda",
-            "Ishwar Chandra Vidyasagar"
+            "Swami Dayananda Saraswati"
         ],
         "options_te": [
-            "స్వామి దయానంద సరస్వతి",
+            "ఈశ్వర చంద్ర విద్యాసాగర్",
             "రాజా రామ్ మోహన్ రాయ్",
             "స్వామి వివేకానంద",
-            "ఈశ్వర చంద్ర విద్యాసాగర్"
+            "స్వామి దయానంద సరస్వతి"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Swami Dayananda Saraswati established Arya Samaj in 1875 to oppose idol worship and caste orthodoxy and advocate Vedic teachings.",
-        "explanation_te": "స్వామి దయానంద సరస్వతి 1875 లో ఆర్య సమాజాన్ని స్థాపించి 'సత్యార్థ ప్రకాశిక' గ్రంథాన్ని రచించారు."
+        "explanation_te": "సరైన సమాధానం: స్వామి దయానంద సరస్వతి. (స్వామి దయానంద సరస్వతి 1875 లో ఆర్య సమాజాన్ని స్థాపించి 'సత్యార్థ ప్రకాశిక' గ్రంథాన్ని రచించారు.)"
     },
     {
         "id": 144,
@@ -996,20 +996,20 @@ mock12_gs = [
         "question_en": "Which British Viceroy announced the controversial Partition of Bengal in 1905, triggering the nationwide Swadeshi Movement?",
         "question_te": "1905 లో స్వదేశీ ఉద్యమానికి కారణమైన బెంగాల్ విభజనను ప్రకటించిన బ్రిటిష్ వైస్రాయ్ ఎవరు?",
         "options_en": [
-            "Lord Curzon",
-            "Lord Ripon",
             "Lord Dalhousie",
+            "Lord Ripon",
+            "Lord Curzon",
             "Lord Canning"
         ],
         "options_te": [
-            "లార్డ్ కర్జన్",
-            "లార్డ్ రిప్పన్",
             "లార్డ్ డల్హౌసీ",
+            "లార్డ్ రిప్పన్",
+            "లార్డ్ కర్జన్",
             "లార్డ్ కానింగ్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Lord Curzon partitioned Bengal in October 1905 on communal lines, sparking widespread boycott and the Vande Mataram movement.",
-        "explanation_te": "వైస్రాయ్ లార్డ్ కర్జన్ 1905 లో బెంగాల్‌ను విభజించగా, దీనికి వ్యతిరేకంగా వందేమాతరం (స్వదేశీ) ఉద్యమం ఉవ్వెత్తున లేచింది."
+        "explanation_te": "సరైన సమాధానం: లార్డ్ కర్జన్. (వైస్రాయ్ లార్డ్ కర్జన్ 1905 లో బెంగాల్‌ను విభజించగా, దీనికి వ్యతిరేకంగా వందేమాతరం (స్వదేశీ) ఉద్యమం ఉవ్వెత్తున లేచింది.)"
     },
     {
         "id": 145,
@@ -1032,7 +1032,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "On Baisakhi day, April 13, 1919, British troops fired on unarmed peaceful protesters protesting against the Rowlatt Act.",
-        "explanation_te": "రౌలట్ చట్టానికి వ్యతిరేకంగా శాంతియుతంగా సమావేశమైన నిరాయుధులపై 1919 ఏప్రిల్ 13న జనరల్ డయర్ కాల్పులు జరిపించాడు."
+        "explanation_te": "సరైన సమాధానం: 1919 ఏప్రిల్ 13. (రౌలట్ చట్టానికి వ్యతిరేకంగా శాంతియుతంగా సమావేశమైన నిరాయుధులపై 1919 ఏప్రిల్ 13న జనరల్ డయర్ కాల్పులు జరిపించాడు.)"
     },
     {
         "id": 146,
@@ -1042,20 +1042,20 @@ mock12_gs = [
         "question_en": "In which year was the nationwide Non-Cooperation Movement launched under the leadership of Mahatma Gandhi?",
         "question_te": "మహాత్మా గాంధీ నాయకత్వంలో దేశవ్యాప్త సహాయ నిరాకరణ ఉద్యమం ఏ సంవత్సరంలో ప్రారంభించబడింది?",
         "options_en": [
-            "1920",
+            "1942",
             "1925",
             "1930",
-            "1942"
+            "1920"
         ],
         "options_te": [
-            "1920",
+            "1942",
             "1925",
             "1930",
-            "1942"
+            "1920"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Mahatma Gandhi launched the Non-Cooperation Movement in 1920 following the Rowlatt Act and Jallianwala Bagh massacre.",
-        "explanation_te": "1920 లో గాంధీజీ నాయకత్వంలో సహాయ నిరాకరణ ఉద్యమం ప్రారంభమైంది (చౌరీ చౌరా ఘటన తర్వాత 1922 లో నిలిపివేయబడింది)."
+        "explanation_te": "సరైన సమాధానం: 1920. (1920 లో గాంధీజీ నాయకత్వంలో సహాయ నిరాకరణ ఉద్యమం ప్రారంభమైంది (చౌరీ చౌరా ఘటన తర్వాత 1922 లో నిలిపివేయబడింది).)"
     },
     {
         "id": 147,
@@ -1065,20 +1065,20 @@ mock12_gs = [
         "question_en": "The historic Dandi Salt March (Civil Disobedience Movement) undertaken by Mahatma Gandhi started from which location in March 1930?",
         "question_te": "1930 మార్చిలో మహాత్మా గాంధీ చేపట్టిన చారిత్రక దండి ఉప్పు సత్యాగ్రహం ఎక్కడి నుండి ప్రారంభమైంది?",
         "options_en": [
-            "Sabarmati Ashram (Ahmedabad)",
-            "Wardha Ashram",
             "Sevagram",
+            "Wardha Ashram",
+            "Sabarmati Ashram (Ahmedabad)",
             "Champaran"
         ],
         "options_te": [
-            "సబర్మతి ఆశ్రమం (అహ్మదాబాద్)",
-            "వర్ధా ఆశ్రమం",
             "సేవాగ్రామ్",
+            "వర్ధా ఆశ్రమం",
+            "సబర్మతి ఆశ్రమం (అహ్మదాబాద్)",
             "చంపారన్"
         ],
-        "correct_option": 0,
+        "correct_option": 2,
         "explanation_en": "Mahatma Gandhi commenced the Dandi March with 78 chosen followers from Sabarmati Ashram on 12 March 1930 to break the salt law.",
-        "explanation_te": "1930 మార్చి 12న గాంధీజీ అహ్మదాబాద్‌లోని సబర్మతి ఆశ్రమం నుండి దండి యాత్రను ప్రారంభించి ఉప్పు చట్టాన్ని ఉల్లంఘించారు."
+        "explanation_te": "సరైన సమాధానం: సబర్మతి ఆశ్రమం (అహ్మదాబాద్). (1930 మార్చి 12న గాంధీజీ అహ్మదాబాద్‌లోని సబర్మతి ఆశ్రమం నుండి దండి యాత్రను ప్రారంభించి ఉప్పు చట్టాన్ని ఉల్లంఘించారు.)"
     },
     {
         "id": 148,
@@ -1101,7 +1101,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Gandhi delivered the call 'Do or Die' (Karo ya Maro) at the Gowalia Tank Maidan in Bombay on August 8, 1942.",
-        "explanation_te": "1942 ఆగస్టు 8న బొంబాయి గోవాలియా ట్యాంక్ మైదానంలో గాంధీజీ 'డూ ఆర్ డై' (చేయండి లేదా చావండి) నినాదాన్ని ఇచ్చారు."
+        "explanation_te": "సరైన సమాధానం: డూ ఆర్ డై (సాధించండి లేదా మరణించండి). (1942 ఆగస్టు 8న బొంబాయి గోవాలియా ట్యాంక్ మైదానంలో గాంధీజీ 'డూ ఆర్ డై' (చేయండి లేదా చావండి) నినాదాన్ని ఇచ్చారు.)"
     },
     {
         "id": 149,
@@ -1111,20 +1111,20 @@ mock12_gs = [
         "question_en": "Who was the first and only Indian Governor-General of independent India?",
         "question_te": "స్వతంత్ర భారతదేశపు మొట్టమొదటి మరియు ఏకైక భారతీయ గవర్నర్-జనరల్ ఎవరు?",
         "options_en": [
-            "C. Rajagopalachari",
+            "Jawaharlal Nehru",
             "Dr. Rajendra Prasad",
             "Dr. S. Radhakrishnan",
-            "Jawaharlal Nehru"
+            "C. Rajagopalachari"
         ],
         "options_te": [
-            "సి. రాజగోపాలాచారి (రాజాజీ)",
+            "జవహర్‌లాల్ నెహ్రూ",
             "డా. రాజేంద్ర ప్రసాద్",
             "డా. ఎస్. రాధాకృష్ణన్",
-            "జవహర్‌లాల్ నెహ్రూ"
+            "సి. రాజగోపాలాచారి (రాజాజీ)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Chakravarti Rajagopalachari succeeded Lord Mountbatten and served as the Governor-General of India from June 1948 to January 1950.",
-        "explanation_te": "1948 నుండి 1950 వరకు స్వతంత్ర భారతదేశానికి ఏకైక భారతీయ గవర్నర్ జనరల్‌గా చక్రవర్తుల రాజగోపాలాచారి పనిచేశారు."
+        "explanation_te": "సరైన సమాధానం: సి. రాజగోపాలాచారి (రాజాజీ). (1948 నుండి 1950 వరకు స్వతంత్ర భారతదేశానికి ఏకైక భారతీయ గవర్నర్ జనరల్‌గా చక్రవర్తుల రాజగోపాలాచారి పనిచేశారు.)"
     },
     {
         "id": 150,
@@ -1147,7 +1147,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Lokmanya Bal Gangadhar Tilak, leader of the extremist faction in Congress and founder of Kesari, declared this famous slogan.",
-        "explanation_te": "లోకమాన్య బాల గంగాధర తిలక్ స్వరాజ్యం నా జన్మహక్కు అని నినదించి గణేష్ మరియు శివాజీ ఉత్సవాల ద్వారా ప్రజలను ఉత్తేజపరిచారు."
+        "explanation_te": "సరైన సమాధానం: బాల గంగాధర తిలక్. (లోకమాన్య బాల గంగాధర తిలక్ స్వరాజ్యం నా జన్మహక్కు అని నినదించి గణేష్ మరియు శివాజీ ఉత్సవాల ద్వారా ప్రజలను ఉత్తేజపరిచారు.)"
     },
     {
         "id": 151,
@@ -1157,20 +1157,20 @@ mock12_gs = [
         "question_en": "Which is the longest river flowing entirely within the geographical territory of India?",
         "question_te": "భారతదేశ భూభాగంలో ప్రవహించే అత్యంత పొడవైన నది ఏది?",
         "options_en": [
-            "Ganga",
+            "Brahmaputra",
             "Godavari",
             "Yamuna",
-            "Brahmaputra"
+            "Ganga"
         ],
         "options_te": [
-            "గంగా నది",
+            "బ్రహ్మపుత్ర నది",
             "గోదావరి నది",
             "యమునా నది",
-            "బ్రహ్మపుత్ర నది"
+            "గంగా నది"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The Ganga is India's longest river with a total length of 2,525 km.",
-        "explanation_te": "గంగా నది 2,525 కి.మీ పొడవుతో భారతదేశంలో అత్యంత పొడవైన పవిత్ర నది."
+        "explanation_te": "సరైన సమాధానం: గంగా నది. (గంగా నది 2,525 కి.మీ పొడవుతో భారతదేశంలో అత్యంత పొడవైన పవిత్ర నది.)"
     },
     {
         "id": 152,
@@ -1193,7 +1193,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Godavari (1,465 km), originating at Trimbakeshwar in Maharashtra, is the longest peninsular river and is called Dakshin Ganga.",
-        "explanation_te": "మహారాష్ట్రలోని త్రయంబకేశ్వర్ వద్ద జన్మించే గోదావరి నది (1,465 కి.మీ) ద్వీపకల్పంలో అతిపెద్దది మరియు దక్షిణ గంగగా ప్రసిద్ధి."
+        "explanation_te": "సరైన సమాధానం: గోదావరి నది. (మహారాష్ట్రలోని త్రయంబకేశ్వర్ వద్ద జన్మించే గోదావరి నది (1,465 కి.మీ) ద్వీపకల్పంలో అతిపెద్దది మరియు దక్షిణ గంగగా ప్రసిద్ధి.)"
     },
     {
         "id": 153,
@@ -1203,20 +1203,20 @@ mock12_gs = [
         "question_en": "Which is the highest mountain peak located within the undisputed sovereign territory of India?",
         "question_te": "భారత సార్వభౌమ భూభాగంలో ఉన్న అత్యంత ఎత్తైన పర్వత శిఖరం ఏది?",
         "options_en": [
-            "Kanchenjunga",
+            "K2 (Godwin Austen)",
             "Nanda Devi",
             "Kamet",
-            "K2 (Godwin Austen)"
+            "Kanchenjunga"
         ],
         "options_te": [
-            "కాంచనగంగ",
+            "K2 (గాడ్విన్ ఆస్టెన్)",
             "నందా దేవి",
             "కామెట్",
-            "K2 (గాడ్విన్ ఆస్టెన్)"
+            "కాంచనగంగ"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Kanchenjunga (8,586 m in Sikkim) is the highest peak in Indian sovereign territory. (K2 is in Pakistan-occupied Kashmir).",
-        "explanation_te": "సిక్కింలో ఉన్న కాంచనగంగ (8,586 మీ) భారతదేశ భూభాగంలోని అత్యున్నత పర్వత శిఖరం (K2 పాక్ ఆక్రమిత కాశ్మీర్‌లో ఉంది)."
+        "explanation_te": "సరైన సమాధానం: కాంచనగంగ. (సిక్కింలో ఉన్న కాంచనగంగ (8,586 మీ) భారతదేశ భూభాగంలోని అత్యున్నత పర్వత శిఖరం (K2 పాక్ ఆక్రమిత కాశ్మీర్‌లో ఉంది).)"
     },
     {
         "id": 154,
@@ -1239,7 +1239,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Anamudi (2,695 m), situated in the Anamalai Hills of Kerala, is the highest peak in South India.",
-        "explanation_te": "కేరళలోని అనైమలై కొండలలో గల ఆనైముడి (2,695 మీ) దక్షిణ భారతదేశంలోనే అత్యంత ఎత్తైన శిఖరం."
+        "explanation_te": "సరైన సమాధానం: ఆనైముడి. (కేరళలోని అనైమలై కొండలలో గల ఆనైముడి (2,695 మీ) దక్షిణ భారతదేశంలోనే అత్యంత ఎత్తైన శిఖరం.)"
     },
     {
         "id": 155,
@@ -1249,20 +1249,20 @@ mock12_gs = [
         "question_en": "Which is the largest natural freshwater lake in India?",
         "question_te": "భారతదేశంలో సహజసిద్ధమైన అతిపెద్ద మంచినీటి సరస్సు ఏది?",
         "options_en": [
-            "Wular Lake",
+            "Vembanad Lake",
             "Chilika Lake",
             "Sambhar Lake",
-            "Vembanad Lake"
+            "Wular Lake"
         ],
         "options_te": [
-            "ఊలార్ సరస్సు",
+            "వెంబనాడ్ సరస్సు",
             "చిల్కా సరస్సు",
             "సాంబార్ సరస్సు",
-            "వెంబనాడ్ సరస్సు"
+            "ఊలార్ సరస్సు"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Wular Lake in Bandipora district of Jammu & Kashmir, fed by the Jhelum river, is India's largest freshwater lake.",
-        "explanation_te": "జమ్మూ కాశ్మీర్‌లోని జీలం నది ద్వారా ఏర్పడిన ఊలార్ సరస్సు భారతదేశపు అతిపెద్ద మంచినీటి సరస్సు."
+        "explanation_te": "సరైన సమాధానం: ఊలార్ సరస్సు. (జమ్మూ కాశ్మీర్‌లోని జీలం నది ద్వారా ఏర్పడిన ఊలార్ సరస్సు భారతదేశపు అతిపెద్ద మంచినీటి సరస్సు.)"
     },
     {
         "id": 156,
@@ -1285,7 +1285,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Chilika Lake in Odisha is Asia's largest brackish water lagoon and India's first designated Ramsar site (1981).",
-        "explanation_te": "ఒడిశాలోని చిల్కా సరస్సు ఆసియాలోనే అతిపెద్ద ఉప్పునీటి లగూన్ మరియు భారతదేశపు మొదటి రామ్‌సర్ ప్రాంతం."
+        "explanation_te": "సరైన సమాధానం: చిల్కా సరస్సు. (ఒడిశాలోని చిల్కా సరస్సు ఆసియాలోనే అతిపెద్ద ఉప్పునీటి లగూన్ మరియు భారతదేశపు మొదటి రామ్‌సర్ ప్రాంతం.)"
     },
     {
         "id": 157,
@@ -1318,20 +1318,20 @@ mock12_gs = [
         "question_en": "Which Indian state has the longest coastline among all mainland coastal states?",
         "question_te": "భారత ప్రధాన భూభాగంలో అత్యంత పొడవైన తీరరేఖ కలిగిన రాష్ట్రం ఏది?",
         "options_en": [
-            "Gujarat",
+            "Maharashtra",
             "Andhra Pradesh",
             "Tamil Nadu",
-            "Maharashtra"
+            "Gujarat"
         ],
         "options_te": [
-            "గుజరాత్",
+            "మహారాష్ట్ర",
             "ఆంధ్రప్రదేశ్",
             "తమిళనాడు",
-            "మహారాష్ట్ర"
+            "గుజరాత్"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Gujarat has the longest coastline in mainland India (approx. 1,600 km), followed by Andhra Pradesh (~974 km).",
-        "explanation_te": "గుజరాత్ దాదాపు 1,600 కి.మీ తో దేశంలోనే అత్యంత పొడవైన తీరరేఖను కలిగి ఉంది (రెండవ స్థానంలో ఆంధ్రప్రదేశ్ ఉంది)."
+        "explanation_te": "సరైన సమాధానం: గుజరాత్. (గుజరాత్ దాదాపు 1,600 కి.మీ తో దేశంలోనే అత్యంత పొడవైన తీరరేఖను కలిగి ఉంది (రెండవ స్థానంలో ఆంధ్రప్రదేశ్ ఉంది).)"
     },
     {
         "id": 159,
@@ -1354,7 +1354,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Jim Corbett National Park in Nainital (Uttarakhand) was established in 1936 as Hailey National Park.",
-        "explanation_te": "ఉత్తరాఖండ్‌లోని జిమ్ కార్బెట్ నేషనల్ పార్క్ 1936 లో భారతదేశపు మొట్టమొదటి జాతీయ పార్కుగా ఏర్పాటైంది."
+        "explanation_te": "సరైన సమాధానం: జిమ్ కార్బెట్ జాతీయ పార్కు. (ఉత్తరాఖండ్‌లోని జిమ్ కార్బెట్ నేషనల్ పార్క్ 1936 లో భారతదేశపు మొట్టమొదటి జాతీయ పార్కుగా ఏర్పాటైంది.)"
     },
     {
         "id": 160,
@@ -1364,20 +1364,20 @@ mock12_gs = [
         "question_en": "Kaziranga National Park, world-famous for the great Indian one-horned rhinoceros, is situated in which state?",
         "question_te": "ఒంటికొమ్ము ఖడ్గమృగాలకు ప్రపంచ ప్రసిద్ధి చెందిన కాజిరంగా జాతీయ పార్కు ఏ రాష్ట్రంలో ఉంది?",
         "options_en": [
-            "Assam",
+            "Madhya Pradesh",
             "West Bengal",
             "Odisha",
-            "Madhya Pradesh"
+            "Assam"
         ],
         "options_te": [
-            "అసోం (అస్సాం)",
+            "మధ్యప్రదేశ్",
             "పశ్చిమ బెంగాల్",
             "ఒడిశా",
-            "మధ్యప్రదేశ్"
+            "అసోం (అస్సాం)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Kaziranga National Park is located on the floodplains of the Brahmaputra River in Assam.",
-        "explanation_te": "అసోంలోని బ్రహ్మపుత్ర నది పరీవాహక ప్రాంతంలో కాజిరంగా జాతీయ పార్కు విస్తరించి ఉంది."
+        "explanation_te": "సరైన సమాధానం: అసోం (అస్సాం). (అసోంలోని బ్రహ్మపుత్ర నది పరీవాహక ప్రాంతంలో కాజిరంగా జాతీయ పార్కు విస్తరించి ఉంది.)"
     },
     {
         "id": 161,
@@ -1400,7 +1400,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "82°30' E (82.5° E) longitude passing through Mirzapur (near Prayagraj, UP) is the Standard Meridian, 5 hours 30 minutes ahead of GMT.",
-        "explanation_te": "82.5° తూర్పు రేఖాంశాన్ని భారత ప్రామాణిక రేఖాంశంగా తీసుకుంటారు. ఇది గ్రీనిచ్ సమయం కంటే 5 గంటల 30 నిమిషాలు ముందుంటుంది."
+        "explanation_te": "సరైన సమాధానం: 82.5° తూర్పు రేఖాంశం. (82.5° తూర్పు రేఖాంశాన్ని భారత ప్రామాణిక రేఖాంశంగా తీసుకుంటారు. ఇది గ్రీనిచ్ సమయం కంటే 5 గంటల 30 నిమిషాలు ముందుంటుంది.)"
     },
     {
         "id": 162,
@@ -1410,20 +1410,20 @@ mock12_gs = [
         "question_en": "Black cotton soil (Regur) is most suitable for the commercial cultivation of which cash crop in India?",
         "question_te": "నల్లరేగడి నేలలు (రెగూర్) భారతదేశంలో ఏ వాణిజ్య పంట సాగుకు అత్యంత అనుకూలమైనవి?",
         "options_en": [
-            "Cotton",
+            "Jute",
             "Tea",
             "Rubber",
-            "Jute"
+            "Cotton"
         ],
         "options_te": [
-            "పత్తి (Cotton)",
+            "జనపనార",
             "తేయాకు",
             "రబ్బరు",
-            "జనపనార"
+            "పత్తి (Cotton)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Black soil has high clay content and moisture retention, making it ideal for cotton cultivation ('Black Cotton Soil').",
-        "explanation_te": "తేమను నిలిపి ఉంచే లక్షణం ఎక్కువగా ఉండటం వలన నల్లరేగడి నేలలు పత్తి పంటకు అత్యంత ప్రసిద్ధి."
+        "explanation_te": "సరైన సమాధానం: పత్తి (Cotton). (తేమను నిలిపి ఉంచే లక్షణం ఎక్కువగా ఉండటం వలన నల్లరేగడి నేలలు పత్తి పంటకు అత్యంత ప్రసిద్ధి.)"
     },
     {
         "id": 163,
@@ -1446,7 +1446,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "The Troposphere is the lowest atmospheric layer extending up to ~13 km where all clouds and weather events take place.",
-        "explanation_te": "భూమికి అత్యంత దగ్గరగా ఉండే ట్రోపోస్ఫియర్‌లో మాత్రమే సమస్త వాతావరణ మార్పులు మరియు వర్షాలు సంభవిస్తాయి."
+        "explanation_te": "సరైన సమాధానం: ట్రోపోస్ఫియర్ (Troposphere). (భూమికి అత్యంత దగ్గరగా ఉండే ట్రోపోస్ఫియర్‌లో మాత్రమే సమస్త వాతావరణ మార్పులు మరియు వర్షాలు సంభవిస్తాయి.)"
     },
     {
         "id": 164,
@@ -1456,20 +1456,20 @@ mock12_gs = [
         "question_en": "On which date is World Environment Day observed globally every year?",
         "question_te": "ప్రపంచవ్యాప్తంగా ప్రతి సంవత్సరం 'ప్రపంచ పర్యావరణ దినోత్సవం' ఏ తేదీన జరుపుకుంటారు?",
         "options_en": [
-            "June 5",
+            "September 16",
             "April 22",
             "March 21",
-            "September 16"
+            "June 5"
         ],
         "options_te": [
-            "జూన్ 5",
+            "సెప్టెంబర్ 16",
             "ఏప్రిల్ 22",
             "మార్చి 21",
-            "సెప్టెంబర్ 16"
+            "జూన్ 5"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "World Environment Day is observed on June 5 every year under the auspices of the United Nations Environment Programme (UNEP).",
-        "explanation_te": "ఐక్యరాజ్యసమితి పర్యావరణ విభాగం (UNEP) ఆధ్వర్యంలో ప్రతి ఏటా జూన్ 5న ప్రపంచ పర్యావరణ దినోత్సవం నిర్వహిస్తారు."
+        "explanation_te": "సరైన సమాధానం: జూన్ 5. (ఐక్యరాజ్యసమితి పర్యావరణ విభాగం (UNEP) ఆధ్వర్యంలో ప్రతి ఏటా జూన్ 5న ప్రపంచ పర్యావరణ దినోత్సవం నిర్వహిస్తారు.)"
     },
     {
         "id": 165,
@@ -1492,7 +1492,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "The Reserve Bank of India was established on April 1, 1935, in accordance with the provisions of the Reserve Bank of India Act, 1934.",
-        "explanation_te": "హిల్టన్ యంగ్ కమిషన్ సిఫార్సుల ప్రకారం ఆర్బీఐ చట్టం 1934 కింద 1935 ఏప్రిల్ 1న రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ఏర్పాటైంది."
+        "explanation_te": "సరైన సమాధానం: 1935 ఏప్రిల్ 1. (హిల్టన్ యంగ్ కమిషన్ సిఫార్సుల ప్రకారం ఆర్బీఐ చట్టం 1934 కింద 1935 ఏప్రిల్ 1న రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా ఏర్పాటైంది.)"
     },
     {
         "id": 166,
@@ -1502,20 +1502,20 @@ mock12_gs = [
         "question_en": "In July 1955, the Imperial Bank of India was nationalised and reconstituted as which premier public sector bank?",
         "question_te": "1955 జూలైలో ఇంపీరియల్ బ్యాంక్ ఆఫ్ ఇండియాను జాతీయం చేసి ఏ ప్రముఖ ప్రభుత్వ రంగ బ్యాంకుగా పునర్నామకరణం చేశారు?",
         "options_en": [
-            "State Bank of India (SBI)",
+            "Canara Bank",
             "Punjab National Bank (PNB)",
             "Bank of Baroda",
-            "Canara Bank"
+            "State Bank of India (SBI)"
         ],
         "options_te": [
-            "స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI)",
+            "కెనరా బ్యాంక్",
             "పంజాబ్ నేషనల్ బ్యాంక్ (PNB)",
             "బ్యాంక్ ఆఫ్ బరోడా",
-            "కెనరా బ్యాంక్"
+            "స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Under the State Bank of India Act, 1955, the Imperial Bank of India was nationalised on July 1, 1955, and reconstituted as the State Bank of India (SBI).",
-        "explanation_te": "1955 స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా చట్టం ద్వారా ఇంపీరియల్ బ్యాంక్ ఆఫ్ ఇండియాను 1955 జూలై 1న జాతీయం చేసి స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI) గా మార్చారు."
+        "explanation_te": "సరైన సమాధానం: స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI). (1955 స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా చట్టం ద్వారా ఇంపీరియల్ బ్యాంక్ ఆఫ్ ఇండియాను 1955 జూలై 1న జాతీయం చేసి స్టేట్ బ్యాంక్ ఆఫ్ ఇండియా (SBI) గా మార్చారు.)"
     },
     {
         "id": 167,
@@ -1538,7 +1538,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Professor M.S. Swaminathan led the introduction of high-yielding semi-dwarf wheat and rice varieties in India in the 1960s.",
-        "explanation_te": "భారతదేశంలో అధిక దిగుబడినిచ్చే వంగడాలను ప్రవేశపెట్టి ఆహార ధాన్యాల ఉత్పత్తిని పెంచిన డాక్టర్ ఎం.ఎస్. స్వామినాథన్ హరిత విప్లవ పితామహుడు."
+        "explanation_te": "సరైన సమాధానం: ఎం.ఎస్. స్వామినాథన్. (భారతదేశంలో అధిక దిగుబడినిచ్చే వంగడాలను ప్రవేశపెట్టి ఆహార ధాన్యాల ఉత్పత్తిని పెంచిన డాక్టర్ ఎం.ఎస్. స్వామినాథన్ హరిత విప్లవ పితామహుడు.)"
     },
     {
         "id": 168,
@@ -1548,20 +1548,20 @@ mock12_gs = [
         "question_en": "Which sector of the economy contributes the largest share to both India's GDP and Telangana's GSDP?",
         "question_te": "భారతదేశ జిడిపి మరియు తెలంగాణ జిఎస్‌డిపి రెండింటిలోనూ అత్యధిక వాటాను కలిగి ఉన్న ఆర్థిక రంగం ఏది?",
         "options_en": [
-            "Tertiary (Services) Sector",
+            "Mining Sector",
             "Secondary (Manufacturing) Sector",
             "Primary (Agriculture) Sector",
-            "Mining Sector"
+            "Tertiary (Services) Sector"
         ],
         "options_te": [
-            "తృతీయ (సేవా) రంగం",
+            "గనుల రంగం",
             "ద్వితీయ (తయారీ/పారిశ్రామిక) రంగం",
             "ప్రాథమిక (వ్యవసాయ) రంగం",
-            "గనుల రంగం"
+            "తృతీయ (సేవా) రంగం"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The Services (Tertiary) sector accounts for over 54% of India's GDP and over 64% of Telangana's GSDP.",
-        "explanation_te": "సేవా రంగం (తృతీయ రంగం) దేశంలో 54% కంటే ఎక్కువగా మరియు తెలంగాణలో 64% కంటే ఎక్కువ వాటాతో అతిపెద్ద రంగంగా ఉంది."
+        "explanation_te": "సరైన సమాధానం: తృతీయ (సేవా) రంగం. (సేవా రంగం (తృతీయ రంగం) దేశంలో 54% కంటే ఎక్కువగా మరియు తెలంగాణలో 64% కంటే ఎక్కువ వాటాతో అతిపెద్ద రంగంగా ఉంది.)"
     },
     {
         "id": 169,
@@ -1584,7 +1584,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Income tax and Corporate tax are direct taxes paid directly by the entity on whom it is levied, whereas GST and Customs are indirect taxes.",
-        "explanation_te": "ఆదాయపు పన్ను ప్రత్యక్ష పన్ను. GST మరియు కస్టమ్స్ డ్యూటీలు పరోక్ష పన్నులు."
+        "explanation_te": "సరైన సమాధానం: వ్యక్తిగత ఆదాయ పన్ను (Income Tax). (ఆదాయపు పన్ను ప్రత్యక్ష పన్ను. GST మరియు కస్టమ్స్ డ్యూటీలు పరోక్ష పన్నులు.)"
     },
     {
         "id": 170,
@@ -1594,20 +1594,20 @@ mock12_gs = [
         "question_en": "On which date was the Goods and Services Tax (GST) nationwide regime launched in India?",
         "question_te": "భారతదేశంలో దేశవ్యాప్త వస్తు మరియు సేవల పన్ను (GST) ఏ తేదీన అధికారికంగా అమలులోకి వచ్చింది?",
         "options_en": [
-            "July 1, 2017",
+            "January 1, 2018",
             "April 1, 2017",
             "November 8, 2016",
-            "January 1, 2018"
+            "July 1, 2017"
         ],
         "options_te": [
-            "2017 జూలై 1",
+            "2018 జనవరి 1",
             "2017 ఏప్రిల్ 1",
             "2016 నవంబర్ 8",
-            "2018 జనవరి 1"
+            "2017 జూలై 1"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "GST was rolled out on July 1, 2017, pursuant to the 101st Constitutional Amendment Act, 2016, subsuming 17 major central and state levies.",
-        "explanation_te": "101వ రాజ్యాంగ సవరణ చట్టం ద్వారా 'ఒకే దేశం - ఒకే పన్ను' విధానంలో 2017 జూలై 1న GST అమలులోకి వచ్చింది."
+        "explanation_te": "సరైన సమాధానం: 2017 జూలై 1. (101వ రాజ్యాంగ సవరణ చట్టం ద్వారా 'ఒకే దేశం - ఒకే పన్ను' విధానంలో 2017 జూలై 1న GST అమలులోకి వచ్చింది.)"
     },
     {
         "id": 171,
@@ -1630,7 +1630,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Repo Rate (Repurchase Option Rate) is the policy rate at which RBI lends money to commercial banks against government collateral.",
-        "explanation_te": "కమర్షియల్ బ్యాంకులకు ఆర్‌బీఐ ఇచ్చే స్వల్పకాలిక రుణాలపై విధించే ప్రామాణిక వడ్డీ రేటును రెపో రేటు అంటారు."
+        "explanation_te": "సరైన సమాధానం: రెపో రేటు (Repo Rate). (కమర్షియల్ బ్యాంకులకు ఆర్‌బీఐ ఇచ్చే స్వల్పకాలిక రుణాలపై విధించే ప్రామాణిక వడ్డీ రేటును రెపో రేటు అంటారు.)"
     },
     {
         "id": 172,
@@ -1640,20 +1640,20 @@ mock12_gs = [
         "question_en": "The First Five-Year Plan (1951–1956) of India was primarily focused on the development of which critical sector?",
         "question_te": "భారతదేశపు మొదటి పంచవర్ష ప్రణాళిక (1951–1956) ప్రధానంగా ఏ కీలక రంగ అభివృద్ధిపై దృష్టి సారించింది?",
         "options_en": [
-            "Agriculture and Irrigation",
+            "Export Promotion",
             "Heavy Capital Industries",
             "Information Technology",
-            "Export Promotion"
+            "Agriculture and Irrigation"
         ],
         "options_te": [
-            "వ్యవసాయం మరియు నీటిపారుదల",
+            "ఎగుమతుల ప్రోత్సాహం",
             "భారీ మూలధన పరిశ్రమలు",
             "సమాచార సాంకేతిక రంగం (IT)",
-            "ఎగుమతుల ప్రోత్సాహం"
+            "వ్యవసాయం మరియు నీటిపారుదల"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Based on the Harrod-Domar model, the First Plan prioritized food grain self-sufficiency through major dams like Bhakra-Nangal, Hirakud, and Damodar Valley.",
-        "explanation_te": "మొదటి ప్రణాళిక హారడ్-డోమర్ నమూనాపై ఆధారపడి ఆహార కొరతను అధిగమించడానికి వ్యవసాయం మరియు సాగునీటి ప్రాజెక్టులకు అత్యధిక ప్రాధాన్యతనిచ్చింది."
+        "explanation_te": "సరైన సమాధానం: వ్యవసాయం మరియు నీటిపారుదల. (మొదటి ప్రణాళిక హారడ్-డోమర్ నమూనాపై ఆధారపడి ఆహార కొరతను అధిగమించడానికి వ్యవసాయం మరియు సాగునీటి ప్రాజెక్టులకు అత్యధిక ప్రాధాన్యతనిచ్చింది.)"
     },
     {
         "id": 173,
@@ -1676,7 +1676,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "PM-KISAN provides Rs 6,000 per year per eligible landholding farmer family, distributed in 3 equal installments of Rs 2,000 each.",
-        "explanation_te": "పీఎం కిసాన్ పథకం కింద అర్హులైన రైతులకు ఏటా రూ. 6,000 చొప్పున మూడు విడతల్లో (విడతకు రూ. 2,000) నేరుగా బ్యాంక్ ఖాతాల్లో జమ చేస్తారు."
+        "explanation_te": "సరైన సమాధానం: రూ. 6,000. (పీఎం కిసాన్ పథకం కింద అర్హులైన రైతులకు ఏటా రూ. 6,000 చొప్పున మూడు విడతల్లో (విడతకు రూ. 2,000) నేరుగా బ్యాంక్ ఖాతాల్లో జమ చేస్తారు.)"
     },
     {
         "id": 174,
@@ -1686,20 +1686,20 @@ mock12_gs = [
         "question_en": "The national headquarters of the Insurance Regulatory and Development Authority of India (IRDAI) is situated in which city?",
         "question_te": "భారత బీమా నియంత్రణ మరియు అభివృద్ధి ప్రాధికార సంస్థ (IRDAI) ప్రధాన కార్యాలయం ఏ నగరంలో ఉంది?",
         "options_en": [
-            "Hyderabad",
+            "Bengaluru",
             "Mumbai",
             "New Delhi",
-            "Bengaluru"
+            "Hyderabad"
         ],
         "options_te": [
-            "హైదరాబాద్",
+            "బెంగళూరు",
             "ముంబై",
             "న్యూఢిల్లీ",
-            "బెంగళూరు"
+            "హైదరాబాద్"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The apex insurance regulator IRDAI was shifted from New Delhi to Hyderabad (Telangana) in 2001 and remains headquartered at Nanakramguda, Hyderabad.",
-        "explanation_te": "భారత బీమా రంగ నియంత్రణ సంస్థ IRDAI జాతీయ ప్రధాన కార్యాలయం హైదరాబాద్‌లోని నానక్‌రామ్‌గూడలో ఉంది."
+        "explanation_te": "సరైన సమాధానం: హైదరాబాద్. (భారత బీమా రంగ నియంత్రణ సంస్థ IRDAI జాతీయ ప్రధాన కార్యాలయం హైదరాబాద్‌లోని నానక్‌రామ్‌గూడలో ఉంది.)"
     },
     {
         "id": 175,
@@ -1722,7 +1722,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "The SI unit of force is the Newton (N), named after Sir Isaac Newton (1 N = 1 kg·m/s^2).",
-        "explanation_te": "బలానికి SI ప్రమాణం న్యూటన్ (1 N = 1 kg·m/s^2)."
+        "explanation_te": "సరైన సమాధానం: న్యూటన్ (Newton). (బలానికి SI ప్రమాణం న్యూటన్ (1 N = 1 kg·m/s^2).)"
     },
     {
         "id": 176,
@@ -1732,20 +1732,20 @@ mock12_gs = [
         "question_en": "What is the SI unit of electrical and mechanical Power?",
         "question_te": "విద్యుత్ మరియు యాంత్రిక సామర్థ్యానికి (Power) SI ప్రమాణం ఏమిటి?",
         "options_en": [
-            "Watt",
+            "Ampere",
             "Joule",
             "Volt",
-            "Ampere"
+            "Watt"
         ],
         "options_te": [
-            "వాట్ (Watt)",
+            "ఆంపియర్ (Ampere)",
             "జౌల్ (Joule)",
             "వోల్ట్ (Volt)",
-            "ఆంపియర్ (Ampere)"
+            "వాట్ (Watt)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "The SI unit of power is the Watt (W), equivalent to one joule per second (1 W = 1 J/s).",
-        "explanation_te": "సామర్థ్యానికి SI ప్రమాణం వాట్ (సెకనుకు ఒక జౌల్ పని)."
+        "explanation_te": "సరైన సమాధానం: వాట్ (Watt). (సామర్థ్యానికి SI ప్రమాణం వాట్ (సెకనుకు ఒక జౌల్ పని).)"
     },
     {
         "id": 177,
@@ -1768,7 +1768,7 @@ mock12_gs = [
         ],
         "correct_option": 0,
         "explanation_en": "Electric current is measured in Ampere (A), one of the fundamental SI base units.",
-        "explanation_te": "విద్యుత్ ప్రవాహాన్ని ఆంపియర్లలో కొలుస్తారు."
+        "explanation_te": "సరైన సమాధానం: ఆంపియర్ (Ampere). (విద్యుత్ ప్రవాహాన్ని ఆంపియర్లలో కొలుస్తారు.)"
     },
     {
         "id": 178,
@@ -1778,20 +1778,20 @@ mock12_gs = [
         "question_en": "The deficiency of which vitamin leads to the bleeding gums disease known as Scurvy?",
         "question_te": "ఏ విటమిన్ లోపం వల్ల చిగుళ్ల నుండి రక్తం కారే 'స్కర్వీ' (Scurvy) వ్యాధి వస్తుంది?",
         "options_en": [
-            "Vitamin C (Ascorbic Acid)",
+            "Vitamin B1 (Thiamine)",
             "Vitamin A (Retinol)",
             "Vitamin D (Calciferol)",
-            "Vitamin B1 (Thiamine)"
+            "Vitamin C (Ascorbic Acid)"
         ],
         "options_te": [
-            "విటమిన్ సి (ఆస్కార్బిక్ ఆమ్లం)",
+            "విటమిన్ బి1 (థయామిన్)",
             "విటమిన్ ఎ (రెటినాల్)",
             "విటమిన్ డి (కాల్సిఫెరాల్)",
-            "విటమిన్ బి1 (థయామిన్)"
+            "విటమిన్ సి (ఆస్కార్బిక్ ఆమ్లం)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Vitamin C (ascorbic acid), abundant in citrus fruits and amla, prevents scurvy.",
-        "explanation_te": "విటమిన్ సి (ఆస్కార్బిక్ యాసిడ్) లోపం వల్ల చిగుళ్లు వాచి రక్తం కారే స్కర్వీ వ్యాధి వస్తుంది."
+        "explanation_te": "సరైన సమాధానం: విటమిన్ సి (ఆస్కార్బిక్ ఆమ్లం). (విటమిన్ సి (ఆస్కార్బిక్ యాసిడ్) లోపం వల్ల చిగుళ్లు వాచి రక్తం కారే స్కర్వీ వ్యాధి వస్తుంది.)"
     },
     {
         "id": 179,
@@ -1801,20 +1801,20 @@ mock12_gs = [
         "question_en": "Rickets, a bone-weakening disorder in children, is caused by the deficiency of which vitamin?",
         "question_te": "పిల్లలలో ఎముకలు బలహీనపడే 'రికెట్స్' (Rickets) వ్యాధి ఏ విటమిన్ లోపం వల్ల కలుగుతుంది?",
         "options_en": [
-            "Vitamin D",
+            "Vitamin B12",
             "Vitamin K",
             "Vitamin E",
-            "Vitamin B12"
+            "Vitamin D"
         ],
         "options_te": [
-            "విటమిన్ డి",
+            "విటమిన్ బి12",
             "విటమిన్ కె",
             "విటమిన్ ఇ",
-            "విటమిన్ బి12"
+            "విటమిన్ డి"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Vitamin D (synthesized in the skin via sunlight) aids calcium absorption; its deficiency causes rickets in children and osteomalacia in adults.",
-        "explanation_te": "సూర్యరశ్మి ద్వారా లభించే విటమిన్ డి లోపం వల్ల పిల్లల్లో ఎముకలు వంకర్లు తిరిగే రికెట్స్ వ్యాధి వస్తుంది."
+        "explanation_te": "సరైన సమాధానం: విటమిన్ డి. (సూర్యరశ్మి ద్వారా లభించే విటమిన్ డి లోపం వల్ల పిల్లల్లో ఎముకలు వంకర్లు తిరిగే రికెట్స్ వ్యాధి వస్తుంది.)"
     },
     {
         "id": 180,
@@ -1824,20 +1824,20 @@ mock12_gs = [
         "question_en": "Night blindness (Nyctalopia) is caused primarily by the deficiency of which vitamin?",
         "question_te": "రేచీకటి (Night Blindness) ప్రధానంగా ఏ విటమిన్ లోపం వల్ల వస్తుంది?",
         "options_en": [
-            "Vitamin A",
+            "Vitamin D",
             "Vitamin B2",
             "Vitamin C",
-            "Vitamin D"
+            "Vitamin A"
         ],
         "options_te": [
-            "విటమిన్ ఎ",
+            "విటమిన్ డి",
             "విటమిన్ బి2",
             "విటమిన్ సి",
-            "విటమిన్ డి"
+            "విటమిన్ ఎ"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Vitamin A (Retinol) is essential for rhodopsin synthesis in retina rods; its deficiency causes night blindness.",
-        "explanation_te": "కంటి చూపుకు అవసరమైన విటమిన్ ఎ లోపం వల్ల రేచీకటి వస్తుంది."
+        "explanation_te": "సరైన సమాధానం: విటమిన్ ఎ. (కంటి చూపుకు అవసరమైన విటమిన్ ఎ లోపం వల్ల రేచీకటి వస్తుంది.)"
     },
     {
         "id": 181,
@@ -1847,20 +1847,20 @@ mock12_gs = [
         "question_en": "Which blood group is universally known as the 'Universal Blood Donor'?",
         "question_te": "ఏ రక్త వర్గాన్ని 'సార్వత్రిక దాత' (Universal Donor) గా పరిగణిస్తారు?",
         "options_en": [
-            "O negative (O-)",
+            "B negative",
             "AB positive (AB+)",
             "A positive",
-            "B negative"
+            "O negative (O-)"
         ],
         "options_te": [
-            "ఓ నెగెటివ్ (O-)",
+            "బి నెగెటివ్",
             "ఎబి పాజిటివ్ (AB+)",
             "ఎ పాజిటివ్",
-            "బి నెగెటివ్"
+            "ఓ నెగెటివ్ (O-)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "O negative blood lacks A, B, and Rh antigens on red blood cells, allowing it to be safely transfused to recipients of any blood group in emergencies.",
-        "explanation_te": "ఓ నెగెటివ్ రక్త కణాలపై ఎటువంటి యాంటిజెన్లు ఉండవు కాబట్టి దీనిని ఎవరికైనా ఎక్కించవచ్చు (సార్వత్రిక దాత). ఎబి పాజిటివ్ సార్వత్రిక స్వీకర్త."
+        "explanation_te": "సరైన సమాధానం: ఓ నెగెటివ్ (O-). (ఓ నెగెటివ్ రక్త కణాలపై ఎటువంటి యాంటిజెన్లు ఉండవు కాబట్టి దీనిని ఎవరికైనా ఎక్కించవచ్చు (సార్వత్రిక దాత). ఎబి పాజిటివ్ సార్వత్రిక స్వీకర్త.)"
     },
     {
         "id": 182,
@@ -1870,20 +1870,20 @@ mock12_gs = [
         "question_en": "What is the average normal human body temperature on the Celsius scale?",
         "question_te": "సెల్సియస్ స్కేల్ ప్రకారం సాధారణ మానవ శరీర సగటు ఉష్ణోగ్రత ఎంత?",
         "options_en": [
-            "37°C",
+            "40°C",
             "35°C",
             "39°C",
-            "40°C"
+            "37°C"
         ],
         "options_te": [
-            "37°C",
+            "40°C",
             "35°C",
             "39°C",
-            "40°C"
+            "37°C"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Normal human body temperature is approximately 37°C (equivalent to 98.6°F).",
-        "explanation_te": "సాధారణ మానవ శరీర ఉష్ణోగ్రత దాదాపు 37 డిగ్రీల సెల్సియస్ (98.6 డిగ్రీల ఫారెన్‌హీట్)."
+        "explanation_te": "సరైన సమాధానం: 37°C. (సాధారణ మానవ శరీర ఉష్ణోగ్రత దాదాపు 37 డిగ్రీల సెల్సియస్ (98.6 డిగ్రీల ఫారెన్‌హీట్).)"
     },
     {
         "id": 183,
@@ -1893,20 +1893,20 @@ mock12_gs = [
         "question_en": "Which cell organelle is widely termed as the 'Powerhouse of the Cell' because it generates ATP through cellular respiration?",
         "question_te": "కణ శ్వాసక్రియ ద్వారా ATP రూపంలో శక్తిని ఉత్పత్తి చేయడం వల్ల ఏ కణాంగాన్ని 'కణ శక్త్యాగారం' (Powerhouse of the Cell) అంటారు?",
         "options_en": [
-            "Mitochondria",
+            "Lysosome",
             "Ribosome",
             "Golgi Apparatus",
-            "Lysosome"
+            "Mitochondria"
         ],
         "options_te": [
-            "మైటోకాండ్రియా (Mitochondria)",
+            "లైసోజోమ్",
             "రైబోజోమ్",
             "గాల్జీ సంక్లిష్టం",
-            "లైసోజోమ్"
+            "మైటోకాండ్రియా (Mitochondria)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Mitochondria generate adenosine triphosphate (ATP), the chemical energy currency of the cell.",
-        "explanation_te": "కణానికి అవసరమైన శక్తిని ATP రూపంలో ఉత్పత్తి చేసే మైటోకాండ్రియాలను కణ శక్త్యాగారాలు అంటారు."
+        "explanation_te": "సరైన సమాధానం: మైటోకాండ్రియా (Mitochondria). (కణానికి అవసరమైన శక్తిని ATP రూపంలో ఉత్పత్తి చేసే మైటోకాండ్రియాలను కణ శక్త్యాగారాలు అంటారు.)"
     },
     {
         "id": 184,
@@ -1916,20 +1916,20 @@ mock12_gs = [
         "question_en": "What is the chemical name and chemical formula of common table salt?",
         "question_te": "మనం రోజూ ఆహారంలో వాడే సాధారణ ఉప్పు యొక్క రసాయన నామం మరియు సంకేతం ఏమిటి?",
         "options_en": [
-            "Sodium Chloride (NaCl)",
+            "Calcium Carbonate (CaCO3)",
             "Sodium Bicarbonate (NaHCO3)",
             "Potassium Chloride (KCl)",
-            "Calcium Carbonate (CaCO3)"
+            "Sodium Chloride (NaCl)"
         ],
         "options_te": [
-            "సోడియం క్లోరైడ్ (NaCl)",
+            "కాల్షియం కార్బోనేట్ (CaCO3)",
             "సోడియం బైకార్బోనేట్ (NaHCO3)",
             "పొటాషియం క్లోరైడ్ (KCl)",
-            "కాల్షియం కార్బోనేట్ (CaCO3)"
+            "సోడియం క్లోరైడ్ (NaCl)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Common salt is Sodium Chloride (NaCl).",
-        "explanation_te": "సాధారణ ఉప్పు రసాయన నామం సోడియం క్లోరైడ్ (NaCl)."
+        "explanation_te": "సరైన సమాధానం: సోడియం క్లోరైడ్ (NaCl). (సాధారణ ఉప్పు రసాయన నామం సోడియం క్లోరైడ్ (NaCl).)"
     },
     {
         "id": 185,
@@ -1939,20 +1939,20 @@ mock12_gs = [
         "question_en": "What is the pH value of pure distilled neutral water at room temperature (25°C)?",
         "question_te": "గది ఉష్ణోగ్రత (25°C) వద్ద స్వచ్ఛమైన తటస్థ నీటి pH విలువ ఎంత?",
         "options_en": [
-            "7",
+            "5.5",
             "0",
             "14",
-            "5.5"
+            "7"
         ],
         "options_te": [
-            "7",
+            "5.5",
             "0",
             "14",
-            "5.5"
+            "7"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "A pH of 7 represents exact neutrality on the 0-14 pH scale.",
-        "explanation_te": "pH స్కేల్‌పై 7 తటస్థ విలువను సూచిస్తుంది. స్వచ్ఛమైన నీటి pH విలువ 7."
+        "explanation_te": "సరైన సమాధానం: 7. (pH స్కేల్‌పై 7 తటస్థ విలువను సూచిస్తుంది. స్వచ్ఛమైన నీటి pH విలువ 7.)"
     },
     {
         "id": 186,
@@ -1962,20 +1962,20 @@ mock12_gs = [
         "question_en": "Which vital gas is produced and released into the atmosphere by green plants as a byproduct of photosynthesis?",
         "question_te": "కిరణజన్య సంయోగక్రియ ప్రక్రియలో ఆకుపచ్చని మొక్కలు వాతావరణంలోకి విడుదల చేసే ప్రాణవాయువు ఏది?",
         "options_en": [
-            "Oxygen (O2)",
+            "Methane (CH4)",
             "Carbon Dioxide (CO2)",
             "Nitrogen (N2)",
-            "Methane (CH4)"
+            "Oxygen (O2)"
         ],
         "options_te": [
-            "ఆక్సిజన్ (O2)",
+            "మీథేన్ (CH4)",
             "కార్బన్ డయాక్సైడ్ (CO2)",
             "నత్రజని (N2)",
-            "మీథేన్ (CH4)"
+            "ఆక్సిజన్ (O2)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Plants take in CO2 and water in the presence of sunlight and chlorophyll to produce glucose and release Oxygen (O2) into the air.",
-        "explanation_te": "మొక్కలు కిరణజన్య సంయోగక్రియలో కార్బన్ డయాక్సైడ్‌ను గ్రహించి ఆక్సిజన్‌ను విడుదల చేస్తాయి."
+        "explanation_te": "సరైన సమాధానం: ఆక్సిజన్ (O2). (మొక్కలు కిరణజన్య సంయోగక్రియలో కార్బన్ డయాక్సైడ్‌ను గ్రహించి ఆక్సిజన్‌ను విడుదల చేస్తాయి.)"
     },
     {
         "id": 187,
@@ -1985,20 +1985,20 @@ mock12_gs = [
         "question_en": "Sound waves require a material medium to propagate. Through which of the following can sound waves NOT travel at all?",
         "question_te": "ధ్వని ప్రసారానికి యానకం అవసరం. క్రింది వాటిలో దేని గుండా ధ్వని తరంగాలు అస్సలు ప్రయాణించలేవు?",
         "options_en": [
-            "Vacuum (Empty space)",
+            "Air",
             "Water",
             "Steel",
-            "Air"
+            "Vacuum (Empty space)"
         ],
         "options_te": [
-            "శూన్యం (Vacuum)",
+            "గాలి",
             "నీరు",
             "ఉక్కు",
-            "గాలి"
+            "శూన్యం (Vacuum)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Sound is a mechanical longitudinal wave requiring physical particles to oscillate. It cannot travel through a vacuum.",
-        "explanation_te": "ధ్వని యాంత్రిక తరంగం కాబట్టి శూన్యంలో ప్రయాణించలేదు."
+        "explanation_te": "సరైన సమాధానం: శూన్యం (Vacuum). (ధ్వని యాంత్రిక తరంగం కాబట్టి శూన్యంలో ప్రయాణించలేదు.)"
     },
     {
         "id": 188,
@@ -2008,20 +2008,20 @@ mock12_gs = [
         "question_en": "Rusting of iron in moist air is an example of which type of chemical reaction?",
         "question_te": "తేమగల గాలిలో ఇనుము తుప్పు పట్టడం అనేది ఏ రకమైన రసాయన చర్యకు ఉదాహరణ?",
         "options_en": [
-            "Oxidation reaction",
+            "Decomposition reaction",
             "Reduction only",
             "Neutralization reaction",
-            "Decomposition reaction"
+            "Oxidation reaction"
         ],
         "options_te": [
-            "ఆక్సీకరణ చర్య (Oxidation)",
+            "వియోగ చర్య",
             "క్షయకరణం మాత్రమే",
             "తటస్థీకరణ చర్య",
-            "వియోగ చర్య"
+            "ఆక్సీకరణ చర్య (Oxidation)"
         ],
-        "correct_option": 0,
+        "correct_option": 3,
         "explanation_en": "Rusting is an electrochemical oxidation reaction where iron reacts with oxygen and moisture to form hydrated ferric oxide (Fe2O3·xH2O).",
-        "explanation_te": "గాలిలోని ఆక్సిజన్ మరియు తేమతో ఇనుము చర్య పొంది ఫెర్రిక్ ఆక్సైడ్‌గా మారే ఆక్సీకరణ చర్య వల్ల తుప్పు పడుతుంది."
+        "explanation_te": "సరైన సమాధానం: ఆక్సీకరణ చర్య (Oxidation). (గాలిలోని ఆక్సిజన్ మరియు తేమతో ఇనుము చర్య పొంది ఫెర్రిక్ ఆక్సైడ్‌గా మారే ఆక్సీకరణ చర్య వల్ల తుప్పు పడుతుంది.)"
     },
     {
         "id": 189,
@@ -2167,7 +2167,7 @@ mock12_gs = [
         "section": "General Studies",
         "topic": "Current Affairs 2026",
         "question_en": "Who launched the “Fiscal Health Index 2026”?",
-        "question_te": "\"ఫిస్్ల్ హ్ెల్ీ ఇండక్్ 2026\"ను ఎవర్ు పారర్ంభంచ ర్ు?",
+        "question_te": "\"ఫిస్కల్ హెల్త్ ఇండెక్స్ 2026\" (Fiscal Health Index 2026) ను ఎవరు విడుదల చేశారు?",
         "options_en": [
             "Finance Ministry",
             "Reserve Bank of India",
@@ -2175,14 +2175,14 @@ mock12_gs = [
             "SEBI"
         ],
         "options_te": [
-            "ఆరిాక మంత్రరతవ శాఖ",
-            "రిజర్వ బాయంక్ ఆఫ్ ఇండియా",
-            "నీత్ర ఆయోగ్",
-            "సబీ (SEBI)"
+            "ఆర్థిక మంత్రిత్వ శాఖ",
+            "రిజర్వ్ బ్యాంక్ ఆఫ్ ఇండియా",
+            "నీతి ఆయోగ్",
+            "సెబీ (SEBI)"
         ],
-        "correct_option": 0,
-        "explanation_en": "• Top-performing States 1. Odisha 2. Goa 3. Jharkhand ➢ NE & Himalayan States : Top Performer — Arunachal Pradesh & Uttarakhand",
-        "explanation_te": "సరైన సమాధానం: ఆరిాక మంత్రరతవ శాఖ. (• Top-performing States 1. Odisha 2. Goa 3. Jharkhand ➢ NE & Himalayan States : Top Performer — Arunachal Pradesh & Uttarakhand)"
+        "correct_option": 2,
+        "explanation_en": "NITI Aayog launched the Fiscal Health Index (FHI) to evaluate the fiscal management, revenue mobilisation, and debt sustainability of Indian states using CAG data. Top-performing states: 1. Odisha, 2. Goa, 3. Jharkhand. NE & Himalayan States: Arunachal Pradesh & Uttarakhand.",
+        "explanation_te": "సరైన సమాధానం: నీతి ఆయోగ్. (భారత రాష్ట్రాల ఆర్థిక నిర్వహణ, ఆదాయ సమీకరణ మరియు రుణ స్థిరత్వాన్ని అంచనా వేయడానికి నీతి ఆయోగ్ 'ఫిస్కల్ హెల్త్ ఇండెక్స్ 2026'ను విడుదల చేసింది. ఇందులో ఒడిశా 1వ స్థానంలో, గోవా 2వ స్థానంలో, జార్ఖండ్ 3వ స్థానంలో నిలిచాయి.)"
     },
     {
         "id": 196,
