@@ -4331,7 +4331,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "Which Team Won The 2025–26 Syed Mushtaq Ali Trophy?",
-      "question_te": "2025–26 స్యయద్ ముసాీక్ అలీ టోరఫ్ని ఏ జటల్ గెలుచుకుంది?",
+      "question_te": "2025–26 సయ్యద్ ముస్తాక్ అలీ ట్రోఫీని ఏ జట్టు గెలుచుకుంది?",
       "options_en": [
         "Mumbai",
         "Karnataka",
@@ -4339,14 +4339,14 @@
         "Baroda"
       ],
       "options_te": [
-        "ముంబర",
-        "కరాటక",
+        "ముంబై",
+        "కర్ణాటక",
         "జార్ఖండ్",
-        "బరలడ"
+        "బరోడా"
       ],
       "correct_option": 2,
-      "explanation_en": "2025–26 Syed Mushtaq Ali Trophy → Cricket Tournament Edition : 18th Winner : Jharkhand (1 st Title) Runner Up : Haryana Player Of The Series : Anukul Roy (Jharkhand)",
-      "explanation_te": "సరైన సమాధానం: జార్ఖండ్. (2025–26 Syed Mushtaq Ali Trophy → Cricket Tournament Edition : 18th Winner : Jharkhand (1 st Title) Runner Up : Haryana Player Of The Series : Anukul Roy (Jharkhand))"
+      "explanation_en": "2025–26 Syed Mushtaq Ali Trophy (18th Edition): Jharkhand defeated Haryana in the final to win their maiden title. Player of the Series: Anukul Roy (Jharkhand).",
+      "explanation_te": "సరైన సమాధానం: జార్ఖండ్. (2025–26 సయ్యద్ ముస్తాక్ అలీ ట్రోఫీ (18వ ఎడిషన్) ఫైనల్‌లో హర్యానాను ఓడించి జార్ఖండ్ తమ తొలి టైటిల్‌ను గెలుచుకుంది. ప్లేయర్ ఆఫ్ ది సిరీస్: అనుకుల్ రాయ్.)"
     },
     {
       "id": 190,
@@ -4584,7 +4584,7 @@
       "section": "General Studies",
       "topic": "Current Affairs 2026",
       "question_en": "What Is India’s Rank In The Responsible Nations Index 2026?",
-      "question_te": "'రెసాాని్బుల్ నేష్టన్ ఇండక్్ 2026'లో భార్తదేశ్ం యొక్ రాయంక్ ఎంత?",
+      "question_te": "రెస్పాన్సిబుల్ నేషన్స్ ఇండెక్స్ 2026 (Responsible Nations Index 2026) లో భారతదేశం ర్యాంక్ ఎంత?",
       "options_en": [
         "12th",
         "14th",
@@ -4598,8 +4598,8 @@
         "20వ"
       ],
       "correct_option": 2,
-      "explanation_en": "Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK",
-      "explanation_te": "సరైన సమాధానం: 16వ. (Responsible Nations Index 2026 Released by : World Intellectual Foundation (WIF), New Delhi Based Think Tank Indicators : Ethical Governance, Social Welfare, Environmental Responsibility, Global Accountability ❖ IND’s Rank → 16th (Out Of 154 Countries) , Score – 0.5515 ❖ USA : 66th, China : 68th, Pakistan : 90th Top 3 Countries 1. SINGAPORE 2. SWITZERLAND 3. DENMARK)"
+      "explanation_en": "Released by World Intellectual Foundation (WIF) across 154 countries, India ranked 16th globally with a score of 0.5515. Top 3 countries: 1. Singapore, 2. Switzerland, 3. Denmark (USA: 66th, China: 68th).",
+      "explanation_te": "సరైన సమాధానం: 16వ. (వరల్డ్ ఇంటెలెక్చువల్ ఫౌండేషన్ (WIF) విడుదల చేసిన రెస్పాన్సిబుల్ నేషన్స్ ఇండెక్స్ 2026లో 154 దేశాలలో భారతదేశం 16వ స్థానంలో నిలిచింది. సింగపూర్, స్విట్జర్లాండ్, డెన్మార్క్ మొదటి మూడు స్థానాల్లో ఉన్నాయి.)"
     }
   ]
 }
